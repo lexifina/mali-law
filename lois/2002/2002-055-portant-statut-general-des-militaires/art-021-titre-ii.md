@@ -1,0 +1,3 @@
+# Article 21 (Titre II)
+Avant d’entrer en fonction, le fonctionnaire de police est tenu de prêter serment devant l’autorité de nomination selon la formule ci-après : « Je jure d’obéir à la loi dans l’exercice de mes fonctions ; d’éviter dans le service comme dans la vie privée tout ce qui est de nature à ternir l’image de la Police ; de servir les intérêts de l’Etat avec dévouement, dignité, loyauté et intégrité ; d’apporter aide et protection aux citoyens ; de ne faire usage de la force que pour l’exécution des lois. »
+Il ne peut en aucun cas être relevé de ce serment.

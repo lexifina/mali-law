@@ -1,0 +1,2 @@
+# Article 49 (Titre II)
+L’ancienneté des sous-officiers de carrière est déterminée par le temps passé en activité et, dans chaque cas, par celui pris en compte pour l’avancement au titre des autres positions prévues par le présent statut.

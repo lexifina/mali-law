@@ -1,0 +1,3 @@
+# Article 39 (Titre II)
+Les militaires de carrière en activité ne peuvent exercer à titre professionnel une activité privée lucrative de quelque nature que ce soit. Les conditions dans lesquelles il peut être exceptionnellement dérogé à cette interdiction sont fixées par décret pris en Conseil des Ministres.
+Ils ne peuvent avoir, par eux-mêmes ou par personne interposée, sous quelque forme que ce soit, tant qu’ils sont en activité et pendant un délai de cinq (5) ans à compter de la cessation des fonctions, dans les entreprises soumises à leur surveillance ou à leur contrôle, des intérêts de nature à compromettre leur indépendance.

@@ -1,0 +1,2 @@
+# Article 18 (Titre II)
+Indépendamment des règles instituées par le Code Pénal en matière de secret professionnel, le fonctionnaire de police est lié par l’obligation de discrétion professionnelle pour ce qui concerne les documents, faits et informations dont il a connaissance dans l’exercice ou à l’occasion de l’exercice de ses fonctions.

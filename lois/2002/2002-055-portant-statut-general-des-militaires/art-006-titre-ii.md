@@ -1,0 +1,4 @@
+# Article 6 (Titre II)
+Les fonctionnaires du corps des Inspecteurs de police ont vocation à assurer, sous l’autorité des Commissaires de Police, des enquêtes judiciaires et administratives, des missions de renseignement et de surveillance, de maintien ou de rétablissement de l’ordre public et toutes autres missions concourant au fonctionnement des services de la Police Nationale.
+Ils sont Agents de Police Judiciaire (APJ) dans les conditions prévues par la loi. Toutefois, ils peuvent être nommés Officiers de Police Judiciaire par arrêté du Ministre de la Justice sur proposition du Procureur Général près la Cour d’Appel de leur ressort.
+Ils peuvent être chargés, à titre exclusif ou subsidiaire, de dispenser dans les établissements de formation spécialisée des enseignements correspondant à leur spécialité.

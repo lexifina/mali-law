@@ -1,0 +1,4 @@
+# Article 1er (Titre I)
+L’Armée de la République est au service de la Nation. Sa mission est de préparer et d’assurer, au besoin par la force des armes, la défense de la Patrie, de la forme républicaine de l’Etat, des acquis démocratiques et des intérêts supérieurs de la Nation.
+L’état de militaire exige en toute circonstance discipline, loyalisme et esprit de sacrifice. Les devoirs qu’il comporte et les sujétions qu’il implique méritent la considération et la reconnaissance de la Nation.
+Le présent statut assure à ceux qui ont choisi cet état et à ceux qui accomplissent le service militaire dans les conditions prévues par le code du service national des garanties répondant aux obligations particulières imposées par la loi. Il prévoit des compensations aux contraintes et exigences de la vie dans les armées.

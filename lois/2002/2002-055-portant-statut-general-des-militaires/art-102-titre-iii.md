@@ -1,0 +1,4 @@
+# Article 102 (Titre III)
+Le temps passé sous le drapeau, pour un engagé accédant à un emploi visé à l’article 101 ci-dessus, est compté pour l’ancienneté :
+- pour les emplois de catégorie C ou de même niveau de qualification, pour sa durée effective jusqu’à concurrence de dix (10) ans ;
+- pour les emplois de catégorie B ou de même niveau de qualification, pour la moitié de sa durée effective jusqu’à concurrence de cinq (5) ans, à condition que l’intéressé n’ait pas demandé, pour faire acte de candidature au concours ou à l’examen, le bénéfice des dispositions prévues au 2è alinéa de l’article 100.

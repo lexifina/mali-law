@@ -1,0 +1,2 @@
+# Article 61 (Titre II)
+Le militaire de carrière atteint de sida maladie, de tuberculose, de maladie mentale, d’affection cancéreuse ou de poliomyélite, de lèpre, de cirrhose du foie, d’hépatite virale, ou autres maladies chroniques a droit à un congé de longue durée pour maladie. Il conserve l’intégralité de ses droits à la solde.

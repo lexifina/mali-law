@@ -1,0 +1,4 @@
+# Article 5 (Titre II)
+Les fonctionnaires du corps des Commissaires de Police ont vocation à assurer, au plus haut niveau, des fonctions de conception, de coordination et d’encadrement technique, administratif, judiciaire et de recherches se rapportant aux activités de la Police Nationale.
+Ils ont la qualité d’Officiers de Police Judiciaire (OPJ) dans les conditions prévues par la loi.
+Ils peuvent, en outre, être chargés, à titre exclusif ou subsidiaire, de dispenser dans les établissements de formation spécialisée des enseignements correspondant à leurs spécialités.

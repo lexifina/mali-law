@@ -1,0 +1,3 @@
+# Article 9 (Titre I)
+Il est interdit aux militaires en activité d’adhérer à des groupements ou associations à caractère politique et de présenter leurs candidatures aux élections communales, législatives et présidentielles.
+Ils demeurent électeurs, toutefois pour militer dans le parti de leur choix ou pour présenter une candidature à l’une des élections ci-dessus évoquées, les militaires sont tenus de rendre au préalable leur démission, au moins six (6) mois avant la date limite de dépôt des candidatures.

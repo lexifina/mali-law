@@ -1,0 +1,4 @@
+# Article 87 (Titre II)
+La démission ne peut être acceptée que pour des motifs exceptionnels lorsque le militaire de carrière :
+- n’est pas parvenu au terme de l’engagement exigé pour l’entrée dans les écoles militaires ;
+- ayant reçu une formation spécialisée, n’a pas atteint le terme du délai pendant lequel il s’est engagé à rester en activité.

@@ -1,0 +1,3 @@
+# Article 69 (Titre II)
+La reforme pour infirmité est prononcée soit à la suite d’une ou plusieurs périodes de non-activité ; soit directement lorsque la gravité ou l’incurabilité de la maladie a été établie par un centre d’expertise médicale.
+Lorsque l’infirmité est imputable au service, la reforme ouvre droit à une pension d’invalidité.

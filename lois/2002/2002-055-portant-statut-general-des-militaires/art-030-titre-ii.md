@@ -1,0 +1,3 @@
+# Article 30 (Titre II)
+Les fonctionnaires de police ont droit à une protection contre les menaces, outrages, injures ou diffamations dont ils peuvent faire l’objet dans l’exercice ou à l’occasion de l’exercice de leur fonction. L’Administration est tenue de leur assurer effectivement cette protection et de réparer, le cas échéant, le préjudice qui en résulterait, compte non tenu des mesures découlant de l’application de la législation sur les pensions.
+Dans le cas où un fonctionnaire de police est poursuivi par un tiers pour faute de service et que le conflit d’attribution n’a pas été élevé, l’Etat doit le couvrir des condamnations civiles prononcées contre lui.

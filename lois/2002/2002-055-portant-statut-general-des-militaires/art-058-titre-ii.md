@@ -1,0 +1,2 @@
+# Article 58 (Titre II)
+Le militaire en service détaché est soumis à l’ensemble des règles régissant la fonction qu’il exerce par l’effet de son détachement. Il ne peut cependant être affilié au régime de retraite dont relève la fonction ni acquérir, à ce titre, des droits quelconques à pension ou à allocation.

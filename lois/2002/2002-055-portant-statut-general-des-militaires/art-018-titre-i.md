@@ -1,0 +1,4 @@
+# Article 18 (Titre I)
+Indépendamment des dispositions législatives et réglementaires relatives à la violation du secret de la défense nationale ou du secret professionnel, les militaires sont tenus par l’obligation de discrétion pour tout ce qui concerne les faits et informations dont ils ont connaissance dans l’exercice ou à l’occasion de leurs fonctions.
+Tout détournement, toute communication contraire aux règlements, de pièces ou documents de service à des tiers sont interdits.
+En dehors des cas prévus par la réglementation en vigueur, les militaires ne peuvent être déliés de cette obligation de discrétion ou relevés de l’interdiction édictée à l’alinéa précédent qu’avec l’autorisation du Ministre chargé des Armées.

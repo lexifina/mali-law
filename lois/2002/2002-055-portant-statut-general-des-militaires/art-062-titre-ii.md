@@ -1,0 +1,5 @@
+# Article 62 (Titre II)
+Le militaire de carrière atteint d’infirmité ou de maladie autre que celles visées à l’article précédent, dans l’impossibilité d’occuper un emploi après avoir épuisé les congés de maladie prévus à l’article 56, itéra 1, est, après avis médical, placé en congé pour raison de santé. Lorsqu’il est atteint d’une affection dûment constatée, le mettant dans l’impossibilité d’exercer ses fonctions, et qui rend nécessaire un traitement et des soins coûteux et prolongés, le militaire de carrière a droit à un congé de longue maladie d’une durée de trois (3) ans renouvelable une fois.
+Il conserve l’intégralité de sa solde.
+L’intéressé conserve, en outre, ses droits à la totalité des allocations familiales.
+Si l’infirmité ou la maladie provient de l’une des causes exceptionnelles prévues par le code des pensions militaires de retraite et d’invalidité ou d’un fait imputable au service, il conserve l’intégralité de sa solde jusqu’à ce qu’il soit en état de reprendre son service ou jusqu’à sa mise à la retraite.

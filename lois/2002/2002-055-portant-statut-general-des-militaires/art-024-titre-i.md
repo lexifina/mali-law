@@ -1,0 +1,2 @@
+# Article 24 (Titre I)
+Les militaires de carrière ou servant en vertu d’un contrat sont affiliés à des associations mutualistes de leurs armes ou services dans les conditions fixées par les statuts et règlements intérieurs de ces associations.

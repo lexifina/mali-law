@@ -1,0 +1,3 @@
+# Article 51 (Titre II)
+L’avancement a lieu de grade à grade au choix et/ou à l’ancienneté après inscription sur le tableau d’avancement qui doit être établi au moins une fois par an. Les sous-officiers promus prennent rang en fonction de leur ancienneté dans chaque corps, et s’il y a lieu, par arme, service ou spécialité. Sous réserve des nécessités de service, les promotions ont lieu dans l’ordre du tableau d’avancement. Si le tableau n’a pas été épuisé, les sous-officiers qui y figurent sont reportés en tête du tableau suivant.
+Les sous-officiers de carrière bénéficient des dispositions des articles 45, 99, 100 et 101 du présent statut.
