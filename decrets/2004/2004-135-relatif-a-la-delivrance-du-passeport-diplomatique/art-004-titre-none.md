@@ -1,0 +1,34 @@
+# Article 4 (Titre None)
+Ont droit au passeport diplomatique :
+- le Président de la République ;
+- le Premier Ministre ;
+- le Président de l’Assemblée Nationale ;
+- le Président de la Cour Suprême ;
+- le Président de la Cour Constitutionnelle ;
+- le Président du Haut Conseil des Collectivités Territoriales;
+- le Président du Conseil Economique, Social et Culturel ;
+- les Membres du Gouvernement ;
+- le Secrétaire Général de la Présidence de la République ;
+- le Secrétaire Général du Gouvernement ;
+- le Médiateur de la République ;
+- le Vérificateur Général ;
+- les personnalités ayant rang et prérogatives de Ministre ;
+- le Vérificateur Général Adjoint;
+- le Chef d’Etat-Major Particulier du Président de la République ;
+- les Chefs d’Etat-Major des Forces Armées et de Sécurité et Assimilés ;
+- les Députés à l’Assemblée Nationale ;
+- les Membres du Bureau du Haut Conseil des Collectivités Territoriales;
+- les Membres du Bureau du Conseil Economique, Social et Culturel ;
+- le Grand Chancelier des Ordres Nationaux ;
+- le Vice-Président de la Cour Suprême ;
+- le Procureur Général près la Cour Suprême ;
+- les Présidents des sections de la Cour Suprême ;
+- les Membres de la Cour Constitutionnelle ;
+- le Secrétaire Général du Ministère chargé des Affaires Etrangères ;
+- les Gouverneurs de Région et du District de Bamako ;
+- les Ambassadeurs et Consuls Généraux du Mali ;
+- le Conseiller Diplomatique du Président de la République ;
+- le Conseiller Diplomatique du Premier ministre ;
+- le Chef de Cabinet, les Conseillers Techniques, les Chargés de Mission, les Inspecteurs, les Directeurs, les Directeurs Adjoints, les Chefs de Département et les Chefs de Section au Ministère chargé des Affaires Etrangères ;
+- les Conseillers, Secrétaires Agents Comptables et Secrétaires d’Ambassade dans les Missions diplomatiques et consulaires du Mali ;
+- les Fonctionnaires internationaux servant dans les organisations internationales et qui ont le statut diplomatique.
