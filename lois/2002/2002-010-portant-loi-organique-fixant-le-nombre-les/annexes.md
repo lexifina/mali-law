@@ -1,0 +1,8 @@
+# Annexes
+
+ANNEXE A LA LOI ORGANIQUE N°02-010 DU 05 MARS 2002.
+TABLEAU DE REPARTITION DES DEPUTES ENTRE LES CERCLES ET LES COMMUNES DU DISTRICT DE BAMAKO.
+CERCLES POPULATIONS NOMBRE DE EN 1996 SIEGES
+Kayes 322 068 5 Bafoulabé 162 864 3 Diéma 148 642 2 Kéniéba 129 261 2 Kita 276 486 4 Nioro 192 998 3 Yélimané 137 407 2 Banamba 144 203 2 Dioïla 322 842 5 Kangaba 67 463 1 Kati 429 697 7 Kolokani 178 454 3 Koulikoro 148 170 2 Nara 191 528 3 Bougouni 262 180 4 Kadiolo 123 314 2 Kolondiéba 127 714 2 Koutial 365 088 6 Sikasso 444 752 7 Yanfolila 147 501 2 Yorosso 116 993 2 Baraouéli 161 518 3 Bla 199 906 3 Macina 155 273 2 Niono 169 075 3 San 232 041 4 Ségou 449 886 7 Tominian 164 186 3 Bandiagara 183 482 3 Bankass 167 402 3 Djénné 144 093 2 Douentza 140 501 2 Koro 239 498 4 Mopti 197 437 3 Ténenkou 103 005 2 Youwarou 76 237 1 Diré 86 944 1 Goundam 121 087 2 Niafunké 117 774 2 Gourma-Rharous 76 899 1 Tombouctou 84 074 1 Ansongo 100 064 2 Bourem 118 500 2 Gao 160 288 3 Ménaka 62 264 1 Abeibara 9 589 1
+Kidal 33 145 1 Tessalit 21 814 1 Tin Essako 7 064 1
+Commune I 145 163 2 Commune II 160 686 3 Commune III 87 249 1 Commune IV 158 210 2 Commune V 75 210 3 Commune VI 211 797 3 TOTAL 147
