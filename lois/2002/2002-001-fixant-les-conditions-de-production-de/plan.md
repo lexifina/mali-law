@@ -1,0 +1,9 @@
+# Plan
+CHAPITRE I : DES DISPOSITIONS GENERALES (Article 2)
+CHAPITRE II : DE LA PRODUCTION, DE LA TRANSFORMATION ET DE LA COMMERCIALISATION (Article 8)
+CHAPITRE III : DES INFRACTIONS ET DE LEUR REPRESSION (Article 12)
+Section 1 : Des infractions (Article 12)
+Section 2 : De la constatation des infractions (Article 15)
+Section 4 : Des pénalités (Article 19)
+CHAPITRE IV : DES TRANSACTIONS (Article 24)
+CHAPITRE V : DES DISPOSITIONS DIVERSES ET FINALES (Article 26)
