@@ -1,0 +1,8 @@
+# Article 23 (Titre None)
+Ascenseurs, installations de transport et conduites de déchets
+Les bâtiments dans lesquels, au niveau supérieur, existent des zones de soins, de consultation ou de traitement doivent avoir des ascenseurs qui sont appropriés pour le transport des lits en quantité suffisante, toutefois au moins deux. Des exceptions peuvent être autorisées en tenant compte de l’exploitation et des dimensions du bâtiment. Des ascenseurs pour les personnes et les bagages peuvent être exigés.
+Dans les bâtiments de grande hauteur, un des ascenseurs pour lit, doit être réalisé comme ascenseur pour sapeurs-pompiers.
+Les cabines d’ascenseurs pour lits et pour sapeurs-pompiers doivent être dimensionnées de sorte qu’il y ait de la place pour au moins un lit et deux personnes accompagnatrices. Elles doivent avoir toutefois, une surface utile minimale de 1,80x2,50 m. Les surfaces intérieures des cabines d’ascenseur doivent être lisses, désinfectables et dures ; le sol ne doit pas être glissant. Sur les murs intérieurs de la cabine doivent être disposés des dispositifs d’arrêt.
+Les ascenseurs doivent avoir des cages résistantes au feu.
+Les installations de transport doivent être disposées et réalisées de sorte qu’une exploitation hygiénique sans problème soit assurée. Les parties des installations de transport qui lient les étages doivent être disposées dans des cages. La hauteur utile des passages sous les équipements des installations de transport le long des issues de secours et des voies de circulation doit valoir au moins 2 m.
+Les conduites de déchets ne sont permises que s’il y a une différence de pression qui empêche un échange d’air avec les salles avoisinantes.

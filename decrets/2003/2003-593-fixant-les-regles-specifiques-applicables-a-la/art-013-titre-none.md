@@ -1,0 +1,9 @@
+# Article 13 (Titre None)
+Couloirs
+Les couloirs principaux dans les bâtiments avec plus d’un niveau doivent être séparés des autres salles par des éléments au moins difficilement inflammables . Dans les bâtiments de grande hauteur, ces éléments doivent être résistants au feu. Les murs doivent être liés au planchers de manière étanche. Dans le cas où un incendie peut se déclencher dans l’espace compris entre le plancher et le faux-plafond, ce dernier doit être au moins en matériaux difficilement inflammables.
+Les couloirs principaux doivent être séparés des autres salles par des éléments en matériaux incombustibles dans les bâtiments à un niveau.
+Les portes dans les murs des couloirs doivent se fermer de manière étanche.
+Les vitrages dans les murs intérieurs des couloirs doivent être suffisamment résistants au feu et être disposés au moins à 1,80 m au dessus du sol. Au-dessous de cette hauteur des vitrages peuvent être disposés, si l’exploitation de la salle, comme les salles de service, les salles pour nouveaux nés, les nourrissons, les petits enfants et les salles des unités de soins intensifs l’exige.
+La largeur utile des couloirs principaux doit être déterminée en fonction du plus grand nombre de personnes attendues. Les couloirs principaux doivent avoir une largeur minimale de 1,5 m. Les couloirs, dans lesquels, les malades sont transportés couchés, doivent avoir une largeur utile minimale de 2,25 m et être sans marches. Il peut être exigé que la largeur utile des couloirs dans les unités de soins intensifs soit plus grande. Hors de la zone de soins, la largeur utile des couloirs conformément aux dispositions du présent alinéa peut être un peu rétrécie par des poteaux ou d’autres éléments semblables.
+La largeur utile des couloirs ne doit pas être rétrécie par des aménagements. Les aménagements doivent être principalement en matériaux incombustibles.
+Les couloirs doivent être suffisamment ventilés.

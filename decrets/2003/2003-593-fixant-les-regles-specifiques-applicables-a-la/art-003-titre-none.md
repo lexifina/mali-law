@@ -1,0 +1,5 @@
+# Article 3 (Titre None)
+Occupation de la parcelle Les Etablissements hospitaliers ne doivent être construits qu’en des lieux où leurs objectifs ne sont pas directement contrariés à travers, la pollution de l’air, les mauvaises odeurs et les vibrations à moins que des mesures spécifiques aient été prises pour pallier ces inconvénients.
+Cette exigence s’applique également aux extensions des Etablissements hospitaliers existants.
+Les Etablissements hospitaliers doivent être disposés et réalisés sur la parcelle de sorte que, le bruit venant de l’extérieur ne puisse pas gêner ou déranger dans les salles pour malades, les salles de consultation et de traitement.
+Les cuisines, les buanderies, les installations de désinfection, d’incinération, d’alimentation électrique, de ventilation, les ateliers, les installations pour les déchets liquides et solides, les rampes d’approvisionnement ainsi que les salles et installations semblables sont disposés et réalisés de sorte que les odeurs ou les bruits ne puissent pas gêner ou déranger dans les salles citées à l’alinéa 2 du présent article.

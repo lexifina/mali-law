@@ -1,0 +1,4 @@
+# Article 9 (Titre None)
+Revêtements des murs et des planchers et couches d’isolation Les revêtements extérieurs des murs y compris leurs éléments de fixation ainsi que les couches d’isolation des bâtiments de plus d’un niveau doivent être au moins en matériaux difficilement inflammable ; pour les bâtiments de plus de cinq niveaux en matériaux incombustibles.
+Les revêtements intérieurs des murs et des planchers ainsi que les couches d’isolation dans les issues de secours, dans les halls pour ascenseurs et dans les cages d’escaliers doivent être en matériaux incombustibles. Les dispositions du point b) de l’alinéa 3 de l’article 11 du présent décret sont applicables.
+Les revêtements intérieurs des murs et des planchers ainsi que les couches d’isolation dans les salles de laboratoires et salles semblables doivent être en matériaux incombustibles.
