@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Sont approuvés la Convention de Concession de l’Exploitation de l’Activité Ferroviaire sur le Chemin de Fer Dakar-Bamako signé le 24 septembre 2003, entre la République du Sénégal et la République du Mali, d’une part, et la Société TRANSRAIL-SA, d’autre part, et la décision du 6 septemble 2003 portant création, attributions et organisation de l’Organe de Suivi de l’activité ferroviaire sur l’axe Dakar-Bamako, annexés au présent décret.
