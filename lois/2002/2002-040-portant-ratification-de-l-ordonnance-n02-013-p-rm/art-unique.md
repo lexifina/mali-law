@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N°02-013/ P-RM du 17 janvier 2002 autorisant l’adhésion de la République du Mali à la Convention-Cadre d’assistance en matière de protection civile, adoptée à Genève, le 22 mai 2000.
