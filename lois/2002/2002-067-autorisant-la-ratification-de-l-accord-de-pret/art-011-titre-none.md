@@ -1,0 +1,2 @@
+# Article 11 (Titre None)
+Les Inspecteurs peuvent, lors de leurs missions, procéder à des saisies d’objets ou de produits ou documents. Ils doivent les répertorier et les joindre en annexe à leurs rapports. Tout prélèvement ou saisie donne lieu, séance tenante, à la rédaction sur papier à en-tête, d’un procès-verbal signé avec le cachet de l’Inspecteur et un exemplaire remis à l’agent ou au responsable de l’établissement chez qui la saisie ou le prélèvement a été effectué.

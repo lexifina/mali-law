@@ -1,0 +1,3 @@
+# Article 14 (Titre None)
+Le Département Pharmacie et médicaments est chargé du suivi ; du contrôle systématique des activités de tous les établissements de vente de médicaments, les établissements d’importation de médicaments, les laboratoires d’analyses biologie médicale, les dépôts de produits pharmaceutiques, les établissements de fabrication et de conditionnement de médicaments ; les établissements publics, privés, communautaires, mutualistes et parapublics qui fabriquent, stockent ou vendent des produits et articles visés à l’article 34 du Décret n°91-106/P-RM du 15 mars 1991.
+Le département pharmacie et médicaments est aussi chargé du contrôle des herboristeries et des unités de production de médicaments traditionnels améliorés.
