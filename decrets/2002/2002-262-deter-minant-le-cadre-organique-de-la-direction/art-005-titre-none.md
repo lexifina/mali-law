@@ -1,0 +1,2 @@
+# Article 5 (Titre None)
+Les effets et objets importés par le personnel expatrié chargé de l’exécution des différents marchés et contrats sont exonérés des droits et taxes y compris l’ISCP, et le sous réserve que ces effets et objets soient en cours d’usage depuis au moins six (6) mois et que leur importation ait lieu dans un délai de six (6) mois après leur prise de fonction au Mali. Toutefois, la Redevance Statistique (RS) reste due.

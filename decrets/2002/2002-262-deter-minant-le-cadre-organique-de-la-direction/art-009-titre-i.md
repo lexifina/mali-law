@@ -1,0 +1,2 @@
+# Article 9 (Titre I)
+Les entreprises bénéficiaires des exonérations prévues par les dispositions du présent arrêté sont tenues de déposer dans les conditions de droit commun les déclarations et documents relatifs aux impôts, droits et taxes de toute nature dont elles sont exemptées. Nonobstant cette exonération, le défaut ou retard de déclaration entraîne l’application des pénalités spécifiques prévues par le Code des Douanes et le Code Général des Impôts.
