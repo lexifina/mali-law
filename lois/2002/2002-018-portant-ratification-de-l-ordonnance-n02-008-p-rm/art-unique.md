@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N°02-008/P-RM du 15 janvier 2002 autorisant la ratification de la Convention de l’Organisation de la Conférence Islamique (OCI) pour combattre le Terrorisme International, approuvée par la Résolution N°59/26-P CIMAE de la vingt-sixième session de la Conférence Islamique des Ministres des Affaires Etrangères tenue à Ouagadougou (Burkina Faso), du 28 juin au 1er juillet 1999.
