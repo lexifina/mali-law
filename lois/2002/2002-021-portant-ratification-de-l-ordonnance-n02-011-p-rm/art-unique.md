@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N°02-011/P-RM du 16 janvier 2002 autorisant la ratification du Protocole contre le trafic illicite des migrants par terre, air et mer, Additionnel à la Convention des Nations Unies contre la Criminalité Transnationale Organisée, ouvert à la signature des Etats du 12 au 15 décembre 2000 à Palerme (Italie) et, par la suite, au siège de l’Organisation des Nations Unies à New York, jusqu’au 12 décembre 2002.
