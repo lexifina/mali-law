@@ -1,0 +1,6 @@
+# Décret n°02-488/P-RM du 10 octobre 2002 portant création d’une cellule de coordination de la participation du Mali au Smithsonian Folklife Festival 2003 de Washington
+
+- Source : Journal officiel n°2002-28 du 10 octobre 2002, <https://sgg-mali.ml/JO/2002/mali-jo-2002-28.pdf>
+- Signé / promulgué : 2002-10-10
+- En vigueur : 2002-10-10 (publication au Journal officiel n°2002-28 du 10 octobre 2002 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 6 articles
