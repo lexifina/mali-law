@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Est approuvé l’avenant n°1 au marché n°0602/DGMP-97, relatif aux prestations de services pour la gestion du projet d’Appui au Développement Local (PADL) en 7ème région pour un montant hors toutes taxes de quatre cent cinq millions sept cent quatre vingt mille francs F CFA (405 780 000 F CFA) et un délai d’exécution prolongé jusqu’au 31 décembre 2004, conclu entre le Gouvernement de la République du Mali et le Groupement de Bureaux d’Etudes HYDRO-PACTE/IRAM.
