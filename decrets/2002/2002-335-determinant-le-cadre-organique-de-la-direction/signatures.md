@@ -1,0 +1,8 @@
+# Signatures
+
+Bamako, le 6 juin 2002
+Le Président de la République, Alpha Oumar KONARE
+Le Premier ministre, Modibo KEITA
+Le ministre de l’Education, Moustapha DICKO
+Le ministre de l’Economie et des Finances, Bacari KONE
+Le ministre l’Emploi et de la Formation Professionnelle, Makan Moussa SISSOKO
