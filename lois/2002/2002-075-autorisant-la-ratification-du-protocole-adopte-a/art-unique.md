@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification du Protocole adopté à Nouakchott, le 1er mars 2002, portant amendement de l’article 47 de la Convention Générale de Coopération en matière de Justice signée à Nouakchott, le 25 juillet 1963, entre le Gouvernement de la République du Mali et le Gouvernement de la République Islamique de Mauritanie.
