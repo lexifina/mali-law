@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt d’un montant de Cinq Millions Deux Cent Mille Dollars US (5 200 000 $ ), signé au Caire, le 26 juillet 2002 entre le Gouvernement de la République du Mali et la Banque Arabe pour le Développement Economique en Afrique (BADEA), relatif au financement partiel du Projet de Développement des Ressources Halieutiques dans le lac de Sélingué.
