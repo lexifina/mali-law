@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N°02-017/ P-RM du 18 janvier 2002 autorisant la ratification du Protocole de Kyoto à la Convention-Cadre des Nations Unies sur les changements climatiques, adopté à Kyoto (Japon), le 11 décembre 1997.
