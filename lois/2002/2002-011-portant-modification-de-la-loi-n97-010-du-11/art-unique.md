@@ -1,0 +1,5 @@
+# Article unique
+Les articles 27 et 32 de la Loi n°97- 010 du 11 février 1997 portant loi organique déterminant les règles d’organisation et de fonctionnement de la Cour Constitutionnelle ainsi que la procédure suivie devant elle sont modifiés ainsi qu’il suit :
+ARTICLE 27 (NOUVEAU) : Les résultats provisoires du référendum sont enregistrés et proclamés par l’autorité dé-signée à cette fin par la Loi Electorale. Cette autorité trans-met immédiatement au Président de la Cour Constitutionnelle lesdits résultats accompagnés des procès verbaux du scrutin.
+ARTICLE 32 (NOUVEAU) : La Cour Constitutionnelle, durant les cinq (5) jours qui suivent la date du scrutin, peut être saisie de toute contestation sur l’élection du Président de la République ou des Députés.
+Dans les quarante huit heures qui suivent la proclamation des résultats provisoires des premier et deuxième tour de l’élection du Président de la République ou des Députés, tout candidat, tout parti politique peut contester la validité de l’élection d’un candidat devant la Cour Constitutionnelle.
