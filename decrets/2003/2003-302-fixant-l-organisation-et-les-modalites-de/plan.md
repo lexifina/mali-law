@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DES DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DE L’ORGANISATION (Article 3)
+Section 1 : De la Direction (Article 5)
+Section 2 : Du conseil d’orientation (Article 11)
+Section 3 : Du Comité Pédagogique (Article 15)
+CHAPITRE III : DU FONCTIONNEMENT (Article 19)
+SECTION 1 : du personnel d’encadrement (Article 19)
+SECTION 2 : du recrutement des auditeurs. (Article 20)
+CHAPITRE IV : DU REGIME DES ETUDES (Article 21)
+CHAPITRE V : DES DISPOSITIONS FINALES (Article 25)
