@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification du Protocole sur la Démocratie et la Bonne Gouvernance, additionnel au Protocole relatif au mécanisme de prévention, de gestion, de règlement des conflits, de maintien de la paix et de la sécurité, adopté par la 25ème Session de la Conférence des Chefs d’Etat et de Gouvernement de la Communauté Economique des Etats de l’Afrique de l’Ouest (CEDEAO), tenue à Dakar (Sénégal) les 20 et 21 décembre 2001.
