@@ -1,0 +1,3 @@
+# Article 8 (Titre None)
+Les objets et effets personnels à l’exclusion des véhicules à usage personnel, importés par le personnel expatrié chargé de l’exécution des différents contrats et marchés du Programme National d’Infrastructures Rurales ainsi que par les membres de leur famille les accompagnant ou venant les rejoindre et devant partager leur résidence, sont exonérés de tous droits et taxes y compris l’ISCP, le PC et le PCS, sous réserve que ces objets et effets soient en cours d’usage depuis au moins six (06) mois et que leur importation intervienne dans un délai n’excédant pas six (06) mois après leur prise de fonction au Mali.
+Toutefois la redevance statistique reste due.

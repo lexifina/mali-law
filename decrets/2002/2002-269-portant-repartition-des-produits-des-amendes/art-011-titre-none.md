@@ -1,0 +1,2 @@
+# Article 11 (Titre None)
+En vue d’exercer leur contrôle, les agents de la Direction Nationale des Impôts, de la Direction Nationale du Commerce et de la Concurrence et ceux de la Direction Générale des Douanes ont, à tout moment, accès aux chantiers et aux bureaux du Programme, des entreprises adjudicataires et de leurs sous-traitants. Ils peuvent exi-ger notamment la communication de tous documents né-cessaires aux opérations de contrôle ou susceptibles d’en faciliter le déroulement.
