@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N°02-037/ P-RM du 08 mars 2002 autorisant la ratification de l’accord de prêt d’un montant de quinze millions d’unités de compte (15.000.000 U.C), signé à Abidjan, le 11 janvier 2002 entre le Gouvernement de la République du Mali et le Fonds Africain de Développement, relatif au financement du Projet d’Appui au Programme de Développement Sanitaire et Social dans la Région de Sikasso - Santé IV.
