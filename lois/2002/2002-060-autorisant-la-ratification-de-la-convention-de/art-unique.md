@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de la Convention de Rotterdam sur la procédure de consentement préalable en connaissance de cause applicable à certains produits chimiques et pesticides dangereux qui font l’objet d’un commerce international, adoptée à Rotterdam (Pays-Bas), le10 septembre 1998.
