@@ -1,0 +1,7 @@
+# Article 15 (Titre None)
+Mesures en faveur des personnes handicapées
+Au moins une entrée de l’établissement doit être sans marches, l’entrée est identifiée. L’entrée doit avoir une largeur minimale de 95 cm, devant les portes ; il doit y avoir un espace suffisant pour les mouvements. Les portes doivent avoir une hauteur de passage minimale de 85 cm.
+Les rampes ne doivent pas avoir une pente de plus de 6 % ; elles doivent avoir une largeur minimale de 1,20 m et des deux cotés des mains courantes fixes. Au début et à la fin de chaque rampe est disposé un palier, et à tous les 6 m, un palier intermédiaire. Les paliers doivent avoir une profondeur minimale de 1,20 m .
+Les ascenseurs recevant les chaises roulantes doivent avoir une surface utile de 1,10 x 1,40m ; les portes doivent avoir une largeur utile minimale de 80 cm . Devant les entrées des ascenseurs, il doit y avoir suffisamment d’aire de mouvement. Pour la réception des chaises roulantes des ascenseurs particuliers doivent être accessibles à partir des voies publiques sans différence de niveaux .
+Au moins à chaque étage, une toilette doit être appropriée pour les utilisateurs de chaises roulantes. La toilette doit être accessible sans différence de niveaux et être identifiée.
+Au moins 3 % des parkings doivent être réservés aux personnes handicapées. Ces parkings doivent avoir une largeur minimale de 3,50 m et être accessibles à partir de l’école sans différence de niveaux par le plus court chemin . Il peut être exigé que ces parkings soient particulièrement symbolisés.
