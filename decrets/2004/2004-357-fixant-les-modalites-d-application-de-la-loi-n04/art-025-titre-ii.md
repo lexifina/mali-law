@@ -1,0 +1,3 @@
+# Article 25 (Titre II)
+Lorsqu’en application des lois et règlements, une personne vient à être frappée d’incapacité ou de déchéance, elle perd sa qualité d’électeur et d’éligibilité au Conseil Malien des Transporteurs Routiers.
+Si cette personne est membre de l’Assemblée Consulaire, elle est remplacée par un suppléant.

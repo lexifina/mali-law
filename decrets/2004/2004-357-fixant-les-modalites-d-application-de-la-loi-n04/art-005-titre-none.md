@@ -1,0 +1,2 @@
+# Article 5 (Titre None)
+Dans le cadre de l’évaluation du coût des dépenses pour travaux requis, ne sont retenues que les dépenses liées directement aux recherches. Les immobilisations ne sont comptées que pour la valeur d’amortissement total normal. Les frais généraux sont admis pour un taux équivalent à six pour cent (6%) du montant total des dépenses directement liées à la recherche y compris les frais généraux du siège.

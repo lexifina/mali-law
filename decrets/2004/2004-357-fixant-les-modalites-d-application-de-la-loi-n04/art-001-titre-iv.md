@@ -1,0 +1,2 @@
+# Article 1er (Titre IV)
+Est approuvé le marché relatif à l’exécution des travaux d’aménagement hydroagricole du casier de Ké-Macina (deuxième tranche de 3 160 ha), pour un montant Hors Taxes de six milliards deux cent quatre vingt six millions neuf cent soixante dix neuf mille six cent cinquante huit Francs CFA (6 286 979 658 F CFA) et un délai d’exécution de vingt quatre mois (24 mois), conclu entre le Gouvernement de la République du Mali et l’Entreprise française SOGEA SATOM.

@@ -1,0 +1,6 @@
+# Article 14 (Titre II)
+Le Comité de gestion est un organe consultatif chargé d’assister le Directeur Général dans ses tâches de gestion.
+A ce titre, le Comité est obligatoirement consulté sur :
+- toute mesure de nature à modifier la structure ou les effectifs du service, la durée du travail ou les conditions d’emploi ;
+- toute initiative visant l’amélioration du travail et de la vie de l’Etablissement ;
+- le plan de formation et de perfectionnement du personnel.
