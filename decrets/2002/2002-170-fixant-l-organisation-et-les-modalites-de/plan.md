@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DES DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DE L’ORGANISATION (Article 4)
+Section 1 : De la Direction (Article 5)
+Section 2 : Du Conseil des professeurs (Article 14)
+Section 3 : Du Conseil pédagogique (Article 15)
+Section 4 : Du Conseil de perfectionnement (Article 16)
+Section 5 : Du Conseil de Discipline (Article 17)
+CHAPITRE III : DU RÉGIME DES ETUDES (Article 20)
+Section 1 : Des cycles et des conditions d’accès (Article 20)
+Section 2 : De la Scolarisation (Article 25)
+Section 3 : Des enseignements (Article 28)
+CHAPITRE IV : DES DISPOSITIONS FINALES (Article 35)
