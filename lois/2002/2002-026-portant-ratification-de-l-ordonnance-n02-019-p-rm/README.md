@@ -1,0 +1,6 @@
+# Loi n°02-026 du 4 juin 2002 Portant ratification de l’ordonnance n°02-019/P-RM du 21 janvier 2002 autorisant l’adhésion de la République du Mali à la Convention Internationale pour la répression des attentats terroristes à l’explosif, adoptée par l’Assemblée Générale des Nations Unies à New York, le 15 décembre 1997
+
+- Source : Journal officiel n°2002-17 du 20 juin 2002, <https://sgg-mali.ml/JO/2002/mali-jo-2002-17.pdf>
+- Signé / promulgué : 2002-06-04
+- En vigueur : 2002-06-20 (publication au Journal officiel n°2002-17 du 20 juin 2002 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 1 articles
