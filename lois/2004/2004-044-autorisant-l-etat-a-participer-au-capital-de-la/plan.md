@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DES DISPOSITIONS GENERALES (Article 1er (Titre None))
+CHAPITRE II : DE LA NATURE ET DU DEROULE-MENT DES EPREUVES (Article 7 (Titre None))
+TITRE I : DES ORGANES DE L’UNIVERSITE (Article 2 (Titre I))
+CHAPITRE I - Le Président du Conseil de l’Université (Article 3 (Titre I))
+CHAPITRE II - Le Conseil de l’Université (Article 12 (Titre I))
+Section I - Fonctionnement (Article 12 (Titre I))
+Section II - Organisation (Article 20)
+TITRE II : Du conseil scientifique (Article 21)
+TITRE III : DU CONSEIL PEDAGOGIQUE (Article 24)
+TITRE IV : DU CONSEIL DE DISCIPLINE (Article 27)
