@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Est autorisée la ratification de l’accord de crédit de développement d’un montant de trente-quatre millions deux cent mille Droits de Tirage Spéciaux (DTS 34.200.000), signé à Washington, le 12 décembre 2001 entre le Gouvernement de la République du Mali et l’Association Internationale de Développement, relatif au financement du Programme d’Appui aux Services Agricoles et aux Organisations Paysannes.
