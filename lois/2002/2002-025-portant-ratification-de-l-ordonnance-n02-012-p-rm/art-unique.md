@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N°02-012/P-RM du 17 janvier 2002 autorisant la ratification de la Convention de l’Organisation de l’Unité Africaine sur la prévention et la lutte contre le terrorisme, adoptée lors de la trente-cinquième Conférence ordinaire des Chefs d’Etat et de Gouvernement tenue à Alger, du 12 au 14 juillet 1999.
