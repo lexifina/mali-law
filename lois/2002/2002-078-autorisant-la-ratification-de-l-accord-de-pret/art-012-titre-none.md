@@ -1,0 +1,2 @@
+# Article 12 (Titre None)
+En vue d’exercer leur contrôle, les agents de la Direction Nationale des Impôts, de la Direction Nationale du Commerce et de la Concurrence ainsi que ceux de la Direction Générale des Douanes ont accès à tout moment aux bureaux, boutiques, magasins etc... de l’Ingénieur conseil et des entreprises adjudicataires des marchés et/ou contrats. Ils peuvent à tout moment demander la communication de tout document nécessaire à leur contrôle ou susceptible d’en faciliter le déroulement.
