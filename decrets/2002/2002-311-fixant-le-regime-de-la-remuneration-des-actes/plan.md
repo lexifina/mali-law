@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DE LA REMUNERATION DES ACTES MEDICAUX PRATIQUES SUR LES MALADES EXTERNES. (Article 2)
+Section I : De la nomenclature de rémunération (Article 5)
+Section II : De la rémunération des examens et analyses (Article 10)
+Section IV : Des autres prestations (Article 16)
+Transport des Malades (Article 16)
+CHAPITRE III : DU REGIME D’HOSPITALISATION (Article 18)
+Section I : Les Conditions d’hospitalisation (Article 18)
+Section II : Des tarifs d’hospitalisation (Article 20)
+1°) Fixation (Article 20)
+2°) Perception des frais (Article 26)
+CHAPITRE IV : DISPOSITIONS FINALES (Article 28)
