@@ -1,0 +1,9 @@
+# Visas
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu la Constitution ;
+Vu l’Ordonnance N°02-010/P-RM du 16 janvier 2002 autorisant la ratification du Protocole Additionnel à la Convention des Nations Unies contre la Criminalité Transnationale Organisée, visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants, ouvert à la signature des Etats du 12 au 15 décembre 2000 à Palerme et, par la suite, au siège de l’Organisation des Nations Unies à New York, jusqu’au 12 décembre 2002 ;
+Vu le Décret N°00-055/P-RM du 15 février 2000 portant nomination du Premier ministre ;
+Vu le Décret N°01-276/P-RM du 23 juin 2001 portant nomination des membres du Gouvernement, modifié par le Décret N°02-004/P-RM du 07 janvier 2002 ;
+Vu le Décret N°01-326/P-RM du 03 août 2001 fixant les intérims des membres du Gouvernement ;
+STATUANT EN CONSEIL DES MINISTRES,
+DECRETE :
