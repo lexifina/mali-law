@@ -1,0 +1,26 @@
+# Annexes
+
+ANNEXE A L’ORDONNANCE N°04-003/P-RM DU 04 MARS 2004 GRILLE INDICIAIRE DES CHERCHEURS
+CLASSE / ECHELON CORPS / INDICES CLASSE ECHELON Attachés de
+Recherche
+Chargés de
+Recherche
+Maître de Recherche
+Directeurs de Recherche Exceptionnelle
+3ème 2ème 1ère
+915 856 797
+930 870 802
+944 884 824
+1000 940 880 1ère
+3ème 2ème 1ère
+778 724 670
+781 727 673
+814 762 710
+869 817 765 2ème
+4ème 3ème 2ème 1ère
+662 628 594 560
+668 638 608 578
+687 657 627 597
+732 702 672 642 3ème
+4ème 3ème 2ème 1ère
+544 514 485 456
