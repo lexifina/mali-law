@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N°02-001/ P-RM du 02 janvier 2002 autorisant la ratification de l’accord de prêt d’un montant de deux millions huit cent mille dollars (2.800.000 $) signé à Khartoum, le 29 novembre 2001 entre le Gouvernement de la République du Mali et la Banque Arabe pour le Développement Economique en Afrique, relatif au financement partiel du Projet de construction de routes urbaines à Bamako.
