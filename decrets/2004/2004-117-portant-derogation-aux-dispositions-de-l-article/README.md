@@ -1,0 +1,6 @@
+# Décret n°04-117/P-RM du 16 avril 2004 portant dérogation aux dispositions de l’article 75.2 du décret n° 95-401/P-RM du 10 novembre 1995 portant code des marchés publics dans le cadre de l’exécution du marché relatif aux travaux de construction du pont de Tiendaga
+
+- Source : Journal officiel n°2004-17 du 20 juin 2004, <https://sgg-mali.ml/JO/2004/mali-jo-2004-17.pdf>
+- Signé / promulgué : 2004-04-16
+- En vigueur : 2004-06-20 (publication au Journal officiel n°2004-17 du 20 juin 2004 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 2 articles
