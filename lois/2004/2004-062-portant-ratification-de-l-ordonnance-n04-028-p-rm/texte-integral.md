@@ -1,0 +1,5 @@
+# Loi n°04-062 du 8 décembre 2004 Portant ratification de l’ordonnance n°04-028/P-RM du 17 septembre 2004 autorisant la ratification de l’Accord de Prêt, signé à Tunis le 22 avril 2004 entre d’une part le Burkina Faso, la République du Mali, la République du Niger et d’autre part le Fonds Africain de Développement (FAD) pour le financement du programme de lutte contre l’ensablement dans le bassin du fleuve Niger
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 25 novembre 2004 ;
+Le Président de la République promulgue la Loi dont la teneur suit :
+Article Unique : Est ratifiée l’Ordonnance N°04-028/P-RM du 17 septembre 2004 autorisant la ratification de l’Accord de prêt d’un montant de douze millions d’Unités de Compte (12 000 000 UC), soit neuf milliards deux cent quarante millions (9 240 000 000 ) de francs CFA environ, signé à Tunis le 22 avril 2004 entre d’une part le Burkina Faso, la République du Mali, la République du Niger et d’autre part le Fonds Africain de Développement (FAD) pour le financement du Programme de lutte contre l’ensablement dans le bassin du Fleuve Niger.
