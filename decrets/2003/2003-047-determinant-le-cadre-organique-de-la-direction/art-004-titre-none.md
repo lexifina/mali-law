@@ -1,0 +1,2 @@
+# Article 4 (Titre None)
+Les matériels et équipements non incorporés à titre définitif dans les ouvrages, les matériels de travaux publics, les véhicules utilitaires utilisés pour la réalisation pour l’étude des travaux, les matériels professionnels et techniques importés par les entreprises adjudicataires bénéficient du régime de l’Admission Temporaire conformément au Décret n°184/PG-RM du 27 novembre 1974 et à l’arrêté interministériel n°236/MFC-MDITP du 23 janvier 1975. Les droits et taxes liquidés sous ce régime sont exonérés.
