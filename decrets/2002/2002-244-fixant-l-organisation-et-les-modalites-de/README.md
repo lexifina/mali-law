@@ -1,0 +1,6 @@
+# Décret n°02-244/P-RM du 13 mai 2002 fixant l’organisation et les modalites de fonctionnement du centre de formation pratique forestier de tabakoro
+
+- Source : Journal officiel n°2002-15 du 31 mai 2002, <https://sgg-mali.ml/JO/2002/mali-jo-2002-15.pdf>
+- Signé / promulgué : 2002-05-13
+- En vigueur : 2002-05-31 (publication au Journal officiel n°2002-15 du 31 mai 2002 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 28 articles
