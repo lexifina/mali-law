@@ -1,0 +1,10 @@
+# Plan
+TITRE I : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 4)
+CHAPITRE I : DU CONSEIL D’ADMINISTRATION (Article 5)
+Section I : Des attributions (Article 5)
+Section 2 : De la composition (Article 7)
+Section 3: Du fonctionnement (Article 9)
+CHAPITRE II : DE LA DIRECTION GENERALE (Article 14)
+CHAPITRE III : DU COMITÉ DE GESTION (Article 19)
+TITRE II : DE LA TUTELLE (Article 21)
+TITRE III : DES DISPOSITIONS FINALES (Article 22 (Titre III))
