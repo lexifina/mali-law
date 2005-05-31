@@ -1,0 +1,3 @@
+# Article 2 (Titre None)
+La Direction Administrative et Financière du Ministère de l’Education Nationale est dirigée par un Directeur nommé par décret pris en Conseil des Ministres sur proposition du Ministre chargé de l’Education.
+Le Directeur Administratif et Financier est chargé, sous l’autorité du Ministre, de diriger, programmer, animer et contrôler les activités du service.
