@@ -1,0 +1,10 @@
+# Plan
+TITRE I : Des Organes d’Administration et de Gestion (Article 2)
+CHAPITRE I : Du Conseil d’Administration (Article 2)
+Section I : Des Attributions (Article 2)
+Section II : De la Composition (Article 4)
+Section III : Du Fonctionnement (Article 8)
+CHAPITRE II : De la Direction Générale (Article 9)
+CHAPITRE III : Du Comité de Gestion (Article 12)
+TITRE III : De la Tutelle (Article 14)
+TITRE IV : Des dispositions finales (Article 15)
