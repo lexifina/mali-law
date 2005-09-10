@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de Prêt, d’un montant de Cinq Millions Neuf Cent Trente Mille Unités de Compte (5.930.000 UC), signé à Tunis le 14 février 2005 entre la République du Mali et le Fonds Africain de Développement (FAD) pour le financement du Projet de création de zones durablement libérées de la mouche tsé-tsé et de la trypanosomiase en Afrique de l’Est et de l’Ouest.
