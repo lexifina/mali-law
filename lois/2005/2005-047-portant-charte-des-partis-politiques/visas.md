@@ -1,0 +1,13 @@
+# Visas
+L’Assemblée Nationale a délibéré et adopté en sa séance du 1er août 2005 ;
+Le Président de la République promulgue la loi dont la teneur suit :
+PREAMBULE
+Le 22 septembre 1960 est née la République du Mali. Le Peuple Malien affirmait ainsi au monde sa volonté d’indépendance et son attachement aux idéaux de liberté et de justice.
+En trois décennies de souveraineté, deux Républiques se sont succédées sous trois régimes politiques.
+Le jeu politique a été caractérisé par l’existence soit du parti unique de fait, soit du parti unique de droit ou l’absence de toute activité politique avec de graves violations des droits et libertés fondamentaux de l’Homme.
+Devant cette situation de blocage, le peuple à travers les associations, les organisations syndicales et la presse indépendante, a entrepris une lutte courageuse pour l’avènement de la démocratie. Il a consenti de grands sacrifices et payé un lourd tribut pour l’aboutissement heureux de cette lutte, et l’édification d’un Etat de Droit dans une société de démocratie pluraliste.
+Le 26 mars 1991 constitue le couronnement de la résistance de notre peuple contre la volonté de l’asservir, un peuple déterminé plus que jamais à bâtir un Etat de Droit et de démocratie pluraliste garantissant le libre choix des dirigeants et le plein épanouissement des droits individuels et collectifs et où seront bannies l’intolérance et la violence politique.
+Les soucis suivants ont animé le peuple dans sa lutte contre la dictature :
+- l’égale participation des citoyens à la vie politique par des moyens pacifiques et le regroupement autour d’un programme politique dans les organisations politiques de leur choix, - la sauvegarde et la consolidation de son indépendance, de l’intégrité territoriale et de l’unité nationale, - le libre jeu pacifique des partis politiques à concourir au suffrage universel, le rejet de toute forme de violence, de régionalisme, de racisme et de toute forme d’intolérance, - le Peuple Malien réaffirme son adhésion à la Déclaration Universelle des Droits de l’Homme du 10 décembre 1948 et aux textes subséquents.
+Il énonce les principes de formation, de fonctionnement et de financement des partis politiques à travers une loi appelée Charte des partis qui constitue un cadre moral et juridique pour les partis politiques au Mali.
+Les partis politiques remplissent une mission d’intérêt général, en concourant par les moyens pacifiques et démocratiques à la formation de la volonté politique, ainsi qu’à l’éducation civique des citoyens et des dirigeants ayant naturellement vocation à assumer des responsabilités publiques.
