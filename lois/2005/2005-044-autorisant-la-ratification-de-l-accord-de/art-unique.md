@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de Financement de Développement, d’un montant de Douze Millions Six Cent Mille Droits de Tirages Spéciaux (12.600.000 DTS) sous forme de crédit et d’un don de Vingt Trois Millions de Droits de Tirages Spéciaux (23.000.000 DTS), signé à Washington le 18 avril 2005 entre la République du Mali et l’Association Internationale de Développement (IDA) pour le financement du Projet d’Appui aux Sources de Croissance.
