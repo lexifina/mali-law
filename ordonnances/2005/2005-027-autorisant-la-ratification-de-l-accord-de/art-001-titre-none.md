@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Est autorisée la ratification de l’Accord de financement du Programme d’Investissement Rural des régions du Nord Mali (PIDRN), d’un montant de neuf millions cinq cent cinquante mille Droits de Tirages Spéciaux (9.550.000 DTS) sous forme de prêt et d’un don d’un montant de cinq cent trente mille Droits de Tirages Spéciaux (530.000 DTS) , signé le 24 mai 2005 à Rome (Italie) entre la République du Mali et le Fonds International pour le Développement Agricole (FIDA).
