@@ -1,0 +1,5 @@
+# Article unique
+La liste des produits visés au point IV de l’article 485 du Code Général des Impôts est modifiée ainsi qu’il suit :
+IV. Produits exonérés de la Taxe sur la Valeur Ajoutée (T.V.A)
+Nomenclature Produits Pomme de terre de semence Haricots de semence Haricots « petits rouges » de semence Haricots communs de semence Maïs de semence Riz non décortiqué de semence Arachides décortiquées de semence Graines de coton de semence Canne à sucre Pain de consommation courante Propane liquéfié Butane liquéfié Coke de pétrole, bitume de pétrole et autres résidus des huiles de pétrole ou de minéraux bitumineux Mélange bitumineux à base d’asphalte ou de bitume naturels, de bitume de pétrole, de goudron minéral ou de brai de goudron minéral (mastics bitumeux, cut-backs, par exemple) Médicaments, produits pharmaceutiques et vétérinaires
+07 01 10 00 00 07 13 31 00 10 07 13 32 00 10 07 13 33 00 10 10 05 10 00 00 10 06 10 10 00 12 02 20 10 00 12 07 20 10 00 12 12 92 00 00 19 05 90 00 10 27 11 12 00 00 27 11 13 00 00 Position 27 13 Position 27 15
