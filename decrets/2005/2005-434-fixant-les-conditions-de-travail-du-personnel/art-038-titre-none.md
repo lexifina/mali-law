@@ -1,0 +1,4 @@
+# Article 38 (Titre None)
+Le passage de l’enseignant contractuel à la catégorie supérieure est subordonné au changement d’emploi ou de qualification professionnelle. L’accès à la catégorie ’’A’’ s’opère exclusivement par voie de formation. L’accès à la catégorie ’’B’’ s’opère par voie d’examen professionnel ou par voie de contrôle pédagogique conformément aux textes régissant de la hiérarchisation des emplois.
+Le stage de formation ou de perfectionnement doit être autorisé par le Ministre chargé de la fonction publique.
+ARTICLE 39 Le reclassement dans la nouvelle catégorie s’effectue à l’échelon de base de cette catégorie. Toutefois, si le salaire attaché à cet échelon est inférieur à celui acquis dans l’ancienne catégorie, l’enseignant bénéficie d’office d’un nombre d’échelons lui permettant d’avoir un salaire égal ou immédiatement supérieur à celui acquis dans l’ancienne catégorie.

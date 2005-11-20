@@ -1,0 +1,2 @@
+# Article 53 (Titre None)
+Le présent décret abroge toutes dispositions contraires, notamment celles du Décret N°00- 038/P-RM du 27 janvier 2000 fixant les conditions de travail du personnel de l’administration relevant du Code du Travail et du Décret 04-131/P-RM du 21 avril 2004 portant modification du Décret N° 01-474/P-RM du 27 septembre 2001 portant allocation d’une indemnité spéciale de responsabilité au personnel enseignant, en ce qui concerne le personnel enseignant contractuel de l’Etat.

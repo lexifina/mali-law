@@ -1,0 +1,3 @@
+# Article 28 (Titre None)
+Toute interruption de service pour raison de santé, qu’il s’agisse d’une maladie ou d’un accident, donnant lieu ou non à l’hospitalisation, doit être justifiée par un certificat médical précisant si l’enseignant contractuel est hospitalisé ou en repos médical ainsi que les causes de l’incapacité de travail et les dates de début et de fin probables de cette incapacité.
+Sauf cas de force majeure, l’agent est tenu d’informer sans délai son service employeur de la survenance de l’accident ou de la maladie. La suspension du contrat est constatée par décision administrative après quatre (4) jours d’absence.

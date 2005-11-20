@@ -1,0 +1,2 @@
+# Article 6 (Titre None)
+Le personnel enseignant contractuel est chargé d’assurer l’éducation, l’enseignement et l’évaluation conformément aux objectifs définis par le programme officiel dans le respect de l’objectivité scientifique et des obligations professionnelles et morales. Il contribue à la rénovation des programmes et méthodes pédagogiques et participe aux activités d’assistance pédagogique, de recherche, de production du matériel didactique et plus généralement à l’animation de la vie scolaire.
