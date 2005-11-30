@@ -1,0 +1,8 @@
+# Visas
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu la Constitution ;
+Vu l’Ordonnance N°05-027/P-RM du 27 septembre 2005 autorisant la ratification de l’Accord de financement du Programme d’Investissement et de Développement des Régions du Nord du Mali (PIDRN), signé le 24 mai 2005 entre la République du Mali et le Fonds International de Développement Agricole ;
+Vu le Décret N°04-140/P-RM du 29 avril 2004 portant nomination du Premier Ministre ;
+Vu le Décret N°04-141/P-RM du 02 mai 2004 modifié, portant nomination des membres du Gouvernement ;
+Vu le Décret N°04-146/P-RM du 13 mai 2004 fixant les intérims des membres du Gouvernement.
+DECRETE :
