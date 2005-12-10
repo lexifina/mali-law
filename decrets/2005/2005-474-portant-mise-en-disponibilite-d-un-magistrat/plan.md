@@ -1,0 +1,8 @@
+# Plan
+CHAPITRE I : DES DISPOSITIONS GENERALES (Article 1er (Titre None))
+CHAPITRE II : DU CONSEIL REGIONAL DE LUTTE CONTRE LE SIDA (Article 4 (Titre None))
+CHAPITRE III : DU COMITE TECHNIQUE REGIONAL DE LUTTE CONTRE LE SIDA. (Article 10 (Titre None))
+CHAPITRE III : DES COMITES LOCAUX DE CERCLE OU DE COMMUNE DU DISTRICT DE BAMAKO (Article 18)
+CHAPITRE IV : DES COMITES COMMUNAUX DE LUTTE CONTRE LE VIH/SIDA (Article 25)
+CHAPITRE V : DISPOSITIONS FINALES (Article 32)
+I. Dépenses de personnel..................724 486 000 F CFA II. Matériel et fonctionement .........1 033 712 000 F CFA III. Equipement - investissement......1 109 473 278 F CFA _________________ Total Dépenses2................867 671 278 F CFA (Article 2 (Titre None))
