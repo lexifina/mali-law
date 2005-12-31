@@ -1,0 +1,13 @@
+# Visas
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu la Constitution ;
+Vu la Loi N°92-020 du 23 septembre 1992 portant Code du Travail en République du Mali ;
+Vu la Loi N°93-008 du 11 février 1993 déterminant les conditions de la libre administration des Collectivités Territoriales et ses textes modificatifs subséquents ;
+Vu la Loi N°99-041 du 12 août 1999 instituant un Code de Prévoyance Sociale en République du Mali ;
+Vu la Loi N°95-034 du 12 avril 1995 portant Code des Collectivités Territoriales et ses textes modificatifs subséquents ;
+Vu la Loi N°99-046 du 28 décembre 1999 portant Loi d’Orientation sur l’Education ;
+Vu le Décret N°05-435/P-RM du 13 octobre 2005 fixant les conditions de travail du personnel enseignant contractuel des collectivités territoriales ;
+Vu le Décret N°04-140/P-RM du 29 avril 2004 portant nomination du Premier ministre ;
+Vu le Décret N°04-141/P-RM du 02 mai 2004 modifié, portant nomination des membres du Gouvernement ;
+STATUANT EN CONSEIL DES MINISTRES,
+DECRETE :
