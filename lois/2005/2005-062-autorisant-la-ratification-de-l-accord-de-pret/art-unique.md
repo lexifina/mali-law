@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt d’un montant de Sept Millions (7.000.000) de Dinars Islamiques soit environ Cinq Milliards Trois Cent Quatre Vingt Dix Millions (5.390.000.000) de Francs CFA, signé le 14 septembre 2004 entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID), pour le financement du Projet de Construction de la Route Kayes-Bafoulabé.
