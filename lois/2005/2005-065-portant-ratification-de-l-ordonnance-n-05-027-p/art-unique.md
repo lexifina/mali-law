@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N° 05- 027/P-RM du 27 septembre 2005 autorisant la ratification de l’Accord de financement du Programme d’Investissement et de Développement Rural des Régions du Nord Mali (PIDRN), d’un montant de Neuf Millions Cinq Cent Cinquante Mille Droits de Tirages Spéciaux (9.550.000 DTS) sous forme de prêt et d’un don d’un montant de Cinq Cent Trente Mille Droits de Tirages Spéciaux (530.000 DTS), signé le 24 mai 2005 à Rome (Italie) entre la République du Mali et le Fonds International de Développement Agricole (FIDA).
