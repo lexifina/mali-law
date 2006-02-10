@@ -1,0 +1,2 @@
+# Article 7 (Titre None)
+Un centre directeur des opérations d’urgence (CDOU) doit être établi et fonctionnel vingt quatre (24 ) heures par jour pour faire face aux situations d’urgence à l’aéroport. Le centre directeur des opérations d’urgence doit avoir un emplacement fixe, une vue dégagée de l’aire de mouvement et du poste d’isolement d’aéronef. Il sert de base aux instances de décision des différents organes participant aux opérations d’urgence.
