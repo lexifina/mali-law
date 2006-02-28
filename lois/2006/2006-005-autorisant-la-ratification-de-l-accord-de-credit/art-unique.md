@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de crédit de Développement d’un montant de quarante millions quatre cent mille Droits de Tirage Spéciaux (40.400.000. DTS), soit trente milliards six cent quatre vingt huit millions (30.688.000.000.) de francs CFA environ, signé à Washington le 03 octobre 2005 entre la République du Mali et l’Association Internationale de Développement (IDA) pour le financement du Projet d’Appui aux Communautés Rurales (PACR).
