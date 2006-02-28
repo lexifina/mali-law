@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DE LA CREATION ET DES MISSIONS (Article 1er)
+CHAPITRE II : DE LA DOTATION INITIALE ET DES RESSOURCES (Article 4)
+CHAPITRE III (Article 6)
+: (Article 6)
+DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 6)
+CHAPITRE IV : DE LA TUTELLE (Article 7)
+CHAPITRE V (Article 17)
+: (Article 17)
+DES DISPOSITIONS PARTICULIERES (Article 17)
+ARTICLE l6 : Les études et travaux de recherche entrepris à l’Université de Bamako sont sanctionnés par des grades universitaires et des titres dont les modalités de délivrance sont déterminées par des textes réglementaires. (Article 17)
+En outre, d’autres études et travaux peuvent être financés et réalisés par l’Université de Bamako dans le cadre de ses activités de recherche. (Article 17)
+CHAPITRE VI : DES DISPOSITIONS FINALES (Article 18)
