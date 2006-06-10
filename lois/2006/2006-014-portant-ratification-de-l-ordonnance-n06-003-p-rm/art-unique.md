@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N°06- 003/P-RM du 24 février 2006 autorisant la ratification de l’Accord de Prêt, d’un montant de Deux Milliards Huit Cent Millions (2.800.000.000) de Francs CFA, signé à Bamako le 16 décembre 2005 entre la République du Mali et la Banque Ouest Africaine de Développement (BOAD) pour le financement partiel du Programme d’Investissement et de Développement Rural des Régions du Nord en République du Mali (PIDRN).
