@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N°06- 002/P-RM du 24 février 2006 autorisant la ratification de l’Accord de Prêt n°713, d’un montant de Six Millions (6.000.000) de Dinars Koweïtiens (DK) soit Dix Milliards (10.000.000.000) de Francs CFA environ, signé à Bamako le 05 décembre 2005 entre le Gouvernement de la République du Mali et le Fonds Koweïtien pour le Développement Economique Arabe (FKDEA), pour le financement partiel du Projet de Développement Intégré de Taoussa.
