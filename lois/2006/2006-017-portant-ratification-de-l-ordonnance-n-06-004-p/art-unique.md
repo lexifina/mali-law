@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N° 06-004/P-RM du 24 février 2006 autorisant la ratification de l’Accord de Prêt, d’un montant de Dix Millions de Dollars US (10.000.000) soit Cinq Milliards Deux Cent Cinquante Millions (5.250.000.000) de Francs CFA environ, signé à Vienne le 08 septembre 2005 entre la République du Mali et le Fonds de l’OPEP pour le Développement International pour le financement du Projet de route Kayes-Diamou-Bafoulabé.
