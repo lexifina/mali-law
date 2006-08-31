@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de Prêt d’un montant de Quinze Millions (15.000.000) d’Unités de Compte soit Onze Milliards Cinq Cent Quatre Vingt Quinze Millions (11.595.000.000) de Francs CFA, signé à Tunis le 02 juin 2006 entre le Gouvernement de la République du Mali et le Fonds Africain de Développement (FAD) pour le financement du Projet d’Appui au Développement Communautaire (PADEC) dans les régions de Kayes et Koulikoro.
