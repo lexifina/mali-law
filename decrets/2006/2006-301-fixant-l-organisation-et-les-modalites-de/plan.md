@@ -1,0 +1,12 @@
+# Plan
+TITRE I : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 2)
+CHAPITRE I : DU CONSEIL DE L’INSTITUT (Article 2)
+Section 1 : Des attributions (Article 2)
+Section 2 : De la composition (Article 3)
+Section 3 : Du fonctionnement (Article 8)
+CHAPITRE II : DE LA DIRECTION (Article 11)
+CHAPITRE III : DU COMITE SCIENTIFIQUE ET TECHNIQUE (Article 14)
+CHAPITRE IV : DU COMITE DE GESTION (Article 20)
+CHAPITRE V : DU COMITE D’ETHIQUE (Article 23)
+TITRE II : DE LA TUTELLE (Article 28)
+TITRE III : DES DISPOSITIONS FINALES (Article 33)
