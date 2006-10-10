@@ -1,0 +1,11 @@
+# Plan
+TITRE I Etude, contrôle surveillance des travaux et assistance aux promotions ..............................95.296.000 (Article 2)
+TITRE II Subvention ..................................171.312.000 (Article 2)
+TITRE III Divers ...........................................15.000.000 (Article 2)
+TITRE IV Recettes exceptionnelles ..............70.000.000 TOTAL ........................................................351.608.000 DEPENSES (Article 2)
+TITRE I Matériel ................................93.500.000 F CFA TITRE (Article 2)
+II Fournisseurs et comptes rattachés.......................................................31.000.000 F CFA (Article 2)
+TITRE III Charges de Personnel .........75.058.000 F CFA (Article 2)
+TITRE IV Achats de biens et services ......123.950.000 F CFA (Article 2)
+TITRE V Transferts Courants .....................500.000 F CFA TITRE (Article 2)
+VI Frais Financiers et Charges assimilées..........................................................300.000 F CFA TITRE VII Autres Charges de gestion courante................................................27.300.000 F CFA TOTAL .............................................351.608.000 F CFA (Article 2)
