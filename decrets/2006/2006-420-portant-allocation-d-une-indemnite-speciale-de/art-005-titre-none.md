@@ -1,0 +1,2 @@
+# Article 5 (Titre None)
+La Société DEGUESSI-IMMOBILIERE, est tenue de respecter la vocation de la parcelle de terrain visée à l’article 2 ci-dessus et de se conformer aux dispositions du cahier des charges relatif à l’opération immobilière concernée. A défaut, la cession réalisée en vertu de la présente autorisation sera résiliée de plein droit.

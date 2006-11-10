@@ -1,0 +1,2 @@
+# Article 6 (Titre None)
+Au vu d’une ampliation du présent arrêté et d’un exemplaire de la convention notariée visée à l’article 4 ci-dessus, le Chef du Bureau des Domaines et du Cadastre du District de Bamako procédera dans les livres fonciers du District de Bamako à la mutation du titre foncier 1856CVI de Bamako.
