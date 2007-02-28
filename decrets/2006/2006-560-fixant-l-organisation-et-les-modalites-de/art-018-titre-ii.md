@@ -1,0 +1,3 @@
+# Article 18 (Titre II)
+Sous l’autorité du Directeur, les Sous-directeurs préparent les études techniques, les programmes d’action concernant les matières relevant de leurs domaines de compétence, procèdent à l’évaluation périodique des programmes mis en œuvre, coordonnent et contrôlent les activités.
+Sous l’autorité du Directeur, le Chef du Centre de Coordination des Cellules de Communication planifie, supervise, contrôle et coordonne les activités des cellules de Communication.
