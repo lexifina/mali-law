@@ -1,0 +1,13 @@
+# Plan
+TITRE I : DE L’ORGANISATION (Article 3)
+CHAPITRE 1 : DU DIRECTEUR (Article 3)
+CHAPITRE 2 : DES STRUCTURES (Article 6)
+Section 1 : Du Secrétariat Général (Article 7)
+Section 2 : De la Cellule de Communication et d’Informatique (Article 8)
+Section 3 : Des Sous- Directions (Article 9)
+Sous-section 1 : De la Sous- Direction Action Sociale (Article 10)
+Sous-section 2 : De la Sous- Direction Reconversion des Militaires (Article 12)
+Sous-section 3 : De la Sous-Direction Administration du Personnel et Finances (Article 14)
+Section 5 : Des Bureaux d’Action Sociale (Article 16)
+TITRE II : DU FONCTIONNEMENT (Article 17)
+TITRE III : DES DISPOSITIONS FINALES (Article 20)
