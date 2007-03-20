@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de financement d’un montant de Vingt Quatre Millions (24.000.000) de Droits de Tirages Spéciaux (DTS) soit environ Dix Huit Milliards Deux Cent Quatre Vingt Dix Sept Millions Trois Cent Soixante Mille (18.297.360.000) Francs CFA, signé à Bamako le 1er septembre 2006 entre la République du Mali et l’Association Internationale de Développement (AID) pour le financement du Programme d’Investissement Sectoriel de l’Education, phase II (PISE II).
