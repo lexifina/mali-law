@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : DES DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 3)
+Section 1 : Du Comité de Pilotage (Article 4)
+Section 2 : De la Direction du Centre (Article 8)
+Du Directeur (Article 8)
+Section 3 : De la Base d’Intervention de Gao (Article 18)
+Section 4 : Des Points d’Appui d’ Aguel Hoc, de Kidal et de Yélimané (Article 20)
+CHAPITRE III : DU FONCTIONNEMENT (Article 21)
+CHAPITRE IV : DES DISPOSITIONS FINALES (Article 22)
