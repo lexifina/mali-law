@@ -1,0 +1,2 @@
+# Article 5 (Titre None)
+Le régisseur d’avances est tenu de produire au Payeur Général du Trésor les pièces justificatives des paiements qu’il effectue dans un délai de trois (3) mois et obligatoirement le 31 décembre de chaque année. Il ne peut être fait de nouvelles avances avant l’entière justification des précédentes.
