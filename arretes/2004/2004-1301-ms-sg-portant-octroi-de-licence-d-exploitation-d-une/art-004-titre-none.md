@@ -1,0 +1,2 @@
+# Article 4 (Titre None)
+Le contrôle dudit établissement est effectué par l’Inspection de la Santé et la Direction Nationale de la Santé.
