@@ -1,0 +1,3 @@
+# Signatures
+
+Bamako, le 22 février 2007 Le Président de la République, Amadou Toumani TOURE Le Premier Ministre, Ousmane Issoufi MAIGA Le Ministre de l’Equipement et des Transports, Abdoulaye KOITA Le Ministre de l’Administration Territoriale et des Collectivités Locales, Général Kafougouna KONE Le Ministre de la Défense et des Anciens Combattants, Mamadou Clazié CISSOUMA Le Ministre de la Sécurité Intérieure et de la Protection Civile, Général Sadio GASSAMA Le Ministre des Maliens de l’Extérieur et de l’Intégration Africaine, Ministre des Affaires Etrangères et de la Coopération Internationale par intérim, Oumar Hamadoun DICKO Le Ministre de l’Economie et des Finances, Abou-Bakar TRAORE Le Ministre da Justice, Garde des Sceaux, Madame Fanta SYLLA
