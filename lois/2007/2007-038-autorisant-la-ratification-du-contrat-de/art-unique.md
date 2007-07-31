@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée, la ratification du contrat de financement d’un montant de Onze Millions (11.000.000) d’Euros, soit Sept Milliards Deux Cent Quinze Millions Cinq Cent Vingt Sept Mille (7.215.527.000) Francs CFA du Projet Régional d’Aménagement Hydroélectrique de Félou B, signé à Bamako le 23 novembre 2006 entre le Gouvernement de la République du Mali, la Banque Européenne d’Investissement (BEI), la Société de Gestion de l’Energie de Manantali (SOGEM) et l’Organisation pour la Mise en Valeur du Fleuve Sénégal (OMVS).
