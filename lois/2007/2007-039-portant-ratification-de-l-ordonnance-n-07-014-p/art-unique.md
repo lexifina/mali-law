@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N° 07-014/ P-RM du 28 mars 2007 autorisant la ratification de l’Accord de Prêt d’un montant de Dix Millions d’Unités de Compte (10.000.000 UC) soit Sept Milliards Six Cent Vingt Trois Millions Neuf Cent Mille (7.623.900.000) Francs CFA environ, signé à Tunis le 1er février 2007 entre la République du Mali et le Fonds Africain de Développement (FAD) pour le financement du Projet d’Appui à la Filière Coton-Textile dans les quatre pays de l’Initiative Sectorielle sur le Coton.
