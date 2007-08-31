@@ -1,0 +1,4 @@
+# Article 2 (Titre None)
+Les Commissions Administratives Paritaires se réunissent :
+- soit en formation d’avancement sous la dénomination de Commission d’Avancement ;
+- soit en formation disciplinaire sous la dénomination de Conseil de Discipline.
