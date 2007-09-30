@@ -1,0 +1,12 @@
+# Plan
+TITRE I : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 2)
+CHAPITRE I : Du Conseil de Surveillance (Article 3)
+SECTION I : Des attributions (Article 3)
+SECTION II : De la composition (Article 4)
+SECTION III : Du fonctionnement. (Article 6)
+CHAPITRE II : DE L’UNITE DE GESTION DU PROJET (Article 8)
+CHAPITRE III : DU COMITE REGIONAL DE CONCERTATION (Article 17)
+SECTION I : Des attributions (Article 17)
+SECTION II : De la composition (Article 18)
+SECTION III : Du fonctionnement (Article 19)
+TITRE II : DISPOSITION FINALE (Article 20)
