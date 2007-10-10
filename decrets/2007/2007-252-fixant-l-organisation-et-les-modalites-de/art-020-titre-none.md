@@ -1,0 +1,3 @@
+# Article 20 (Titre None)
+Le Conseil de Discipline ne peut délibérer valablement que s’il réunit au moins les 2/3 de ses membres.
+Les décisions sont prises à la majorité simple. En cas de partage de voix, celle du président est prépondérante.
