@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N° 07- 017/P-RM du 6 juillet 2007 autorisant la ratification de l’Accord de Financement relatif au Premier Crédit d’Appui à la Stratégie de Réduction de la Pauvreté d’un montant de trente millions de Droits de Tirage Spéciaux (30.000.000) DTS, soit vingt deux milliards huit cent soixante millions (22.860.000.000) de Francs CFA, signé à Washington le 12 mars 2007 entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA).
