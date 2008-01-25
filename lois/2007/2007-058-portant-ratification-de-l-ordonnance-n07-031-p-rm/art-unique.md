@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N° 07- 031/P-RM du 1er août 2007 autorisant la ratification de l’Accord de prêt, d’un montant de sept millions de Dinars Islamiques (7 000 000 DI) soit environ cinq milliards cent soixante et un millions quatre cent cinquante mille francs CFA (5 161 450 000) francs CFA , signé à Dakar le 30 mai 2007 entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID) pour le financement du Projet de construction de la route Bandiagara-Bankass-Koro-Burkina Faso.
