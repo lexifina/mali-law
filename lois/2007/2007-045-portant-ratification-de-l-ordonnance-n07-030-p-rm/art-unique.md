@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N° 07- 030/P-RM du 24 juillet 2007 autorisant la ratification de l’Accord de prêt d’un montant de quinze millions d’Unités de Compte (15 000 000 UC) soit onze milliards quatre cent trente cinq millions huit cent cinquante mille (11 435 850 000) francs CFA environ, signé à Shanghai le 17 mai 2007 entre le Gouvernement de la République du Mali et le Fonds Africain de Développement (FAD) pour le financement du Projet d’Appui au Développement des Productions Animales dans la zone de Kayes Sud-PADEPA/KS.
