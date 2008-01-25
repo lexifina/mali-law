@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de crédit d’un montant de Quarante Cinq Millions (45.000.000) de Dollars des Etats-Unis soit environ Vingt Un Milliards Deux Cent Vingt Neuf Millions (21.229.000.000) de Francs CFA, signé à New Delhi (Inde), le 14 août 2007 entre la République du Mali et Export-Import Bank of India (EXIM Bank) pour le financement partiel du Projet d’Interconnexion des Réseaux Electriques du Mali et de la Côte d’Ivoire.
