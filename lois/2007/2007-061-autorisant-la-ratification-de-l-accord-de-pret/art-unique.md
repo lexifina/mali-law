@@ -1,0 +1,2 @@
+# Article unique
+Est ratifié l’Accord de Prêt d’un montant de Neuf Millions Cinq Cent Mille (9.500.000) Dollars US, soit Quatre Milliards Cinq Cent Quatre Vingt Trois Millions Sept Cent Cinquante Mille (4.583.750.000) Francs CFA environ, signé à Bamako, le 02 mai 2007 entre le Gouvernement de la République du Mali et la Banque Arabe pour le Développement Economique en Afrique (BADEA), pour le financement du Projet des Voiries Urbaines -Troisième Programme.
