@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N° 07- 037/P-RM du 18 septembre 2007 autorisant la ratification de l’Accord de financement d’un montant de Onze Millions Neuf Cent Mille Droits de Tirages Spéciaux (11.900.000 DTS) soit environ Neuf Milliards Soixante Sept Millions Huit Cent Mille Francs CFA (9.067.800.000 F CFA), relatif au Projet de Développement des Ressources en Eau et de Gestion Durable des Ecosystèmes dans le Bassin du Niger, signé à Niamey le 26 juillet 2007 entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA).
