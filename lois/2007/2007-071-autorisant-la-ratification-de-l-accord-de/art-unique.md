@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de financement de la première phase du Projet d’Appui au Programme sur la promotion de la productivité agricole en Afrique de l’Ouest d’un montant de Dix Millions Cent Mille Droits de Tirage Spéciaux (10.100.000 DTS), soit Sept Milliards Quatre Cent Treize Millions Quatre Cent Mille Francs CFA (7.413.400.000 Francs CFA), signé à Washington le 21 juin 2007, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA).
