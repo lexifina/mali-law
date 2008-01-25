@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N° 07- 032/P-RM du le’ août 2007 autorisant la ratification de l’Accord de financement additionnel du Projet de Service Agricoles et d’Organisations de Producteurs d’un montant de Treize Millions Trois Cent Mille Droits de Tirage Spéciaux (13.300.000 DTS) soit Dix Milliards Cent Trente Quatre Millions Six Cent Mille (10.134.600.000) F CFA environ, signé à Bamako le 05 juin 2007 entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA).
