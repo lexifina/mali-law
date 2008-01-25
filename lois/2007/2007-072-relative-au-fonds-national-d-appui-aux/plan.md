@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE 1 : DES DISPOSITONS GENERALES (Article 1er)
+CHAPITRE II : DE LA CONSTITUTION ET DE LA DESTINATION DES DOTATIONS (Article 5)
+Section 1 : De la Dotation d’Investissement des Collectivités Territoriales (Article 5)
+Section 2 : De la Dotation pour la Garantie des Emprunts des Collectivités Territoriales (Article 7)
+Section 3 : De la Dotation pour les Appuis Techniques (Article 9)
+Section 4 : De la Dotation pour l’Appui au Fonctionnement des Collectivités Territoriales (Article 11)
+Section 5 : De la Dotation pour l’Inter Collectivité (Article 13)
+CHAPITRE III : DE LA GESTION FINANCIERE ET COMPTABLE DU FONDS NATIONAL D’APPUI AUX COLLECTIVITES TERRITORIALES (Article 15)
+CHAPITRE IV : DES DISPOSITIONS FINALES (Article 19)
