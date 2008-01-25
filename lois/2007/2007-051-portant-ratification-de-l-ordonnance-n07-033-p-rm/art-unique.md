@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N° 07- 033/P-RM du 1er août 2007 autorisant la ratification de l’Accord de Financement d’un montant de quinze millions (15 000 000) de Droits de Tirage Spéciaux (DTS) soit environ onze milliards quatre cent trente cinq millions huit cent cinquante mille (11 435 850 000) francs CFA, signé à Bamako le 05 juin 2007 entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA) pour le financement additionnel du Programme de Dépenses Sectorielles de l’Education (phase II).
