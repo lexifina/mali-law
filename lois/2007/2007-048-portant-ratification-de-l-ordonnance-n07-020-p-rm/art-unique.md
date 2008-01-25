@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N° 07- 020/P-RM du 18 juillet 2007 autorisant la ratification du Protocole à la Convention de l’OUA sur la Prévention et la Lutte contre le terrorisme, adopté à Addis-Abeba (Ethiopie), le 08 juillet 2004 par la 3ème session ordinaire de la Conférence de l’Union Africaine.
