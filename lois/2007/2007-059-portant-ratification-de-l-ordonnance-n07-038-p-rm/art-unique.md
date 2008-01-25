@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N° 07- 038/P-RM du 25septembre 2007 autorisant la ratification de l’Accord de prêt, d’un montant de quatre milliards cinq cent millions de francs CFA (4 500 000 000), signé à Bamako le 28 août 2007 entre le Gouvernement de la République du Mali et la Banque Ouest Africaine de Développement (BOAD), pour le financement partiel du Projet d’aménagement et de bitumage de la route Bandiagara-Bankass-Koro-Frontière du Burkina Faso.
