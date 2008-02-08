@@ -1,0 +1,7 @@
+# Signatures
+
+Bamako, le 22 janvier 2008
+Le Président de la République, Amadou Toumani TOURE
+ARRETES
+MINISTERE DE LA PROMOTION DES INVESTISSEMENTS ET DES PETITES ET
+MOYENNES ENTREPRISES
