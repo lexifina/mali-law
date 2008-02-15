@@ -1,0 +1,2 @@
+# Article 6 (Titre None)
+Pour la réalisation des travaux relatifs au service autorisé, la Société HORONYA-TOUBA Sarl a l’obligation de se conformer aux dispositions législatives et réglementaires, notamment celles régissant le secteur de l’électricité, la construction et l’urbanisme, celles relatives aux règlements de voirie, et aux normes techniques sur l’emploi des matériaux et des technologies.

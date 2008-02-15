@@ -1,0 +1,2 @@
+# Article 9 (Titre None)
+A l’expiration de l’autorisation, la zone couverte est ouverte à concurrence, l’ancien opérateur est lui-même autorisé à concourir.

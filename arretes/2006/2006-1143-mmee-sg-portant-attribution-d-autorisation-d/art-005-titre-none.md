@@ -1,0 +1,29 @@
+# Article 5 (Titre None)
+La société HORONYA-TOUBA Sarl est tenue de respecter les dispositions suivantes :
+- temps de fourniture de service par réseau : 16 heures par jour et cette durée peut évoluer dans le temps en fonction du nombre d’abonnés et de l’accroissement des bénéfices de l’opérateur ;
+- nombre minimal d’abonnés : 510 clients réseaux (domestiques et productifs) dont 70 points d’éclairage public et 265 clients solaires dont 15 points d’éclairage dès la première année ;
+- taux de perte globale (production et distribution) 12 % maximum ;
+- consommation spécifique de combustible : 0,231 K Wh au maximum ;
+- autonomie parc batterie : 3 j minimum ;
+- temps d’utilisation des points lumineux solaire : 6 h/jour minimum.
+- Les tarifs de départ que sont :
+(i) Tarifs mensuels forfaitaires
+Service 1 Eclairage public : 1 650 F CFA/mois Service 2 : 2 650 F CFA/mois Service 3 : 4 550 F CFA/mois
+(ii) Tarifs par k Wh
+Service 4 : 185 F CFA/kWh/ mois et 60 F CFA/Wc pour le solaire
+La société HORONYA-TOUBA Sarl est tenue à la communication à l’AMADER les documents, renseignements et informations ci-après :
+- dans le mois qui suit l’octroi de l’Arrêté d’Autorisation, le programme de travail actualisé et le budget y afférent ;
+- un contrat d’abonnement type ;
+- avant le 1er décembre de chaque année, le programme des travaux de l’année suivante et les dépenses y afférentes ;
+- les comptes de l’année écoulée ;
+- la production hebdomadaire ;
+- la consommation de fuel hebdomadaire ;
+- le nombre d’heures de fonctionnement hebdomadaire ;
+- les statistiques d’abonnés et de coût de service :
+(i) par abonné : noms et adresses, date du contrat, date de démarrage d’approvisionnement, date de résiliation si applicable, catégorie tarifaire, facturation mensuelle (kWh, si mesuré, et montant) et montant non payé ;
+(ii) par catégorie tarifaire et pour l’ensemble des abonnés : nombre au début et à la fin du mois, ventes mensuelles (K Wh si applicable et montant), comptes à recevoir :
+- les interruptions de services : causes, nombre, durées ;
+- les prix moyens mensuels de vente de l’électricité ainsi que les tarifs.
+- Les rapports périodiques suivants :
+(i) dans la 1ère quinzaine de chaque trimestre un rapport trimestriel établissant de façon succincte son activité au cours du trimestre précédant ;
+(ii) dans le 1er trimestre de chaque année, un rapport annuel exposant de façon détaillée les activités et les résultats obtenus au cours de l’année précédente.

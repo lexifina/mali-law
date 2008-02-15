@@ -1,0 +1,2 @@
+# Article 10 (Titre None)
+L’AMADER organisera une présélection des candidats à la reprise des autorisations et au rachat des équipements sur la base de critères de compétence. Les candidats retenus à l’issue de cette présélection seront invités à proposer un prix de rachat des équipements. Le candidat le mieux disant sera sélectionné.
