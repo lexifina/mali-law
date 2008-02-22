@@ -1,0 +1,2 @@
+# Article 3 (Titre I)
+Les listes électorales sont tenues à la mairie de chaque chef-lieu de région. Elles sont établies par une commission désignée par le Gouverneur de Région. Cette Commission est présidée par un magistrat et comprend un représentant du Gouverneur de Région, un représentant de chacune des sections de la délégation régionale désignée par le Président de la Chambre de Commerce et d’Industrie du Mali, un représentant du Maire de la Commune et un représentant de l’administration fiscale.

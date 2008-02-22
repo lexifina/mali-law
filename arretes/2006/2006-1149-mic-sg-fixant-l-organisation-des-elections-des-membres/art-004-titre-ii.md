@@ -1,0 +1,2 @@
+# Article 4 (Titre II)
+Le présent arrêté qui prend effet pour compter de sa date de signature, sera enregistré, publié et communiqué partout où besoin sera.

@@ -1,0 +1,2 @@
+# Article 4 (Titre I)
+Dès l’ouverture des listes électorales, les personnes désirant prendre part au scrutin doivent requérir leur inscription sur lesdites listes. Nul ne peut être électeur à plus d’une section à la fois. Les personnes menant des activités dans deux ou plusieurs branches relevant de sections différentes, doivent préciser par écrit la section à laquelle elles désirent être électeurs.
