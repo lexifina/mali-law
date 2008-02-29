@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de Prêt d’un montant de Cinq Millions d’Unités de Compte (5.000.000 UC), soit Trois Milliards Huit Cent Dix Millions de Francs CFA (3.810.000.000 F CFA) environ, signé à Tunis le 16 novembre 2007 entre le Gouvernement de la République du Mali et le Fonds Africain de Développement (FAD) pour le financement du Projet d’Appui à la décentralisation et au Développement Economique Régional (PADDER).
