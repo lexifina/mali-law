@@ -1,0 +1,2 @@
+# Article 4 (Titre None)
+Les dépenses exécutées dans le cadre de la régie spéciale ne peuvent déroger aux dispositions de l’article 3 du Décret n°95-401/P-RM du 10 novembre 1995 modifié portant Code des Marchés Publics.

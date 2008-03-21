@@ -1,0 +1,2 @@
+# Article 6 (Titre None)
+Le montant maximum des disponibilités que le régisseur est autorisé à détenir en espèces est fixé à un million (1 000 000) francs CFA.
