@@ -1,0 +1,6 @@
+# Arrêté n°06-1548/MS-SG du 14 juillet 2006 portant transfert de site du Cabinet médical d’Ophtalmologie
+
+- Source : Journal officiel n°2008-12 du 21 mars 2008, <https://sgg-mali.ml/JO/2008/mali-jo-2008-12.pdf>
+- Signé / promulgué : 2006-07-14
+- En vigueur : 2008-03-21 (publication au Journal officiel n°2008-12 du 21 mars 2008 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 5 articles
