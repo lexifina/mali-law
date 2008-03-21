@@ -1,0 +1,2 @@
+# Article 2 (Titre None)
+La régie d’avances a pour objet le paiement au comptant des menues dépenses relatives au fonctionnement des services et dont le montant est égal ou inférieur à cent mille (100 000) francs CFA.
