@@ -1,0 +1,6 @@
+# Décret n°08-112/PM-RM du 3 mars 2008 portant création d’un comite national de concertation sur la filière blé
+
+- Source : Journal officiel n°2008-14 du 4 avril 2008, <https://sgg-mali.ml/JO/2008/mali-jo-2008-14.pdf>
+- Signé / promulgué : 2008-03-03
+- En vigueur : 2008-04-04 (publication au Journal officiel n°2008-14 du 4 avril 2008 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 10 articles
