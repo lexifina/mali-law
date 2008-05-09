@@ -1,0 +1,6 @@
+# Signatures
+
+Bamako, le 23 août 2005
+Le Ministre de l’Economie et des Finances, Abou-Bakar TRAORE
+MINISTERE DE LA PROMOTION DES INVESTISSEMENTS ET DES PETITES ET
+MOYENNES ENTREPRISES
