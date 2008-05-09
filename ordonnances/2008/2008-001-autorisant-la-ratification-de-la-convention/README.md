@@ -1,0 +1,6 @@
+# Ordonnance n°08-001/P-RM du 27 mars 2008 autorisant la ratification de la Convention portant statut du fleuve volta et création de l’Autorité du Bassin de la Volta (ABV), signée à Ouagadougou le 19 janvier 2007
+
+- Source : Journal officiel n°2008-19 du 9 mai 2008, <https://sgg-mali.ml/JO/2008/mali-jo-2008-19.pdf>
+- Signé / promulgué : 2008-03-27
+- En vigueur : 2008-05-09 (publication au Journal officiel n°2008-19 du 9 mai 2008 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 2 articles
