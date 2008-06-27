@@ -1,0 +1,5 @@
+# Signatures
+
+Bamako, le 13 mai 2008
+Le Président de la République, Amadou Toumani TOURE
+Le Premier Ministre, Modibo SIDIBE Le Ministre de l’Economie, de l’Industrie et du Commerce, Ahmadou Abdoulaye DIALLO Le Ministre des Finances, Abou-Bakar TRAORE Le Ministre de la Justice, Garde des Sceaux, Ministre du Travail, de la Fonction Publique et de la Réforme de l’Etat par intérim, Maharafa TRAORE Le Ministre de la Justice, Garde des Sceaux, Ministre de l’Emploi et de la Formation Professionnelle par intérim, Maharafa TRAORE Le Ministre du Développement Social de la Solidarité et des Personnes Agées, Sékou DIAKITE Le Ministre de la Justice, Garde des Sceaux, Maharafa TRAORE Le Ministre de la Promotion de la Femme, de l’Enfant et de la Famille Ministre de la Santé par intérim, Madame MAIGA SINA DAMBA Le Ministre des Enseignements Secondaire, Supérieur et de la Recherche Scientifique, Amadou TOURE Le Ministre des Enseignements Secondaire, Supérieur et de la Recherche Scientifique, Ministre de l’Education de Base, de l’Alphabétisation et des Langues Nationales par intérim, Amadou TOURE
