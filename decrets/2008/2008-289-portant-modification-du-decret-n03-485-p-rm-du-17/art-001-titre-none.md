@@ -1,0 +1,12 @@
+# Article 1er (Titre None)
+Les lignes N°1 et 14 du point I : Lotissement de ACI 2000 de l’article 1er du décret du 17 novembre 2003 susvisé sont modifiées ainsi qu’il suit :
+I.
+LOTISSEMENT DE ACI 2000
+Situation des équipements (espaces verts, places publiques et équipements collectifs)
+N° Désignation des parcelles
+Prévision des plans
+Etat des lieux
+Observations
+Quartier
+Responsab 1 1523 Mosquée Non occupé Haut Conseil Islamique du Mali
+ACI 2000 MC-MATCL 14 3011 Armée Non occupé Armée ACI 2000 M-DEFENSE
