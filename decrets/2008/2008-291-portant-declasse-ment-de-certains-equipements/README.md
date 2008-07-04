@@ -1,0 +1,6 @@
+# Décret n°08-291/P-RM du 16 mai 2008 portant déclasse-ment de certains équipements collectifs du District de Bamako et leurs emprises du domaine public immobilier de l’Etat
+
+- Source : Journal officiel n°2008-27 du 4 juillet 2008, <https://sgg-mali.ml/JO/2008/mali-jo-2008-27.pdf>
+- Signé / promulgué : 2008-05-16
+- En vigueur : 2008-07-04 (publication au Journal officiel n°2008-27 du 4 juillet 2008 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 2 articles
