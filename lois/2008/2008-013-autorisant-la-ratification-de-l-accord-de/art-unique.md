@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de financement d’un montant de Vingt Six Millions Cinq Cent Mille (26.500.000 DTS) de Droits de Tirages Spéciaux, soit environ Dix Neuf Milliards Cinq Cent Trente Millions (19 530 000 000) de Francs CFA, signé à Bamako, le 10 mars 2008 entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA) relatif au Second Crédit d’Appui à la Stratégie de la Réduction de la Pauvreté.
