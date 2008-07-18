@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N° 08-002/ P-RM du 27 mars 2008 autorisant la ratification de l’Accord de crédit d’un montant de Deux Millions Quatre Vingt Dix Mille Cent Quatre Vingt Seize (2.090.196) Euros soit Un Milliard Trois Cent Soixante Onze Millions Soixante Dix Huit Mille Six cent Quatre Vingt Sept virgule Cinq Cent Soixante Douze (1 371 078 697,572) Francs CFA, signé à Bamako le 25 janvier 2008 entre la République du Mali et Fortis Bank pour le financement de la phase II du Projet d’Assainissement de la Zone Industrielle de Sotuba.
