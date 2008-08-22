@@ -1,0 +1,11 @@
+# Plan
+SOUS-SECTION 20 : TAXE-EMPLOI JEUNES (Article 2)
+ARTICLE 227-D : La Taxe afférente aux paiements effectués pendant un mois déterminé doit être déclarée dans les quinze premiers jours du mois suivant, ou le cas échéant, le premier jour ouvrable suivant le quinzième jour dudit mois lorsque celui-ci tombe sur un jour non ouvrable, à la Recette des impôts dont relève le siège de l’entreprise qui en est le redevable. (Article 2)
+A cet effet, les redevables utilisent les imprimés mis à leur disposition par l’Administration. (Article 2)
+ARTICLE 227-E : Lorsque le montant mensuel de la Taxe n’excède pas cinq mille francs la déclaration peut n’être effectuée que dans les quinze premiers jours des mois d’avril, juillet, octobre et janvier pour chaque trimestre écoulé. (Article 2)
+Si, pour un mois déterminé, le montant de la Taxe vient à excéder cinq mille francs, la totalité de la Taxe due depuis le début du trimestre en cours doit être déclarée dans les quinze premiers jours du mois suivant. (Article 2)
+ARTICLE 227-F : Dans le cas de transfert de domicile, d’établissement ou de bureau hors du ressort d’une Recette des impôts, ainsi que dans le cas de cession ou de cessation d’activité ou d’entreprise, la Taxe due doit être immédiatement déclarée. (Article 2)
+ARTICLE 227-G : En cas de décès de l’employeur, la Taxe due doit être déclarée par les héritiers dans les quinze premiers jours du mois suivant celui du décès. (Article 2)
+ARTICLE 227-H : L’employeur qui souscrit, après les délais fixés aux articles 227-D à 227-G du présent Livre, la déclaration relative à la Taxe est passible d’une amende égale à 50 % de l’impôt dû d’après cette déclaration. (Article 2)
+Cette amende est portée à 100 % si la déclaration est déposée après intervention du service ou en cas de taxation d’office. (Article 2)
+Les omissions et inexactitudes constatées dans les déclarations relatives à la Taxe-Emploi Jeunes sont sanctionnées par une amende égale à 100 % des droits compromis. (Article 2)
