@@ -1,0 +1,3 @@
+# Article 5 (Titre None)
+Chaque matière donne lieu à l’attribution d’une note chiffrée comprise entre 0 et 20.
+Une moyenne supérieure ou égale à 10 sur 20 est requise pour l’obtention de la licence de guide de chasse.
