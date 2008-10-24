@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : DU CHEF DE L’ETAT-MAJOR PARTICULIER (Article 2)
+CHAPITRE II : DU CABINET (Article 5)
+CHAPITRE III : DES CELLULES (Article 9)
+ARTICLE 8 L’Etat-major Particulier du président de la République comprend trois cellules suivantes : (Article 9)
+- une Cellule Administration -Logistique ; (Article 9)
+- une Cellule Opérations ; (Article 9)
+- une Cellule Défense et Documentation. (Article 9)
+CHAPITRE IV : DE L’AIDE DE CAMP (Article 11)
+CHAPITREV : DES DISPOSITIONS DIVERSES ET FINALES (Article 12)
