@@ -1,0 +1,7 @@
+# Signatures
+
+Bamako, le 27 février 2007
+Le Ministre de l’Economie des Finances, Abou-Bakar TRAORE
+MINISTERE DE LA PROMOTION DES
+INVESTISSEMENTS ET DES PETITES
+MOYENNES ENTREPRISES
