@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DES ATTRIBUTIONS (Article 2)
+CHAPITRE II : DE L’ORGANISATION (Article 3)
+SECTION 1 : DU CHEF DU CABINET DE DEFENSE DU PREMIER MINISTRE (Article 3)
+SECTION 2 : DES STRUCTURES ARTICLE 9 : Le Cabinet de Défense du Premier Ministre comprend (Article 10)
+- un Secrétariat Particulier ; (Article 10)
+- un Secrétariat Général ; (Article 10)
+- des cellules. (Article 10)
+SECTION 3 : DES CELLULES (Article 14)
+CHAPITRE III : DES MODALITES DE FONCTIONNEMENT (Article 19)
+CHAPITRE IV : DES DISPOSITIONS FINALES (Article 21)
