@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n° 08- 004/P-RM du 15 septembre 2008 autorisant la ratification de l’Accord de financement du projet régional de facilitation des transports et du transit en Afrique de l’Ouest, d’un montant de vingt quatre millions six cent mille (24 600 000) DTS soit environ seize milliards sept cent vingt deux millions trois cent quarante deux mille (16 722 342 000) Francs CFA, signé à Bamako, le 17 juillet 2008 entre la République du Mali et l’Association Internationale de Développement (IDA).
