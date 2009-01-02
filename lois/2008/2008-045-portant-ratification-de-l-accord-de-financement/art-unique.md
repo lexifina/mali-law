@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de financement additionnel du Projet Energie Domestique et Accès Universel d’un montant de vingt et un millions six cent mille Droit de Tirages Spéciaux (21 600 000 DTS) soit environ quinze milliards quatre cent vingt six millions soixante douze mille francs CFA (15 426 072 000 F CFA), signé à Bamako le 03 octobre 2008 entre le Gouvernement de la République du Mali et l’Association Internationale pour le Développement (IDA).
