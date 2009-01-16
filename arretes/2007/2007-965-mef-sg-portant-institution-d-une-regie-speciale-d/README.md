@@ -1,0 +1,6 @@
+# Arrêté n°07-0965/MEF-SG du 18 avril 2007 portant institution d’une régie spéciale d’avances auprès de la DAF du Ministère de l’Administration Territoriale et des Collectivités Locales
+
+- Source : Journal officiel n°2009-03 du 16 janvier 2009, <https://sgg-mali.ml/JO/2009/mali-jo-2009-03.pdf>
+- Signé / promulgué : 2007-04-18
+- En vigueur : 2009-01-16 (publication au Journal officiel n°2009-03 du 16 janvier 2009 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 12 articles
