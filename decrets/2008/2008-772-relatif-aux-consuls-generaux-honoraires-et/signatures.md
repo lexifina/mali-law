@@ -1,0 +1,8 @@
+# Signatures
+
+Bamako, le 29 décembre 2008
+Le Président de la République, Amadou Toumani TOURE
+Le Premier ministre, Modibo SIDIBE
+Le Ministre de l’Administration Territoriale et des Collectivités Locales, Général Kafougouna KONE
+Le Ministre des Affaires Etrangères et de la Coopération Internationale, Moctar OUANE
+Le Ministre des Finances, Abou-Bakar TRAORE Le Ministre de la Sécurité Intérieure et de la Protection Civile, Sadio GASSAMA
