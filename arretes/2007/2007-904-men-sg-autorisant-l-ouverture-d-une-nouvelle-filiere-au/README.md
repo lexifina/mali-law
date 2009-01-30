@@ -1,0 +1,6 @@
+# Arrêté n°07-0904/MEN-SG du 13 avril 2007 autorisant l’ouverture d’une nouvelle filière au Centre Abdoulaye DIARRA de Djikoroni Para
+
+- Source : Journal officiel n°2009-05 du 30 janvier 2009, <https://sgg-mali.ml/JO/2009/mali-jo-2009-05.pdf>
+- Signé / promulgué : 2007-04-13
+- En vigueur : 2009-01-30 (publication au Journal officiel n°2009-05 du 30 janvier 2009 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 3 articles
