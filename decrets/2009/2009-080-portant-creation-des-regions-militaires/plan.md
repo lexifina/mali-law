@@ -1,0 +1,11 @@
+# Plan
+TITRE I : DES DISPOSITIONS GENERALES (Article 1er (Titre I))
+TITRE II : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 4 (Titre II))
+CHAPITRE I : DU CONSEIL D’ADMINISTRATION (Article 4 (Titre II))
+Section I : Des attributions. (Article 4 (Titre II))
+Section II : De la composition (Article 5)
+Section III : De la représentation des usagers et du personnel au Conseil d’Administration (Article 6)
+CHAPITRE II : DE LA DIRECTION GENERALE (Article 8)
+CHAPITRE III : DE LA REPRESENTATION DU PERSONNEL AU COMITE DE GESTION (Article 11)
+TITRE II : DE LA TUTELLE (Article 12)
+TITRE IV : DES DISPOSITIONS FINALES (Article 13)
