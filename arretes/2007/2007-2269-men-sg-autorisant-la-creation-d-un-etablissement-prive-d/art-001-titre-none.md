@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Monsieur Moussa Alassane MAIGA, domicilié à Bamako- Torokorobougou Rue 343, Port 02, Tél : 555 55 63/621 63 75, agissant au nom et pour le compte de l’Association pour la Promotion de l’Education de la Femme Malienne- APEFM « GENRE-PLUS » est autorisé à créer un établissement privé d’Enseignement Secondaire Général dénommé « Lycée ARAFA » à Daoudabougou en Commune V du District de Bamako.
