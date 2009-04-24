@@ -1,0 +1,5 @@
+# Signatures
+
+Bamako, le 27 mars 2009
+Le Président de la République, Amadou Toumani TOURE
+Le Premier ministre, Modibo SIDIBE Le Ministre du Travail, de la Fonction Publique et de la Réforme de l’Etat, Abdoul Wahab BERTHE Le Ministre de l’Administration Territoriale et des Collectivités locales Général Kafougouna KONE Le Ministre des Finances, Abou- Bakar TRAORE
