@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : Du Secrétaire Général (Article 2)
+CHAPITRE II : Des Conseillers Techniques (Article 4)
+Section I : Des Dispositions Générales (Article 4)
+Section II : Du Conseiller Technique chargé des Questions Juridiques (Article 6)
+Section III : Du Conseiller Technique chargé de l’Enseignement Secondaire (Article 8)
+Section IV : Du Conseiller Technique chargé de l’Enseignement Supérieur et de la Recherche Scientifique (Article 10)
+Section V : Du Conseiller Technique chargé des Programmes, Projets, des Relations avec les Partenaires Techniques et Financiers, du Suivi des Grands Travaux, des Infrastructures Scolaires et Universitaires (Article 12)
+Section VI : Du Conseiller Technique chargé des Partenaires Sociaux, des ONG et des Associations (Article 14)
+CHAPITRE III : DU CHEF DU SERVICE DU COURRIER, DE LA DOCUMENTATION ET DE LA DACTYLOGRAPHIE (Article 16)
+CHAPITRE IV : DES DISPOSITIONS FINALES (Article 19)
