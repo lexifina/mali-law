@@ -1,0 +1,6 @@
+# Arrêté n°08-0326/MF-SG du 11 février 2008 portant modification de l’arrêté N°04-2150/MEF-SG du 26 octobre 2004 fixant le régime fiscal et douanier applicable au projet de consolidation du système de gestion de trois forêts classées autour de Bamako et de la mise en valeur de la zone de biodiversité des monts Mandingues
+
+- Source : Journal officiel n°2009-22 du 29 mai 2009, <https://sgg-mali.ml/JO/2009/mali-jo-2009-22.pdf>
+- Signé / promulgué : 2008-02-11
+- En vigueur : 2009-05-29 (publication au Journal officiel n°2009-22 du 29 mai 2009 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 2 articles

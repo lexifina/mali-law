@@ -1,0 +1,6 @@
+# Signatures
+
+Bamako, le 11 février 2008
+Le Ministre des Finances, Abou-Bakar TRAORE
+MINISTERE DES ENSEIGNEMENTS SECONDAIRE, SUPERIEUR ET DE LA
+RECHERCHE SCIENTIFIQUE
