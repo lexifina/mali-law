@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+A titre de régularisation, à compter du 1er octobre 2002, Monsieur Cheik Oumar TOUNKARA No Mle 112-45.B intégré dans le Corps des Magistrats de l’Ordre Administratif sur la base du décret du 14 mai 2009 susvisé, au grade de Magistrat de grade Exceptionnel Echelon unique indice 750 est transposé Magistrat de grade Exceptionnel Echelon unique indice 1100, conformément à la grille indiciaire annexée à la Loi du 16 décembre 2002 susvisée.
