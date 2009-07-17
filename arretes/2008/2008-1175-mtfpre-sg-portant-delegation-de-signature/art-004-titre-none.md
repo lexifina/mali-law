@@ -1,0 +1,2 @@
+# Article 4 (Titre None)
+Les autres conditions et charges de la présente cession feront l’objet d’une convention notariée de cession signée par les parties, le Directeur National des Domaines et du Cadastre représentant l’Etat.
