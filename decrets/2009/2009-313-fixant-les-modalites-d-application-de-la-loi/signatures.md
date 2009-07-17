@@ -1,0 +1,4 @@
+# Signatures
+
+Bamako, le 19 juin 2009
+Le Président de la République, Amadou Toumani TOURE Le Premier Ministre, Modibo SIDIBE Le Ministre de l’Agriculture, Aghatam AG ALHASSANE Le Ministre de la Santé, Oumar Ibrahima TOURE Le Ministre de l’Administration Territoriale et des Collectivités Locales, Général Kafougouna KONE Le Ministre de l’Elevage et de la Pêche, Madame DIALLO Madeleine BA Le Ministre de L’Environnement et de l’Assainissement, Tiémoko SANGARE Le Ministre de la Défense et des Anciens Combattants, Ministre de la Sécurité Intérieure et de la Protection Civile par intérim, Natié PLEA Le Ministre de l’Economie et des Fiances, Ministre de l’Industrie, des Investissements et du Commerce par intérim, Sanoussi TOURE Le Ministre de l’Economie et des Finances, Sanoussi TOURE Le Ministre de la Justice, Garde des Sceaux, Maharafa TRAORE
