@@ -1,0 +1,8 @@
+# Article 3 (Titre None)
+Monsieur Dianguina CISSE, est tenu de : - réaliser, dans un délai de cinq (5) ans à compter de la date de signature du présent arrêté, le programme d’investissement évalué à cinq cent cinquante un millions neuf cent quatre vingt sept mille (551 987 000) FCFA se décomposant comme suit :
+• frais d’établissement….............15 221 000 FCFA • terrain………………....................…..5 000 000–« • aménagements-installations............58 805 000–« • constructions……………...............249 036 000–« • équipements……………..............139 700 000–« • matériel roulant……………...........59 071 000–« • matériel et mobilier de bureau......…8 700 000 –« • besoins en fonds de roulement.……16 454 000 –«
+- informer régulièrement l’Agence pour la Promotion des Investissements au Mali, l’Office Malien du Tourisme et de l’Hôtellerie et la Direction Nationale des Industries sur l’état d’exécution du projet ;
+- créer vingt cinq (25) emplois ;
+- offrir à la clientèle des prestations de qualité ;
+- protéger la santé des travailleurs et l’environnement ; - notifier, par lettre recommandée, la date de démarrage des activités du complexe à l’Agence pour la Promotion des Investissements au Mali, à la Direction Nationale des Industries à la Direction Générale des Impôts et à l’Office Malien du Tourisme et de l’Hôtellerie ;
+- se conformer aux dispositions législatives et réglementaires régissant la création et l’exploitation des entreprises au Mali notamment le Code des Investissements, la Loi N°02-015 du 03 juin 2002 accordant des avantages spéciaux aux entreprises touristique, le Code de Commerce, le Code Général des Impôts, le Code des Douanes, le Code du Travail et le Code de Prévoyance Sociale.
