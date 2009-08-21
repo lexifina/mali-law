@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt, signé à Bamako le 06 mars 2009 entre le Gouvernement de la République du Mali et la Banque d’Investissement et de Développement de la Communauté Economique des Etats de l’Afrique de l’Ouest (BIDC), d’un montant d’Un Million Six Cent Cinquante Neuf Mille Cent Quatorze (1 659 114) unités de compte soit environ Un Milliard Trois Cent Un Million Trois Cent Mille (1 301 300 000) francs CFA pour le financement partiel du projet de développement de l’élevage dans la région du LIPTAKO-GOURMA.
