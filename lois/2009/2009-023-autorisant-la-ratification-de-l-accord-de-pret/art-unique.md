@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt, signé à Bamako le 20 avril 2009, entre le Gouvernement de la République du Mali et la Banque Ouest Africaine de Développement (BOAD), d’un montant de Sept Milliards (7 000 000 000) de francs CFA pour le financement partiel du projet de construction d’un échangeur multiple au Rond Point de la Paix et d’aménagement de la Section urbaine de la Route nationale N° 5 et de l’Avenue Kwamé N’Kurumah.
