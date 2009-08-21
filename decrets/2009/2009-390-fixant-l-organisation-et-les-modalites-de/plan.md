@@ -1,0 +1,12 @@
+# Plan
+TITRE I : DE L’ORGANISATION (Article 3)
+CHAPITRE 1 : DU DIRECTEUR (Article 3)
+CHAPITRE 2 : DES STRUCTURES (Article 6)
+Section 1 : Du Secrétariat Général (Article 7)
+Section 2 : De la Cellule de Communication et d’Informatique (Article 9)
+Section 3 : Des Sous-Directions (Article 11)
+Section 5 : De l’Inspection (Article 22)
+Section 6 : Des Directions Zonales (Article 25)
+Section 7 : Des Représentations Portuaires. (Article 26)
+TITRE II : DU FONCTIONNEMENT (Article 28)
+TITRE III : DES DISPOSITIONS DIVERSES ET FINALES (Article 32)
