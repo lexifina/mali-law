@@ -1,0 +1,6 @@
+# Plan
+CHAPITRE I : DES DIRECTIONS REGIONALES (Article 1er)
+CHAPITRE II : DES SERVICES SUBREGIONAUX (Article 4)
+Section 1 : Du Cantonnement des Eaux et Forêts (Article 4)
+Section 2 : DU POSTE DES EAUX ET FORETS (Article 7)
+CHAPITRE III : DES DISPOSITIONS FINALES (Article 10)
