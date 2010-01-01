@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée, l’Ordonnance N°09- 025/P-RM du 03 septembre 2009 autorisant la ratification de l’Accord de financement du Projet d’Appui au Secteur de l’Energie (PASE), d’un montant de 80 700 000 Droits de Tirages Spéciaux, soit environ 60 990 639 000 (soixante milliards neuf cent quatre vingt dix millions six cent trente neuf mille) francs CFA, signé à Bamako le 26 juin 2009 entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA).
