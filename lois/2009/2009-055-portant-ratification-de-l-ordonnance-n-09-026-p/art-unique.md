@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée, l’Ordonnance N°09- 026/P-RM du 03 septembre 2009 autorisant la ratification de l’Accord de prêt d’un montant de 44 000 000 d’Unités de Compte, soit environ 33 590 000 000 (trente trois milliards cinq cent quatre vingt dix millions) de francs CFA, signé à Bamako le 17 juin 2009 entre le Gouvernement de la République du Mali et le Fonds Africain de Développement (FAD) pour le financement du Programme de l’Irrigation dans le bassin du Bani et à Sélingué-Phase I (PDI-SB).
