@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée, l’Ordonnance N°09- 027/P-RM du 03 septembre 2009 autorisant la ratification de l’Accord de prêt, d’un montant de 7 000 000 d’Unités de Compte, soit environ 5 290 390 000 (cinq milliards deux cent quatre vingt dix millions trois cent quatre vingt dix mille) francs CFA, signé à Bamako le 13 mai 2009 entre le Gouvernement de la République du Mali et le Fonds Africain de Développement (FAD) pour le financement du Programme Routier I.
