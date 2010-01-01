@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée, l’Ordonnance N°09- 018/P-RM du 03 septembre 2009 autorisant la ratification de l’Accord d’Istisnaa, d’un montant de 8 millions de Dinars Islamiques, soit 6 milliards 744 millions de francs CFA environ, signé à Achgabat (Turkménistan), le 03 juin 2009 entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID), relatif au projet d’appui au Développement Rural de Tien-Konou.
