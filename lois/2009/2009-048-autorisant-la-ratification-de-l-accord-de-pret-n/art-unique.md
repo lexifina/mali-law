@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt N°1288P, signé à Vienne le 16 septembre 2009, entre le Gouvernement de la République du Mali et le Fonds de l’OPEP pour le Développement International, d’un montant de huit millions (8 000 000) de dollars des Etats-Unis d’Amérique soit environ quatre milliards cent cinquante millions trois cent vingt mille (4 150 320 000) francs CFA pour le financement du Projet de barrage de Taoussa.
