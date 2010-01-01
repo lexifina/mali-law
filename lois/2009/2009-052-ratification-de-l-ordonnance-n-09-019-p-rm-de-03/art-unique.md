@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée, l’Ordonnance N°09-019/ P-RM du 03 septembre 2009 autorisant la ratification de l’Accord de prêt, d’un montant de 20 200 000 Dinars Islamiques, soit 15 milliards 563 millions 700 mille francs CFA environ, signé Achgabat (Turkménistan), le 03 juin 2009 entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID), pour le financement partiel du projet de construction du Barrage de Taoussa.
