@@ -1,0 +1,2 @@
+# Article 10 (Titre III)
+Avant de procéder à des fouilles dans le sol, d’exploiter des carrières ou des mines, d’ouvrir une voie de communication ou d’en rectifier le tracé, d’édifier des ouvrages dans le domaine forestier, toute personne physique ou morale est tenue de prendre toutes les mesures de protection des ressources naturelles et de l’environnement prescrites par la législation et la réglementation en vigueur.

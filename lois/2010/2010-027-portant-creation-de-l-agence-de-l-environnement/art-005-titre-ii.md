@@ -1,0 +1,4 @@
+# Article 5 (Titre II)
+Le domaine forestier de l’Etat comprend :
+- le domaine forestier classé de l’Etat, constitué par les formations végétales naturelles, les périmètres de protection, les périmètres de restauration, les périmètres de reboisement, les ceintures vertes, les plantations forestières ainsi que les espaces boisés protégés dans un but socioculturel, religieux ou esthétique d’intérêt national et ayant fait l’objet d’actes de classement au nom de l’Etat ;
+- le domaine forestier protégé de l’Etat, constitué par les formations végétales naturelles, les périmètres de protection, les périmètres de restauration, les périmètres de reboisement, les ceintures vertes, les plantations forestières dans les agglomérations urbaines et rurales ainsi que les espaces boisés protégés dans un but socioculturel, religieux ou esthétique d’intérêt national immatriculés au nom de l’Etat.

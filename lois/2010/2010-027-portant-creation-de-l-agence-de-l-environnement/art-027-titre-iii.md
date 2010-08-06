@@ -1,0 +1,3 @@
+# Article 27 (Titre III)
+Dans le domaine de l’Etat ou des Collectivités Territoriales, toute forêt ou tout périmètre peut être classé lorsque la conservation de la flore, de la faune, des eaux, du sol, et en général du milieu naturel présente un intérêt spécial et qu’il importe de préserver ce milieu contre tout effet de dégradation des ressources naturelles et de le soustraire de toute intervention artificielle susceptible d’en altérer l’aspect, la composition et l’évolution.
+En ce qui concerne les jardins botaniques et les espaces verts dans les agglomérations urbaines et rurales, ils sont classés dans le respect des dispositions du plan ou schéma d’urbanisation en vigueur.

@@ -1,0 +1,2 @@
+# Article 20 (Titre III)
+Par arrêté, les Gouverneurs de région ou du District de Bamako ainsi que les autorités compétentes des Collectivités Territoriales peuvent prendre des dispositions pour la protection intégrale ou partielle ou ajouter à la liste des essences de valeur économique, toutes les espèces végétales qu’elles jugent utile de protéger dans leur ressort territorial, après avis du Conseil de la Forêt et des Produits Forestiers.
