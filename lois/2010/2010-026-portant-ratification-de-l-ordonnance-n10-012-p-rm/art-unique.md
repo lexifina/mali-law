@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée, l’Ordonnance n°10-012/P-RM du 10 mars autorisant la ratification de l’accord de crédit, d’un montant de quinze millions (15 000 000) de dollars américains, soit environ six milliards cinq cent quarante neuf millions cinq cent vingt huit mille (6 549 528 000) francs CFA, signé le 14 octobre 2009, à New Delhi entre le gouvernement de la République du Mali et Export-Import Bank of India pour le financement de Projets de Développement de l’Agriculture et de Transformation des Aliments au Mali.
