@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DE LA CRÉATION ET DES MISSIONS (Article 1er)
+CHAPITRE II : DE LA DOTATION INITIALE ET DES RESSOURCES (Article 3)
+CHAPITRE III : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 5)
+Section 1 : DU CONSEIL D’ADMINISTRATION (Article 6)
+Section 2 : DU DIRECTEUR GENERAL (Article 7)
+Section 3 : DES ORGANES DE CONSULTATION (Article 8)
+Paragraphe 1 : Du Conseil Pédagogique et Scientifique (Article 9)
+Paragraphe 2 : Du Conseil de Perfectionnement (Article 10)
+Paragraphe 3 : Du Conseil de Discipline (Article 11)
+CHAPITRE IV : DE LA TUTELLE (Article 12)
+CHAPITRE V : DES DISPOSITIONS PARTICULIÈRES (Article 21)
+CHAPITRE VI : DES DISPOSITIONS FINALES (Article 23)
