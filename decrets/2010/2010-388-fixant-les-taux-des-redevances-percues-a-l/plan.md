@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DES TAUX DES REDEVANCES PERÇUES A L’OCCASION DE LA DELIVRANCE DES CARTES D’EXPLOITANT FORESTIER ET DES AUTORISATIONS DE FABRICATION, DE DETENTION ET D’UTILISATION A DES FINS COMMERCIALES D’OBJETS PROVENANT DE TOUT OU PARTIE D’ESSENCES FORESTIERES (Article 2)
+Section 1 : Des cartes d’exploitant forestier (Article 2)
+Section 2 : Des autorisations de production, de fabrication, de détention et d’utilisation à des fins commerciales d’objets provenant de tout ou partie d’essences forestières (Article 3)
+CHAPITRE II : DES TAUX DES REDEVANCES PROPORTIONNELLES PERÇUES A L’OCCASION DE LA DELIVRANCE DES PERMIS DE COUPE DU BOIS ET DES PERMIS DE RECOLTE ET DE COLLECTE DE PRODUITS FORESTIERS NON LIGNEUX. (Article 5)
+Section 1 : Du permis de coupe de bois énergie (Article 5)
+Section 2 : Du permis de coupe de bois de service (Article 7)
+Section 3 : Du permis de coupe de bois d’œuvre (Article 8)
+Section 4 : Des permis de coupe de bois d’artisanat et de feuilles d’essences forestières destinées au commerce A. Du bois d’artisanat (Article 9)
+Section 5 : Du permis de collecte de produits forestiers non ligneux destinés à l’exportation. (Article 12)
+Section 6 : Du permis de récolte et de collecte de produits médicinaux et de coupe de cure-dents provenant (Article 13)
+d’essences forestières destinés au commerce et/ou à l’exportation (Article 13)
+CHAPITRE III : DES DISPOSITIONS FINALES (Article 14)
