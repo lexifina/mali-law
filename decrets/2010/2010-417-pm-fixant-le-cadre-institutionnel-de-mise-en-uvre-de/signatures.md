@@ -1,0 +1,5 @@
+# Signatures
+
+Bamako, le 3 août 2010
+Le Premier ministre, Modibo SIDIBE
+Le Ministre des Maliens de l’Extérieur et de l’Intégration Africaine, Ministre des Affaires Etrangères et de la Coopération Internationale par intérim, Badara Aliou MACALOU
