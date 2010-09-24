@@ -1,0 +1,24 @@
+# Annexes
+
+ANNEXE A L’ORDONNANCE N°10-046/P-RM DU 16 SEPTEMBRE 2010 GRILLE INDICIAIRE DES CHERCHEURS
+CLASSE/ECHELON CORPS/IN
+DICES
+Classe Echelon Attachés de recherche
+Chargés de recherche
+Maîtres de recherche
+Directeur de recherche Exceptionnelle
+3ème 2 ème 1er
+1007 942 877
+1023 957 883
+1039 973 907
+1100 1034 968 1ère
+3ème 2 ème 1er
+856 797 737
+860 800 741
+896 839 781
+956 899 842 2ème 4ème 3 ème 2ème 1 er
+729 691 654 616
+735 702 669 636
+756 723 690 657
+806 773 740 707 3 ème 4 ème 3ème 2 ème 1er
+599 566 534 502
