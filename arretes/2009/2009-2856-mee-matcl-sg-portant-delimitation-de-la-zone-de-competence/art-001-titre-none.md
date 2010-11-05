@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Il est créé auprès de l’Administration chargée de l’eau et des autorités des collectivités territoriales, conformément aux dispositions des articles 67 et 70 du Code de l’Eau, un organe consultatif pour la gestion de ressources en eau dans le sous-bassin du Haut Niger, dénommé « Comité Local de l’Eau de NIENA ».
