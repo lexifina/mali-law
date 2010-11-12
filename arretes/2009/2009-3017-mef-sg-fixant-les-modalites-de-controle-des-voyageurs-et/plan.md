@@ -1,0 +1,2 @@
+# Plan
+I. PRINCIPES GENERAUX (Article 2)
