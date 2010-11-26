@@ -1,0 +1,2 @@
+# Article 6 (Titre None)
+Après avis motivé du Directeur du Centre National des Examens et Concours de l’Education et sous réserve d’une autorisation spéciale du Ministre en charge de l’Enseignement Secondaire, sont autorisés à s’inscrire au Baccalauréat en qualité de candidat régulier, les élèves ayant une scolarité normale venant des pays où le DEF ou son équivalent n’est pas exigé pour accéder au secondaire.
