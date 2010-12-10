@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE 1 : DES DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE 2 : DE L’ASSIETTE DES COTISATIONS (Article 5)
+Section 1 : Travailleurs salariés et agents de l’Etat (Article 5)
+Section 2 : Parlementaires (Article 10)
+Section 3 : Titulaires de rentes et de pensions (Article 11)
+Section 4 : Assurés volontaires (Article 12)
+CHAPITRE 3 : DU RECOUVREMENT DES COTISATIONS (Article 13)
+Section 1 : Travailleurs salariés et agents de l’Etat (Article 13)
+Section 2 : Assurés volontaires de l’INPS (Article 32)
+Section 3 : Assurés titulaires d’une rente ou d’une pension (Article 41)
+CHAPITRE 4 : DU CONTENTIEUX (Article 43)
+CHAPITRE 5 : DISPOSITIONS FINALES (Article 46)
