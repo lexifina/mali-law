@@ -1,0 +1,5 @@
+# Loi n°10-041 du 16 novembre 2010 portant ratification de l’Ordonnance n°10-017/P-RM du 28 juillet 2010 autorisant la ratification de l’Accord de prêt, signé le 22 mars 2010, entre le Gouvernement de la République du Mali et le Fonds Koweitien pour le Développement économique arabe, pour le financement partiel du Programme de développement de l’irrigation dans le Bassin du Bani et à Selingué (Phase I)
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 4 novembre 2010
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée, l’ordonnance N°10-017/P-RM du 28 juillet 2010 autorisant la ratification de l’Accord de prêt d’un montant de quatre millions cinq cent mille (4 500 000) Dinars koweitiens, soit sept milliards sept cent vingt six millions six cent quarante huit mille (7 726 648 000) francs CFA, signé le 22 mars 2010, entre le Gouvernement de la République du Mali et le Fonds Koweitien pour le Développement Economique Arabe, pour le financement partiel du Programme de Développement de l’Irrigation dans le bassin du Bani et à Sélingué (Phase 1).
