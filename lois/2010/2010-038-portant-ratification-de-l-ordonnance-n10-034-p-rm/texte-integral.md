@@ -1,0 +1,5 @@
+# Loi n°10-038 du 16 novembre 2010 portant ratification de l’Ordonnance n°10-034/P-RM du 5 août 2010 autorisant la ratification de l’Accord de financement signé à Bakou (Azerbaïdjan), le 24 juin 2010, entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID), pour le financement du Projet développement agricole à Djenné
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 4 novembre 2010
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée, l’ordonnance N°10-034/P-RM du 5 août 2010 autorisant la ratification de l’Accord de financement d’un montant de dix huit millions six cent vingt mille (18 620 000) Dinars Islamiques, soit environ quatorze milliards quatre cent quatre vingt douze millions quatre cent soixante neuf mille sept cent cinquante huit (14 492 469 758) francs CFA, signé à Bakou (Azerbaïdjan), le 24 juin 2010, entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID), pour le financement du Projet développement agricole à Djenne.
