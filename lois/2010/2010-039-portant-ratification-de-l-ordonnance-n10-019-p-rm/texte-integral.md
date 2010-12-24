@@ -1,0 +1,5 @@
+# Loi n°10-039 du 16 novembre 2010 portant ratification de l’Ordonnance n°10-019/P-RM du 28 juillet 2010 autorisant la ratification de l’Accord de financement, signé à Dakar, le 17 février 2010, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA), pour le financement additionnel du Projet hydro électrique Félou de l’OMVS
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 4 novembre 2010
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée, l’ordonnance N°10-019/P-RM du 28 juillet 2010 autorisant la ratification de l’Accord de financement d’un montant de vingt sept millions quatre cent mille (27 400 000) Droits de Tirage Spéciaux, soit environ douze milliards huit cent soixante dix sept millions huit cent mille (12 877 800 000) francs CFA, signé à Dakar, le 17 février 2010, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA), pour le financement additionnel du Projet hydro électrique Felou de l’OMVS.
