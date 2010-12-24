@@ -1,0 +1,5 @@
+# Loi n°10-037 du 16 novembre 2010 portant ratification de l’Ordonnance n°10-035/P-RM du 5 août 2010 autorisant la ratification de l’Accord de prêt signé à Bakou (Azerbaïdjan), le 24 juin 2010, entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID), pour le financement du Projet développement agricole à Djenné
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 4 novembre 2010
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée, l’ordonnance N°10-035/ P-RM du 5 août 2010 autorisant la ratification de l’Accord de prêt d’un montant de six millions neuf cent mille (6 900 000) Dinars Islamiques, soit environ cinq milliards quatre cent vingt huit millions huit cent cinq mille (5 428 805 000) francs CFA, signé à Bakou (Azerbaïdjan), le 24 juin 2010, entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID), pour le financement du Projet développement agricole à Djenne.
