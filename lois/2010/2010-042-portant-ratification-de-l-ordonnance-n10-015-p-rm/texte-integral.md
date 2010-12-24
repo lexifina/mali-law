@@ -1,0 +1,5 @@
+# Loi n°10-042 du 16 novembre 2010 portant ratification de l’Ordonnance n°10-015/P-RM du 28 juillet 2010 autorisant la ratification de l’Accord de prêt signé à Bakou (Azerbaidjan), le 24 juin 2010, entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID), pour le financement du Projet d’approvisionnement en eau potable de Kalabancoro
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 4 novembre 2010
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée, l’ordonnance N°10-015/P-RM du 28 juillet 2010 autorisant la ratification de l’Accord de prêt d’un montant de dix millions sept cent quatre vingt mille (10 780 000) Dinars Islamiques, soit environ huit milliards quatre cent quatre vingt un millions cinq cent vingt quatre mille dix (8 481 524 010) francs CFA, signé à Bakou (Azerbaïdjan), le 24 juin 2010, entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID), pour le financement du Projet d’approvisionnement en eau potable de Kalabancoro.
