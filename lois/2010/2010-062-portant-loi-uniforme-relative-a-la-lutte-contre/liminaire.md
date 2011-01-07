@@ -1,0 +1,48 @@
+# Texte liminaire
+Article premier : Terminologie
+Pour l’application de la présente Loi, les termes et expressions, ci-après, ont le sens qui leur est donné par l’article premier de la Loi N° O6-066 du 29 décembre 2006 relative à la lutte contre le blanchiment de capitaux « la Loi uniforme relative à la lutte contre le blanchiment de capitaux », à savoir :
+- Acteurs du Marché Financier Régional : les structures centrales (Bourse Régionale des Valeurs Mobilières – BRVM, Dépositaire Central/Banque de Règlement) et les intervenants commerciaux (Sociétés de Gestion et d’Intermédiation, Sociétés de Gestion de Patrimoine, Conseils en investissements boursiers, Apporteurs d’affaires et Démarcheurs) ;
+- Auteur : toute personne qui participe à la commission d’un crime ou d’un délit, à quelque titre que ce soit ;
+- Autorités de contrôle : les autorités nationales ou communautaires de l’UEMOA habilitées, en vertu d’une Loi ou d’une réglementation, à contrôler les personnes physiques et morales ;
+- Autorités publiques : les administrations nationales et celles des collectivités locales de l’Union, ainsi que leurs établissements publics ;
+- Autorité compétente : organe qui, en vertu d’une Loi ou d’une réglementation, est habilité à accomplir ou à ordonner les actes ou les mesures prévues par la présente Loi ;
+- Autorité judiciaire : organe habilité, en vertu d’une Loi ou d’une réglementation, à accomplir des actes de poursuite ou d’instruction ou à rendre des décisions de justice ;
+- Autorité de poursuite : organe qui, en vertu d’une Loi ou d’une réglementation, est investi, même si c’est à titre occasionnel, de la mission d’exercer l’action pour l’application d’une peine ;
+- Ayant droit économique : le mandant, c’est-à-dire la personne pour le compte de laquelle le mandataire agit ou pour le compte de laquelle l’opération est réalisée ;
+- BCEAO ou Banque Centrale : la Banque Centrale des Etats de l’Afrique de l’Ouest ;
+- Biens : tous les types d’avoirs, corporels ou incorporels, meubles ou immeubles, tangibles ou intangibles, fongibles ou non fongibles, ainsi que les actes juridiques ou documents attestant la propriété de ces avoirs ou des droits y relatifs ;
+- Blanchiment de capitaux : l’infraction définie aux articles 2 et 3 de la Loi uniforme relative à la lutte contre le blanchiment de capitaux ;
+- CENTIF : la Cellule Nationale de Traitement des Informations Financières ;
+- Confiscation : dépossession définitive de biens, sur décision d’une juridiction compétente, d’une autorité de contrôle ou de toute autorité compétente ;
+- Etat membre : l’Etat-partie au Traité de l’Union Economique et Monétaire Ouest Africaine ;
+- Etat tiers : tout Etat autre qu’un Etat membre ;
+- Infraction d’origine : tout crime ou délit au sens de la Loi, même commis sur le territoire d’un autre Etat membre ou sur celui d’un Etat tiers, ayant permis à son auteur de se procurer des biens ou des revenus ;
+- OPCVM : Organismes de Placement Collectif en Valeurs Mobilières ;
+- Organismes financiers : sont désignés sous le nom d’organismes financiers :
+- les banques et établissements financiers ;
+- les services financiers des postes, ainsi que les caisses de dépôts et consignations ou les organismes qui en tiennent lieu, des Etats membres ;
+- les sociétés d’assurance et de réassurance, les courtiers d’assurance et de réassurance;
+- les institutions mutualistes ou coopératives d’épargne et de crédit, ainsi que les structures ou organisations non constituées sous forme mutualiste ou coopérative et ayant pour objet la collecte de l’épargne et/ou l’octroi de crédit ;
+- les structures centrales du Marché Financier Régional (BRVM, Dépositaire Central/Banque de Règlement) ainsi que les Sociétés de Gestion et d’Intermédiation, les Sociétés de Gestion de Patrimoine et tous autres intervenants commerciaux ayant le statut d’organisme financier, au sens des textes régissant le Marché Financier Régional ;
+- Entreprises d’Investissement à Capital Fixe ;
+- Agréés de change manuel ;
+- UEMOA : l’Union Economique et Monétaire Ouest Africaine ;
+- UMOA : l’Union Monétaire Ouest Africaine ;
+- Union : l’Union Economique et Monétaire Ouest Africaine ou l’Union Monétaire Ouest Africaine.
+On entend également par :
+- Clients occasionnels : les personnes physiques ou morales qui obtiennent des services ponctuels de la part des organismes financiers, en l’absence de relations d’affaires durables qui feront d’eux des clients habituels ;
+- Convention : la Convention des Nations Unies du 9 décembre 1999 pour la répression du financement du terrorisme ;
+- Fonds et autres ressources financières : tous les actifs financiers et avantages économiques de quelque nature qu’ils soient, y compris, mais pas exclusivement, le numéraire, les chèques, les créances en numéraire, les traites, les ordres de paiement et autres instruments de paiement, les dépôts auprès des banques et établissements financiers, les soldes en comptes, les créances et les titres de créances, les titres négociés et les instruments de la dette, notamment les actions et autres titres de participation, les certificats de titres, les obligations, les billets à ordre, les warrants, les titres non gagés, les contrats sur produits dérivés, les intérêts, les dividendes ou autres revenus d’actifs ou plus-values perçus sur des actifs, le crédit, le droit à compensation, les garanties, y compris les garanties de bonne exécution ou autres engagements financiers, les lettres de crédit, les connaissements, les contrats de vente, tout document attestant la détention de parts d’un fonds ou de ressources financières et tout autre instrument de financement à l’exportation ;
+- Gel de fonds et autres ressources financières, autres biens : toute action visant à empêcher tout mouvement, transfert, modification, utilisation ou manipulation de fonds qui aurait pour conséquence un changement de leur volume, montant, localisation, propriété, possession, nature, destination ou toute autre modification qui pourrait en permettre l’utilisation, notamment la gestion de portefeuille ;
+- Installation gouvernementale ou publique : toute installation ou tout moyen de transport, de caractère permanent ou temporaire, qui est utilisé ou occupé par des représentants d’un Etat, des membres du Gouvernement, du Parlement ou de la magistrature, ou des agents ou personnel d’un Etat ou de toute autre autorité ou entité publique, ou par des agents ou personnel d’une organisation intergouvernementale, dans le cadre de leurs fonctions officielles ;
+- Instrument : tout bien utilisé ou devant être utilisé totalement ou en partie et de quelque manière que ce soit pour commettre une infraction pénale ;
+- Opération de change manuel : l’échange immédiat de billets de banque ou monnaies libellés en devises différentes, réalisé par cession ou livraison d’espèces, contre le règlement par un autre moyen de paiement libellé dans une autre devise ;
+- Organisation ou organisme à but non lucratif : une entité juridique ou un organisme ayant pour objet principal la collecte ou la distribution de fonds à des fins caritatives, religieuses, culturelles, éducatives, sociales ou confraternelles, ou pour d’autres types de bonnes œuvres ;
+- Organisation criminelle : toute entente ou association structurée dans le but de commettre, notamment des infractions de financement du terrorisme ;
+- Organismes financiers étrangers : les organismes financiers établis en dehors du territoire communautaire des Etats membres ;
+- Passeurs de fonds : les personnes qui exécutent des transports physiques transfrontaliers d’espèces ou d’instruments négociables au porteur ou qui apportent sciemment leur concours à la réalisation de ces opérations ;
+- Personne Politiquement Exposée (PPE) : la personne qui exerce ou a exercé d’importantes fonctions publiques dans un autre Etat membre ou un Etat tiers, notamment un Chef d’Etat ou de Gouvernement, homme politique de haut rang, haut responsable au sein des pouvoirs publics, diplomate, magistrat ou militaire de haut rang, dirigeant d’une entreprise publique ou responsable de parti politique, y compris les membres de la famille proche de la PPE en cause, ainsi que les personnes connues pour lui être étroitement associées ;
+- Produits : tous fonds tirés, directement ou indirectement, de la commission d’une infraction telle que prévue aux articles 4 et 5 de la présente Loi ou obtenus, directement ou indirectement, grâce à la commission d’une telle infraction ;
+- Saisie : le fait pour une autorité compétente d’assurer la garde ou le contrôle de biens sur décision d’un tribunal ou d’une autre autorité compétente ;
+- Service de transmission de fonds ou de valeurs : un service financier qui accepte les espèces, les chèques ou tout autre instrument de paiement ou dépôt de valeur dans un lieu donné et paye une somme équivalente en espèces ou sous toute autre forme à un bénéficiaire situé dans une autre zone géographique au moyen d’une communication, d’un message, d’un transfert ou d’un système de compensation auquel le service de transmission de fonds ou de valeurs appartient. Ce service peut être fourni par des personnes physiques ou morales en ayant recours au système financier réglementé ou de manière informelle.
+- Virement électronique : toute transaction par voie électronique effectuée au nom d’un donneur d’ordre, personne physique ou morale, via une institution financière en vue de mettre à la disposition d’un bénéficiaire une certaine somme d’argent dans une autre institution financière, le donneur d’ordre et le bénéficiaire pouvant être une seule et même personne.
