@@ -1,0 +1,5 @@
+# Loi n°10-056 du 23 décembre 2010 portant ratification de l’Ordonnance n°10-044/P-RM du 16 septembre 2010 autorisant la ratification de l’Accord de prêt signé à Lomé, le 13 juillet 2010, entre le Gouvernement de la République du Mali et la Banque Ouest Africaine de Développement (BOAD), pour le financement partiel du Projet d’aménagement en 2 x 3 voies du Boulevard du 22 octobre 1946, en 2 x 2 voies de la corniche et de renforcement de l’Avenue du 5 septembre à Bamako
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 26 novembre 2010
+Le Président de la République promulgue la Loi dont la teneur suit :
+Article Unique : Est ratifiée, l’ordonnance N°10-044/P-RM du 16 septembre 2010 autorisant la ratification de l’Accord de prêt, d’un montant de neuf milliards (9 000 000 000) de francs CFA, signé à Lomé, le 13 juillet 2010, entre le Gouvernement de la République du Mali et la Banque Ouest Africaine de Développement (BOAD), pour le financement partiel du Projet d’aménagement en 2 X 3 voies du Boulevard du 22 octobre 1946, en 2 X 2 voies de la Corniche et de renforcement de l’Avenue du 5 septembre à Bamako.
