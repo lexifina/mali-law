@@ -1,0 +1,2 @@
+# Article 8 (Titre None)
+Au niveau du district de Bamako, la Direction des Marchés Publics et des Délégations de Service Public du District, est également compétence pour assurer le contrôle des procédures de passation des marchés passés au niveau central par les Directions Administratives et Financières, les Institutions et les Etablissements Publics et ce dans la limite des seuils indiqués ci-dessus.

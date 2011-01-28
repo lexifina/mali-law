@@ -1,0 +1,3 @@
+# Article 7 (Titre None)
+La Direction Régionale ou la Direction des Marchés Publics et des Délégations de Service Public du District a pour mission de traduire sous forme de programmes, les stratégiques nationales en matière de marchés publics et des Délégations de Service Public et d’assurer la coordination et le contrôle de leur exécution.
+A ce titre, elle est chargée de contrôler les procédures de passation des marchés publics et des Délégations de Service Public au niveau des régions respectives et du District dont le montant est inférieur ou égal à 250 millions lorsqu’il s’agit de travaux, fournitures et services courants ou 75 millions lorsqu’il s’agit de prestations intellectuelles. Elle assure la formation des acteurs de la chaîne de passation des marchés.
