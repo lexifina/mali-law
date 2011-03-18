@@ -1,0 +1,6 @@
+# Arrêté interministériel n°10-0811/MLAFU-MATCL-SG du 23 mars 2010 portant autorisation de cession de la parcelle de terrain objet du titre foncier N°41129 du Cercle de Kati sise à Dio-Gare à la Société West African Cément S.A (WACEM S.A)
+
+- Source : Journal officiel n°2011-11 du 18 mars 2011, <https://sgg-mali.ml/JO/2011/mali-jo-2011-11.pdf>
+- Signé / promulgué : 2010-03-23
+- En vigueur : 2011-03-18 (publication au Journal officiel n°2011-11 du 18 mars 2011 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 5 articles
