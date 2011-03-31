@@ -1,0 +1,8 @@
+# Signatures
+
+Bamako, le 06Mars 2002.
+Le Président de la République, Alpha Oumar KONARE
+Le Premier ministre, Mandé SIDIBE
+Le Ministre des Domaines de l’Etat, des Affaires Foncières, de la Communication, Mme Bouaré Fily SISSOKO
+Le Ministre de l’Administration Territoriale et des Collectivités Locales, Ousmane SY
+Le Ministre de l’industrie, du Commerce et des Transports, Ministre de l’Economie et des Finances par intérim, Mme Touré Alimata TRAORE
