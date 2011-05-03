@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DE LA DIRECTION NATIONALE (Article 2)
+SECTION 1 : De l’Organisation (Article 2)
+SECTION 2 : Du Fonctionnement (Article 7)
+CHAPITRE II : DU CANTONNEMENT DES EAUX ET FORETS (Article 11)
+Section 1 De l’Organisation (Article 11)
+Section 2 : Du Fonctionnement (Article 16)
+CHAPITRE III : DU POSTE DES EAUX ET FORETS (Article 19)
+Section 1 : De l’Organisation (Article 19)
+Section 2 : Du Fonctionnement (Article 24)
+CHAPITRE IV : DES DISPOSITIONS FINALES (Article 26)
