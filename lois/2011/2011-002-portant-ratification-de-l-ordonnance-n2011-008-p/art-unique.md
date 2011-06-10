@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée, l’Ordonnance N°2011- 008/P-RM du 30 mars 2011 autorisant la ratification de l’Accord de prêt d’un montant neuf milliards cinq cent millions (9.500.000.000) francs CFA, signé le 7 janvier 2011, à Bamako, entre le Gouvernement de la République du Mali et la Banque Ouest Africaine de Développement (BOAD), pour le financement partiel du Projet d’aménagement hydro-agricole du casier de Molodo Nord, phase I extension à l’Office du Niger au Mali.
