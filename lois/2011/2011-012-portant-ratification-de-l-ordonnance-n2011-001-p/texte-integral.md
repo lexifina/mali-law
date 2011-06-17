@@ -1,0 +1,5 @@
+# Loi n°2011-012 du 18 mai 2011 portant ratification de l’Ordonnance n°2011-001/P-RM du 4 février 2011 autorisant ratification de l’Accord de prêt signé à Bamako, le 14 octobre 2010 entre le Gouvernement de la République du Mali et le Fonds Africain de Développement (FAD), pour le financement partiel du Projet d’élargissement de la route Carrefour de la paix-Pont Woyowayanko-Point Y à Bamako
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 05 mai 2011
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée, l’Ordonnance N°2011-001/P-RM du 4 février 2011 autorisant la ratification de l’Accord de prêt d’un montant de douze millions (12 000 000) d’Unités de Compte, soit environ huit milliards cinq cent soixante cinq millions neuf cent douze mille (8 565 912 000) de francs CFA, signé le 14 octobre 2010, à Bamako, entre le Gouvernement de la République du Mali et le Fonds Africain de Développement (FAD) pour le financement partiel du projet d’élargissement de la route Carrefour de la paix-Pont Woyowayanko-Point Y à Bamako.
