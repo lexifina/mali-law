@@ -1,0 +1,5 @@
+# Loi n°2011-011 du 18 mai 2011 portant ratification de l’Ordonnance n°2011-003/P-RM du 10 février 2011 autorisant la ratification de l’Accord de prêt, signé à Abu Dhabi le 29 novembre 2010, entre le Gouvernement de la République du Mali et le Fonds d’Abu Dhabi pour le Développement économique, pour le financement partiel du Projet de barrage de Taoussa
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 05 mai 2011
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée, l’Ordonnance N°2011- 003/P-RM du 10 février 2011 autorisant la ratification de l’Accord de prêt d’un montant de soixante dix millions (70 000 000) de Dirhams des Emirats Arabes Unis, soit environ neuf milliards trois cent quarante trois millions six cent vingt sept mille cinq cent dix neuf (9 343 627 519) de francs CFA, signé le 29 novembre 2010, à Abu Dhabi, entre le Gouvernement de la République du Mali et le Fonds d’Abu Dhabi pour le Développement Economique, pour le financement partiel du Projet de barrage de Taoussa.
