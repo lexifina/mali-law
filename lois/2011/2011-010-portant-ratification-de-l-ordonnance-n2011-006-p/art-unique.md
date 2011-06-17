@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n°2011- 006/P-RM du 2 mars 2011 autorisant la ratification de l’Accord de prêt, signé à Bamako, le 22 janvier 2011, entre le Gouvernement de la République du Mali et la Banque Ouest Africaine de Développement (BOAD), pour le financement partiel du Projet de construction d’un Centre National de conduite à Bamako et du doublement de la capacité de la centrale hydroélectrique de Sotuba en République du Mali.
