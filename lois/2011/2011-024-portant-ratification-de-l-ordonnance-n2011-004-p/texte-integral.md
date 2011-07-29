@@ -1,0 +1,5 @@
+# Loi n°2011-024 du 13 juin 2011 portant ratification de l’Ordonnance n°2011-004/P-RM du 10 février 2011 autorisant la ratification de l’Accord de prêt, signé à Bamako le 2 décembre 2010, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA), pour le financement additionnel du Projet d’Appui aux Communautés Rurales (PACR)
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 19 mai 2011
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée, l’Ordonnance N°2011-004/ P-RM du 10 février 2011 autorisant la ratification de l’Accord de prêt d’un montant de sept millions cinq cent mille (7 500 000) Droits de Tirage Spéciaux, soit environ cinq milliards sept cent cinquante six millions six cent cinquante deux mille neuf cent quarante quatre (5 756 652 944) francs CFA, signé le 2 décembre 2010, à Bamako, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA), pour le financement additionnel du Projet d’Appui aux Communautés Rurales (PACR).
