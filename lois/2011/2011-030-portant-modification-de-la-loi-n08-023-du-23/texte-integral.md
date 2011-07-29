@@ -1,0 +1,19 @@
+# Loi n°2011-030 du 24 juin 2011 portant modification de la loi n°08-023 du 23 juillet 2008 relatif à l’Autorité de Régulation des Marches Publics et des Délégations de Services Publics
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 02 juin 2011.
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : L’article 2 de la Loi N°08-023 du 23 juillet 2008 relative à l’Autorité de Régulation des Marchés Publics et des Délégations de Service public est libellé ainsi qu’il suit :
+« Article 2 : L’Autorité de Régulation des Marchés Public et des délégations de Service Public a pour mission d’assurer la régulation du système de passation des marchés publics et des conventions de délégation de service public en vue d’en croître la transparence et l’efficacité.
+A ce titre, elle est chargée de :
+a) Définir les éléments de la politique nationale en matière de marchés publics et des délégations de service public, d’émettre des avis, de formuler des propositions ou de recommandations concernant les politiques et les mesures législatives et réglementaires en matière de marchés publics et de délégations de service public.
+Dans ce cadre, l’Autorité élabore les projets de textes et mène des études relatives aux marchés publics et aux délégations de service public. Elle propose toutes mesures de réforme de nature à améliorer les procédures et les outils de passation des marchés publics et des délégations de service public.
+b) Contribuer à l’information et à la formation des acteurs de la commande publique, au développement du cadre professionnel et à l’évaluation des performances des acteurs du système de passation, d’exécution et de contrôle des marchés publics et des délégations de service public.
+Dans ce cadre, l’Autorité :
+- Elabore et met en œuvre les programmes de formation et de sensibilisation des acteurs de la commande publique sur la réglementation des marchés publics et des délégations de service public en vue de renforcer leur capacité ;
+- Assure la publication d’une revue périodique ayant pour objet de promouvoir la transparence sur le système des marchés publics et des délégations de service public, d’informer le public sur les activités de l’Autorité ;
+- Diffuse la réglementation et garantit la publicité de l’information sur les procédures de passation des marchés publics ;
+- Assure, en relation avec la Direction Générale des Marchés Publics et des Délégations de service Public, la constitution et la gestion d’une banque de données sur les marchés publics et les délégations de service public ;
+c) auditer les marchés publics, initier des enquêtes relatives à des irrégularités ou des violations de la règlementation communautaire ou nationale, commises en matière de marchés publics et de délégations de service public et saisir les autorités communautaires ou nationales compétentes de toute infraction constatée.
+Elle fait réaliser les audits techniques et/ ou financiers en vue d’évaluer le coût et l’efficacité des marchés publics ou des délégations de service public.
+d) Assurer le règlement non juridictionnel des litiges en statuant en qualité d’Autorité de recours non juridictionnels. A ce titre, elle reçoit les réclamations et statue sur les irrégularités, fautes et infractions constatées en matière de passation ou d’exécution des marchés publics et des délégations de service public.
+e) Entretenir des relations de coopération avec les institutions similaires d’autres pays et les organismes internationaux agissant dans le domaine des marchés publics et de délégations de service public. Elle est l’organe de liaison des institutions communautaires de l’UEMOA, et peut à ce titre saisir ou assister la Commission de l’UEMOA dans le cadre de la surveillance multilatérale en matière de marchés publics et de délégations de service public. »
