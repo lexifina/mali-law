@@ -1,0 +1,4 @@
+# Loi n°2011-045 du 26 juillet 2011 portant ratification de l’Accord de financement du 5ème crédit d’appui a la stratégie de réduction de la pauvreté (CASRP5), signé à Bamako, le 10 mai 2011, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA)
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 21 juillet 2011 Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est autorisée la ratification de l’Accord de financement, d’un montant de quarante millions cinq cent mille (44 500 000) Droits de Tirage Spéciaux, soit environ trente trois milliards cent cinquante deux millions cinq cent mille (33 152 500 000) francs CFA, signé le 10 mai 2011, à Bamako, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA), pour le financement du 5ème Crédit d’Appui à la Stratégie de Réduction de la Pauvreté (CASRP5).
