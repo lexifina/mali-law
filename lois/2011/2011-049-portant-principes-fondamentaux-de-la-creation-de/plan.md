@@ -1,0 +1,13 @@
+# Plan
+TITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE I : Champ d’application (Article 1er)
+CHAPITRE II : Classification ou typologie des services des Collectivités Territoriales (Article 2)
+CHAPITRE III : Création des services des Collectivités Territoriales (Article 5)
+TITRE II : ORGANISATION DES SERVICES DES COLLECTIVITES TERRITORIALES (Article 8)
+CHAPITRE I : Les services généraux (Article 8)
+CHAPITRE II : Les services rattachés (Article 18)
+CHAPITRE III : Les organismes personnalisés (Article 20)
+Section 1 : Les organismes de coopération inter collectivités (Article 22)
+Section 2 : Les établissements publics (Article 23)
+Section 3 : Les sociétés d’économie mixte (Article 25)
+TITRE III : GESTION ET CONTROLE DES STRTUCTURES DES SERVICES PUBLICS DES COLLECTIVITES TERRITORIALES (Article 27)
