@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Dans le cadre de la concession pour la production d’électricité dans la ville de Kayes, à partir d’une Centrale Thermique au Fuel lourd, la Société Albatros Energy Mali S-A est exonérée, par dérogation aux dispositions des articles 43 et 47 du Décret N°01-040/P-RM du 02 février 2001 susvisé, du paiement de la redevance annuelle de bail emphytéotique pour la durée de la convention.
