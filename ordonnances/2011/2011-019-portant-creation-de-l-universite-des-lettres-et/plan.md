@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : DE LA CREATION ET DES MISSIONS (Article 1er)
+CHAPITRE III : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 5)
+Section I : Du Conseil d’Université (Article 6)
+Section II : Du Recteur de l’Université (Article 7)
+Section III : Du Conseil Pédagogique et Scientifique (Article 8)
+CHAPITRE IV : DE LA TUTELLE (Article 9)
+CHAPITRE V : DES DISPOSITIONS PARTICULIERES (Article 18)
+CHAPITRE VI : DES DISPOSITIONS TRANSITOIRES (Article 21)
+CHAPITRE VII : DES DISPOSITIONS FINALES (Article 25)
