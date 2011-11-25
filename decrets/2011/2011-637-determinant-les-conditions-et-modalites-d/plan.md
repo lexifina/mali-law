@@ -1,0 +1,12 @@
+# Plan
+CHAPITRE I : DES CONDITIONS D’EXERCICE DES DROITS CONFERES PAR LES TITRES D’EXPLOITATION DES PRODUITS FORESTIERS (Article 2)
+Section 1 : De la carte d’exploitant forestier (Article 2)
+Section 2 : Des modes d’exploitation (Article 6)
+I) De l’exploitation en régie : (Article 6)
+CHAPITRE II : DES MODALITES D’EXERCICE DES DROITS CONFERES PAR LES TITRES DE TRANSPORT DES PRODUITS FORESTIERS. (Article 20)
+Section 1 : Du coupon de transport (Article 20)
+Section 2 : De l’autorisation gratuite de transport de bois énergie. (Article 26)
+Section 3 : Des certificats (Article 29)
+I) Le certificat d’origine (Article 29)
+Section 4 : Du permis de dépôt (Article 31)
+CHAPITRE III : DES DISPOSITIONS FINALES (Article 35)
