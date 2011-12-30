@@ -1,0 +1,5 @@
+# Loi n°2011-084 du 29 décembre 2011 portant modification de l’Ordonnance n°00-19/P-RM du 15 mars 2000 portant organisation du secteur de l’électricité
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 08 décembre 2011 ;
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : A l’exception des conventions déjà conclues par l’Etat et sauf dérogation par décret dans les conditions prévues par le décret n° 08-485/P-RM du 11 août 2008 modifié portant procédure de passation, d’exécution et de règlement des marchés publics et des délégations des services publics, la procédure d’appel d’offres prévue à l’article 17 de l’Ordonnance n° 00-19/P-RM du 15 mars 2000 portant organisation du secteur de l’électricité demeure applicable aux conventions de concession d’ouvrage au sens de l’article 2 de ladite ordonnance consenties par l’Etat pour la construction et l’exploitation d’ouvrages et d’installations de production, de transport et de distribution d’électricité.
