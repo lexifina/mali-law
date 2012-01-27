@@ -1,0 +1,6 @@
+# Décret n°2012-011/P-RM du 18 janvier 2012 portant statut particulier des fonctionnaires du cadre du travail et de la securite sociale
+
+- Source : Journal officiel n°2012-04 du 27 janvier 2012, <https://sgg-mali.ml/JO/2012/mali-jo-2012-04.pdf>
+- Signé / promulgué : 2012-01-18
+- En vigueur : 2012-01-27 (publication au Journal officiel n°2012-04 du 27 janvier 2012 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 16 articles
