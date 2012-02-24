@@ -1,0 +1,6 @@
+# Signatures
+
+Bamako, le 8 février 2012
+Le Président de la République, Amadou Toumani TOURE
+Le Premier ministre, Madame CISSE Mariam Kaïdama SIDIBE
+Le ministre de la Santé, Madame DIALLO Madeleine BA
