@@ -1,0 +1,5 @@
+# Visas
+LE MINISTRE DE L’EDUCATION, DE L’ALPHABETISATION ET DES LANGUES NATIONALES,
+ARRETE:
+L’Arrêté n°2011-4951du 06 décembre 2011 est modifié comme suite :
+Au lieu de :
