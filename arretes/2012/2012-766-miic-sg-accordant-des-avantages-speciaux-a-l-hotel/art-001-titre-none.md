@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+L’hôtel dénommé « BAMAKO PLAGE » sis à Torokorobougou, rue 392, porte : 84, Bamako, Tél. :65 79 01 35 / 76 32 77 88, de la Société « BAMAKO PLAGE-SARL » Torokorobougou, près du centre d’entrainement Djoliba AC, Bamako, Tél. : 76 32 77 88/ 65 79 01 35, est agréée au « Régime B » de la Loi N°02-015 du 03 juin 2002 accordant des avantages spéciaux aux entreprises touristiques.
