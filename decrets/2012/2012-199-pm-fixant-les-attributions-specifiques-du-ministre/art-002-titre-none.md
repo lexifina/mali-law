@@ -1,0 +1,9 @@
+# Article 2 (Titre None)
+Le ministre de la Sécurité Intérieure et de la Protection Civile élabore et met en œuvre la politique nationale en matière de sécurité intérieure et de protection civile.
+A ce titre, il est chargé notamment des attributions spécifiques suivantes :
+- le respect de la loi et le maintien de l’ordre public et de la sécurité sur tout le territoire national par son concours ;
+- la mise en œuvre des mesures de préparation et d’emploi des forces de sécurité pour le maintien de l’ordre ;
+- le contrôle de la réglementation relative à la circulation sur les voies ;
+- la participation à l’information du gouvernement sur la situation sécuritaire du territoire national ;
+- l’exercice de la police des établissements classés de jeux ;
+- la préparation et la mise en œuvre des mesures de prévention et de secours destinées à assurer la protection des populations, notamment dans les cas de sinistre ou de calamité.
