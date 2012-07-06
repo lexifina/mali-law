@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée, la ratification de l’Accord de prêt, d’un montant de six millions sept cent trente huit mille trois cent seize (6 738 316) Unités de compte (UC), soit environ cinq milliards (5 000 000 000) de francs CFA, signé à Bamako, le 09 mars 2012, entre le Gouvernement de la République du Mali et la Banque d’Investissement et de Développement de la Communauté Economique des Etats de l’Afrique de l’Ouest (BIDC), pour le financement partiel du Programme de Développement de l’Irrigation dans le Bassin du Bani et à Sélingué (PDI-BS), Phase I.
