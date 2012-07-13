@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : DES DEFINITIONS (Article 1er)
+CHAPITRE II : DES SANCTIONS (Article 7)
+Section I : DE LA TRAITE DES PERSONNES (Article 7)
+Section II : DES PRATIQUES ASSIMILEES (Article 10)
+Paragraphe 1 : De l’exploitation de la mendicité d’autrui (Article 10)
+Paragraphe 2 : Du trafic illicite de migrants (Article 13)
+CHAPITRE III : DE LA PROCEDURE (Article 15)
+CHAPITRE IV : DE LA PROTECTION DES VICTIMES ET TEMOINS (Article 22)
+CHAPITRE V : DISPOSITIONS FINALES (Article 26)
