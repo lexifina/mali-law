@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DE L’ORGANISATION (Article 2)
+Section 1 : De la composition du Comité Militaire de Suivi de la Réforme des Forces de Défense et de Sécurité (Article 2)
+Section 2 : Du Président du Comité Militaire de Suivi de la Réforme des Forces de Défense (Article 3)
+Section 3 : Des Commissions de Travail (Article 4)
+Sous Section 1 : De la Commission Finances et Logistique (Article 4)
+Section 4 : Du Secrétariat Général (Article 12)
+CHAPITRE III : DU FONCTIONNEMENT (Article 14)
+CHAPITRE IV : DISPOSITIONS DIVERSES ET FINALES (Article 18)
