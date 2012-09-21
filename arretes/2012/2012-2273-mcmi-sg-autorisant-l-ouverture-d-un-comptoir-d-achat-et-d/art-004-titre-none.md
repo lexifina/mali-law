@@ -1,0 +1,7 @@
+# Article 4 (Titre None)
+Le présent arrêté sera enregistré, publié et communiqué partout où besoin sera.
+Bamako, le 06 août 2012
+Le Ministre du Commerce, des Mines et de l’Industrie, Ahmadou TOURE
+ARRETE N°2012/2274/MCMI-SG DU 06 AOUT 2012 PORTANT AGREMENT AU CODE DES INVESTISSEMENTS DE L’UNITE DE TRANSFORMATION DE NOIX DE CAJOU DE LA SOCIETE « EDNC AGRO INDUSTRIES JVC » SA A YANFOLILA, REGION DE SIKASSO.
+LE MINISTRE DU COMMERCE, DES MINES ET DE L’INDUSTRIE,
+ARRETE :
