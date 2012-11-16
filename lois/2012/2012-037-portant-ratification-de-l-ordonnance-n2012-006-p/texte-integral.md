@@ -1,0 +1,6 @@
+# Loi n°2012-037 du 16 novembre 2012 portant ratification de l’Ordonnance N°2012-006/P-RM du 24 février 2012 autorisant la ratification de l’Accord de prêt, signé Djeddah, le 30 juin 2011, entre le Gouvernement de la République du Mali et le Fonds Saoudien de Développement pour le financement partiel du Projet de construction du seuil de Djenne dans le cadre du Programme de Développement de l’Irrigation dans la Bassin du Bani et à Sélingué (Phase I)
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 1er novembre 2012 ;
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée, l’Ordonnance N°2012-006/ P-RM du 24 février 2012 autorisant la ratification de l’Accord de prêt, d’un montant de cinquante six millions deux cent cinquante mille Riyals (56 250 000) soit sept milliards cent quatre millions cent cinquante cinq mille six cent vingt cinq francs CFA environ (7 104 155 625), signé à Djeddah (Arabie Saoudite), le 30 juin 2011, entre le Gouvernement de la République du Mali et le Fonds Saoudien de Développement pour le financement partiel du Projet de construction du seuil de Djenné dans le cadre du Programme de Développement de l’Irrigation dans le Bassin du Baní et à Sélingué (Phase I).
+Le Président de la République par intérim, Pr Dioncounda TRAORE
