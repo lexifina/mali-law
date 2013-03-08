@@ -1,0 +1,2 @@
+# Article 2 (Titre None)
+Les candidats de la liste d’attente jointe en annexe II au présent arrêté remplaceront, dans la limite des places disponibles et par ordre de mérite, les candidats admis qui ne seront pas présentés à la Direction de l’établissement à la date de la rentrée fixée au 02 janvier 2013 ou qui seront déclarés inaptes après le contrôle médical.
