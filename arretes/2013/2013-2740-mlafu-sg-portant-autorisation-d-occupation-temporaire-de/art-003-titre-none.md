@@ -1,0 +1,4 @@
+# Article 3 (Titre None)
+le droit d’occupation accordé à la Société BATICO représentée par Monsieur Baba MAIGA domicilié à Bacodjicoroni ACI Rue 565, Bamako Tél : (223) 20 77 20 49, se limite aux besoins indiqués à l’article 2 ci-dessus.
+Il est révocable à première réquisition pour tout motif d’intérêt public et ne donne droit au paiement d’aucune indemnité ;
+En cas de révocation, les lieux doivent être remis en leur état initial par l’occupant.

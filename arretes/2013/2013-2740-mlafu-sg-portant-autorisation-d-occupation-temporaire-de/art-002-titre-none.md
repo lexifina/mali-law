@@ -1,0 +1,2 @@
+# Article 2 (Titre None)
+La parcelle de terrain, objet de la présente occupation temporaire, est destinée à la réalisation d’installations démontables. Elle pourra être aménagée pour recevoir la construction des appartements et hôtels, conformément aux plans décrits dans l’avant projet qui a été mentionné dans le dossier.
