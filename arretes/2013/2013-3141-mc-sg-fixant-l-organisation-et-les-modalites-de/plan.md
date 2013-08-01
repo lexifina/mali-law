@@ -1,0 +1,12 @@
+# Plan
+CHAPITRE I : ORGANISATION (Article 2 (Titre None))
+Section 1 : De la Direction et du Bureau du Service de la Culture du Cercle et/ou de la Commune. (Article 2 (Titre None))
+Paragraphe 1 : De la Direction régionale (Article 2 (Titre None))
+Paragraphe 2 : Du Bureau du Service de la Culture du Cercle et/ou de la Commune (Article 5 (Titre None))
+1- Du Bureau du Service de la Culture du Cercle : (Article 5 (Titre None))
+Section 2 : Structures / Attributions (Article 9 (Titre None))
+Paragraphe 1 : De la Direction régionale de la Culture. (Article 9 (Titre None))
+1- Structures : (Article 9 (Titre None))
+Paragraphe 2 : Du Service de la Culture du Cercle et/ ou de la Commune. (Article 12 (Titre None))
+1- Structures : (Article 12 (Titre None))
+CHAPITRE II : DES DISPOSITIONS FINALES (Article 15 (Titre None))
