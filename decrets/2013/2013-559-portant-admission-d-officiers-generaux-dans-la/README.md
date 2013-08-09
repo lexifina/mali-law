@@ -1,0 +1,6 @@
+# Décret n°2013-559/P-RM du 8 juillet 2013 portant admission d’Officiers Généraux dans la deuxième Section par limite d’âge
+
+- Source : Journal officiel n°2013-32 du 9 août 2013, <https://sgg-mali.ml/JO/2013/mali-jo-2013-32.pdf>
+- Signé / promulgué : 2013-07-08
+- En vigueur : 2013-08-09 (publication au Journal officiel n°2013-32 du 9 août 2013 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 1 articles
