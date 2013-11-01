@@ -1,0 +1,7 @@
+# Plan
+CHAPITRE I : DE LA CREATION ET DES ATTRIBUTIONS (Article 2)
+CHAPITRE II : DE L’ORGANISATION (Article 4)
+Section 1 : De la composition. (Article 4)
+Section II : Du Secrétariat permanent (Article 5)
+CHAPITRE III : DES MODALITES DE FONCTIONNEMENT (Article 7)
+CHAPITRE IV : DES DISPOSITIONS DIVERSES ET FINALES (Article 9)
