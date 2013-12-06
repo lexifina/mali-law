@@ -1,0 +1,8 @@
+# Article 2 (Titre None)
+Le présent arrêté sera enregistré, publié et communiqué partout où besoin sera.
+Bamako, le 15 mai 2013
+Le Ministre Délégué auprès du Ministre de l’Economie des Finances et du Budget, Marimpa SAMOURA
+ARRET INTERMINISTERIEL N°2013-2020/MEFB-MIC-SG DU 16 MAI 2013 PORTANT NOMINATION D’UN REGISSEUR D’AVANCES AUPRES DE L’AGENCE POUR LA PROMOTION DES INVESTISSEMENTS DU MALI (APIM).
+LE MINISTRE DE L’ECONOMIE DES FINANCES ET DU BUDGET,
+LE MINISTRE DU COMMERCE, ET DE L’INDUSTRIE,
+ARRETENT
