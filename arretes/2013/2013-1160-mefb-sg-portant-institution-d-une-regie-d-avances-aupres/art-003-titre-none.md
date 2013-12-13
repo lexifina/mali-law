@@ -1,0 +1,2 @@
+# Article 3 (Titre None)
+L’Ordonnateur des dépenses exécutées sur la régie d’avances est l’Université des Sciences, des Technologies et de Technologie qui doit obligatoirement viser toutes les pièces justificatives des dépenses proposées au paiement du régisseur.
