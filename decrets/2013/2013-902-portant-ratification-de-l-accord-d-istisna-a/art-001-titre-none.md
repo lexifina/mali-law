@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Est ratifié l’Accord d’Istisna’a relatif au projet N°2MLI 0127, d’un montant de Sept millions deux cent vingt cinq mille dollars américains (7.225.000), soit trois milliards cinq cent trente huit millions huit cent soixante dix sept mille deux cent cinquante (3.538.877.250) francs CFA environ, signé à Bamako, le 06 août 2013, entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID) pour le financement du Projet de renforcement de la résilience afin de lutter contre l’insécurité alimentaire au Mali.
