@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Est autorisée la ratification de l’Accord de prêt, d’un montant en principal de treize milliards (13.000.000.000) de francs CFA, signé à Bamako, le 11 octobre 2013, entre le Gouvernement de la République du Mali et la Banque Ouest Africaine de Développement (BOAD), pour le financement partiel du Projet d’aménagement en 2x2 voies de la section Ségou-San sur 7 km de la Route Nationale N°6.
