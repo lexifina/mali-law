@@ -1,0 +1,12 @@
+# Plan
+TITRE I : DISPOSITIONS GENERALES (Article 1er)
+TITRE II : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 5)
+CHAPITRE I : DU CONSEIL D’ADMINISTRATION (Article 5)
+Section 1 : De la composition (Article 5)
+Section 2 : Du fonctionnement (Article 9)
+CHAPITRE II : DU DIRECTEUR GENERAL (Article 14)
+CHAPITRE III : DES ORGANES CONSULTATIFS (Article 16)
+Section 1 : De la composition (Article 16)
+Du Comité Scientifique : (Article 16)
+Section 2 : Du fonctionnement (Article 24)
+TITRE III : DISPOSITIONS FINALES (Article 28)
