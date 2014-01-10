@@ -1,0 +1,5 @@
+# Loi n°2013-035/AN-RM du 31 décembre 2013 portant ratification de l’Ordonnance n°2013-008/P-RM du 28 août 2013 autorisant la ratification de l’Accord de Crédit-bail, signé à Djeddah (Arabie Saoudite), le 21 novembre 2012, entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID), concernant les équipements dans le cadre du Projet de financement de la centrale électrique de Balingué II
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 19 décembre 2013
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée l’Ordonnance N°2013-008/ P-RM du 28 août 2013 autorisant la ratification de l’Accord de Crédit- Bail, d’un montant de vingt millions soixante mille (20.060.000) Dinars Islamiques soit quinze milliards cinq cent quatre vingt douze millions huit cent vingt huit mille quatre vingt onze (15.592.828.091) francs CFA, signé à Djeddah (Arabie Saoudite), le 21 novembre 2012, entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID), concernant les équipements dans le cadre du projet de financement de la centrale électrique de Balingué II.
