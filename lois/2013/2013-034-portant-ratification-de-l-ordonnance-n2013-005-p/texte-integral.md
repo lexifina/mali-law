@@ -1,0 +1,5 @@
+# Loi n°2013-034 du 31 décembre 2013 portant ratification de l’Ordonnance n°2013-005/P-RM du 28 août 2013 autorisant la ratification de l’Accord de crédit n°5227-ML, signé à Bamako, le 27 mai 2013 entre le Gouvernement de la République du Mali et l’Association Internationale de Développement en vue du financement additionnel du Projet de Compétitivité et de Diversification Agricoles (PCDA)
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 19 décembre 2013
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée l’Ordonnance N°2013-005/ P-RM du 28 août 2013 autorisant la ratification de l’Accord de crédit, d’un montant de treize millions (13.000.000) de Droits de Tirage Spéciaux (DTS) soit neuf milliards huit cent quinze millions (9.815.000.000) de francs CFA environ, signé à Bamako, le 27 mai 2013 entre le Gouvernement de la République du Mali et l’Association Internationale de Développement en vue du financement additionnel du Projet de Compétitivité et de Diversification Agricoles (PCDA).
