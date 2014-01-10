@@ -1,0 +1,5 @@
+# Loi n°2013-033 du 31 décembre 2013 portant ratification de l’Ordonnance n°2013-007/P-RM du 28 août 2013 autorisant la ratification de l’Accord de prêt préférentiel de Crédit acheteur, signé à Dakar le 04 janvier 2013 entre le Gouvernement de la République du mali et la Bank Import – Export de Chine relatif au financement du Projet hydroélectrique de Gouina
+
+L’Assemblée Nationale a délibéré et adopté en sa séance du 19 décembre 2013
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée l’Ordonnance N°2013-007/ P-RM du 28 août 2013 autorisant la ratification de l’Accord de prêt d’un montant de cent trente huit millions trois cent mille (138.300.000) dollars soit, soixante neuf milliards cent soixante dix-sept millions six cent soixante mille (69.177.660.000) francs CFA, signé à Dakar, le 04 janvier 2013, entre le Gouvernement de la République du Mali et la Bank Import-Export de Chine relatif au financement du projet hydroélectrique de Gouina.
