@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Est autorisée la ratification du Traité relatif aux Autorités Africaines et Malgaches de l’Aviation Civile (AAMAC), signé le 20 janvier 2012 à N’Djamena au Tchad.
