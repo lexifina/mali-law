@@ -1,0 +1,13 @@
+# Plan
+TITRE I : DISPOSITIONS GENERALES (Article 1er)
+TITRE II : DES MISSIONS (Article 5)
+Chapitre I: Des attributions d’autorisation de création, d’installation et d’exploitation des services privés de communication audiovisuelle (Article 6)
+Chapitre II: Des attributions de veille et d’alerte (Article 8)
+Chapitre III: Des attributions de consultation et de recherche (Article 9)
+Chapitre IV : des Attributions de Contrôle et de Sanctions (Article 15)
+TITRE III: DE L’INDEPEDANCE DE LA HAC (Article 23)
+TITRE IV:DE LA COMPOSITION (Article 26)
+TITRE V:DE LA REMUNERATION DES MEMBRES DE LA HAUTE AUTORITE DE LA COMMUNICATION (Article 34)
+TITRE VI:DESRESSOURCES ET DES DEPENSES (Article 35)
+TITRE VII:DE L’ORGANISATION ET DU FONCTIONNEMENT (Article 40)
+TITRE VIII:DES DISPOSITIONS TRANSITOIRES ET FINALES (Article 43)
