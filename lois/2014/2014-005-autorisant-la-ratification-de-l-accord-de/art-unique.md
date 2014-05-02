@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de financement n°5317-ML, d’un montant de cinquante deux millions deux cent mille (52.200.000) Droits de Tirage Spéciaux (DTS), soit trente huit milliards huit cent dix millions vingt un mille quatre cents (38.810.021.400) francs CFA environ, signé à Bamako, le 23 décembre 2013, entre le Gouvernement de la République du Mali et l’Association internationale de développement (IDA) pour le financement du projet d’alimentation en eau potable de la ville de Bamako.
