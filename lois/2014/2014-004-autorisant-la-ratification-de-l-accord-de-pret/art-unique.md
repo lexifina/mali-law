@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt, d’un montant de cinquante millions (50.000.000) d’Unités de Compte (UC), soit trente sept milliards cinq cent cinquante millions (37.550.000.000) francs CFA environ, signé à Bamako, le 26 novembre 2013, entre le Gouvernement de la République du Mali et le Fonds africain de développement (FAD) en vue du financement du Projet d’Approvisionnement en Eau Potable de Bamako à partir de la localité de Kabala (PAEP-BAMAKO-KABALA).
