@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de la convention de crédit n°CML1242 01S, d’un montant total de trente neuf millions (39.000.000) d’Euros, soit vingt cinq milliards cinq cent quatre vingt deux millions trois cent vingt trois mille (25.582.323.000) francs CFA environ, signée à Bamako, le 16 décembre 2013, entre le Gouvernement de la République du Mali et l’Agence française de développement (AFD) relative au financement du projet d’alimentation en eau potable de la ville de Bamako à partir de la localité de Kabala.
