@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt n° 2MLI 129, d’un montant d’onze millions sept cent quarante mille (11.740.000) Dinars Islamiques, soit huit milliards sept cent soixante seize millions sept cent quatre mille six cent soixante (8.776.704.660) francs CFA environ, signé à Bamako, le 06 janvier 2014, entre le Gouvernement de la République du Mali et la Banque islamique de développement (BID) en vue du financement du projet d’adduction d’eau potable de Kabala.
