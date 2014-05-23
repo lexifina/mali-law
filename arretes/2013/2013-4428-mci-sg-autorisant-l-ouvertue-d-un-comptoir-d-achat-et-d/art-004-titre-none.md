@@ -1,0 +1,7 @@
+# Article 4 (Titre None)
+Le présent arrêté sera enregistré, publié et communiqué partout où besoin sera.
+Bamako, le 21 novembre 2013
+Le ministre du Commerce et de l’Industrie, Abdoul Karim KONATE
+ARRETE N°2013-4578/MC-SG 10 DECEMBRE 2013 PORTANT ABROGATION DE L’ARRETE N°10-0884/ MIIC-SG DU 1ER AVRIL 2010 AUTORISANT L’OUVERTURE D’UN COMPTOIR D’ACHAT ET D’EXPORTATION D’OR ET DES AUTRES SUSTANCES PRECIEUSES OU FOSSILES.
+LE MINISTRE DU COMMERCE ET DE L’INDUSTRIE,
+ARRETE :
