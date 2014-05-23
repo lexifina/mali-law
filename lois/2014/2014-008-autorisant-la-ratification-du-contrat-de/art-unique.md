@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification du contrat de financement, d’un montant de cinquante millions (50.000.000) Euros, soit trente deux milliards sept cent quatre vingt dix sept millions huit cent cinquante mille (32.797.850.000) francs CFA environ, signé à Bamako, le 16 décembre 2013, entre le Gouvernement de la République du Mali et la Banque Européenne d’Investissement (BEI) relatif au Projet d’Approvisionnement en Eau Potable de Bamako à partir de la localité de Kabala (KABALA -AEP-BAMAKO).
