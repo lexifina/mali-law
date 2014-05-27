@@ -1,0 +1,2 @@
+# Article 2 (Titre None)
+La Société SEBK-SARL aura droit au remboursement de la valeur nette comptable de sa contrepartie au projet et au dédommagement pour son éviction du projet avant le terme de son autorisation.
