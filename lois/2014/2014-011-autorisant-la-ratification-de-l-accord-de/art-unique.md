@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de financement N°5356-ML d’un montant de seize millions trois cent mille (16.300.000) Droits de Tirage Spéciaux (DTS), soit douze milliards cent dix huit millions huit cent trente huit mille cent (12.118.838.100) francs CFA environ, signé à Bamako, le 23 décembre 2013, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA).
