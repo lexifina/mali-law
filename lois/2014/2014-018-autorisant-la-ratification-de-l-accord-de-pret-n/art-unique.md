@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt n°2000000421, d’un montant de dix millions huit cent mille (10.800.000) Droits de Tirage Spéciaux (DTS), signé à Rome, le 17 janvier 2014 entre le Gouvernement de la République du Mali et le Fonds International de Développement Agricole (FIDA) relatif au financement du Projet de Formation professionnelle, insertion et appui à l’entrepreneuriat des jeunes ruraux (FIER).
