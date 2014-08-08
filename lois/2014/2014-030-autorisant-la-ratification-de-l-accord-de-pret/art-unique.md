@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt d’un montant de trente trois millions huit cent cinquante six mille (33 856 000) Unités de Compte (UC), signé à Bamako, le 23 janvier 2014 entre le Gouvernement de la République du Mali et le Fonds Africain de Développement (FAD) en vue du financement du Projet de Renforcement de la Sécurité Alimentaire par le Développement des Cultures Irriguées (PRESA/DCI).
