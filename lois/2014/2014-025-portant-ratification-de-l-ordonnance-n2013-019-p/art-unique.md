@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N°2013- 019/P-RM du 03 décembre 2013, autorisant la ratification de la Convention de crédit N°CML 1297 02 D, d’un montant total de quatre millions (4.000.000) d’euros, signée à Bamako, le 04 septembre 2013, entre le Gouvernement de la République du Mali et l’Agence Française de Développement (AFD) relative au financement du Projet d’Amélioration de la Compétitivité des Entreprises par la Formation Professionnelle (ACEFOR).
