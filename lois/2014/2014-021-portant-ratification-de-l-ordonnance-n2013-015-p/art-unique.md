@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance N°2013- 015/P-RM du 25 novembre 2013 autorisant la ratification de l’Accord d’Istisna’a relatif au projet N°2MLI 0128, signé à Bamako, le 06 août 2013, entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID), pour le financement du Projet de Renforcement de la Résilience afin de lutter contre l’insécurité alimentaire au Mali.
