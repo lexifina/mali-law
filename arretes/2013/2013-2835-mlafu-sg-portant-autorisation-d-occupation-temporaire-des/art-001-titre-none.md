@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+La Société SYLLA GROUPE INDUSTRIE (SYGIM) représentée par Monsieur Saïdou SYLLA domicilié à Djélibougou Rue 268 Porte 106 Bamako BP 461Tél : (223) 66 75 95 05 est autorisée à occuper temporairement les parcelles de terrain n° EA 1, 2, 3, et 4 à déduire du TF n°7616 de la commune VI du District de Bamako d’une superficie totale de cinq hectares trente six ares trois centiares (5,3603 ha), sises dans le secteur industriel du domaine aéroportuaire de Bamako-Sénou.

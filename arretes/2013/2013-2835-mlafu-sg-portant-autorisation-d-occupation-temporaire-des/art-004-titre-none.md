@@ -1,0 +1,2 @@
+# Article 4 (Titre None)
+L’occupation temporaire est accordée moyennant le paiement d’une redevance annuelle de cent (100) francs CFA par mètre carré à la caisse du bureau des Domaines et du Cadastre du District de Bamako.
