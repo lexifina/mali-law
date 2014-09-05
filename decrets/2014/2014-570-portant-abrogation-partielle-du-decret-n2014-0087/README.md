@@ -1,0 +1,6 @@
+# Décret n°2014-0570/P-RM du 22 juillet 2014 portant abrogation partielle du décret n°2014-0087/ P-RM du 20 février 2014 fixant la liste nominative des membres du Conseil de l’Université des Sciences, des Techniques et des Technologies de Bamako
+
+- Source : Journal officiel n°2014-36 du 5 septembre 2014, <https://sgg-mali.ml/JO/2014/mali-jo-2014-36.pdf>
+- Signé / promulgué : 2014-07-22
+- En vigueur : 2014-09-05 (publication au Journal officiel n°2014-36 du 5 septembre 2014 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 2 articles
