@@ -1,0 +1,2 @@
+# Article 2 (Titre None)
+La régie spéciale d’avances de la Direction des Finances et du Matériel du Ministère de l’Education a pour objet le paiement au comptant des dépenses relatives à la prise en charge de l’allocation au titre de frais de transport des agents des services déconcentrés de l’Education devant rejoindre leur poste dans les zones affectées par la crise, au titre de l’exercice budgétaire 2013. La régie spéciale d’avances prend fin au plus tard le 31 décembre 2013, date calendaire.
