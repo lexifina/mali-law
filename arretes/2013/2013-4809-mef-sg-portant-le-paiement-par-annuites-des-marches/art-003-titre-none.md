@@ -1,0 +1,2 @@
+# Article 3 (Titre None)
+A la fin de chaque exercice budgétaire, la Division Contrôle de la Direction Nationale du trésor et de Comptabilité Publique doit procéder à l’arrêt de la caisse du Régisseur, s’assurer de la disponibilité et de la bonne tenue de tous les documents et pièces justificatives indispensables à la production du compte de gestion dans les délais requis à la Section des Comptes de la Cour Suprême.
