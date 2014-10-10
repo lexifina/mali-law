@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord d’Istisna’a d’un montant de douze millions deux cent quatre vingt quatorze mille deux cent treize Dollars américains (12 294 213), signé à Bamako, le 04 avril 2014 entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID) en vue du financement du projet d’achèvement de l’extension et de la modernisation de l’Aéroport International de Bamako-Senou.
