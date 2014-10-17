@@ -1,0 +1,2 @@
+# Article 9 (Titre III)
+La maquette détaillée spécifique à chaque doctorat, comprenant une description des unités d’enseignement et de recherche, du volume horaire et des crédits alloués, est habilitée pour trois ans par le ministère en charge de l’enseignement supérieur, après évaluation du dossier. Elle sera par la suite évaluée tous les quatre ans et habilitée en cas d’évaluation positive. Cette description détaillée figure en annexe des textes organisant l’enseignement.

@@ -1,0 +1,3 @@
+# Article 8 (Titre III)
+La formation est composée d’unités d’enseignement et de recherche, elles-mêmes subdivisées en éléments constitutifs le cas échéant. Chaque unité a une valeur définie en crédits. Les enseignements doctoraux et exercices de recherche associés à ceux-ci sont sanctionnés par l’attribution d’un minimum de 30 crédits. Les travaux ou les activités de recherche débouchant sur une thèse et sa soutenance sont sanctionnés par l’attribution d’un minimum de 120 crédits. L’ensemble des crédits doit être de 180 pour permettre l’attribution du diplôme.
+Un crédit équivaut à vingt (20) heures d’enseignement ou de recherche.

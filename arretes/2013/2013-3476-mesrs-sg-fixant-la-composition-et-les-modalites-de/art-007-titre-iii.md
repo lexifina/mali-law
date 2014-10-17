@@ -1,0 +1,3 @@
+# Article 7 (Titre III)
+La formation doctorale dispensée comprend à la fois des enseignements théoriques, méthodologiques et pratiques et des travaux de recherche débouchant sur une thèse. Elle se conforme à la maquette nationale des doctorats.
+Le Doctorat se prépare en six (06) semestres (3 ans). Toutefois, des dérogations peuvent être accordées, par le Chef d’établissement sur proposition du Directeur de l’Ecole Doctorale et après avis du Directeur de thèse et du Conseil de l’Ecole Doctorale, sur demande motivée du candidat. Toute dérogation ne peut excéder une période de deux semestres, renouvelable une fois.
