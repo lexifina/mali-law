@@ -1,0 +1,7 @@
+# Signatures
+
+Bamako, le 1er octobre 2014
+Le Président de la République, Ibrahim Boubacar KEITA
+Le Premier ministre, Moussa MARA
+Le ministre de l’Energie, Mamadou Frankaly KEITA
+Le ministre de l’Economie et des Finances, Madame BOUARE Fily SISSOKO
