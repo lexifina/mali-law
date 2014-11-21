@@ -1,0 +1,8 @@
+# Visas
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu la Constitution ;
+Vu la Loi n°63-31/AN-RM du 31 mai 1963 portant création des Ordres Nationaux de la République du Mali ;
+Vu la Loi n°91-053/AN-RM du 26 février 1991 portant création de la Grande Chancellerie des Ordres Nationaux ; Vu l’Ordonnance n°40/CMLN du 25 septembre 1974 portant création des distinctions Militaires ;
+Vu l’Ordonnance n°48/CMLN du 31 août 1973 portant création de l’Ordre du Mérite Agricole ;
+Vu le Décret n°97-210/P-RM du 10 juillet 1997 portant création de l’Ordre du Mérite de la Santé ;
+DECRETE :
