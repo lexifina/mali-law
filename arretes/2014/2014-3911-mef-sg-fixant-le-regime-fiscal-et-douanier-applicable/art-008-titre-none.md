@@ -1,0 +1,3 @@
+# Article 8 (Titre None)
+A l’expiration des détails d’Importation Temporaire et d’Admission Temporaire ou à la fin de chaque marché et contrat, le matériel admis temporairement devra recevoir un régime douanier définitif (réexportation ou mise à la consommation avec autorisation préalable du Directeur général des Douanes).
+En cas de mise à la consommation, la valeur du matériel sera déterminée suivant la réglementation en vigueur.
