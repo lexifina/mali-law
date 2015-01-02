@@ -1,0 +1,2 @@
+# Article 23 (Titre VIII)
+L’autorité de tutelle constate par écrit la nullité des décisions des autorités de l’Institut qui sortent du domaine de leurs compétences ou qui sont prises en violation de la loi.

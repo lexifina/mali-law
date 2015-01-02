@@ -1,0 +1,2 @@
+# Article 12 (Titre II)
+Sont strictement interdits sur l’étendue de la réserve naturelle aquatique toute chasse ou pêche, toute exploitation forestière, agricole ou minière, tout pâturage, toute fouille ou prospection, sondage, terrassement ou construction, tous travaux tendant à modifier l’aspect du terrain de la végétation, toute pollution des eaux et de manière générale, tout acte de nature à nuire ou à apporter des perturbations à la faune ou à la flore aquatique et toute introduction d’espèces animales ou végétales exotiques.
