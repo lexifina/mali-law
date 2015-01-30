@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 2)
+CHAPITRE II : DES SERVICES PROPRES DE LA REGION (Article 3)
+SECTION 1 : Organisation et attributions (Article 3)
+SECTION 2 : Fonctionnement (Article 33)
+CHAPITRE III : DES SERVICES PROPRES DU CERCLE (Article 37)
+SECTION 1 : Organisation et attributions (Article 37)
+SECTION 2 : Fonctionnement (Article 43)
+CHAPITRE IV : DES SERVICES PROPRES DE L’ARRONDISSEMENT (Article 46)
+CHAPITRE V : DISPOSITIONS FINALES (Article 50)
