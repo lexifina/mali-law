@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de financement Mourabaha, d’un montant de dix huit millions (18.000.000) d’euros, signé à Bamako, le 1er septembre 2014 entre le Gouvernement de la République du Mali et la Société Islamique de Financement du Commerce (ITFC), pour l’achat de produits alimentaires et d’aliments bétail dans le cadre du Projet de Développement de la Résilience contre l’Insécurité alimentaire au Mali.
