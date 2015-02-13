@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de financement, d’un montant de vingt trois millions trois cent mille (23.300.000) Droits de Tirage Spéciaux (DTS), signé à Bamako, le 25 septembre 2014, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA) relatif au financement du Projet d’Appui aux Réformes pour la Relance Economique et Bonne Gouvernance.
