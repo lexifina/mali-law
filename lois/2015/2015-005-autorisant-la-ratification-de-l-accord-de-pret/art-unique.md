@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt concessionnel, d’un montant de six cent dix-huit millions trois cent douze mille trois cent soixante-neuf virgule quatre-vingt-un (618.312.369, 81) yuans RMB, signé à Bamako, le 16 septembre 2014, entre le Gouvernement de la République du Mali et Export-Import Bank de Chine, pour le financement du Projet de Centrale Hydroélectrique de Taoussa.
