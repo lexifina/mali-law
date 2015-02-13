@@ -1,0 +1,18 @@
+# Annexes
+
+ANNEXE A LA LOI N°2015-004/ DU 30 JANVIER 2015 PORTANT MODIFICATION DE L’ANNEXE DE LA LOI N°10-034 DU 12 JUILLET 2010 PORTANT STATUT DES FONCTIONNAIRES DE LA POLICE NATIONALE
+GRILLE INDICIAIRE DU STATUT DES FONCTIONNAIRES DE LA POLICE NATIONALE
+TABLEAU I : CORPS DES COMMISSAIRES DE POLICE Elève : 345 Stagiaire : 403
+Echelon Commissaire de Police
+Commissaire principal
+Commissaire divisionnaire
+Contrôleur général
+Inspecteur général 1 458 610 761 914 1098 échelon unique 2 498 650 802 955 3 538 690 842 995 4 578 730 882 1035 TABLEAU II : CORPS DES INSPECTEURS DE POLICE Elève : 230 Stagiaire : 299
+Echelon Inspecteur de
+Police
+Inspecteur principal
+Inspecteur divisionnaire
+Inspecteur de Classe exceptionnelle 1 398 482 566 650 2 421 505 589 673 3 444 528 612 696 4 467 551 635 719 TABLEAU III : CORPS DES SOUS-OFFICIER DE POLICE Elève : 184 Stagiaire : 219
+Echelon Sergent Sergent-chef Adjudant Adjudant-chef Major
+1 247 320 392 466 575 à la promotion 633 après trois ans
+2 265 337 409 483 3 288 354 427 500 4 299 380 444 518
