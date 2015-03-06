@@ -1,0 +1,2 @@
+# Article 2 (Titre None)
+Monsieur Bakary CAMARA, N°Mle 0106.186-R, Maître Assistant de 2ème classe 1er échelon (indice : 636), en service à l’Université des Sciences Juridiques et Politiques de Bamako, Spécialité : Histoire des Institutions Privées et Publiques, admis au 16ème Concours d’Agrégation du Conseil Africain et Malgache de l’Enseignement Supérieur (CAMES) aux Fonctions de Maître de Conférence agrégé, est nommé et transposé Maître de Conférence agrégé 2ème classe 1er échelon (indice : 657) pour compter du 20 novembre 2013.
