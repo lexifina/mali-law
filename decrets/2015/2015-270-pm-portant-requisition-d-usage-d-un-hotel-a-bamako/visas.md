@@ -1,0 +1,8 @@
+# Visas
+LE PREMIER MINISTRE,
+Vu la Constitution ;
+Vu la Loi n°087-48/AN-RM du 10 août 1987 relative aux réquisitions de personnes, de services et de biens ;
+Vu le Décret n°2015-0003/P-RM du 08 janvier 2015 portant nomination du Premier ministre ;
+Vu le Décret n°2015-0004/P-RM du 10 janvier 2015 portant nomination des membres du Gouvernement ;
+Vu le Décret n°2015-0073/P-RM du 13 février 2015 fixant les intérims des membres du Gouvernement ;
+DECRETE :
