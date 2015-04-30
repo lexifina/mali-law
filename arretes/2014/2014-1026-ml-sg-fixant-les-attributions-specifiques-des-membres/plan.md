@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : Du Secrétaire Général (Article 2 (Titre None))
+CHAPITRE II : Des Conseillers Techniques (Article 3)
+SECTION I : Le Conseiller Technique chargé de la promotion de l’habitat (Article 5)
+SECTION II : Le Conseiller Technique chargé de la coordination des programmes de logements (Article 7)
+Section III : Le Conseiller Technique chargé de la promotion des matériaux locaux et des technologies de construction et de la gestion des bâtiments publics de l’Etat. (Article 9)
+SECTION IV : Le Conseiller Technique chargé des questions économiques et financières (Article 11 (Titre None))
+SECTION V: Le Conseiller Technique chargé des questions juridiques (Article 12)
+CHAPITRE III : Du Chef du service du courrier, de la documentation et de la dactylographie (Article 14)
+CHAPITRE IV : Dispositions finales (Article 15)
