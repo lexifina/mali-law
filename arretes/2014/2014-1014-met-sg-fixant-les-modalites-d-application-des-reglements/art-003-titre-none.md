@@ -1,0 +1,2 @@
+# Article 3 (Titre None)
+Les Règlements Aéronautiques du Mali seront publiés par décision du Directeur Général de l’Agence Nationale de l’Aviation Civile du Mali. Ils peuvent être amendés à chaque fois que de besoin, notamment en cas de modification des normes et pratiques recommandées de l’Organisation de l’Aviation Civile Internationale (OACI) et des accords internationaux auxquels le Mali est partie.
