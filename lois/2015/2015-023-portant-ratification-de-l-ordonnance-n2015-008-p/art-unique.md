@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n°2015-008/ P-RM du 27 février 2015 autorisant la ratification de l’Accord de prêt, signé à Bamako, le 22 décembre 2014 entre le Gouvernement de la République du Mali et le Fonds koweitien pour le Développement économique arabe, en vue du financement partiel du projet d’achèvement de modernisation et d’extension de l’Aéroport international de Bamako-Senou.
