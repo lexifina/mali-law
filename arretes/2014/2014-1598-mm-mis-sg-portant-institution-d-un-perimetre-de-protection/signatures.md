@@ -1,0 +1,5 @@
+# Signatures
+
+Bamako, le 27 mai 2014 Le ministre, Dr Boubou CISSE
+MINISTERE DE L’INDUSTRIE ET DE LA
+PROMOTION DES INVESTISSEMENTS
