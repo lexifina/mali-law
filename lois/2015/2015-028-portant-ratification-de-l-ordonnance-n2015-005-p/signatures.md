@@ -1,0 +1,4 @@
+# Signatures
+
+Bamako, le 29 juin 2015
+Le Président de la République, Ibrahim Boubacar KEITA
