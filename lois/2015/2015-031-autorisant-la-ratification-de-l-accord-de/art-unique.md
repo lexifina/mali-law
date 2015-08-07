@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de financement n°5570-ML d’un montant de vingt sept millions cent mille (27.100.000) Droits de Tirage Spéciaux (DTS), soit vingt quatre milliards huit cent soixante cinq millions six cent mille (24.865.600.000) francs CFA environ, signé à Bamako, le 03 avril 2015 entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA) relatif au financement du projet pour l’autonomisation des femmes et le dividende démographique au Sahel.
