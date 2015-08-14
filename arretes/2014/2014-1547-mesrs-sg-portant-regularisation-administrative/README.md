@@ -1,0 +1,6 @@
+# Arrêté n°2014-1547/MESRS-SG du 19 mai 2014 portant régularisation administrative
+
+- Source : Journal officiel n°2015-36 du 14 août 2015, <https://sgg-mali.ml/JO/2015/mali-jo-2015-36.pdf>
+- Signé / promulgué : 2014-05-19
+- En vigueur : 2015-08-14 (publication au Journal officiel n°2015-36 du 14 août 2015 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 3 articles
