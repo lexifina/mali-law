@@ -1,0 +1,12 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DE LA CREATION ET DE LA MISSION (Article 2)
+Section I : De la création (Article 2)
+Section II : De la mission (Article 3)
+CHAPITRE III : DE L’ORGANISATION (Article 4)
+Section I. De la composition (Article 4)
+Section II : Du Secrétariat Permanent (Article 5)
+CHAPITRE IV (Article 10)
+: (Article 10)
+DES MODALITES DE FONCTIONNEMENT (Article 10)
+CHAPITRE V : DES DISPOSITIONS FINALES (Article 17)
