@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 2)
+SECTION I : DU COMITE D’ORIENTATION (Article 3)
+Le Comité d’Orientation du Projet de Développement de la Ferme rizicole de Sabé est chargé : (Article 3)
+- de définir les grandes orientations du Projet ; (Article 3)
+- d’adopter les programmes et le budget du Projet ; (Article 3)
+- d’examiner et adopter les rapports d’activités annuel et financier du Projet ; (Article 3)
+- de faire toute proposition visant à améliorer les performances de gestion du Projet. (Article 3)
+SECTION II : DE LA DIRECTION (Article 5)
+CHAPITRE II : DU FONCTIONNEMENT (Article 12)
+CHAPITRE III : DISPOSITIONS FINALES (Article 14)
