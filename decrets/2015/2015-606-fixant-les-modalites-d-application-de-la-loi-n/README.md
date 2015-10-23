@@ -1,0 +1,6 @@
+# Décret n°2015-0606/P-RM du 5 octobre 2015 fixant les modalités d’application de la Loi n° 2014-015 du 27 mai 2014 portant prévention et répression de l’enrichissement illicite
+
+- Source : Journal officiel n°2015-46 du 23 octobre 2015, <https://sgg-mali.ml/JO/2015/mali-jo-2015-46.pdf>
+- Signé / promulgué : 2015-10-05
+- En vigueur : 2015-10-23 (publication au Journal officiel n°2015-46 du 23 octobre 2015 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 33 articles
