@@ -1,0 +1,7 @@
+# Article 2 (Titre None)
+Le présent arrêté sera enregistré, publié et communiqué partout où besoin sera.
+Bamako, le 17 juillet 2014
+Le Ministre, Abdoulaye Idrissa MAÏGA
+ARRETE N°2014-2028MEEA-SG DU 30 JUILLET 2014 PORTANT APPROBATION DU PLAN D’AMENAGEMENT ET DE GESTION DE LA ZONE D’INTERET CYNEGETIQUE DE FLAWA
+LE MINISTERE DE L’ENVIRONNEMENT, DE L’EAU ET DE L’ASSAINISSEMENT,
+ARRETE :
