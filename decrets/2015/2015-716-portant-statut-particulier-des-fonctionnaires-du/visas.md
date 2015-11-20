@@ -1,0 +1,10 @@
+# Visas
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu la Constitution ;
+Vu la Loi n°02-053 du 16 décembre 2002, modifiée, portant Statut général des fonctionnaires ;
+Vu le Décret n° 05-164/P-RM du 6 avril 2005 fixant les modalités d’application du Statut général des fonctionnaires ;
+Vu le Décret n°2015-0003/P-RM du 8 janvier 2015 portant nomination du Premier ministre ;
+Vu le Décret n°2015-0603/P-RM du 24 septembre 2015 portant nomination des membres du Gouvernement ;
+Vu le Décret n°2015-0683/P-RM du 20 octobre 2015 fixant les intérims des membres du Gouvernement ;
+STATUANT EN CONSEIL DES MINISTRES,
+DECRETE :
