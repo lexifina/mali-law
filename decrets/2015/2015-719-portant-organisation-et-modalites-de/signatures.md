@@ -1,0 +1,8 @@
+# Signatures
+
+Bamako, le 9 novembre 2015
+Le Président de la République, Ibrahim Boubacar KEÏTA
+Le Premier ministre, Modibo KEÏTA
+Le ministre de la Justice et des Droits de l’Homme, Garde des Sceaux, Madame SANOGO Aminata MALLE
+Le ministre de la Promotion de l’Investissement et du Secteur privé, ministre de l’Economie et des Finances par intérim, Me Mamadou Gaoussou DIARRA
+Le ministre du Travail et de la Fonction publique, chargé des Relations avec les Institutions, Madame DIARRA Raky TALLA
