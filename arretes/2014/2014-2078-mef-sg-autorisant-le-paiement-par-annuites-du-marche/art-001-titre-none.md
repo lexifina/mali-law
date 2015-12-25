@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Dans le cadre de l’exécution du marché relatif aux travaux de construction du laboratoire des biocarburants et des bureaux pour le compte de l’Agence Nationale de Développement des Biocarburants (ANADEB), il est autorisé le paiement par annuités au titre des exercices budgétaires 2014 et 2015, conformément aux dispositions de l’article 99.5 du Décret n° 08 - 485/P-RM du 11 août 2008, modifié, portant procédures de passation, d’exécution et de règlement des marchés publics et des délégations de service public.
