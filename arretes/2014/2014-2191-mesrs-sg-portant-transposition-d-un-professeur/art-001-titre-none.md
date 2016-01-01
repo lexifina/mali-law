@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Monsieur Abdramane BA, N°Mle 751.30-V, Maître de Conférence de classe exceptionnelle 1er échelon (Indice : 907) en service à la Faculté des Sciences et Techniques (FST) de l’Université des Sciences, des Techniques et des Technologies de Bamako (USTTB), nommé Professeur suivant le Décret n°2014-0393/P-RM du 30 mai 2014, est transposé au grade de Professeur de 1ère classe 3ème échelon (Indice : 956) pour compter du 1er janvier 2014.
