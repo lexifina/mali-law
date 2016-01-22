@@ -1,0 +1,2 @@
+# Article 2 (Titre None)
+En vue d’apporter une réponse ciblée aux besoins des communautés dans le cadre du développement local, à travers le volontariat national, le Centre National de Promotion du Volontariat (CNPV) recrute, forme et affecte des volontaires nationaux, notamment, auprès des organisations de la société civile, des organisations communautaires de bases, des Organisations Non Gouvernementales (ONG), services techniques déconcentrés de l’Etat et collectivités Territoriales.

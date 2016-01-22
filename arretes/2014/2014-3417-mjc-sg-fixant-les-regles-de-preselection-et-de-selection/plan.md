@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er (Titre None))
+CHAPITRE II : DES REGLES DE PRESELECTION ET DE SELECTION DES CANDIDATS AU VOLONTARIAT. (Article 2 (Titre None))
+Section I : De l’appel à candidature des Volontaires nationaux (Article 2 (Titre None))
+Section II : De la présélection des candidats au volontariat (Article 6 (Titre None))
+Section III : De la sélection finale des candidats au volontariat (Article 9)
+CHAPITRE III : DES CONDITIONS DE FORMATION DES VOLONTAIRES (Article 11)
+CHAPITRE IV : DES MODALITES DE PRESTATION DE SERMENT DES VOLONTAIRES NATIONAUX (Article 13)
+CHAPITRE V : DES DEPENSES LIEES A LA PRISE EN CHARGE DES ALLOCATIONS DES VOLONTAIRES AINSI QUE LEURS FRAIS DE FORMATION. (Article 15)
+CHAPITRE VI : DISPOSITIONS DIVERSES (Article 17)
