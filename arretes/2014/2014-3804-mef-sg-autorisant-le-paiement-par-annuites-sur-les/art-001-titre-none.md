@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Dans le cadre de l’exécution du lot 3 du marché relatif à l’équipement des bureaux des cercles de la région de Sikasso, il est autorisé le paiement par annuités sur les exercices budgétaires 2013 et 2014 dudit marché, conformément aux dispositions de l’article 99.5 du Décret n°08-485/P-RM du 11 août 2008, modifié, portant procédures de passation, d’exécution et de règlement des marchés publics et des délégations de service public.
