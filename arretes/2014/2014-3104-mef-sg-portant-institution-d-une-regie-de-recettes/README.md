@@ -1,0 +1,6 @@
+# Arrêté n°2014-3104/MEF-SG du 31 octobre 2014 portant institution d’une régie de recettes auprès de l’Agence Nationale de Gestion des Stations d’Epuration du Mali (ANGESEM)
+
+- Source : Journal officiel n°2016-08 du 19 février 2016, <https://sgg-mali.ml/JO/2016/mali-jo-2016-08.pdf>
+- Signé / promulgué : 2014-10-31
+- En vigueur : 2016-02-19 (publication au Journal officiel n°2016-08 du 19 février 2016 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 12 articles
