@@ -1,0 +1,12 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+Section 1 : Objet, définitions, champ d’application (Article 1er)
+Section 2 : Les branches d’activités et les catégories d’artistes (Article 6)
+CHAPITRE II : DES DROITS ET DEVOIRS DE L’ARTISTE (Article 10)
+Section 1 : des droits (Article 10)
+Section 2 : des devoirs (Article 20)
+CHAPITRE III : DE LA DICIPLINE ET DES SANCTIONS (Article 23)
+CHAPITRE IV : DU REGIME FISCAL, DES RELATIONS DE TRAVAIL ET DE LA PROTECTION SOCIALE (Article 35)
+Section 1 : du régime fiscal (Article 35)
+Section 2 : des relations de travail et de la protection sociale (Article 40)
+CHAPITRE V : DISPOSITIONS FINALES (Article 44)
