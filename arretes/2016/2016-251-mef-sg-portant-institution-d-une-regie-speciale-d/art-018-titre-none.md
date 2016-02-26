@@ -1,0 +1,20 @@
+# Article 18 (Titre None)
+La présente décision, qui entre en vigueur à compter de sa date de signature, sera enregistrée et publiée partout où besoin sera.
+Bamako, le 28 juillet 2016
+Dr. Choguel K. MAIGA
+DECISION N°16-0046/AMRTP-DG PORTANT ATTRIBUTION DE RESSOURCES EN NUMEROTATION ALASOCIETE ORABANK MALI.
+LE DIRECTEUR GENERAL DE L’AUTORITE MALIENNE DE REGULATION DES TELECOMMUNICATIONS, DES TECHNOLOGIES DE L’INFORMATION ET DE LA COMMUNICATION ET DES POSTES.
+Vu l’Ordonnance n°2011-023/P-RM du 28 septembre 2011 relative aux télécommunications et aux technologies de l’information et de la communication en République du Mali ;
+Vu l’Ordonnance n°2016-014/P-RM du 31 mars 2016 portant régulation du secteur des télécommunications/TIC et des postes en République du Mali ;
+Vu le Décret n°2016-0213/P-RM du 1er avril 2016 portant organisation et modalités de fonctionnement de l’Autorité Malienne de Régulation des Télécommunications/TIC et des Postes ;
+Vu le décret n°00-268/P-RM du 10 mai 2000 fixant les critères et les procédures d’octroi de licence de Télécommunications ;
+Vu la Décision n°03-09/MCNT-CRT du 23 janvier 2009 portant publication du plan de numérotation national ;
+Vu la Décision n°10-058/MCNT-CRT du 05 novembre 2010 fixant la liste des services à valeur ajoutée (SVA) ;
+Vu la Décision n°10-059/MCNT-CRT du 05 novembre 2010 définissant les conditions et modalités d’exploitation des numéros des services à valeur ajoutée (SVA) ;
+Vu la Décision n°10-060/MCNT-CRT du 05 novembre 2010 fixant les modalités de déclaration pour la fourniture de services à valeur ajoutée (SVA) ;
+VulaLettreORABANK-MALIDGN°76/04/07/2016endate du 04 juillet 2016 relative à la demande d’un numéro court ;
+Vu les pièces du dossier ;
+Vu le reçu de paiement de la redevance n°16-0060/ AMRTP/DG de l’AMRTP en date du 27 juillet 2016 ;
+Vu l’analyse du dossier par les services techniques ;
+Après délibération de la Direction générale en sa session du 29 juillet 2016.
+DECIDE :
