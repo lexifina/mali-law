@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 3)
+SECTION I : DU COMITE DE PILOTAGE DU PROJET (Article 4)
+SECTION II : DE L’UNITE DE GESTION DU PROJET (Article 7)
+SECTION III : DU COMITE TECHNIQUE REGIONAL DE COORDINATION (CTRC) (Article 13)
+Le Comité technique régional de Coordination est chargé : (Article 13)
+- d’approuver les programmes de travail et budgets annuels au niveau régional; (Article 13)
+- de valider les plans d’actions opérationnels préparés par les services techniques au niveau régional; (Article 13)
+- de veiller à la cohérence des activités du Projet en rapport avec les politiques sectoriels au niveau régional; (Article 13)
+- d’examiner les difficultés qui entravent l’exécution du Projet au niveau Régional et proposer les solutions appropriées ; (Article 13)
+- de veiller à la synergie entre les différentes actions visant le renforcement de la résilience au niveau régional. (Article 13)
+CHAPITREIII : DISPOSITIONS FINALES (Article 15)
