@@ -1,0 +1,7 @@
+# Article 7 (Titre None)
+Le présent arrêté sera publié et communiqué partout ou besoin sera.
+Bamako, le 29 avril 2016
+Le Ministre de l’Aménagement du Territoire et de la Population, Sambel Bana DIALLO.
+ARRETE N° 2016-1022/MATP-SGDU 29AVRIL2016 FIXANT LES ATTRIBUTIONS SPECIFIQUES DES MEMBRES DU SECRETARIAT GENERAL DU MINISTERE DE L’AMENAGEMENT DU TERRITOIRE ET DE LA POPULATION.
+LE MINISTRE DE L’AMENAGEMENT DU TERRITOIRE ET DE LA POPULATION,
+ARRETE :
