@@ -1,0 +1,2 @@
+# Article 3 (Titre None)
+La société « EMPIRE BUSINESS GROUP »-SARL doit, un an au plus tard après la délivrance de son agrément, disposer des installations et équipements nécessaires, énumérés à l’article 11 de l’Arrêté n°03-0239 sus visé, ayant fait l’objet d’un certificat d’habilitation technique délivré par la Direction Nationale de la Géologie et des Mines, sous peine de suspension de l’autorisation.
