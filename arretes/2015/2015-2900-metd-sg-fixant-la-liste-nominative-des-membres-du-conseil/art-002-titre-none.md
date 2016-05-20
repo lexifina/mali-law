@@ -1,0 +1,7 @@
+# Article 2 (Titre None)
+Le présent arrêté sera enregistré, publié et communiqué partout où besoin sera.
+Bamako, le 21 août 2015
+Le Ministre, Mamadou Hachim KOUMARE
+ARRETEN°2015-3556 /METD-SGDU23 SEPTEMBRE 2015 PORTANT NOMINATION D’AGENTS A LA CELLULE DES TRAVAUX ROUTIERS D’URGENCE (CETRU)
+LEMINSTREDEL’EQUIPEMENT,DESTRANSPORTS ETDU DESENCLAVEMENT,
+ARRETE :
