@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n°2015-022/P-RM du 06 août 2015 autorisant la ratification de l’Accord de prêt sur les ressources du Fonds de Solidarité islamique pour le Développement (FSID), signé à Bamako, le 11 juin 2015 entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID) en sa qualité d’administrateur dudit Fonds en vue du financement du Projet d’Appui à l’Education bilingue de base.
