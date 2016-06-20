@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Monsieur Youssouf THIENTA, N°Mle 0120.507-P, Greffier de 3ème classe, 1er échelon, précédemment en service au Tribunal de Grande Instance de Mopti, déclaré définitivement admis aux examens de fin d’études du 2ème cycle à la Faculté de Droit Privé de l’Université des Sciences Juridiques et Politiques de Bamako, option : carrière judiciaire, est rappelé à l’activité et mis à la disposition du ministère de la Justice et des Droits de l’Homme.
