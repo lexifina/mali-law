@@ -1,0 +1,35 @@
+# Article 4 (Titre None)
+Le Comité Technique de Normalisation « Santé et Hygiène Publique » est composé des représentants des structures ci-après :
+- Direction Nationale de la Santé (DNS) ;
+- Ordre National des Pharmaciens ;
+- Direction de la Pharmacie et du Médicament ;
+- Direction Nationale des Services de la Santé desArmées ;
+- Office Central des Stupéfiants ;
+- Inspection de la Santé ;
+- Cellule de Planification et de la Statistique du Secteur de la Santé ;
+- Cellule d’Exécution des Programmes de Réhabilitation des Infrastructures Sanitaires ;
+- Centre National d’immunisation ;
+- Cellule d’Appui à la Décentralisation et à la Déconcentration du Ministère de la santé;
+- Agence Nationale de l’Evaluation des Hôpitaux ;
+- Institut National de Recherche en Santé Publique ;
+- Pharmacie Populaire du Mali ;
+- Usine Malienne des Produits Pharmaceutiques ;
+- Centre Hospitalier Universitaire du Point G ;
+- Centre Hospitalier Universitaire Gabriel TOURE ;
+- Hôpital de Kati ;
+- Centre Hospitalier Universitaire du Mali ;
+- Centre Hospitalier Universitaire d’Ophtalmologie Tropicale d’Afrique (IOTA) ;
+- Centre Hospitalier Universitaire d’Odonto Stomatologie ;
+- Centre National de Transfusion Sanguine ;
+- Agence Nationale de la Sécurité Sanitaire des Aliments (ANSSA) ;
+- Laboratoire National de la Santé (LNS) ;
+- Centre National d’Appui à la Lutte contre la Maladie ;
+- Ordre des Médecins, des Chirurgiens et Chirurgiens-Dentistes ;
+- Ordre National des Sages-femmes ;
+- Centre de Recherche, d’Etudes et de Documentations pour la Survie de l’Enfant (CREDOS) ;
+- Centre de Recherche et de Lutte contre la Drépanocytose ;
+- Comité National d’Ethique ;
+- Centre National d’Appareillage Orthopédique ;
+- Association des Consommateurs du Mali (ASCOMA) ;
+- Regroupement pour la défense des Consommateurs du Mali (REDECOMA).
+Le Comité Technique de Normalisation « Santé et Hygiène Publique » peut s’adjoindre toute personne ou structure dont les compétences sont jugées nécessaires pour l’exécution de ses travaux.

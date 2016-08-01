@@ -1,0 +1,7 @@
+# Article 9 (Titre None)
+Le présent arrêté sera enregistré, publié et communiqué partout où besoin sera.
+Bamako, le 17 juin 2015
+Le ministre, Abdel Karim KONATE
+ARRETE N°2015-1699MCI-SG DU 17 JUIN 2015 PORTANT INSTITUTION, COMPOSITION ET MODALITES DE FONCTIONNEMENT DU COMITE TECHNIQUE DE NORMALISATION « TRANSPORT »
+LE MINISTRE DU COMMERCE ET DE L’INDUSTRIE,
+ARRETE :
