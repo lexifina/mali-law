@@ -1,0 +1,8 @@
+# Article 2 (Titre None)
+Le présent arrêté sera enregistré, publié et communiqué partout ou besoin sera.
+Bamako, le 23 septembre 2015
+Le ministre, Mohamed AG ERLAF
+MINISTERE DES SPORTS
+ARRETE INTERMINISTERIEL N°2015/1423/MS-MEF-SG DU 22 MAI 2015 FIXANT LES TAUX DES PRIMES ALLOUEES AUX SPORTIFS DE HAUT NIVEAU ET A LEUR ENCADREMENT TECHNIQUE
+LE MINISTRE DES SPORTS,
+ARRETENT :
