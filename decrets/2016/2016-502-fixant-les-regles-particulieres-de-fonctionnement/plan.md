@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : RELATIONS FONCTIONNELLES ENTRE LES AUTORITES STATISTIQUES (Article 1er)
+Section1 : Mandats de production et de diffusion (Article 1er)
+Section2 : Mandats de coordination et d’appui technique (Article 6)
+CHAPITREII : PLANIFICATIONSTRATEGIQUE ET DEVELOPPEMENT DU SYSTEME STATISTIQUE NATIONAL (Article 9)
+Section1 : Schéma Directeur de la Statistique (Article 9)
+Section2 : Plan d’actions ou Programme statistique annuel (Article 12)
+CHAPITRE III : VISA STATISTIQUE POUR LES ENQUETES REALISEES PAR LES AUTORITES STATISTIQUES OU AUTRES SERVICES PUBLICS OU PARAPUBLICS (Article 15)
+Section1 : Caractère obligatoire du visa statistique (Article 15)
+Section2 : Procédure d’attribution du visa statistique (Article 17)
+Section 3 : Enquêtes réalisées en infraction à l’obligation du visa statistique (Article 22)
+CHAPITRE IV : MODALITES DE TRANSMISSION DES DONNEES DE SOURCESADMINISTRATIVES AUX AUTORITES STATISTIQUES (Article 23)
+CHAPITRE V : DISPOSITIONS TRANSITOIRES ET FINALES (Article 26)
