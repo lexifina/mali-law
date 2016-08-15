@@ -1,0 +1,2 @@
+# Article 8 (Titre None)
+Les coupons sont affranchis de l’impôt sur le revenu des valeurs mobilières, conformément à l’article 33 du Code Général des Impôts.
