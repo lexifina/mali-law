@@ -1,0 +1,12 @@
+# Article 2 (Titre None)
+Le Comité de Pilotage pour la mise en œuvre du Programme d’Amélioration de la ProductivitéAgricole des Petits Exploitants pour l’Afrique Sub-Saharienne a pour mission de fixer les orientations et de veiller à la programmation des activités dudit programme.
+A ce titre, il est chargé :
+- d’approuver les rapports d’activités, les programmes techniques et les budgets annuels soumis par l’Unité de Gestion du Projet ;
+- de veiller à la cohérence des activités inscrites aux programmes techniques et budgétaires annuels par l’Unité de Gestion du projet avec les objectifs de développement visés par l’accord de prêt et le cadre logique du programme ;
+- de veiller à la conformité de l’éligibilité des activités et des dépenses prévues à cet effet sur le compte de Prêt ;
+- d’analyser le rapport d’exécution financière et technique élaboré dans le cadre du programme ;
+- de veiller à la mise en œuvre satisfaisante des recommandations formulées ;
+- de s’assurer du fonctionnement harmonieux de l’Unité de Gestion du programme ;
+- de formuler les différentes orientations du programme ;
+- de veiller à la mise en œuvre d’un suivi-évaluation permanent du programme ;
+- d’approuver le rapport d’avancement et ou d’achèvement du programme.
