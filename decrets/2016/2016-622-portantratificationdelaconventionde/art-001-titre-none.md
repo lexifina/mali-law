@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Est ratifiée, la Convention de crédit n°CML 1367 01 A, d’un montant total de 13 milliards 135 millions 708 mille francs CFA, signée à Bamako, le 09 juin 2016, entre le Gouvernement de la République du Mali et l’Agence française de Développement (AFD), pour le financement du Projet consistant en l’Hybridation solaire et l’extension des réseaux dans les localités rurales maliennes.
