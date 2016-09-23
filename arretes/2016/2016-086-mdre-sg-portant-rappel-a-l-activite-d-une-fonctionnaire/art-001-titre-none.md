@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Madame Djènèba dite Demba SISSOKO, N°Mle 15 0036 CT10, Technicienne de Santé de 3ème classe 2ème échelon (indice : 242) en service au Centre de Santé de Référence (CSREF) de Kati, ayant terminé sa formation au Centre de Formation des techniciens Socio-Sanitaire (CFTSS) de Bamako, Filière Biologie Médicale, est rappelée à l’activité et remise à la disposition de son ancien service employeur.
