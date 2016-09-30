@@ -1,0 +1,3 @@
+# Article unique
+Est autorisée la ratification des accords signés, à Washington le 17 avril 2016 entre la République du Mali et la Banque Islamique de développement (BID), pour le financement partiel du projet de construction de la route Kwala-Mourdiah-Nara : -Accord de prêt ordinaire (Projet n°2 MLI-0144) d’un montant total ne dépassant pas l’équivalent de 8 milliards 225 millions 700 mille 780 (8 225 700 780) francs CFA ;
+- Accord d’Istisna’a (Projet n°2 MLI 0145) d’un montant de 47 milliards 372 millions 565 mille 598 (47 372 565 598) francs CFA.
