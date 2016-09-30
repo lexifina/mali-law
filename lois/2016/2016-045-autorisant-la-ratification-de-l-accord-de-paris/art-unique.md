@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de Paris sur les changements climatiques, adopté le 12 décembre 2015 par la vingt et unième session de la Conférence des Parties à la Convention cadre sur les Changements Climatiques (COP21) et la onzième session de la Conférence des Parties agissant en tant que réunion des Parties au Protocole de Kyoto (CMP), tenues à Paris, du 30 novembre au 12 décembre 2015.
