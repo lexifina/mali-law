@@ -1,0 +1,2 @@
+# Article 3 (Titre None)
+La demande de transaction est notifiée par le requérant ou son représentant dûment habilité au ministre chargé des Finances ou son représentant habilité, soit dès le constat de l’infraction, de la tentative d’infraction ou l’incitation à la commission de l’infraction à la réglementation des relations financières extérieures, soit dans un délai n’excédant pas huit jours (8) jours calendaires à compter de la date effective de notification à son auteur du procès-verbal constatant l’infraction ou la tentative d’infraction.

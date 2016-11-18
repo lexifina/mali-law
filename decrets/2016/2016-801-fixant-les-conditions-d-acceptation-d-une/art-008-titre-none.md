@@ -1,0 +1,3 @@
+# Article 8 (Titre None)
+Le délai de règlement du montant de la transaction ne peut excéder six (06) mois à compter de la date de notification au ministre chargé des Finances, de l’acceptation par le requérant des conditions de la transaction.
+Lorsque l’auteur de l’infraction n’a pas réglé tout ou partie des sommes dues au titre de la transaction à l’expiration du délai visé à l’alinéa 1er ci-dessus, et après une mise en demeure d’acquitter les sommes impayées, dans un délai de trente (30) jours calendaires, l’action judiciaire est déclenchée à moins qu’il n’ait bénéficié d’un moratoire n’excédant pas trois (03) mois accordé par le ministre chargé des Finances ou son représentant habilité.
