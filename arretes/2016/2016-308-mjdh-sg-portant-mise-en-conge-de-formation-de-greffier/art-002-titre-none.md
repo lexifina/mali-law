@@ -1,0 +1,7 @@
+# Article 2 (Titre None)
+Le présent arrêté sera enregistré, publié et communiqué partout où besoin sera.
+Bamako, le 02 mars 2016
+Le ministre, Mme SANOGO Aminata MALLE
+ARRETE N°2016-0309MJDH-SG DU 02 MARS 2016 PORTANT NOMINATION DU DIRECTEUR NATIONALADJOINT DE L’ADMINISTRATION DE LA JUSTICE
+LE MINISTRE DE LA JUSTICE ET DES DROITS DE L’HOMME, GARDE DES SCEAUX,
+ARRETE :
