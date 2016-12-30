@@ -1,0 +1,4 @@
+# Loi n°2016-050 du 20 décembre 2016 portant ratification de l’Ordonnance n°2016-024/P-RM du 13 septembre 2016 autorisant la ratification de la Convention financière, signée à Rome, le 23 juin 2016, entre le Gouvernement de la République du Mali et la société CASSA DEPOSITIT E PRESTITI S.P.A (CDP), pour le financement du Programme d’alimentation en eau potable de la ville de Bamako à partir de Kabala
+
+L’Assemblée nationale a délibéré et adopté en sa séance du 6 décembre 2016 Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée l’Ordonnance n°2016-024/ P-RM du 13 septembre 2016 autorisant la ratification de la Convention financière, signée à Rome, le 23 juin 2016, entre le Gouvernement de la République du Mali et la Société CASSA DEPOSITI E PRESTITI S.P.A (CDP), pour le financement du Programme d’alimentation en eau potable de la ville de Bamako à partir de Kabala.
