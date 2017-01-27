@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : DROITS ET TAXES AU CORDON DOUANIER (Article 2)
+SECTION 1 (Article 2)
+Dispositions applicables aux marchandises à l’importation (Article 2)
+SECTION II : Dispositions applicables aux biens des personnes (Article 9)
+expatriées affectées au Projet de l’Association pour la Gestion des Travaux d’Infrastructures et d’Equipements Ruraux (AGETIER). (Article 9)
+CHAPITRE II: IMPOTS, DROITS ET TAXES INTERIEURS (Article 10)
+SECTION I : DISPOSITIONS APPLICABLES A L’ASSOCIATIONPOURLAGESTIONDESTRAVAUX D’INFRASTRUCTURES ET D’EQUIPEMENTS RURAUX (AGETIER) (Article 10)
+SECTION II : DISPOSITIONS APPLICABLES AUX MARCHES ET CONTRATS (Article 11)
+CHAPITRE III : DISPOSITIONS DIVERSES (Article 12)
