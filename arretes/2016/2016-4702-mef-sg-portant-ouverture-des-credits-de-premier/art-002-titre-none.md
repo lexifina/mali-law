@@ -1,0 +1,2 @@
+# Article 2 (Titre None)
+Le montant des crédits est gagé par les recettes inscrites à la loi de Finances pour l’exercice 2017.
