@@ -1,0 +1,5 @@
+# Article 7 (Titre None)
+Le Bureau est composé au minimum du Président du Comité, d’un Secrétaire et d’un Trésorier. En fonction des spécificités locales de la gestion de l’eau, l’Assemblée Générale du Comité peut décider de créer d’autres postes dans le bureau; et les statuts du Comité sont modifiés en conséquence. La durée du mandat des membres du Bureau est de trois ans renouvelable.
+ARTICLE 8· : Le Bureau du Comité est chargé de la gestion administrative et financière du Comité. Il a également pour missions :
+- l’organisation des Assemblées Générales du Comité, - la gestion des correspondances entre le Bureau et les membres du Comité et entre le Comité et ses interlocuteurs, - la reproduction et la diffusion des dossiers à traiter ou traités au sein du Comité, - la préparation et la diffusion des comptes-rendus des Assemblées Générales du Comité;
+- l’instruction technique des questions qui lui sont soumises par le Comité, en concertation avec les services techniques compétents, - la soumission des recommandations et avis du Comité aux autorités compétentes pour approbation, - le suivi de la mise en œuvre des recommandations du Comité,

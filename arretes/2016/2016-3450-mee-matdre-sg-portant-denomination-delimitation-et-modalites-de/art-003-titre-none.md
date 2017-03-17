@@ -1,0 +1,12 @@
+# Article 3 (Titre None)
+Le Comité Local de l’Eau de Baourou Sourou a pour attributions de :
+- Prévenir, identifier et résoudre les conflits résultant des usages de l’eau ou de leurs impacts sur l’environnement, sur la préservation et sur la pérennité des ressources en eau ;
+- Promouvoir une gestion intégrée et concertée des ressources en eau dans sa zone de compétence avec tous les acteurs en présence, et en particulier coordonner l’exploitation des ressources en eau entre les différents usagers ·et bénéficiaires de ces ressources ;
+- Donner des avis sur le partage équitable des ressources en eau entre usagers concurrentiels ;
+- Contribuer à la protection des ressources- en eau, en vue d’éviter leur surexploitation et leur dégradation à court, moyen et long termes ;
+- Contribuer à la prévention, à l’alerte et à la lutte contre les catastrophes naturelles liées à l’eau ;
+- Contribuer à l’élaboration et la mise en œuvre de Schéma d’Aménagement et de Gestion de l’Eau (SAGE) dans sa zone de compétence, en concertation avec les services techniques Compétents et les collectivités locales ;
+- Collaborer avec les structures nationales et régionales directement concernées par la gestion des ressources en eau dans la zone de compétence-;
+- Transmettre les avis du Comité aux autorités compétentes pour approbation et application ;
+- Suivre la mise en application des avis du comité ;
+- Informer et sensibiliser la population sur la situation des ressources en eau et de l’environnement qui leur est lié et sur les avis du Comité quant à leur gestion.

@@ -1,0 +1,9 @@
+# Article 6 (Titre None)
+Lors de la première Assemblée Générale, le Comité établit et approuve en séance plénière ses statuts et son règlement intérieur.
+Les statuts traitent de :
+- la composition du Comité ;
+- l’organisation et les modalités de fonctionnement ;
+- le siège, - les modalités de convocation des réunions ;
+- les ressources.
+Le règlement intérieur fixe :
+- Les attributions des membres du Comité - Les modalités de mise en œuvre des décisions du Comité - Les modalités de suivi de l’exécution du programme d’activité.
