@@ -1,0 +1,12 @@
+# Plan
+TITREII :DESORGANESD’ADMINISTRATIONETDE GESTION (Article 3)
+CHAPITREI :DUCONSEILD’ADMINISTRATION (Article 3)
+Section 1 : Des attributions (Article 3)
+Section 2 : De la composition (Article 4)
+Section 3 : Du fonctionnement (Article 11)
+CHAPITREII :DELADIRECTION (Article 15)
+Section 1 : Du Directeur (Article 15)
+Section 2 : Des Centres régionaux du Service national des Jeunes (Article 18)
+CHAPITREIII :DUCOMITEDEGESTION (Article 20)
+TITREIII :DELATUTELLE (Article 21)
+TITREIV :DISPOSITIONSFINALES (Article 23)
