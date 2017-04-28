@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DES DISPOSITIONS GENERALES (Article 1er (Titre None))
+CHAPITRE II : DES ATTRIBUTIONS (Article 4 (Titre None))
+Section 1 : Du Secrétaire général (Article 4 (Titre None))
+Section 2 : Du conseiller technique Droit des affaires et droits communautaires (DADC) (Article 5)
+Section 3 : Du conseiller technique Droit pénal national et international (DPNI) (Article 6)
+Section 4 : Du conseiller technique Gouvernance, sécurité et protection des droits et libertés (GSPDL) (Article 7)
+Section 5 : Du conseiller technique Affaires civiles et modes alternatifs de règlement des conflits (ACMARC). (Article 8)
+Section 6 : Du conseiller technique droit public et droit de l’environnement (DPDE). (Article 9)
+Section 7 : Du conseiller technique Législation, Légistique et Réformes (Article 10)
+Section 8 : De l’intérim du Secrétaire général (Article 11)
+Section 9 : Du service du courrier, de la documentation et du traitement de textes (Article 12)
+CHAPITRE III : DISPOSITIONS FINALES (Article 14)
