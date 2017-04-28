@@ -1,0 +1,9 @@
+# Article 6 (Titre None)
+Le présent arrêté sera enregistré, publié et communiqué partout où besoin sera.
+Bamako, le 26 février 2016
+Le ministre Abdoulaye Idrissa MAIGA
+Le ministre de la Justice et des Droits de l’Homme, Garde des Sceaux, Madame SANOGO Aminata MALLE
+ARRETE INTERMINISTERIELN°2016- 0255//MAT-MJDH-SG DU 26 FEVRIER 2016 DETERMINANT LES MODELES DES REGISTRES D’ACTES D’ETAT CIVIL ET DES MODELES NORMALISES DES IMPRIMES D’ETAT CIVIL
+LEMINISTRE DE L’ADMINISTRATIONTERRITORIALE,
+LE MINISTRE DE LA JUSTICE ET DES DROITS DE L’HOMME, GARDE DES SCEAUX,
+ARRETENT
