@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GÉNÉRALES (Article 1er)
+CHAPITRE II : DU COMITÉ D’ORIENTATIONDU PROJET D’APPUI AUX COMMUNES URBAINES DU MALI (Article 2)
+CHAPITRE III : DU COMITÉ TECHNIQUE DE SUIVI DU PROJET D’APPUI AUX COMMUNES URBAINES DU MALI (Article 8)
+ARITCLE 7 : Le Comité Technique de Suivi du Projet d’Appui aux Communes Urbaines du Mali (CTS-PACUM) a pour mission de suivre l’exécution des recommandations du Comité d’Orientation du Projet d’Appui aux Communes Urbaines du Mali (CO-PACUM) et de superviser les activités de la Cellule de Coordination du Projet d’Appui aux Communes Urbains du Mali (CC-PACUM). (Article 8)
+A cet effet, il est chargé : (Article 8)
+- de veiller à ce que les activités du Projet soient conformes au cadre global du Développement Urbain au Mali; (Article 8)
+- de veiller aux synergies requises entre les programmes d’investissement, de communication et de renforcement de capacités appuyés par le Projet et ceux découlant des différentes politiques nationales qui sous-tendent ce dernier; (Article 8)
+- d’examiner et de revoir tous les documents et rapports du Projet avant qu’ils ne soient soumis à l’avis du Comité d’Orientation du Projet d’Appui aux Communes Urbaines du Mali (CO-PACUM); (Article 8)
+- de faire le suivi des Plans de Travail Annuels et des plans de passation de marchés afin de s’assurer de leur compatibilité avec les délais d’ensemble et de leur mise en œuvre en temps opportun. (Article 8)
+CHAPITRE IV : DES COMITÉS TECHNIQUES RÉGIONAUX DE SUIVI DU PROJET D’APPUIAUX COMMUNES URBAINES DU MALI (Article 13)
+CHAPITREV:DE LACELLULEDECOORDINATION DU PROJET D’APPUI AUX COMMUNES URBAINES DU MALI (Article 16)
+CHAPITRE VI : DISPOSITIONS FINALES (Article 21)
