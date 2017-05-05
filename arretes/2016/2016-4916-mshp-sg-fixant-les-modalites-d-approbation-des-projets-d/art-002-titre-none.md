@@ -1,0 +1,4 @@
+# Article 2 (Titre None)
+Le projet d’établissement des établissements publics hospitaliers est préparé par la direction générale, en collaboration avec la commission médicale d’établissement, la commission des soins infirmiers et obstétricaux, le comité technique d’hygiène et de sécurité des soins, le comité technique d’établissement et les chefs des services ou départements.
+La direction générale tient compte des observations formulées par les organes consultatifs de l’établissement public hospitalier sur le projet d’établissement avant de le soumettre à la délibération du conseil d’administration de l’établissement hospitalier.
+Le projet ainsi adopté par le conseil d’administration est ensuite soumis à l’approbation du gouverneur de région ou du district de Bamako, agissant en qualité d’autorité de tutelle.
