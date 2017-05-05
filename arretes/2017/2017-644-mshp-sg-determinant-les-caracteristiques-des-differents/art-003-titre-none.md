@@ -1,0 +1,2 @@
+# Article 3 (Titre None)
+Les informations recueillies auprès des tiers n’intervenant pas en qualité de professionnel de santé dans la prise en charge thérapeutique du malade ou concernant les tiers, quel que soit leur objet, ne sont pas communicables, sauf disposition légale contraire. Elles concernent les informations recueillies auprès des parents, des collègues, des thérapeutes traditionnels, de la famille du patient.
