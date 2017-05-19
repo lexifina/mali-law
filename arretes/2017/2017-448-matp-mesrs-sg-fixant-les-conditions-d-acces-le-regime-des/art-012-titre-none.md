@@ -1,0 +1,2 @@
+# Article 12 (Titre None)
+Au cours du semestre, les étudiants sont soumis à au moins un contrôle continu de connaissance dont l’organisation est laissée à l’initiative du chargé de cours. Ces contrôles de connaissance font parties intégrantes des cours. Aucun étudiant ne saurait s’y soustraire sous peine de sanctions disciplinaires. Toute absence sera considérée comme un manquement à la discipline.
