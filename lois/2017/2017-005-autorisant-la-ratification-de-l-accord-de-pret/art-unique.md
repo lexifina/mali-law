@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt d’un montant de dix millions (10 000 000) de dollars US soit cinq milliards huit cent quarante- six millions cinq cent quatre vingt mille (5 846 580 000) F CFA environ, signé à Washington, le 8 octobre 2016, entre le Gouvernement de la République du Mali et la Banque arabe pour le Développement économique enAfrique (BADEA), pour le financement du Projet de la route « Kwala-Nara-Frontière de la République islamique de Mauritanie-Première phase (Kwala-Nara).
