@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 3)
+SECTION 1 : DU CONSEIL D’ADMINISTRATION (Article 3)
+SECTION 2 : DE LA DIRECTION GENERALE (Article 11)
+Sous-section 1 : Du Directeur général (Article 11)
+Sous-section 2 : Du Directeur général adjoint (Article 14)
+Sous-section 3 : De l’Agent Comptable (Article 15)
+Sous-section 4 : Des structures (Article 16)
+SECTION 3 : DU CONSEIL MEDICAL ET SCIENTIFIQUE (Article 28)
+CHAPITREIII : DES DISPOSITIONS FINALES (Article 32)
