@@ -1,0 +1,6 @@
+# Plan
+I. CLASSIFICATION DES RECETTES (Article 3 (Titre None))
+II. CLASSIFICATION DES DEPENSES (Article 6 (Titre None))
+CHAPITRE I : DES DISPOSITIONS GENERALES. (Article 1er (Titre None))
+CHAPITRE II : DE L’ORGANISATION (Article 3 (Titre None))
+CHAPITRE III : DU FONCTIONNEMENT. (Article 5 (Titre None))

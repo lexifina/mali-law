@@ -1,0 +1,6 @@
+# Signatures
+
+Bamako, le 17 mai 2017
+Le ministre, Mohamed EL MOCTAR
+MINISTERE DE LA JEUNESSE ET DE LA
+CONSTRUCTION CITOYENNE
