@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DES ORGANES (Article 4)
+Section 1 : De la Commission (Article 4)
+Nationale de Recensement (Article 4)
+Section 2 : Du Comité technique de Recensement (Article 7)
+Section 3 : Du Bureau Central de Recensement (Article 9)
+Section 4 : De la Commission régionale de Recensement (Article 10)
+Section 5 : Du Bureau Régional de Recensement (Article 12)
+Section 6: De la Commission Locale de Recensement (Article 13)
+CHAPITRE III : DISPOSITIONS FINALES (Article 15)
