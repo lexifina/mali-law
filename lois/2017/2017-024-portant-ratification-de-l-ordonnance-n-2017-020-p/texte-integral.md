@@ -1,0 +1,4 @@
+# Loi n°2017-024 du 12 juin 2017 portant ratification de l’Ordonnance n° 2017-020/P-RM du 23 mars 2017 autorisant la ratification des Accords de prêt, signés à Bamako, le 12 janvier 2017, entre le Gouvernement de la République du Mali et la Banque africaine de Développement (BAD), pour le financement du Projet d’Assainissement de la Ville de Bamako (PAVB)
+
+L’Assemblée nationale a délibéré et adopté en sa séance du 26 mai 2017 Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée l’Ordonnance n° 2017-020/ P-RM du 23 mars 2017 autorisant la ratification des Accords de prêt, signés à Bamako, le 12 janvier 2017, entre le Gouvernement de la République du Mali et la Banque Africaine de Développement (BAD), pour le financement du Projet d’Assainissement de la Ville de Bamako (PAVB).
