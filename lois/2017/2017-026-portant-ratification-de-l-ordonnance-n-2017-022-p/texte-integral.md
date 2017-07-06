@@ -1,0 +1,4 @@
+# Loi n°2017-026 du 12 juin 2017 portant ratification de l’Ordonnance n° 2017-022/P-RM du 30 mars 2017 autorisant la ratification de l’Accord de prêt, signé à Djeddah (Arabie saoudite) le 02 février 2017, entre le Gouvernement de la République du Mali et la Banque islamique de Développement (BID), pour le financement du Projet d’Energie solaire pour le Développement rural au Mali
+
+L’Assemblée nationale a délibéré et adopté en sa séance du 18 mai 2017 Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée l’Ordonnance n° 2017-022/ P-RM du 30 mars 2017 autorisant la ratification de l’Accord de prêt, signé à Djeddah (Arabie Saoudite) le 02 février 2017, entre le Gouvernement de la République du Mali et la Banque islamique de Développement (BID), pour le financement du Projet d’Energie solaire pour le Développement rural au Mali.
