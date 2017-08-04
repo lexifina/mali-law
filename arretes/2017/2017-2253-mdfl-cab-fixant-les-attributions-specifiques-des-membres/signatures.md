@@ -1,0 +1,5 @@
+# Signatures
+
+Bamako, le 12 juillet 2017
+Le ministre, Alhassane AG Hamed MOUSSA
+MINISTRE DES MALIENS DE L’EXTERIEUR ET DE L’INTEGRATION AFRICAINE
