@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITREII:DESORGANESD’ADMINISTRATION ET DE GESTION (Article 3)
+Paragraphe 1 : DE L’ASSEMBLEE GENERALE (Article 3)
+Section 1 : De la composition (Article 3)
+Section 2 : Des attributions (Article 4)
+Section 3 : Du fonctionnement (Article 5)
+Paragraphe 2 : Du Conseil national de l’Ordre des Pharmaciens (Article 7)
+Section 1 : De la composition (Article 7)
+Section 2 : Des attributions (Article 9)
+Section 3 : Du fonctionnement (Article 12)
+Paragraphe 3 : Des conseils régionaux, de Cercles et Communes de l’Ordre (Article 16)
+CHAPITRE 3 : DISPOSITIONS FINALES (Article 25)
