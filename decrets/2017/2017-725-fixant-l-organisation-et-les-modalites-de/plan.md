@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITREII:DESORGANESD’ADMINISTRATION ET DE GESTION (Article 3)
+Paragraphe 1 : DE L’ASSEMBLEE GENERALE (Article 3)
+Section 1 : De la composition (Article 3)
+Section 2 : Des attributions (Article 4)
+Section 3 : Du fonctionnement (Article 5)
+Paragraphe 2 : DU CONSEIL NATIONAL DE L’ORDRE (Article 7)
+Section 1 : De la composition (Article 7)
+Section 2 : Des attributions (Article 10)
+Section 3 : Du fonctionnement (Article 12)
+Paragraphe 3 : Des conseils régionaux, de cercles et communes de l’Ordre (Article 16)
+CHAPITRE III : DISPOSITIONS FINALES (Article 25)
