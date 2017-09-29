@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Est ratifié l’Accord de financement d’un montant global de trente milliards neuf cent sept millions quatre cent huit mille quatre cent trente-quatre (30.907.408.434) de francs CFA, signé à Washington, le 14 juin 2017, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA), relatif au financement de la Première Opération d’Appui à la Réduction de la Pauvreté et à une croissance inclusive.
