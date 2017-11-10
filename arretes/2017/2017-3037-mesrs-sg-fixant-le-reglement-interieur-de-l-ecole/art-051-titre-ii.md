@@ -1,0 +1,2 @@
+# Article 51 (Titre II)
+Lorsque la formation a lieu à la demande d’un commanditaire, la durée, le lieu, les contenus, les dates de réalisation, les conditions financières et les modalités de mise en œuvre des actions de formation sont déterminés d’un commun accord entre l’Ecole et le commanditaire concerné.

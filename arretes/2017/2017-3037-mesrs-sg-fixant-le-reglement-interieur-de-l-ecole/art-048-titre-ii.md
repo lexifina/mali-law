@@ -1,0 +1,2 @@
+# Article 48 (Titre II)
+La justification d’absence doit parvenir au département de la spécialité de l’étudiant dans les trois (03) jours ouvrables qui suivent la date de l’examen sous peine d’être rejetée. La justification d’absence doit être visée par le chef de département qui précisera la date de dépôt avant de la transmettre au responsable de la matière ou de l’unité d’enseignement. Ce document est versé au dossier de l’étudiant.

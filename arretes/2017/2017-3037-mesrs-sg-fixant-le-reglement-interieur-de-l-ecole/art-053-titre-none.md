@@ -1,0 +1,2 @@
+# Article 53 (Titre None)
+Les étudiants de 2e année (Licence) doivent faire savoir au responsable des stages, avant la fin du 4e semestre dans quelle entreprise ils souhaitent effectuer leur stage. Il sera tenu compte autant que possible du désir de chacun, mais la répartition définitive des étudiants entre les entreprises pourrait se faire en coopération avec la direction de l’établissement, en tenant compte des aptitudes de l’Etudiant.

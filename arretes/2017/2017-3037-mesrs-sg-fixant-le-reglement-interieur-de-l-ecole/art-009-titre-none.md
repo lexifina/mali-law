@@ -1,0 +1,3 @@
+# Article 9 (Titre None)
+Les enseignants sont les principaux responsables des activités pédagogiques des étudiants. Ils ont le devoir d’assurer les enseignements, travaux pratiques, travaux dirigés et encadrements des étudiants, conformément aux objectifs définis par les programmes officiels et dans le strict respect de la rigueur scientifique et des obligations professionnelles et morales. Les enseignants contribuent aux innovations et à l’actualisation des pratiques et méthodes pédagogiques.
+En outre, ils participent aux activités d’assistance pédagogique, de formation continue, de recherche, de production de matériels didactiques et, plus généralement, à l’animation de la vie universitaire.

@@ -1,0 +1,2 @@
+# Article 50 (Titre None)
+D’une façon générale, les étudiants de l’établissement ont accès aux locaux de 7 h 30 à 20 h 00, du lundi au samedi. Cependant, pour des activités pédagogiques devant se faire dans les conditions particulières, les locaux nécessaires pourront rester ouverts, même le dimanche et les jours fériés, jusqu’à ce que l’activité soit terminée. Dans ces cas, les étudiants seront toujours accompagnés d’un membre de l’équipe enseignante permanente.

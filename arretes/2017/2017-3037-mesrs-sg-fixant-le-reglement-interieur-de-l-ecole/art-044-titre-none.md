@@ -1,0 +1,2 @@
+# Article 44 (Titre None)
+Pour les besoins de l’enseignement, des équipements professionnels (ordinateurs, magnétophones, appareils photo, caméras, visionneuses, etc.) sont mis à la disposition des étudiants ; ils en sont responsables et doivent en prendre soin comme s’ils étaient leur propriété personnelle. Tout article perdu devra être remplacé. Toute dégradation autre que celle qui résulte de l’usure normale engage la responsabilité de l’utilisateur.

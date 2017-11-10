@@ -1,0 +1,4 @@
+# Article 13 (Titre I)
+Le jury ne peut délibérer que lorsque cinq (5) au moins de ses membres sont présents.
+Les décisions du jury sont prises à la majorité des voix des membres présents. En cas de partage des voix, celle du président est prépondérante.
+Le Président et les membres du jury sont soumis à l’obligation de discrétion pour tous les travaux et délibérations relatifs aux concours.

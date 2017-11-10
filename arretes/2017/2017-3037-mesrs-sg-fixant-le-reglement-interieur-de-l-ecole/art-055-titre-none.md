@@ -1,0 +1,2 @@
+# Article 55 (Titre None)
+Pendant leur stage, les étudiants sont placés sous l’autorité du chef de service à qui ils sont confiés. Ils doivent s’acquitter consciencieusement des tâches qui leur sont assignées par ce dernier, respecter le règlement intérieur de l’entreprise et se conformer rigoureusement aux horaires prescrits. Les retards et les absences non justifiées sont susceptibles d’entraîner des sanctions conformément au chapitre III du présent règlement.

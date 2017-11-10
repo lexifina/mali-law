@@ -1,0 +1,4 @@
+# Article 7 (Titre None)
+Le comité de sélection a pour mission d’étudier les dossiers de candidature et d’en sélectionner les cinq (05) meilleurs en vue de l’entretien de qualification.
+Les membres du jury d’entretien sont issus du Comité de sélection.
+Aucun candidat au poste de Directeur Général ne peut être membre du Comité de sélection.

@@ -1,0 +1,2 @@
+# Article 42 (Titre None)
+Les livres doivent être rapportés dans les délais prévus par le règlement. Les retards répétés peuvent entraîner le retrait provisoire ou définitif de la fiche de prêt. Les étudiants qui n’ont pas restitué leurs livres avant la fin de l’année peuvent faire l’objet d’une poursuite afin d’obtenir la restitution des ouvrages empruntés. Les ouvrages perdus ou détériorés doivent être remplacés par l’emprunteur.

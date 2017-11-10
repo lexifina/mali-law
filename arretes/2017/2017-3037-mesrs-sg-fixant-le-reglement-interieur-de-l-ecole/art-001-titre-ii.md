@@ -1,0 +1,2 @@
+# Article 1er (Titre II)
+La société Première Agence de Microfinance-Mali SA. Immeuble Niangado Boulevard du 22 octobre 1946, sis au Quartier du Fleuve, Face au CICB, BP E : 2998, Bamako-Mali, immatriculée au RCCM sous le numéro Ma. BKO 2008 B 6316, représentée par son Directeur Général, Monsieur Birame KANE est déclaré exploitant d’un centre d’appel à Bamako pour assurer l’information de sa clientèle et permettre sa saisine pour tout désagrément constater par celle-ci dans le cadre de l’exploitation de son produit dénommé « Pico épargne et crédit ».

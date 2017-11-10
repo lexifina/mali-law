@@ -1,0 +1,2 @@
+# Article 45 (Titre None)
+Seul le responsable du matériel, qui prend lui-même ses instructions des enseignants, est habilité à prêter les appareils. Pour chaque article prêté, une fiche de prêt réglementaire doit être remplie. Cette fiche doit comporter, outre la nature et le numéro de l’article, la date de sortie et la date limite à laquelle l’article emprunté doit être rendu. Les fournitures doivent obligatoirement figurer sur la fiche de prêt.
