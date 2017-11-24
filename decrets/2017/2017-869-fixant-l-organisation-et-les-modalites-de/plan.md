@@ -1,0 +1,12 @@
+# Plan
+TITRE I : DISPOSITIONS GENERALES (Article 1er)
+TITRE II : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 3)
+CHAPITRE I : DU COMITE DE PILOTAGE (Article 3)
+Section I : Des Attributions (Article 3)
+Section II : De la Composition (Article 4)
+Section III : Du Fonctionnement (Article 7)
+CHAPITRE II :DELACELLULE DECOORDINATION (Article 10)
+Section I : Des attributions (Article 10)
+Section II : De la Composition (Article 11)
+Section III : Du fonctionnement (Article 14)
+TITRE III : DISPOSITIONS FINALES (Article 15)
