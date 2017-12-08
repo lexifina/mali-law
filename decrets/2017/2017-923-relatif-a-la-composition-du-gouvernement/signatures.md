@@ -1,0 +1,5 @@
+# Signatures
+
+Bamako, le 27 novembre 2017
+Le Président de la République, Ibrahim Boubacar KEITA
+Le Premier ministre, Abdoulaye Idrissa MAIGA
