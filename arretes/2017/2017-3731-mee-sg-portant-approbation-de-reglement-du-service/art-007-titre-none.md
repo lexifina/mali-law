@@ -1,0 +1,11 @@
+# Article 7 (Titre None)
+Le chargé e communication est chargé de l’élaboration et de la mise en œuvre des plans et stratégies de communication du département.
+A ce titre, il est chargé :
+- d’animer la cellule de communication du département ;
+- de préparer les plans et les stratégies de communication du département ;
+- d’assurer la couverture médiatique des activités du département ;
+- de créer un cadre de concertation en relation avec l’ensemble des services du département pour identifier et exploiter toute matière de communication ;
+- d’animer le site web du département ;
+- de présenter hebdomadairement les synthèses de presse ;
+- de créer et publier la revue du département ;
+- de faire connaître le département et de veiller à l’amélioration constante de la communication entre le ministre et la presse.
