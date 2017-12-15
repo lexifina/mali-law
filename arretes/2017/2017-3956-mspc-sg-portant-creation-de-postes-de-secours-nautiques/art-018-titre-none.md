@@ -1,0 +1,2 @@
+# Article 18 (Titre None)
+Les personnels administratifs civils et spécialisés sont évacués ou protégés par le personnel de surveillance et les forces d’intervention, le cas échéant. Le personnel administratif en uniforme vient en renfort aux opérations.

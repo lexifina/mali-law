@@ -1,0 +1,16 @@
+# Article 16 (Titre None)
+Le troisième niveau de commandement intervient lorsque l’incident dépasse les capacités du personnel pénitentiaire. Dans ce cas, l’arrivée des forces d’intervention extérieures dessaisit la première cellule de crise et la conduite des opérations passe sous le commandement d’une nouvelle cellule régionale ou locale à travers le poste de commandement.
+Cette cellule est composée :
+- du Gouverneur ;
+- du Préfet ;
+- du Sous-préfet ;
+- du Commandant de zone de défense ;
+- du Maire ;
+- du Procureur ;
+- du Directeur Régional de l’Administration Pénitentiaire et de l’Education Surveillée ;
+- du Commandant de groupement de la Garde nationale ;
+- du Commandant de légion de la Gendarmerie nationale ;
+- du Directeur régional de la Police nationale ;
+- du Directeur régional de la Protection civile ;
+- du Directeur régional de la santé ;
+- du Chef de l’établissement pénitentiaire.

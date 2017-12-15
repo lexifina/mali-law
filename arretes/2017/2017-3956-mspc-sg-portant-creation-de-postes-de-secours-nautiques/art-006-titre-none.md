@@ -1,0 +1,2 @@
+# Article 6 (Titre None)
+Le Plan de Protection et d’Intervention (P.P.I) vise à organiser et faciliter l’appui des forces de sécurité extérieures pour la protection de l’institution, des personnes et des biens.

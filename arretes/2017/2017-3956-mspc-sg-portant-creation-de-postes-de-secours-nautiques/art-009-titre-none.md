@@ -1,0 +1,2 @@
+# Article 9 (Titre None)
+En cas d’alerte, les forces de sécurité les plus proches (Garde Nationale, Gendarmerie Nationale, Police Nationale, Protection Civile et exceptionnellement l’armée) doivent diligemment appuyer le personnel pénitentiaire.
