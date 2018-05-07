@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n°2017-028/ P-RM du 29 août 2017 autorisant la ratification de l’Accord de prêt, signé à Dakar, le 27 juin 2017, entre le Gouvernement de la République du Mali et la Banque ouest africaine de Développement (BOAD) pour le financement partiel du Programme de Développement de l’Irrigation dans le Bassin du Bani et à Sélingué (PDI-BS) : aménagement de 3 308 ha des casiers I et II de la plaine de San-Est.
