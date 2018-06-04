@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DE L’ORGANISATION (Article 2)
+Section I : Du Directeur (Article 2)
+Section II : Des structures (Article 5)
+Section III : Des services régionaux et subrégionaux des Archives (Article 15)
+CHAPITRE III : DU FONCTIONNEMENT (Article 16)
+Section I : De l’élaboration de la politique nationale en matière d’Archives (Article 16)
+Section II : De la coordination et du contrôle de la mise en œuvre de la politique nationale en matière d’Archives (Article 18)
+CHAPITRE IV : DISPOSITIONS FINALES (Article 19)
