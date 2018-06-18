@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DES DEFINITIONS (Article 4)
+CHAPITRE III : DES MESURES DE PROMOTION ET DE PROTECTION (Article 5)
+Section I : Du domaine de la santé (Article 9)
+Section II : Du domaine de l’éducation (Article 11)
+Section III : Du domaine de la formation professionnelle (Article 15)
+Section IV : Du domaine de l’emploi (Article 17)
+Section V : Du domaine de la participation à la vie politique et à la vie publique (Article 20)
+Section VI : Des domaines des sports, des loisirs, des arts de la culture et de la communication (Article 22)
+Section VII : Du domaine de l’accessibilité et de la mobilité (Article 24)
+Section VIII : Du domaine de la protection et de l’assistance juridique (Article 26)
+CHAPITRE IV : DISPOSITIONS DIVERSES ET FINALES (Article 27)
