@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n° 2016-005/ P-RM du 24 février 2016 autorisant la ratification de la Convention de crédit n° CML 1342 02 U, signée à Paris, le 21 octobre 2015, entre le Gouvernement de la République du Mali et l’Agence française de Développement (AFD) pour le financement partiel du Projet d’Appui au Développement économique des Territoires ruraux dans les Régions de Ségou et Tombouctou au Mali.
