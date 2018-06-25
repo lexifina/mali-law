@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n° 2017-031/ P-RM du 07 septembre 2017 autorisant la ratification de l’Accord de prêt, de l’Accord d’Istisna’a, de l’Accord de services Ijara et de l’Accord de vente à tempérament, signés à Djeddah (Arabie Saoudite) le 18 mai 2017, entre le Gouvernement de la République du Mali et la Banque islamique de Développement (BID) pour le financement du Projet de Développement durable des exploitations pastorales du Sahel malien.
