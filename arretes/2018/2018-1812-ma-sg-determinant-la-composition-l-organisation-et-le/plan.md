@@ -1,0 +1,5 @@
+# Plan
+CHAPITRE I : DE LA COMPOSITION (Article 2 (Titre None))
+CHAPITRE II : DE L’ORGANISATION (Article 4 (Titre None))
+CHAPITRE III : DU FONCTIONNEMENT (Article 11 (Titre None))
+CHAPITRE IV : DISPOSITIONS FINALES (Article 19 (Titre None))
