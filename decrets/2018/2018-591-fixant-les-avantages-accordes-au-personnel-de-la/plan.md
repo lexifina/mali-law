@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er (Titre None))
+CHAPITRE II : DES INDEMNITES (Article 2 (Titre None))
+CHAPITRE III : DU REGIME DES ASSURANCES (Article 5 (Titre None))
+CHAPITRE IV : DU REGIME DES MISSIONS (Article 6 (Titre None))
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er (Titre None))
+CHAPITRE II : DE L’OBJET (Article 3 (Titre None))
+CHAPITRE III : DES RESSOURCES (Article 4 (Titre None))
+CHAPITRE IV : DES MODALITES D’ADMINISTRATION ET DE GESTION (Article 5 (Titre None))
+Section I : Attributions du Conseil d’administration (Article 6 (Titre None))
+Section II : Composition (Article 7 (Titre None))
+Section III : Fonctionnement (Article 10)
+CHAPITRE V : DISPOSITIONS FINALES (Article 18)

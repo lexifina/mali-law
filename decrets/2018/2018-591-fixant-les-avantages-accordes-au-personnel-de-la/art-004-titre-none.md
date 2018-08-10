@@ -1,0 +1,3 @@
+# Article 4 (Titre None)
+Les avantages octroyés à l’article 2 du présent décret ne sont pas cumulables avec ceux de même nature accordés par d’autres textes.
+Toutefois, les dispositions plus favorables sont appliquées lorsque la personne concernée bénéficie des mêmes avantages prévus par d’autres textes.
