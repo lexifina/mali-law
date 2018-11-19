@@ -1,0 +1,5 @@
+# Loi n°2018-063 du 5 novembre 2018 portant ratification de l’Ordonnance n°2018-011/P-RM du 19 février 2018 autorisant la ratification de l’Accord-cadre de financement par vente à tempérament et de l’Accord de crédit-bail, signés à Washington (Etats-Unis d’Amérique), le 10 octobre 2017, entre le Gouvernement de la République du Mali et la Banque islamique de Développement (BID), en vue de financement du Projet de construction de la centrale électrique thermique de 100 MW à Sirakoro
+
+L’assemblée nationale a délibéré et adopte en séance du 25 octobre 2018
+Le Président de la République promulgue la loi dont la teneur suit :
+Article Unique : Est ratifiée l’Ordonnance n°2018-011/ P-RM du 19 février 2018 autorisant la ratification de l’Accord-cadre de financement par vente à tempérament et de l’Accord de crédit-bail, signés à Washington (Etats-Unis d’Amérique), le 10 octobre 2017, entre le Gouvernement de la République du Mali et la Banque islamique de Développement (BID), en vue de financement du Projet de construction de la centrale électrique thermique de 100 MW à Sirakoro.
