@@ -1,0 +1,11 @@
+# Article 3 (Titre None)
+Le Cabinet est chargé d’assister le Premier ministre dans l’exercice de ses fonctions de direction et de coordination de l’action gouvernementale, d’exécution des lois et d’exécution de la politique de défense nationale.
+A ce titre, il est chargé :
+- de suivre les relations du Premier ministre avec les autres institutions de la République et les autorités indépendantes ;
+- de suivre l’exécution des instructions du Président de la République et du Premier ministre par les membres du Gouvernement ;
+- de suivre la mise en œuvre de la Déclaration de Politique générale du Premier ministre par les membres du Gouvernement ;
+- de préparer les arbitrages et décisions du Premier ministre ;
+- de suivre les relations du Premier ministre avec la classe politique, la société civile, les confessions religieuses et les partenaires sociaux ;
+- d’exercer des fonctions de coordination et de contrôle pour l’ensemble des services relevant du Premier ministre à l’exception du Secrétariat général du Gouvernement et du Cabinet de Défense ;
+- de mettre à la disposition du Premier ministre une information régulière et complète sur la situation de l’administration et du pays ;
+- de mener des réflexions pour faire des propositions sur toute question d’intérêt national.
