@@ -1,0 +1,10 @@
+# Visas
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu la Constitution ;
+Vu le Décret n°2014-0256/PM-RM du 10 avril 2014 déterminant les autorités chargées de la conclusion et de l’approbation des marchés publics et des délégations de service public ;
+Vu le Décret n°2015-0604/P-RM du 25 septembre 2015, modifié, portant Code des marchés publics et des délégations de service public ;
+Vu le Décret n°2016-0792/P-RM du 14 octobre 2016 portant approbation du marché relatif aux travaux de construction et de bitumage de la route Benena-Mandiakuy (18 km) ;
+Vu le Décret n°2018-0711/P-RM du 04 septembre 2018 portant nomination du Premier ministre ;
+Vu le Décret n°2018-0712/P-RM du 09 septembre 2018 portant nomination des membres du Gouvernement,
+STATUANT EN CONSEIL DES MINISTRES,
+DECRETE :

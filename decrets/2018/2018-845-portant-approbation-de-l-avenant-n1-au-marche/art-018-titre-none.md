@@ -1,0 +1,2 @@
+# Article 18 (Titre None)
+Le Président du Conseil supérieur des fonctionnaires du Cadre de la Surveillance de l’Administration pénitentiaire et de l’Education surveillée transmet au Premier ministre, dans le délai d’un (01) mois, après leur adoption, les avis et recommandations formulés par le Conseil supérieur des fonctionnaires du Cadre de la Surveillance de l’Administration pénitentiaire et de l’Education surveillée.

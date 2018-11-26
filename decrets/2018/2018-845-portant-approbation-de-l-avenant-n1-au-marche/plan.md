@@ -1,0 +1,12 @@
+# Plan
+CHAPITRE I : DES ATTRIBUTIONS (Article 2 (Titre None))
+CHAPITRE II : DE LA COMPOSITION (Article 4 (Titre None))
+CHAPITRE III : DE L’ORGANISATION ET DU FONCTIONNEMENT (Article 11 (Titre None))
+CHAPITRE IV : DISPOSITIONS FINALES (Article 19 (Titre None))
+CHAPITRE I : DES ATTRIBUTIONS (Article 2 (Titre None))
+CHAPITRE II : DE LA COMPOSITION (Article 4 (Titre None))
+CHAPITRE III : DE L’ORGANISATION ET DES MODALITES DE FONCTIONNEMENT (Article 10 (Titre None))
+SECTION 1 : Des règles communes (Article 10 (Titre None))
+SECTION 2 : De la commission d’avancement (Article 15 (Titre None))
+SECTION 3 : Du conseil de discipline (Article 17 (Titre None))
+CHAPITRE IV : DISPOSITION FINALE (Article 23)

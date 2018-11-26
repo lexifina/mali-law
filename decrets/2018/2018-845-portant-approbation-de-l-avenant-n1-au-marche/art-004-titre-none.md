@@ -1,0 +1,3 @@
+# Article 4 (Titre None)
+Le Conseil supérieur de l’Administration pénitentiaire et de l’Education surveillée est composé de dix-huit membres titulaires, nommés par décret du Premier ministre, dont neuf membres représentant l’Administration et neuf membres proposés par la ou les organisations syndicales des fonctionnaires du Cadre de la Surveillance de l’Administration pénitentiaire et de l’Education surveillée les plus représentatives au plan national.
+En outre, il comprend neuf membres suppléants pour le corps des fonctionnaires du Cadre de la Surveillance de l’Administration pénitentiaire et de l’Education surveillée qui sont nommés dans les mêmes conditions.

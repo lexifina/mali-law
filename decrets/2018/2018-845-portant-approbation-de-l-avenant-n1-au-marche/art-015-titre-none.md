@@ -1,0 +1,2 @@
+# Article 15 (Titre None)
+Les membres du Conseil supérieur de l’Administration pénitentiaire et de l’Education surveillée sont soumis à l’obligation de discrétion et du secret professionnels pour tous les faits et documents dont ils ont connaissance en cette qualité. Leur divulgation entraîne la perte de qualité de membre, sans préjudice des sanctions disciplinaires ou poursuites pénales encourues.
