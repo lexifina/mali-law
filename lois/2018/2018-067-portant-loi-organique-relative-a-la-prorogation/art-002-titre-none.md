@@ -1,0 +1,9 @@
+# Article 2 (Titre None)
+La présente loi organique sera enregistrée et publiée au Journal officiel.
+Bamako, le 06 décembre 2018
+Le Président de la République, Ibrahim Boubacar KEITA
+ARRETES
+MINISTERE DE LA SANTE ET DE L’HYGIENE PUBLIQUE
+ARRETE N°2018-4277/MSHP-SG DU 07 DECEMBRE 07 DECEMBRE 2018 FIXANT LES CONDITIONS D’EXERCICE DE LA PROFESSION DE VISITEUR MEDICAL
+LE MINISTRE DE LA SANTE ET DE L’HYGIENE PUBLIQUE,
+ARRETE :
