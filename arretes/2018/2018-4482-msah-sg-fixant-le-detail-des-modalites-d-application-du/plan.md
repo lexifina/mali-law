@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DE LA PROCEDURE D’OCTROI DU STATUT DE PUPILLE (Article 2)
+SECTION I : De la constitution du dossier (Article 2)
+SECTION II : De la procédure d’examen et de validation du dossier (Article 5)
+SECTION III : De la procédure de remise de la carte de pupille (Article 13)
+CHAPITRE III : DE LA GESTION DES PUPILLES (Article 14)
+SECTION I : Du domaine de l’éducation (Article 14)
+SECTION II : Du domaine de la santé (Article 19)
+SECTION III : Du domaine de la subvention d’entretien (Article 21)
+SECTION IV : Du domaine de Partenariat, placement en Institution spécialisée (Article 23)
