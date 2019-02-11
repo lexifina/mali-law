@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE IV : DU CONSEIL DE DISCIPLINE (Article 3)
+Section I : De la composition du Conseil de Discipline (Article 3)
+Article 21.1 : Le Conseil de Discipline est composé de : (Article 3)
+- 2 (deux) représentants de la Direction ; (Article 3)
+- 2 (deux) représentants du Comité Pédagogique et Scientifique ; (Article 3)
+- 3 (trois) représentants des formateurs ; (Article 3)
+- 2 (deux) représentants du personnel ; (Article 3)
+- 2 (deux) représentants des auditeurs. (Article 3)
+Section II : Du fonctionnement (Article 3)
+Article 21.2 : Le Conseil de Discipline se réunit à la demande du Directeur général qui propose un ordre du jour une semaine avant la date fixée. (Article 3)
+Il est présidé par le Directeur général ou son représentant. (Article 3)
+Les conclusions sont communiquées à la tutelle. (Article 3)
