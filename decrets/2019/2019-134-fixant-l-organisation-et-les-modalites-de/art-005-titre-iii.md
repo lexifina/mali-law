@@ -1,0 +1,6 @@
+# Article 5 (Titre III)
+Le Bureau d’Accueil et d’Orientation est chargé :
+- d’assurer l’accueil, l’information et l’orientation des usagers ;
+- d’appliquer la politique de relation avec les usagers ;
+- de collecter les informations en provenance des usagers dans le but d’améliorer la qualité du service ;
+- de concevoir et mettre en œuvre la stratégie de communication du service.
