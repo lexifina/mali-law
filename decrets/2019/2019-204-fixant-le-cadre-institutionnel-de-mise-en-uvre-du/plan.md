@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 3)
+Section 1 : Du Comité national de Pilotage du Recensement général agricole (Article 5)
+Section 2 : Du Comité technique national du Recensement général agricole (Article 8)
+Section 3 : Du Bureau central du Recensement général agricole (Article 10)
+Section 4 : Du Comité régional du Recensement général agricole (Article 12)
+Section 5 : Du Bureau régional du Recensement général agricole (Article 14)
+Section 6 : Du Comité local du Recensement général agricole (Article 16)
+CHAPITRE III : DISPOSITIONS FINALES (Article 18)
