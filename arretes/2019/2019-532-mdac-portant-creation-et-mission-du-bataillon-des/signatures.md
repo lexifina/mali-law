@@ -1,0 +1,7 @@
+# Signatures
+
+Bamako, le 08 mars 2019
+Le ministre, Professeur Tiémoko SANGARE
+MINISTERE DE L’ADMINISTRATION
+TERRITORIALE ET DE LA
+DECENTRALISATION
