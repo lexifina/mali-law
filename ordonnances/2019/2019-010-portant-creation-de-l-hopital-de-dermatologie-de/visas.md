@@ -1,0 +1,12 @@
+# Visas
+LE PRESIDENT DE LA REPUBLIQUE,
+Vu la Constitution ;
+Vu la Loi n°02-049 du 22 juillet 2002, modifiée, portant Loi d’orientation sur la Santé ;
+Vu la Loi n°02-050 du 22 juillet 2002, modifiée, portant Loi hospitalière ;
+Vu la Loi n°2014-049 du 19 septembre 2014 portant principes fondamentaux de la création, de l’organisation et du contrôle des services publics ;
+Vu la Loi 2018-073 du 27 décembre 2018 autorisant le Gouvernement à prendre certaines mesures par ordonnances ;
+Vu le Décret n°2018-0711/P-RM du 04 septembre 2018 portant nomination du Premier ministre ;
+Vu le Décret n°2018-0712/P-RM du 09 septembre 2018 portant nomination des membres du Gouvernement,
+La Cour Suprême entendue,
+STATUANT EN CONSEIL DES MINISTRES,
+ORDONNE :
