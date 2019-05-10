@@ -1,0 +1,6 @@
+# Signatures
+
+Bamako, le 17 avril 2019
+Le ministre, Hamadou KONATE
+MINISTERE DE L’INNOVATION ET DE LA
+RECHERCHE SCIENTIFIQUE
