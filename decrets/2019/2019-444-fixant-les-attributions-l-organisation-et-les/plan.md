@@ -1,0 +1,12 @@
+# Plan
+CHAPITRE I : DES ATTRIBUTIONS (Article 2)
+CHAPITRE II : DE L’ORGANISATION (Article 3)
+Section 1 : Du Chef du Cabinet de Défense (Article 4)
+Section 2 : Du Chef du Cabinet de Défense adjoint (Article 9)
+Section 3 : Des Cellules (Article 11)
+Section 4 : Du Secrétariat général (Article 18)
+Section 5 : Du Secrétariat particulier (Article 20)
+Section 6 : Du Service de Vidéosurveillance et de la Sécurité (Article 22)
+Section 7 : Du Service de Sport (Article 24)
+CHAPITRE III : DES MODALITES DE FONCTIONNEMENT (Article 25)
+CHAPITRE IV : DISPOSITIONS FINALES (Article 30)
