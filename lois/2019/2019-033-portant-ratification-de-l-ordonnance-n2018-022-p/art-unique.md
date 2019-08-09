@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n°2018-022/P-RM du 03 septembre 2018 autorisant la ratification de l’Accord de financement, signé à Bamako, le 16 juillet 2018, entre le Gouvernement de la République du Mali et l’Association internationale de Développement (IDA), relatif au second financement à l’Appui de Politiques de Développement pour la Lutte contre la Pauvreté et pour une Croissance inclusive.
