@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt, d’un montant de 1 milliard 739 millions 375 mille (1 739 375 000) francs CFA, signé à Abidjan, le 05 mars 2019 entre le Gouvernement de la République du Mali et le Fonds africain de Développement (FAD), en vue du financement du Projet d’Autonomisation économique des Femmes dans la Filière Karité (PAEFFK).
