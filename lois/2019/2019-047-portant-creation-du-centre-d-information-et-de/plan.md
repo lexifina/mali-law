@@ -1,0 +1,13 @@
+# Plan
+TITRE I : DE LA CREATION ET DES MISSIONS (Article 1er)
+TITRE II : DE LA DOTATION ET DES RESSOURCES (Article 3)
+TITRE III : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 5)
+CHAPITRE I : DU CONSEIL D’ADMINISTRATION (Article 6)
+Section 1 : De la composition (Article 6)
+Section 2 : Des attributions (Article 7)
+Section 3 : Des modes de désignation des membres (Article 8)
+CHAPITRE II : DE LA DIRECTION GENERALE (Article 14)
+CHAPITRE III : DU COMITE SCIENTIFIQUE ET TECHNIQUE (Article 17)
+Section 2 : Du mode de désignation des membres du Comité scientifique (Article 21)
+TITRE IV : DE LA TUTELLE (Article 22)
+TITRE V : DISPOSITIONS FINALES (Article 28)
