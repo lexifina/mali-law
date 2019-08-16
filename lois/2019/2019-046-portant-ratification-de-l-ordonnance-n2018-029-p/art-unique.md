@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n°2018-029/P-RM du 31 décembre 2018 autorisant la ratification de l’Accord de prêt, signé à Bamako le 03 décembre 2018, entre le Gouvernement de la République du Mali et la Banque ouest africaine de Développement (BOAD) pour le financement partiel du Projet de construction d’un échangeur, d’un viaduc et d’aménagement de 10 km de voies urbaines dans la ville de Sikasso.
