@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DES OBLIGATIONS ET DES DEVOIRS (Article 3)
+Section 1 : Des obligations (Article 3)
+Section 2 : Des devoirs envers la population (Article 9)
+Section 3 : Des devoirs envers sa corporation (Article 13)
+Section 4 : Des devoirs envers lui-même (Article 16)
+Section 5 : Des devoirs à l’égard de son équipe de travail (Article 22)
+Section 6 : Des devoirs du subordonné (Article 27)
+Section 7 : Des devoirs du supérieur (Article 29)
+CHAPITRE III : DISPOSITION FINALE (Article 32)
