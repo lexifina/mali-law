@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DU SECRETAIRE GENERAL (Article 3)
+CHAPITRE III : DES CONSEILLERS TECHNIQUES (Article 5)
+Section I : Du Conseiller Technique chargé du commerce intérieur, de la concurrence et de la protection des consommateurs (Article 6)
+Section II : Du Conseiller Technique chargé du commerce extérieur et de la promotion des exportations (Article 7)
+Section III : Du Conseiller Technique chargé de la Promotion Industrielle (Article 8)
+Section IV : Du Conseiller Technique chargé de la Promotion de la Qualité, des Normes et de la Métrologie (Article 9)
+Section V : Du Conseiller Technique chargé des Questions juridiques et de la Propriété Intellectuelle (Article 10)
+CHAPITRE V : DU SERVICE COURRIER, DE LA DOCUMENATION ET DE LA DACTYLOGRAPHIE (Article 11)
+CHAPITRE VI : DISPOSITIONS FINALES (Article 12)
