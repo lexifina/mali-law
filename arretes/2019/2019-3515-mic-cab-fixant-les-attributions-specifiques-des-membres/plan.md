@@ -1,0 +1,12 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DU CHEF DE CABINET (Article 3)
+CHAPITRE III : DES CHARGES DE MISSION (Article 5)
+Section I : Du Chargé De Mission en charge du dialogue social et des syndicats (Article 6)
+Section II : Du Chargé de Mission en charge des Relations avec les Partis Politiques et les Institutions (Article 7)
+Section III : Du Chargé de Mission en charge des organisations professionnelles du commerce et de l’industrie (Article 8)
+Section IV : Du Chargé de Mission en charge de la Communication (Article 9)
+Section V : Du Chargé de Mission en charge du genre et des Organisations Non Gouvernementales (Article 10)
+Section VI : Des Intérims des Chargés de Mission (Article 11)
+CHAPITRE IV : DE L’ATTACHE DE CABINET ET DU SECRETAIRE PARTICULIER DU MINISTRE (Article 12)
+CHAPITRE V : DISPOSITIONS FINALES (Article 14)
