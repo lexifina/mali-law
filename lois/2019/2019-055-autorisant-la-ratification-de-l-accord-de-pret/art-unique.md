@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt, d’un montant n’excédant pas trente-trois millions trois cent mille dollars des Etats-Unis d’Amérique (33 300 000) dollars USA, soit dix-huit milliards trois cent quinze millions (18 315 000 000) francs CFA environ, signé à Marrakech (Maroc), le 06 avril 2019, entre le Gouvernement de la République du Mali et la Banque islamique de Développement (BID), relatif au financement du Programme FSID-EAA pour l’éducation des enfants hors école (PACETM) au Mali.
