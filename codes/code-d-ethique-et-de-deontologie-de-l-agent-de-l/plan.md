@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DES DEVOIRS ET OBLIGATIONS DE L’AGENT PUBLIC (Article 6)
+Section 1 : De l’obligation de dévouement (Article 7)
+Section 2 : De l’obéissance hiérarchique (Article 11)
+Section 3 : De l’obligation de dignité (Article 16)
+Section 4 : Du respect du bien public et de l’obligation de transparence et d’intégrité (Article 18)
+Section 5 : De l’obligation de respect du secret professionnel, de réserve et de discrétion (Article 22)
+Section 6 : De l’obligation d’impartialité et de neutralité (Article 24)
+Section 7 : De l’obligation de probité et de désintéressement (Article 27)
+Section 8 : De l’administration chargée de l’éthique et de la déontologie (Article 31)
+CHAPITRE III : DES SANCTIONS (Article 35)
+CHAPITRE IV : DES DISPOSITIONS TRANSITOIRES ET FINALES (Article 36)
