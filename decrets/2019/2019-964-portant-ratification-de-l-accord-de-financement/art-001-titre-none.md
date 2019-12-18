@@ -1,0 +1,2 @@
+# Article 1er (Titre None)
+Est ratifié, l’Accord de financement d’un montant de cent quatre-vingt-huit millions trois cent mille (188 300 000) euros, soit cent vingt-trois milliards cinq cent seize millions sept cent trois mille cent (123 516 703 100) F CFA, signé à Bamako, le 16 décembre 2019, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA), relatif à l’Appui budgétaire des politiques de développement du Mali en faveur de l’énergie durable et de l’amélioration de la prestation de services pour une stabilité accrue.
