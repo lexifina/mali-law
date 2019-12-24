@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée, la ratification de l’Accord de prêt, d’un montant global maximum en principal de 25 milliards de francs CFA en tranches concessionnelles de 10 milliards de francs CFA et souveraineté de 15 milliards de francs CFA, signé à Bamako, le 03 septembre 2019, entre le Gouvernement de la République du Mali et la Banque Ouest africaine de Développement (BOAD), en vue du financement partiel du Projet de viabilisation du site et de construction de 1085 logements sociaux et économiques à Samanko.
