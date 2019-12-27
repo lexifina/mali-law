@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : Du Secrétaire général (Article 2)
+Chapitre II : Des Conseillers Techniques (Article 4)
+Section I : Dispositions Générales (Article 4)
+SECTION II : Du Conseiller technique chargé des questions juridiques et du personnel (Article 6)
+Section III : Du Conseiller technique chargé des questions administratives et institutionnelles (Article 8)
+Section IV : Du Conseiller technique chargé de l’Enseignement Supérieur et des œuvres universitaires (Article 10)
+Section V : Le Conseiller technique chargé de la Recherche Scientifique et de l’Innovation (Article 12)
+Section VI : Du Conseiller technique chargé des Technologies et des projets de développement du numérique dans l’Enseignement supérieur et dans la recherche scientifique (Article 14)
+CHAPITRE III : Du Chef du Service du Courrier, de la Documentation et de Traitement de texte (Article 16)
+Chapitre IV : Dispositions Finales (Article 19)
