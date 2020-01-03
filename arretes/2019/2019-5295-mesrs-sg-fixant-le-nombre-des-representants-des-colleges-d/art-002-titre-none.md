@@ -1,0 +1,3 @@
+# Article 2 (Titre None)
+Le nombre des représentants des collèges d’Enseignants-Chercheurs à l’Assemblée de la Faculté des Sciences Sociales (FASSO) de l’Université de Ségou est fixé comme suit :
+- Représentants des Professeurs et Directeurs de Recherche………......................................................……….00 - Représentants des Maîtres de Conférences et Maitres de Recherche……......................................................................00 - Représentants des Maîtres Assistants et Chargés de Recherche …….…..............................................................................…06 - Représentants des Assistants et Attachés de Recherche…………..................................................……….. 05
