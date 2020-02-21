@@ -1,0 +1,8 @@
+# Signatures
+
+Bamako, le 20 février 2020
+Le Premier ministre, Docteur Boubou CISSE
+ARRETES
+MINISTERE DE L’ADMINISTRATION
+TERRITORIALE ET DE LA
+DECENTRALISATION
