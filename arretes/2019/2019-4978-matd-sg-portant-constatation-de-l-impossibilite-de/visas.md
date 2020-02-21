@@ -1,0 +1,4 @@
+# Visas
+LE MINISTRE DE L’ADMINISTRATION TERRITORIALE ET DE LA DECENTRALISATION,
+Sur Rapport du Gouverneur de la Région de Kayes,
+ARRETE :
