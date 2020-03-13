@@ -1,0 +1,11 @@
+# Plan
+TITRE I : DISPOSITIONS GENERALES (Article 1er)
+TITRE II : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 3)
+CHAPITRE I : DU CONSEIL D’ORIENTATION ET DE SUIVI (Article 3)
+Section 1 : Des attributions (Article 3)
+Section 2 : De la composition (Article 4)
+Section 3 : Du fonctionnement (Article 5)
+CHAPITRE II : DE LA DIRECTION GENERALE (Article 8)
+Section 1 : Du Directeur général (Article 8)
+Section 2 : Des structures (Article 11)
+TITRE III : DISPOSITIONS DIVERSES ET FINALES (Article 22)
