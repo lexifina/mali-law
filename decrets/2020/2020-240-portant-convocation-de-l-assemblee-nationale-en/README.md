@@ -1,0 +1,6 @@
+# Décret n°2020-0240/P-RM du 5 mai 2020 portant convocation de l’Assemblée nationale en session extraordinaire
+
+- Source : Journal officiel n°2020-13 du 8 mai 2020, <https://sgg-mali.ml/JO/2020/mali-jo-2020-13.pdf>
+- Signé / promulgué : 2020-05-05
+- En vigueur : 2020-05-08 (publication au Journal officiel n°2020-13 du 8 mai 2020 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 3 articles
