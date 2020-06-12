@@ -1,0 +1,6 @@
+# Décret n°2020-0278/P-RM du 11 juin 2020 portant approbation de l’Avenant n°1 au marché relatif au recrutement d’un bureau d’Ingénieur conseil en vue d’assurer la maîtrise d’œuvre déléguée auprès de l’Unité de Gestion du Projet de Développement rural intégré du District de Kita et de ses environs, Phase II (PDRIK II)
+
+- Source : Journal officiel n°2020-15 du 12 juin 2020, <https://sgg-mali.ml/JO/2020/mali-jo-2020-15.pdf>
+- Signé / promulgué : 2020-06-11
+- En vigueur : 2020-06-12 (publication au Journal officiel n°2020-15 du 12 juin 2020 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 2 articles
