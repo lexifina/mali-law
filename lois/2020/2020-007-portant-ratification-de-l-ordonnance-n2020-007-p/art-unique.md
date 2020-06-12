@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n°2020-007/ P-RM du 24 février 2020 autorisant la ratification de l’Accord de prêt signé à Abu Dhabi (Emirats Arabes Unis), le 30 juin 2019 entre le Gouvernement de la République du Mali et le Fonds d’Abu Dhabi pour le Développement (ADFD), relatif au financement de la deuxième Phase du Projet d’Appui à la Stratégie nationale en matière de Logements sociaux.
