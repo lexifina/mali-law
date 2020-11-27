@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE 1: DISPOSITIONS GÉNÉRALES (Article 1er)
+CHAPITRE 2 : ATTRIBUTIONS SPÉCIFIQUES (Article 3)
+Section 1: Le Secrétaire Général (Article 3)
+Section 2: Le Conseiller Technique chargé de l’Emploi et des Opérations (Article 6)
+Section 3 : Le Conseiller Technique chargé du Renseignement. (Article 9)
+Section 4 : Le Conseiller à la Coopération (Article 12)
+Section 5 : Le Conseiller Technique chargé des questions Juridiques et Judiciaires. (Article 15)
+Section 6 : Le Conseiller Technique chargé des Questions Economiques et Financières (Article 18)
+Section 7 : Le Conseiller Technique chargé des Infrastructures et Equipements (Article 21)
+Section 8 : Le Conseiller Technique chargé du Dialogue social (Article 24)
+Section 9 : Le Chef du service du courrier, de la documentation et du traitement de texte (Article 27)
+CHAPITRE 3 : DISPOSITIONS FINALES (Article 28)

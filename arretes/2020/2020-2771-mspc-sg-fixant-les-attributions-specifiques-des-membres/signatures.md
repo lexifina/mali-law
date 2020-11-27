@@ -1,0 +1,6 @@
+# Signatures
+
+Bamako, le 23 novembre 2020
+Le ministre, Colonel Modibo KONE
+MINISTERE DE L’INDUSTRIE, DU COMMERCE ET DE LA PROMOTION DES
+INVESTISSEMENTS
