@@ -1,0 +1,3 @@
+# Article 10 (Titre None)
+Le Directeur de l’hôpital de référence nomme le personnel de la santé pour les infirmeries des établissements pénitentiaires. Au moins deux infirmières ou infirmiers ou sages-femmes à temps plein doivent être nommés dans chaque établissement pénitentiaire qui compte plus de 400 détenus.
+Pour les établissements pénitentiaires avec plus de 1.000 détenus, le nombre doit être de quatre infirmières / infirmiers à temps plein. Ce personnel relève de l’hôpital est intégré dans la planification des sessions de formation, de renforcement des capacités et de supervision de l’Hôpital de district, autant que le reste du personnel de la santé du district.

@@ -1,0 +1,11 @@
+# Plan
+Section 1: Des responsabilités du Ministre chargé de la Santé (Article 8 (Titre None))
+Section 2: Des responsabilités du ministre chargé de la Justice (Article 27)
+Section 3: Des dispositions spécifiques (Article 33)
+Sous-section 1 : Le statut des infirmeries des établissements pénitentiaires (Article 33)
+Sous-section 2 : Le pavillon pénitentiaire à l’hôpital public (Article 34)
+Sous-section 3 : Le Chef du service chargé de la Santé en milieu carcéral de la Direction générale de la Santé et de l’hygiène publique (Article 35)
+Sous-section 4 : La lutte contre les infections sexuellement (Article 38)
+transmissibles, le virus de l’immunodéficience humaine et le sida (VIH/Sida), la tuberculose et les hépatites virales (Article 38)
+Sous-section 5 : Les programmes spécifiques de santé publique (Article 40)
+Sous-section 6 : Le mécanisme de suivi (Article 41)
