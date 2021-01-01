@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DES ATTRIBUTIONS DU SECRETAIRE GENERAL (Article 4)
+CHAPITRE III : DES ATTRIBUTIONS DES CONSEILLERS TECHNIQUES (Article 6)
+Section I : Du Conseiller technique chargé des questions juridiques et du suivi de la mise en œuvre de l’Accord pour la paix et la réconciliation au Mali issu du processus d’Alger (Article 7)
+Section II : Du Conseiller technique chargé des questions relatives à la modernisation de l’administration publique et la transition numérique (Article 8)
+Section III : Du Conseiller technique chargé des questions relatives à l’amélioration de la gouvernance et la consolidation de l’Etat de droit et de la démocratie (Article 9)
+Section IV : Du Conseiller technique chargé de la mobilisation des ressources et des relations avec les Partenaires au développement. (Article 10)
+Section V : Du Conseiller technique chargé du suivi des relations entre le Gouvernement et les Institutions (Article 11)
+CHAPITRE IV : DU SERVICE DU COURRIER, DE LA DOCUMENTATION ET DE TRAITEMENT DE TEXTE (Article 12)
+CHAPITRE V : DISPOSITIONS FINALES (Article 15)
