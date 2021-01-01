@@ -1,0 +1,13 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : LE CHEF DE CABINET (Article 3)
+CHAPITRE III : DES ATTRIBUTIONS DES CHARGES DE MISSION (Article 5)
+Section I : Le Chargé des relations avec la classe politique et la société civile (Article 6)
+Section II : Le Chargé des relations avec les organisations de la société des savoirs (Article 7)
+Section III : Le Chargé des relations avec les légitimités traditionnelles et les acteurs culturels (Article 8)
+Section IV : Le Chargé des relations avec les Institutions et les partenaires au développement (Article 9)
+Section V : Le Chargé de Communication (Article 10)
+Section VI : Des intérims des Chargés de Mission (Article 11)
+CHAPITRE IV : L’ATTACHE DE CABINET (Article 12)
+CHAPITRE V : LE SECRETAIRE PARTICULIER DU MINISTRE (Article 13)
+CHAPITRES VI : DISPOSITIONS FINALES (Article 14)
