@@ -1,0 +1,2 @@
+# Article 3 (Titre None)
+Seuls sont autorisés à l’exportation, les objets issus de bois d’essences forestières partiellement protégées, d’essences forestières de valeur économique ou d’essences forestières non protégées ayant subi des opérations de transformation préalables de deuxième ou de troisième niveau dans des unités industrielles ou artisanales autorisées à cet effet conformément aux dispositions des textes en vigueur.
