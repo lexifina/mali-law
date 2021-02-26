@@ -1,0 +1,7 @@
+# Signatures
+
+Bamako, le 31 décembre 2020
+Le ministre, Alousséni SANOU
+MINISTERE DE L’ADMINISTRATION
+TERRITORIALE ET DE LA
+DECENTRALISATION
