@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n°2020-011/ PT-RM du 08 décembre 2020 autorisant la ratification de l’Accord de prêt signé à Bamako, le 19 novembre 2020, entre le Gouvernement de la République du Mali, la Banque africaine de Développement (BAD) et le Fonds africain de Développement (FAD), en vue du financement du Programme d’Appui en réponse à la crise de la COVID- 19 dans les pays du G5 Sahel (PARC COVID-19-G5 SAHEL).
