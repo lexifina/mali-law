@@ -1,0 +1,7 @@
+# Signatures
+
+Bamako, le 31 décembre 2020
+Le ministre, Lamine Seydou TRAORE
+MINISTERE DE L’ADMINISTRATION
+TERRITORIALE ET DE LA
+DECENTRALISATION
