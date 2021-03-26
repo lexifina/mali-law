@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n°2020-004/ PT-RM du 28 octobre 2020 autorisant la ratification de l’Accord de prêt signé à Lomé, le 22 mai 2020 entre le Gouvernement de la République du Mali et la Banque Ouest Africaine de Développement (BOAD), pour le financement partiel du Projet d’électrification rurale de cinquante (50) localités dans les Régions de Kayes, Koulikoro, Sikasso et Ségou par des systèmes solaires photovoltaïques, (Projet d’électrification rurale solaire financé par le Fonds Vert pour le Climat).
