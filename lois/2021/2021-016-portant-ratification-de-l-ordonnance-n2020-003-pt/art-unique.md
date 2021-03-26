@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n°2020-003/ PT-RM du 14 octobre 2020 autorisant la ratification de l’Accord de prêt signé à Lomé, le 05 mai 2020, entre le Gouvernement de la République du Mali et la Banque Ouest Africaine de Développement (BOAD), en vue du financement partiel du Projet d’Aménagement de la Section Sevaré-Mopti de la Route nationale n°6 (RN6) et de voies urbaines dans la ville de Mopti.
