@@ -1,0 +1,7 @@
+# Signatures
+
+Bamako, le 19 avril 2021
+Le ministre, Mohamed Salia TOURE
+MINISTERE DE L’ADMINISTRATION
+TERRITORIALE ET DE LA
+DECENTRALISATION
