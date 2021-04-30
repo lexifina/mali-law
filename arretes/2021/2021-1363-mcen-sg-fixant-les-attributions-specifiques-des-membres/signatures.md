@@ -1,0 +1,6 @@
+# Signatures
+
+Bamako, le 08 avril 2021
+Le ministre, Dr Hamadoun TOURE
+MINISTERE DE L’EMPLOI ET DE LA
+FORMATION PROFESSIONNELLE
