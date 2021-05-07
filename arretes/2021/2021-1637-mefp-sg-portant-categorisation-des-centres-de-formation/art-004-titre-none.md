@@ -1,0 +1,8 @@
+# Article 4 (Titre None)
+Les centres de formation professionnelle sont classés en trois catégories en fonction du public cible, des filières de formation, du niveau d’investissement et de la capacité d’accueil :
+- Catégorie 1 : centre à vocation d’accueillir des apprenants du territoire communal et de cercle, disposant d’un équipement et d’une infrastructure d’accueil minimum d’au moins trois salles de classe, pour au moins une filière ;
+Le centre doit avoir dans son personnel au moins un (1) Professeur/formateur d’au moins le niveau Licence, un budget d’investissement d’au moins un milliard de Francs CFA et un budget de fonctionnement de 20 millions de Francs CFA au moins.
+- Catégorie 2 : centre à vocation d’accueillir des apprenants des régions ou inter-régions disposant d’équipements adéquats pour au moins trois filières de formation, d’au moins six salles de classe et d’un atelier ;
+Le centre doit avoir dans son personnel au moins trois Professeurs/formateurs d’au moins le niveau Licence, un budget d’investissement supérieur à un milliard de Francs CFA et un budget de fonctionnement supérieur à 20 millions de Francs CFA.
+- Catégorie 3 : centre à vocation d’accueillir des apprenants venant du territoire national ou sous régional disposant d’un équipement de haut niveau pour au moins cinq filières de formation, d’au moins dix salles de classe et cinq ateliers ;
+Le centre doit avoir dans son personnel au moins cinq (5) Professeurs/formateurs d’au moins niveau licence, un budget d’investissement supérieur ou égal à 3 milliards de Francs CFA et un budget de fonctionnement supérieur à 100 millions de Francs CFA.
