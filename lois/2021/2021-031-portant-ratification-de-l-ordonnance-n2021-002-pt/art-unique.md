@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n°2021-002/ PT-RM du 15 janvier 2021 autorisant la ratification de l’Accord de prêt d’un montant de quatorze milliards cent millions (14 100 000) francs CFA, signé à Abu-Dhabi, le 14 janvier 2020, entre le Gouvernement de la République du Mali et le Fonds Khalifa pour le Développement des Entreprises, pour soutenir le Secteur du Développement des Micros, Petites et Moyennes Entreprises en République du Mali.
