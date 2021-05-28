@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification du Contrat de financement d’un montant de quarante-cinq millions (45 000 000) d’euros, soit vingt-neuf milliards cinq cent dix-huit millions soixante-cinq mille (29 518 065 000) francs CFA, signé à Bamako le 21 décembre 2020 et au Luxembourg le 22 décembre 2020, entre le Gouvernement de la République du Mali et la Banque Européenne d’investissement (BEI), en vue du financement du Projet EDM-BOUCLE 225 KV NORD BAMAKO.
