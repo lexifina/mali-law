@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée l’Ordonnance n°2020-022/ PT-RM du 31 décembre 2020 autorisant la ratification de l’Accord de prêt signé à Bamako, le 19 novembre 2020 entre le Gouvernement de la République du Mali, la Banque africaine de Développement (BAD) et le Fonds africain de Développement (FAD), en vue du financement du Programme de Développement de la Zone spéciale de Transformation Agro-Industrielle des Régions de Koulikoro et Péri-Urbaine de Bamako (PDZSTA-KB).
