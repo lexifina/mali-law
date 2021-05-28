@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de la Convention de crédit n°CML 1407 02 W, d’un montant total de trente millions (30 000 000) d’euros, soit dix-neuf milliards six cent soixante-dix-huit millions sept cent dix mille (19 678 710 000) francs CFA, signée à Bamako le 26 octobre 2020, entre le Gouvernement de la République du Mali et l’Agence française de Développement (AFD), relative au financement du Projet d’approvisionnement en eau potable dans cinq (5) villes secondaires du Mali : Koulikoro, Ségou, San, Mopti-Sevaré et Bandiagara.
