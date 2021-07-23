@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de prêt d’un montant de vingt-deux milliards deux cent millions (22 200 000 000) francs CFA environ, signé à Khartoum et à Bamako le 31 décembre 2020, entre le Gouvernement de la République du Mali et la Banque arabe pour le Développement économique en Afrique (BADEA), en vue du financement du Projet de réhabilitation de la route Sévaré-Gao lot 1 : Sévaré-Boré.
