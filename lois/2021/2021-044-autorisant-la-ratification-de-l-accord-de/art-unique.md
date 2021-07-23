@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’Accord de financement d’un montant de quinze millions cent cinquante-cinq mille (15 155 000) euros, soit neuf milliards neuf cent quarante-un millions vingt-huit mille trois cent trente-cinq (9 941 028 335) francs CFA, signé à N’Djamena (Tchad), le 13 février 2021, entre le Gouvernement de la République du Mali et le Fonds international pour le Développement Agricole (FIDA), relatif au Programme régional conjoint Sahel en réponse aux défis COVID-19, Conflits et Changements climatiques au Mali (SD3C).
