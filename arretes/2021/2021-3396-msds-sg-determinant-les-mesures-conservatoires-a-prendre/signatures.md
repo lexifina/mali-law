@@ -1,0 +1,7 @@
+# Signatures
+
+Bamako, le 01 septembre 2021
+Le ministre, Diéminatou SANGARE
+MINISTERE DE L’ADMINISTRATION
+TERRITORIALE ET DE LA
+DECENTRALISATION
