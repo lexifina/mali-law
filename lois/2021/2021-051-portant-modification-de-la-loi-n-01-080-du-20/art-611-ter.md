@@ -1,0 +1,4 @@
+# Article 611 ter
+L’ordonnance par laquelle le juge d’instruction se dessaisit est transmise, sous huitaine, avec le dossier de la procédure, au Procureur de la République qui transmet le tout au Procureur de la République financier dans le même délai.
+Dans les cas prévus à l’alinéa précédent et à l’article 612, le mandat de dépôt ou d’arrêt conserve sa force exécutoire.
+Toute ordonnance rendue, par laquelle, un juge d’instruction statue sur son dessaisissement ou sur sa compétence, peut, à l’exclusion de toute autre voie de recours, être déférée dans les cinq (05) jours de sa notification, à la requête du Ministère public ou des parties, au président de la chambre d’Accusation qui désigne, dans les huit (08) jours suivant la date de réception du dossier, la juridiction chargée de poursuivre l’information.
