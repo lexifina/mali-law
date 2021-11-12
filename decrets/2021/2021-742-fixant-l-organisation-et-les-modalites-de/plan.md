@@ -1,0 +1,12 @@
+# Plan
+TITRE I : DISPOSITIONS GENERALES (Article 1er)
+TITRE II : DES ORGANES D’ADMINISTRATION ET DE GESTION (Article 3)
+CHAPITRE I : DU CONSEIL D’ADMINISTRATION (Article 3)
+SECTION I : DE LA COMPOSITION (Article 3)
+SECTION II : DU FONCTIONNEMENT (Article 5)
+CHAPITRE II : DE LA DIRECTION (Article 7)
+CHAPITRE III : DU CONSEIL PEDAGOGIQUE, CULTUREL ET SCIENTIFIQUE (Article 9)
+Section 1 : De la composition (Article 9)
+Section 2 : Du mode de désignation des membres (Article 10)
+Section 3 : Du fonctionnement (Article 11)
+TITRE III : DISPOSITION FINALES (Article 13)
