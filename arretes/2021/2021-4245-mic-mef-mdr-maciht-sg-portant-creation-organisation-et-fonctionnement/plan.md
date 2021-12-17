@@ -1,0 +1,7 @@
+# Plan
+CHAPITRE I : CREATION, DEFINITIONS ET ATTRIBUTIONS (Article 1er)
+CHAPITRE II : DE L’ORGANISATION ET DU FONCTIONNEMENT (Article 4)
+SECTION 1 : Du Comité d’Orientation (Article 5)
+SECTION II : Des Points Focaux Sectoriel (Article 9)
+SECTION III : Du Secrétariat Permanent (Article 11)
+CHAPITRE III : DISPOSITIONS DIVERSES ET FINALES (Article 13)
