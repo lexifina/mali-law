@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée, la ratification de l’Accord du deuxième financement additionnel, d’un montant de 22 millions 2 cent mille (22 200 000) Euros, soit 14 milliards 562 millions 245 mille 400 cents (14 562 245 400) francs CFA, signé à Bamako, le 1er octobre 2021, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA), au Projet d’intervention d’urgence MALI COVID-19 et amendement à l’Accord de financement initial.
