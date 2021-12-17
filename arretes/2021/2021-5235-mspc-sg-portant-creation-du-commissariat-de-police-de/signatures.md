@@ -1,0 +1,7 @@
+# Signatures
+
+Bamako, le 10 décembre 2021
+Le ministre, Colonel-major Daoud Aly MOHAMMEDINE
+MINISTERE DE L’ADMINISTRATION
+TERRITORIALE ET DE LA
+DECENTRALISATION
