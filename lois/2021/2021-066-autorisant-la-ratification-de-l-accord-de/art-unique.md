@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée, la ratification de l’Accord de financement d’un montant de 24 millions 800 mille (24 800 000) Euros, soit 16 milliards 267 millions 733 mille 6 cents Francs CFA (16 267 733 600) Francs CFA, signé à Bamako, le 21 septembre 2021, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA), relatif au Projet Régional d’Appui au Pastoralisme au Sahel (PRAPS II).
