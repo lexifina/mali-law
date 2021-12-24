@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée, la ratification de l’Accord de financement, d’un montant de quarante-un millions quatre cent mille (41 400 000) Euros, soit vingt-sept milliards cent cinquante-six millions six cent dix-neuf mille huit cent (27 156 619 800) francs CFA, signé à Bamako, le 1er octobre 2021, entre le Gouvernement de la République du Mali et l’Association internationale de Développement (IDA), relatif au Projet communautaire de relèvement et de stabilisation du Sahel.
