@@ -1,0 +1,6 @@
+# Signatures
+
+Bamako, le 06 décembre 2021
+Le ministre, Modibo KONE
+MINISTERE DE L’ENSEIGNEMENT SUPERIEUR
+ET DE LA RECHERCHE SCIENTIFIQUE
