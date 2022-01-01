@@ -1,0 +1,7 @@
+# Signatures
+
+Bamako, le 02 mars 2022
+Le ministre, Alousséni SANOU
+MINISTERE DE L’ADMINISTRATION
+TERRITORIALE ET DE LA
+DECENTRALISATION
