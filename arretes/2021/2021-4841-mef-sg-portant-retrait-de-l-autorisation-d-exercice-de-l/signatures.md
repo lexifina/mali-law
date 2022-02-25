@@ -1,0 +1,7 @@
+# Signatures
+
+Bamako, le 23 novembre 2021
+Le ministre, Alousséni SANOU
+MINISTERE DE L’ADMINISTRATION
+TERRITORIALE ET DE LA
+DECENTRALISATION
