@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DES DEFINITIONS (Article 5)
+CHAPITRE III : DES ETABLISSEMENTS (Article 6)
+CHAPITRE IV : DU PRELEVEMENT DU SANG HUMAIN ET SES DERIVES (Article 7)
+Section 1 : Du critère de qualification des donneurs de sang et des modalités de prélèvement (Article 7)
+Section 2 : Des modalités de transport, de stockage et de délivrance (Article 20)
+Section 3 : De la publicité (Article 21)
+CHAPITRE V : DU CONTROLE ET DES SANCTIONS (Article 22)
+CHAPITRE VI : DISPOSITION FINALE (Article 27)
