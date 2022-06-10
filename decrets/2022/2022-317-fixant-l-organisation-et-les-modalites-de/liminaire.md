@@ -1,0 +1,2 @@
+# Texte liminaire
+Article 1er Le présent décret fixe l’organisation et les modalités de fonctionnement de la Maison du Hadj.
