@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée, l’Ordonnance n° 2022-006/ PT-RM du 22 février 2022 autorisant la ratification de l’Accord de financement supplémentaire, signé à Bamako, le 1er octobre 2021, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA), concernant le projet de mobilité et de connectivité rurales et modification de l’Accord de financement initial.
