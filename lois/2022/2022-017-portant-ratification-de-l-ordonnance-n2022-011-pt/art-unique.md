@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée, l’Ordonnance n° 2022-011/ PT-RM du 17 mars 2022 autorisant la ratification de l’Accord de financement, signé à Bamako le 28 décembre 2021, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA), relatif au Programme de Résilience du Système alimentaire en Afrique de l’Ouest, Phase I, dans le cadre de l’approche programmatique multi-phase.
