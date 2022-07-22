@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée la ratification de l’accord de prêt d’un montant équivalent à dix Millions de Dinars koweitiens (10 000 000) KD, soit dix-neuf milliards huit cent quarante-trois millions cinq cent soixante-seize mille cent soixante-dix (19 843 576 170) Francs CFA environ, signé à Koweït City, le 31 mars 2022, entre le Gouvernement de la République du Mali et le Fonds koweitien pour le Développement économique arabe (FKDEA), relatif au Projet routier Sévaré-Gao, (Section Boré-Douentza).
