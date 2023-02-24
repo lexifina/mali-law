@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DE L’ORGANISATION (Article 3)
+Section 1 : De la Direction (Article 3)
+Section 2 : Des structures (Article 6)
+Paragraphe 1 : De la Direction générale (Article 6)
+Paragraphe 2 : Des services déconcentrés (Article 41)
+CHAPITRE III : DU FONCTIONNEMENT (Article 42)
+Section 1 : De l’élaboration de la politique du service (Article 42)
+Section 2 : De la coordination et du contrôle de la mise en œuvre (Article 44)
+CHAPITRE IV : DISPOSITIONS FINALES (Article 45)
