@@ -1,0 +1,13 @@
+# Visas
+LE PRESIDENT DE LA TRANSITION, CHEF DE L’ETAT,
+Vu la Constitution ;
+Vu la Charte de la Transition ;
+Vu la Loi n°2022-001 du 25 février 2022 portant révision de la Charte de la Transition ;
+Vu la Loi n°04-051 du 23 novembre 2004 portant organisation générale de la Défense nationale ;
+Vu la Loi n°04-052 du 23 novembre 2004 portant création de l’Etat-major général des Armées ;
+Vu la Loi n°2022-037 du 27 octobre 2022 portant militarisation de la Police nationale et de la Protection civile ;
+Vu le Décret n°2021-0361/PT-RM du 07 juin 2021 portant nomination du Premier ministre ;
+Vu le Décret n°2022-0752/PT-RM du 04 décembre 2022 portant nomination d’un ministre d’Etat ;
+Vu le Décret n°2021-0385/PT-RM du 11 juin 2021, modifié, portant nomination des membres du Gouvernement,
+STATUANT EN CONSEIL DES MINISTRES,
+DECRETE :
