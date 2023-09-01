@@ -1,6 +1,6 @@
-# Ordonnance n°2019-022/P-RM du 27 septembre 2019 portant code minier en République du Mali
+# Loi n°2023-040 du 29 août 2023 portant Code minier en République du Mali
 
-- Source : Journal officiel n°2019-36 du 30 octobre 2019, <https://sgg-mali.ml/JO/2019/mali-jo-2019-36.pdf>
-- Signé / promulgué : 2019-09-27
-- En vigueur : 2019-10-30 (publication au Journal officiel n°2019-36 du 30 octobre 2019 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
-- Unités : 209 articles
+- Source : Journal officiel n°2023-22 du 1er septembre 2023, <https://sgg-mali.ml/JO/2023/mali-jo-2023-22.pdf>
+- Signé / promulgué : 2023-08-29
+- En vigueur : 2023-09-01 (publication au Journal officiel n°2023-22 du 1er septembre 2023 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 220 articles
