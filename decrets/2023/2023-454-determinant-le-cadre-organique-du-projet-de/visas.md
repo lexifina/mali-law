@@ -1,0 +1,17 @@
+# Visas
+LE PRESIDENT DE LA TRANSITION, CHEF DE L’ETAT
+Vu la Constitution ;
+Vu la Charte de la Transition ;
+Vu la Loi n°2022-001 du 25 février 2022 portant révision de la Charte de Transition ;
+Vu la Loi n°2014-049 du 19 septembre 2014 portant principes fondamentaux de la création, de l’organisation et du contrôle des services publics ;
+Vu l’Ordonnance n°2017-031/P-RM du 07 septembre 2017 autorisant la ratification de l’Accord de Prêt, de l’Accord d’Istisna’a, de l’Accord des Services Ijara et de l’Accord de Vente à Tempérament signés à Djeddah (Arabie-saoudite) entre le Gouvernement de la République du Mali et la Banque islamique de Développement (BID) pour le financement du Projet de Développement durable des Exploitations pastorales au Sahel malien ;
+Vu l’Ordonnance n°2023-023/PT-RM du 17 août 2023 portant création du Projet de Développement durable des Exploitations pastorales au Sahel Mali (PDDEPS Mali) ;
+Vu le Décret n°2017-0778/P-RM du 07 septembre 2017 portant ratification de l’Accord de Prêt, de l’Accord d’Istina’a, de l’Accord de services Ijara et de l’Accord de Vente à Tempérament signés à Djeddah (Arabie-saoudite), entre le Gouvernement de la République du Mali et la Banque Islamique de Développement (BID) pour le financement du Projet de Développement durable des Exploitations pastorales au Sahel Mali (PDDEPS- Mali) ;
+Vu le Décret n°179/PG-RM du 23 juillet 1985 fixant les conditions et les procédures d’élaboration et de gestion des cadres organiques ;
+Vu le Décret n°204/PG-RM du 21 août 1985 déterminant les modalités de gestion et de contrôle des structures des services publics ;
+Vu le Décret n°2023-0450/PT-RM du 21 août 2023 fixant l’organisation et les modalités de fonctionnement du Projet de Développement durable des Exploitations pastorales au Sahel Mali (PDDEPS Mali) ;
+Vu le Décret n°2021-0361/PT-RM du 07 juin 2021 portant nomination du Premier ministre ;
+Vu le Décret n°2022-0752/PT-RM du 04 décembre 2022 portant nomination du ministre d’Etat ;
+Vu le Décret n°2021-0385/PT-RM du 11 juin 2021, modifié, portant nomination des membres du Gouvernement,
+STATUANT EN CONSEIL DES MINISTRES,
+DECRETE :
