@@ -1,0 +1,5 @@
+# Loi n°2023-050 du 5 octobre 2023 autorisant la ratification de l’Accord de financement, signé à Rome (Italie), le 16 février 2023, entre le Gouvernement de la République du Mali et le Fonds international de Développement agricole (FIDA), relatif au deuxième Projet de Formation professionnelle, Insertion et Appui à l’Entrepreneuriat des Jeunes ruraux- FIER II
+
+Le Conseil national de Transition a délibéré et adopté en sa séance du 29 mai 2023,
+Le Président de la Transition, Chef de l’Etat, promulgue la loi dont la teneur suit :
+Article Unique : Est autorisée, la ratification de l’Accord de financement d’un montant de 30 millions 932 mille (30 932 000) Euros, soit 20 milliards 290 millions 61 mille 924 (20 290 061 924) francs CFA, pour le prêt A et d’un montant de 7 millions 733 mille (7 733 000) Euros, soit 5 milliards 72 millions 515 mille 481 (5 072 515 481) francs CFA, pour le prêt B, signé à Rome (Italie), le 16 février 2023, entre le Gouvernement de la République du Mali et le Fonds international de Développement agricole (FIDA), relatif au deuxième Projet de Formation professionnelle, Insertion et Appui à l’Entrepreneuriat des Jeunes ruraux-FIER II.
