@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée, la ratification de l’Accord de financement, d’un montant de cent trente-huit millions cent mille (138 100 000) Euros, soit quatre-vingt-dix milliards cinq cent quatre-vingt-sept millions six cent soixante un mille sept cents (90 587 661 700) FCFA, signé à Bamako, le 07 juin 2023, entre le Gouvernement de la République du Mali et l’Association Internationale de Développement (IDA), pour le financement du Projet de Restauration des Terres dégradées au Mali.
