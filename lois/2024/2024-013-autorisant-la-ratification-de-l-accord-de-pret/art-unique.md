@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée, la ratification de l’Accord de prêt, d’un montant de 14 milliards 780 millions (14 780 000 000) de francs CFA, signé à Lomé, le 06 octobre 2023, entre le Gouvernement de la République du Mali et la Banque ouest africaine de Développement (BOAD), pour le financement partiel de la seconde tranche du Projet d’aménagement et d’élargissement du tronçon urbain de la Route nationale N°27 (Bamako – Koulikoro) à Bamako.
