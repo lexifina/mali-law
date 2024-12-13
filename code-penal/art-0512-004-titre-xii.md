@@ -1,0 +1,4 @@
+# Article 512-4 (Titre XII)
+Est puni d’un emprisonnement de trois mois et d’une amende de 2 000 000 de francs :
+1°) toute personne autre que les titulaires de titres miniers et les détenteurs d’autorisation d’ouverture de carrière artisanale ou d’exploitation de carrières industrielle, exécutant un sondage, un ouvrage souterrain, un travail de fouille, quel que soit l’objet, à l’exception des puits à usage domestique, dont la profondeur dépasse dix mètres, qui ne fait pas la déclaration soit à l’administration chargée des Mines, soit à la Collectivité territoriale de l’endroit où s’effectuent les travaux qui en informe l’administration chargée des Mines ;
+2°) toute personne qui ne fait pas la déclaration préalable à l’administration chargée des Mines avant tout levé géophysique, toute campagne de prospection géochimique ou d’études de minéraux lourds.

@@ -1,0 +1,2 @@
+# Article 512-7 (Titre I)
+Quiconque produit ou fabrique un ensemble de données numérisées par l’introduction, l’effacement ou la suppression frauduleuse de données informatisées stockées, traitées ou transmises par un système d’information, engendrant des données contrefaites, dans l’intention qu’elles soient prises en compte ou utilisées à des fins légales comme si elles étaient originales, est puni d’un emprisonnement de cinq ans et d’une amende de 60 000 000 de francs.
