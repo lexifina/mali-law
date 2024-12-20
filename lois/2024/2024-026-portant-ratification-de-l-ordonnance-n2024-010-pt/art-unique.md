@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée, l’Ordonnance n°2024-010/ PT-RM du 13 août 2024 autorisant la ratification des Accords de prêt et de Mandat, signés le 19 mars 2024, entre le Gouvernement de la République du Mali et la Banque islamique de Développement (BID), concernant le financement du Projet de Renforcement de la Sécurité alimentaire à travers l’Irrigation de Proximité dans le Kaarta/Sefeto, Région de Kita.
