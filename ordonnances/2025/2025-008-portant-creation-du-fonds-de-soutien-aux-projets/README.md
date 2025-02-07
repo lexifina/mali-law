@@ -1,0 +1,6 @@
+# Ordonnance n°2025-008/PT-RM du 7 février 2025 portant création du Fonds de Soutien aux Projets d’Infrastructures de Base et de Développement social
+
+- Source : Journal officiel n°2025-03 du 7 février 2025, <https://sgg-mali.ml/JO/2025/mali-jo-2025-03.pdf>
+- Signé / promulgué : 2025-02-07
+- En vigueur : 2025-02-07 (publication au Journal officiel n°2025-03 du 7 février 2025 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 11 articles
