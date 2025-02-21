@@ -1,0 +1,6 @@
+# Décret n°2025-0077/PT-RM du 7 février 2025 fixant l’organisation et les modalités de gestion du Fonds de Soutien aux Projets d’Infrastructures de Base et de Développement social
+
+- Source : Journal officiel n°2025-05 du 21 février 2025, <https://sgg-mali.ml/JO/2025/mali-jo-2025-05.pdf>
+- Signé / promulgué : 2025-02-07
+- En vigueur : 2025-02-21 (publication au Journal officiel n°2025-05 du 21 février 2025 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
+- Unités : 14 articles
