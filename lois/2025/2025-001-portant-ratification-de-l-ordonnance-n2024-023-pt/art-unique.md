@@ -1,0 +1,2 @@
+# Article unique
+Est ratifiée, l’Ordonnance n°2024-023/ PT-RM du 31 décembre 2024 autorisant la ratification de l’Accord de prêt, signé à Lomé (Togo), le 30 août 2024, entre le Gouvernement de la République du Mali et la Banque Ouest africaine de Développement (BOAD), pour le financement partiel de la Phase 2 du Programme de Développement de l’Irrigation dans le Bassin du Bani et à Sélingué (PDI-BS) dans le Moyen Bani.
