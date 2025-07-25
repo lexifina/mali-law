@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée, la ratification de l’Accord de prêt, d’un montant de 30 milliards (30 000 000 000) de francs CFA, signé à Lomé, le 10 mars 2025, entre le Gouvernement de la République du Mali et la Banque Ouest africaine de Développement (BOAD), pour le financement partiel du Projet de Construction du Tronçon Nord de la Boucle Nord 225 Kv, autour de Bamako et des postes électriques.
