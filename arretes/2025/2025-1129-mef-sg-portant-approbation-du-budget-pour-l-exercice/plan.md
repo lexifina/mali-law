@@ -1,0 +1,11 @@
+# Plan
+SECTION 1- FONCTIONNEMENT (Article 2)
+Catégorie d’opération.............…. Montant (FCFA) (Article 2)
+RECETTES - Subvention de l’’Etat.........................590 424 000 FCFA - Ressources propres............................166 224 000 FCFA TOTAL DES RECETTES…………756 648 000 FCFA (Article 2)
+DÉPENSES - Personnel ……………………......…367 694 000 FCFA - Acquisition de biens et services……388 954 000 FCFA TOTAL DES DEPENSES…...............756 648 000 FCFA (Article 2)
+SECTION 2 -INVESTISSEMENT (Article 2)
+Catégorie d’opération……………. Montant (FCFA) (Article 2)
+RECETTES - Ressources propres………...………139 576 000 FCFA - Subvention de l’Etat..................……300 000 000 FCFA (Article 2)
+TOTAL DES RECETTES 439 576 000 FCFA (Article 2)
+DEPENSES Investissement …..............................439 576 000 FCFA (Article 2)
+TOTAL DES DEPENSES 439 576 000 FCFA (Article 2)
