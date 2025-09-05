@@ -1,0 +1,10 @@
+# Plan
+SECTION 1 – FONCTIONNEMENT (Article 2)
+Catégorie d’opération Montant (FCFA) RECETTES Subvention d’Etat 188 286 000 TOTAL DES RECETTES 188 286 000 DEPENSES Personnel 75 286 000 Autres dépenses de fonctionnement 113 000 000 TOTAL DES DEPENSES 188 286 000 (Article 2)
+SECTION 2 – INVESTISSEMENT (Article 2)
+Catégorie d’opération Montant (FCFA) (Article 2)
+RECETTES (Article 2)
+Subvention d’Etat 550 000 000 (Article 2)
+TOTAL DES RECETTES 550 000 000 DEPENSES (Article 2)
+Investissement 550 000 000 (Article 2)
+TOTAL DES DEPENSES 550 000 000 (Article 2)
