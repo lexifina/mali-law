@@ -1,0 +1,4 @@
+# Article 8 (Titre None)
+Le fonctionnaire peut exceptionnellement changer de Corps pour des raisons de santé dûment constatées par l’autorité médicale ou pour des nécessités de service. Le changement de Corps s’effectue par le transfert de l’intéressé dans un autre Corps relevant du champ d’application du présent Statut général.
+Le changement de Corps pour des nécessités de service ne peut s’effectuer que s’il est établi que l’intéressé répondait aux conditions de formation requises pour l’accès au nouveau Corps au moment de son recrutement dans la Fonction publique et qu’il est professionnel-le-ment apte à remplir les fonctions afférentes à ce Corps.
+Le changement de Corps est prononcé à concordance de grade et d’échelon. Le fonctionnaire transféré par changement de Corps conserve, en outre le bénéfice de l’ancienneté acquise dans son Corps d’origine.
