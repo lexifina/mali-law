@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée, la ratification des Accords de Prêt d’un montant de trente-quatre milliards deux-cent quatre-vingt-six millions six-cent cinq mille cinq-cents (34 286 605 500) francs CFA, signés à Bamako, le 25 février 2026, entre le Gouvernement de la République du Mali et la Banque africaine de Développement (BAD), pour le financement partiel du Projet de la Boucle Nord 225 kV autour de Bamako (PBNB).
