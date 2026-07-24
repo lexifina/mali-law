@@ -1,0 +1,2 @@
+# Article unique
+Est autorisée, la ratification de l’Accord, entre le Gouvernement du Burkina Faso, le Gouvernement de la République du Mali et le Gouvernement de la République du Niger, relatif à la création de la Télévision de la Confédération des Etats du Sahel, dénommée « TAFOUK TV », signé à Bamako (Mali), le 21 décembre 2025.
