@@ -1,0 +1,11 @@
+# Plan
+CHAPITRE I : DISPOSITIONS GENERALES (Article 1er)
+CHAPITRE II : DU CONSEIL D’ADMINISTRATION (Article 3)
+Section 1 : Des attributions (Article 3)
+Section 2 : De la composition et du fonctionnement (Article 4)
+CHAPITRE III : DE LA DIRECTION GENERALE (Article 10)
+CHAPITRE IV : DU COMITE DE GESTION (Article 13)
+Section 1 : Des attributions (Article 13)
+Section 2 : De la composition et du fonctionnement (Article 15)
+CHAPITRE V : DE LA TUTELLE (Article 20)
+CHAPITRE VI : DISPOSITIONS DIVERSES ET FINALES (Article 21)
