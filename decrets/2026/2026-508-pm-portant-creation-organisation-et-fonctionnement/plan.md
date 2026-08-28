@@ -1,0 +1,10 @@
+# Plan
+CHAPITRE I : DU COMITE DE PILOTAGE DU CADRE INTEGRE DU COMMERCE ET DE L’AIDE POUR LE COMMERCE (Article 2)
+Section 1 : Des missions du Comité de pilotage du Cadre Intégré du Commerce et de l’Aide pour le Commerce (Article 2)
+Section 2 : Des membres du Comité de pilotage du Cadre Intégré du Commerce et de l’Aide pour le Commerce. (Article 3)
+CHAPITRE II : DES ORGANES DE MISE EN ŒUVRE DU CADRE INTEGRE DU COMMERCE ET DE L’AIDE POUR LE COMMERCE (Article 7)
+Les organes de mise en œuvre du Cadre Intégré du Commerce et de l’Aide pour le Commerce sont le Point Focal national et l’Unité de Mise en Œuvre du Cadre Intégré (UMOCI). (Article 7)
+Section 1 : Des missions du Point Focal national (Article 8)
+Section 2 : Des missions de l’Unité de Mise en Œuvre du Cadre Intégré (UMOCI) (Article 10)
+Section 3 : Du Coordinateur et du Personnel de l’Unité de Mise en Œuvre du Cadre Intégré (UMOCI) (Article 11)
+CHAPITRE III : DISPOSITIONS FINALES (Article 15)
