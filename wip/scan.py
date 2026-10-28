@@ -27,7 +27,11 @@ def main(pat: str, lo: str = '0000', hi: str = '9999') -> None:
     for r in sorted(jo_index(), key=lambda r: r['date']):
         if not lo <= r['date'] <= hi or not fetch.cache_path(r['url']).exists():
             continue
-        t = jo_text(r['url'])
+        try:
+            t = jo_text(r['url'])
+        except Exception as e:  # noqa: BLE001
+            print(r['date'], r['url'], 'UNREADABLE', type(e).__name__)
+            continue
         if len(t.strip()) < 200:
             print(r['date'], r['url'], 'SCAN (no text layer)')
             continue
