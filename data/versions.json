@@ -1,0 +1,53 @@
+{
+ "country": "ML",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution de la République du Mali (2023)",
+   "url": "https://sgg-mali.ml/JO/2023/mali-jo-2023-13-sp-3.pdf",
+   "versions": [
+    {
+     "from": "2023-07-22",
+     "units": 193,
+     "source_url": "https://sgg-mali.ml/JO/2023/mali-jo-2023-13-sp-3.pdf",
+     "sha256": "868623f571d0fae8a7414b0338092f0be93344044c18f6621a1b59891aa2eaa3"
+    }
+   ]
+  },
+  {
+   "slug": "donnees-personnelles",
+   "short": "Loi 2013-015",
+   "title": "Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère personnel en République du Mali",
+   "url": "https://sgg-mali.ml/JO/2013/mali-jo-2013-26.pdf",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 70,
+     "source_url": "https://sgg-mali.ml/JO/2013/mali-jo-2013-26.pdf",
+     "sha256": "b0c43fe4855f087c404b207b6bcdbbe25c2b69cc8a99c62994d88db603e6d7f4"
+    },
+    {
+     "from": "2017-12-29",
+     "units": 70,
+     "source_url": "https://sgg-mali.ml/JO/2017/mali-jo-2017-53.pdf",
+     "sha256": "7b6ea682f7c50a942d67de939c9c2d96a1605d192f4b4755a48a0fe198e86735"
+    }
+   ]
+  },
+  {
+   "slug": "code-penal",
+   "short": "Code pénal",
+   "title": "Code pénal (Loi n°2024-027 du 13 décembre 2024)",
+   "url": "https://sgg-mali.ml/JO/2024/mali-jo-2024-21-sp.pdf",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1126,
+     "source_url": "https://sgg-mali.ml/JO/2024/mali-jo-2024-21-sp.pdf",
+     "sha256": "b25a92d5ece1629ba46c96bd9c5182967a91b3ef63b34ba65fb131e06b20b12c"
+    }
+   ]
+  }
+ ]
+}
