@@ -1,0 +1,11 @@
+{
+  "path": "ml",
+  "code": "ML",
+  "name": "Mali",
+  "level": "country",
+  "repo": "https://github.com/lexifina/mali-law",
+  "build": "built from the Journal officiel: Constitution 2023 (1 version, 2023-07-22); Loi n°2013-015 on personal data (2 versions, 2013-06-28 and 2017-12-29); Code pénal 2024 (1 version, 2024-12-13); all today's text",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 1
+}
