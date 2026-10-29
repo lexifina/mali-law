@@ -115,12 +115,15 @@ def paragraphs(data: bytes) -> list[str]:
         if prev is not None:
             prev_full = prev['x1'] >= prev['edge'] - 12
             prev_t = paras[-1][-1]
+            # An article ("Article N :"), a structural heading or a bracketed line always opens a paragraph, in the
+            # same block or across blocks (a full-width heading line is otherwise read as running on).
+            starts = bool(ART_LINE.match(t)) or bool(HEAD_LINE.match(t)) or t.startswith('[')
             if ln['block'] == prev['block']:
-                new = (not prev_full and prev_t.endswith(TERMINAL)) or bool(ART_LINE.match(t)) or bool(
-                    HEAD_LINE.match(t)) or bool(HEAD_LINE.match(' '.join(paras[-1])) and not prev_full)
+                new = (not prev_full and prev_t.endswith(TERMINAL)) or starts or bool(
+                    HEAD_LINE.match(' '.join(paras[-1])) and not prev_full)
             else:
-                new = not (prev_full and not prev_t.endswith(TERMINAL)) and not (
-                    t[:1].islower() and not prev_t.endswith(('.', ':', '!', '?', '»')))
+                new = starts or (not (prev_full and not prev_t.endswith(TERMINAL)) and not (
+                    t[:1].islower() and not prev_t.endswith(('.', ':', '!', '?', '»'))))
             if paras[-1] == ['-'] or paras[-1] == ['•'] or paras[-1] == ['–']:
                 new = False
         if new:
