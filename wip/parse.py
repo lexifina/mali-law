@@ -159,7 +159,7 @@ def between(paras: list[str], start: str, end: str, after: str | None = None) ->
 # paragraphs to units
 
 ART_RX = re.compile(r'^(?:Article|ARTICLE)\s*(\d+)(?:\s*-\s*(\d+))?\s*(er|ER|ème)?\s*(bis|ter|quater)?\s*:\s*(.*)$')
-HEAD_RX = re.compile(r'^(LIVRE|TITRE|CHAPITRE|Chapitre|SECTION|Section|SOUS-SECTION|Sous-section|Paragraphe|'
+HEAD_RX = re.compile(r'^(LIVRE|TITRE|CHAPITRE|Chapitre|SECTION|Section|SOUS-SECTION|Sous-section|Sous[- ]paragraphe|Paragraphe|'
                      r'PARAGRAPHE)\b')
 
 
