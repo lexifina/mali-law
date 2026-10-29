@@ -1,0 +1,1467 @@
+{
+ "country": {
+  "code": "ML",
+  "name": "Mali",
+  "slug": "mali",
+  "lang": "fr",
+  "tz": "Africa/Bamako",
+  "future_branch": "futur",
+  "publisher": {
+   "name": "Secrétariat général du Gouvernement (Journal officiel de la République du Mali)",
+   "email": "sgg@sgg-mali.ml.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Constitution du 22 juillet 2023, art. 116: « Les lois et les règlements sont publiés au Journal officiel. » No general delay is set; a law without its own commencement clause is dated from its Journal officiel issue.",
+   "source": "https://sgg-mali.ml/JO/2023/mali-jo-2023-13-sp-3.pdf"
+  },
+  "licence_note": "Texte officiel : Journal officiel de la République du Mali, Secrétariat général du Gouvernement (sgg-mali.ml). Official legal texts; the site states no licence."
+ },
+ "sources": [
+  {
+   "name": "Journal officiel de la République du Mali (Secrétariat général du Gouvernement)",
+   "url": "https://sgg-mali.ml/fr/journal-officiel/le-journal-officiel.html",
+   "retrieved": "2026-10-28",
+   "requests": 809,
+   "licence": "Official legal texts published by the Government of Mali; sgg-mali.ml states no licence and its robots.txt disallows nothing.",
+   "notes": "Issues used: JO spécial n°13 (22 July 2023), JO n°20 (4 August 2023, check only), JO spécial n°21 (13 December 2024), JO n°26 (28 June 2013), JO n°53 (29 December 2017); the Codes en vigueur copy codes/codepenal.pdf (check only). Every other issue fetched was read only to search for amendments (scan.py)."
+  }
+ ],
+ "laws": {
+  "constitution-2023": {
+   "label": "Constitution du 22 juillet 2023",
+   "title": "Constitution de la République du Mali, adoptée par le référendum du 18 juin 2023 et promulguée par le Décret n°2023-0401/PT-RM du 22 juillet 2023",
+   "kind": "referendum",
+   "enacted": "2023-07-22",
+   "published": "2023-07-22",
+   "url": "https://sgg-mali.ml/JO/2023/mali-jo-2023-13-sp-3.pdf",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "loi-2013-015": {
+   "label": "Loi n°2013-015",
+   "title": "Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère personnel en République du Mali",
+   "kind": "law",
+   "enacted": "2013-05-21",
+   "published": "2013-06-28",
+   "url": "https://sgg-mali.ml/JO/2013/mali-jo-2013-26.pdf",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "loi-2017-070": {
+   "label": "Loi n°2017-070",
+   "title": "Loi n°2017-070 du 18 décembre 2017 portant modification de la Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère personnel en République du Mali",
+   "kind": "law",
+   "enacted": "2017-12-18",
+   "published": "2017-12-29",
+   "url": "https://sgg-mali.ml/JO/2017/mali-jo-2017-53.pdf",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution de la République du Mali (2023)",
+   "url": "https://sgg-mali.ml/JO/2023/mali-jo-2023-13-sp-3.pdf",
+   "first_law": "constitution-2023",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-22",
+     "source_url": "https://sgg-mali.ml/JO/2023/mali-jo-2023-13-sp-3.pdf",
+     "sha256": "868623f571d0fae8a7414b0338092f0be93344044c18f6621a1b59891aa2eaa3",
+     "units": {
+      "preambule": {
+       "label": "Préambule",
+       "kind": "other",
+       "text": "# Préambule\nLe Peuple souverain du Mali,\nRiche de sa diversité culturelle, linguistique et religieuse ;\nFier de son histoire millénaire et de ses ancêtres ;\nHéritier de grands empires et royaumes bâtis sur des valeurs socioculturelles endogènes devant inspirer les générations présentes et futures ;\nFidèle aux idéaux des martyrs du colonialisme, des pères de l’indépendance et de tous ceux qui sont tombés au champ d’honneur pour la défense de la Patrie, l’avènement d’un Etat de droit, de démocratie pluraliste et pour une bonne gouvernance ;\nConsidérant la crise multidimensionnelle récurrente qui affecte l’Etat et la société ;\nConsidérant que la corruption et l’enrichissement illicite compromettent les efforts de développement du pays ;\nConvaincu de la nécessité de promouvoir le vivre-ensemble et la réconciliation nationale dans le respect des identités et de la diversité culturelle ;\nSoucieux de garantir la défense et la sécurité indispensables à l’existence d’un Etat souverain ;\nRésolu à valoriser le patrimoine culturel, matériel et immatériel et à préserver les ressources naturelles du territoire pour les générations présentes et futures ;\nDécidé à promouvoir le bien-être social ;\nAffirme sa volonté de renforcer les acquis démocratiques de la révolution du 26 mars 1991 et de promouvoir les idéaux de la refondation portés par le Peuple malien ;\nS’engage à défendre la souveraineté, l’unité nationale et l’intégrité du territoire ;\nRéaffirme son attachement à la forme républicaine et à la laïcité de l’Etat ;\nS’engage à entreprendre toutes actions nécessaires pour lutter contre la corruption et l’enrichissement illicite et promouvoir la bonne gouvernance ;\nS’engage à assurer l’amélioration de la qualité de la vie et la protection de l’environnement ;\nSouscrit à la Déclaration universelle des Droits de l’Homme du 10 décembre 1948 et à la Charte africaine des Droits de l’Homme et des Peuples du 27 juin 1981 ;\nS’engage à garantir le respect des droits humains, en particulier ceux de la femme, de l’enfant et de la personne vivant avec un handicap, consacrés par les traités et accords sous-régionaux, régionaux et internationaux signés et ratifiés par le Mali ;\nS’engage à lutter contre toutes les formes de violences ;\nRéaffirme son attachement à la réalisation de l’unité africaine, à la promotion de la paix, de la coopération sous-régionale, régionale et internationale, au règlement pacifique des différends entre Etats dans le respect de la justice, de l’égalité, de la liberté et de la souveraineté des peuples.\nTITRE I : DES DROITS ET DES DEVOIRS\nCHAPITRE I : DES DROITS ET DES LIBERTES\n"
+      },
+      "plan": {
+       "label": "Plan",
+       "kind": "other",
+       "text": "# Plan\nPREAMBULE (Article 1er)\n"
+      },
+      "art-001": {
+       "label": "Article 1er",
+       "kind": "art",
+       "text": "# Article 1er\nTous les Maliens naissent et demeurent libres et égaux en droits et en devoirs. Toute discrimination fondée sur l’origine sociale, la région, la couleur, la langue, la race, l’ethnie, le sexe, la religion ou l’opinion politique est prohibée.\n"
+      },
+      "art-002": {
+       "label": "Article 2",
+       "kind": "art",
+       "text": "# Article 2\nLa personne humaine est sacrée et inviolable. Tout individu a droit à la vie, à la liberté, à la sécurité et à l’intégrité de sa personne.\n"
+      },
+      "art-003": {
+       "label": "Article 3",
+       "kind": "art",
+       "text": "# Article 3\nL’Etat assure la protection de l’enfant contre le trafic de personnes et les infractions assimilées et contre l’enrôlement dans les groupes extrémistes violents.\n"
+      },
+      "art-004": {
+       "label": "Article 4",
+       "kind": "art",
+       "text": "# Article 4\nNul ne peut être soumis à la torture, à l’esclavage, aux traitements inhumains, cruels et dégradants.\nTout individu, tout agent de l’Etat qui se rend coupable de tels actes, soit de sa propre initiative, soit sur instruction, sera puni conformément à la loi.\n"
+      },
+      "art-005": {
+       "label": "Article 5",
+       "kind": "art",
+       "text": "# Article 5\nNul ne peut être contraint à l’exil.\nToute personne persécutée en raison de ses convictions politiques ou religieuses, de son appartenance ethnique, peut bénéficier du droit d’asile en République du Mali.\n"
+      },
+      "art-006": {
+       "label": "Article 6",
+       "kind": "art",
+       "text": "# Article 6\nToute personne faisant l’objet d’une mesure privative de liberté a le droit de se faire examiner par un médecin de son choix.\nNul ne peut être détenu pendant une durée supérieure à quarante-huit (48) heures que par décision motivée d’un magistrat de l’ordre judiciaire.\nNul ne peut être détenu dans un établissement pénitentiaire que sur mandat délivré par un magistrat de l’ordre judiciaire.\n"
+      },
+      "art-007": {
+       "label": "Article 7",
+       "kind": "art",
+       "text": "# Article 7\nToute personne a droit à un procès équitable et à un jugement rendu dans un délai raisonnable.\nLe droit à la défense, y compris celui de se faire assister par l’avocat de son choix, est garanti depuis l’enquête préliminaire.\nTout prévenu est présumé innocent jusqu’à ce que sa culpabilité soit établie par la juridiction compétente.\nLa peine est personnelle. Nul ne peut être poursuivi, arrêté ou inculpé qu’en vertu d’une loi promulguée antérieurement aux faits qui lui sont reprochés.\n"
+      },
+      "art-008": {
+       "label": "Article 8",
+       "kind": "art",
+       "text": "# Article 8\nTout ce qui n’est pas interdit par la loi ne peut être empêché et nul ne peut être contraint de faire ce qu’elle n’ordonne pas.\n"
+      },
+      "art-009": {
+       "label": "Article 9",
+       "kind": "art",
+       "text": "# Article 9\nLe mariage et la famille, qui constituent le fondement naturel de la vie en société, sont protégés et promus par l’Etat.\nLe mariage est l’union entre un homme et une femme.\n"
+      },
+      "art-010": {
+       "label": "Article 10",
+       "kind": "art",
+       "text": "# Article 10\nL’éducation, la formation, le travail, le logement, les loisirs, la santé, la protection sociale, l’alimentation et l’accès à l’eau constituent des droits reconnus.\n"
+      },
+      "art-011": {
+       "label": "Article 11",
+       "kind": "art",
+       "text": "# Article 11\nTout citoyen a droit à l’instruction. L’enseignement public est obligatoire, gratuit et laïc. L’enseignement privé est reconnu et s’exerce dans les conditions définies par la loi.\n"
+      },
+      "art-012": {
+       "label": "Article 12",
+       "kind": "art",
+       "text": "# Article 12\nLe domicile, le domaine privé, la vie privée et familiale, les données à caractère personnel, le secret de la correspondance et des communications sont inviolables. Il ne peut y être porté atteinte que dans les conditions prévues par la loi.\n"
+      },
+      "art-013": {
+       "label": "Article 13",
+       "kind": "art",
+       "text": "# Article 13\nLe droit de propriété est garanti. Nul ne peut être exproprié que pour cause d’utilité publique et contre une juste et préalable indemnisation.\n"
+      },
+      "art-014": {
+       "label": "Article 14",
+       "kind": "art",
+       "text": "# Article 14\nToute personne a droit à la liberté de pensée, de conscience, de religion, de culte, d’opinion et d’expression, dans le respect de la loi.\n"
+      },
+      "art-015": {
+       "label": "Article 15",
+       "kind": "art",
+       "text": "# Article 15\nLa liberté de presse et le droit d’accès à l’information sont reconnus et garantis. Ils s’exercent dans les conditions déterminées par la loi.\n"
+      },
+      "art-016": {
+       "label": "Article 16",
+       "kind": "art",
+       "text": "# Article 16\nLa liberté de création artistique et culturelle est reconnue et garantie. Elle s’exerce dans les conditions fixées par la loi.\n"
+      },
+      "art-017": {
+       "label": "Article 17",
+       "kind": "art",
+       "text": "# Article 17\nL’Etat reconnaît et garantit, dans les conditions fixées par la loi, la liberté d’aller et venir, le libre choix de la résidence, la liberté d’association, de réunion, de cortège et de manifestation.\n"
+      },
+      "art-018": {
+       "label": "Article 18",
+       "kind": "art",
+       "text": "# Article 18\nLe droit au travail et au repos est reconnu et est égal pour tous.\nNul ne peut être contraint à un travail déterminé que dans le cas de l’accomplissement d’un service exceptionnel d’intérêt général, égal pour tous, dans les conditions déterminées par la loi.\n"
+      },
+      "art-019": {
+       "label": "Article 19",
+       "kind": "art",
+       "text": "# Article 19\nLa liberté syndicale est garantie. Les syndicats exercent leurs activités sans contrainte et sans limites autres que celles prévues par la loi.\n"
+      },
+      "art-020": {
+       "label": "Article 20",
+       "kind": "art",
+       "text": "# Article 20\nLe droit de grève est garanti. Il s’exerce dans le cadre des lois et règlements en vigueur.\n"
+      },
+      "art-021": {
+       "label": "Article 21",
+       "kind": "art",
+       "text": "# Article 21\nLa liberté d’entreprise est garantie dans le cadre des lois et règlements en vigueur.\n"
+      },
+      "art-022": {
+       "label": "Article 22",
+       "kind": "art",
+       "text": "# Article 22\nToute personne a droit à un environnement sain et durable.\nCHAPITRE II : DES DEVOIRS\n"
+      },
+      "art-023": {
+       "label": "Article 23",
+       "kind": "art",
+       "text": "# Article 23\nTout citoyen, toute personne habitant le territoire malien a le devoir de respecter, en toutes circonstances, la Constitution.\n"
+      },
+      "art-024": {
+       "label": "Article 24",
+       "kind": "art",
+       "text": "# Article 24\nLa défense de la Patrie est un devoir pour tout citoyen.\nTous les citoyens âgés de 18 ans au moins peuvent être mobilisés aux côtés des Forces Armées et de Sécurité pour la défense de la Patrie.\n"
+      },
+      "art-025": {
+       "label": "Article 25",
+       "kind": "art",
+       "text": "# Article 25\nLa protection de l’environnement et la promotion de la qualité de la vie sont un devoir pour tout citoyen et pour l’Etat.\n"
+      },
+      "art-026": {
+       "label": "Article 26",
+       "kind": "art",
+       "text": "# Article 26\nEn cas de calamité constatée, tous les citoyens ont le devoir d’apporter leur concours dans les conditions définies par la loi.\n"
+      },
+      "art-027": {
+       "label": "Article 27",
+       "kind": "art",
+       "text": "# Article 27\nTout citoyen est tenu de remplir ses devoirs civiques, notamment de s’acquitter de ses obligations fiscales.\n"
+      },
+      "art-028": {
+       "label": "Article 28",
+       "kind": "art",
+       "text": "# Article 28\nTout citoyen a le devoir d’œuvrer pour le bien commun, de respecter et de protéger le bien public.\n"
+      },
+      "art-029": {
+       "label": "Article 29",
+       "kind": "art",
+       "text": "# Article 29\nTout citoyen investi d’un mandat public ou chargé d’un emploi public ou d’une mission de service public a le devoir de l’accomplir avec conscience, loyauté et probité.\nTITRE II : DE L’ETAT ET DE LA SOUVERAINETE CHAPITRE I : DE L’ETAT\n"
+      },
+      "art-030": {
+       "label": "Article 30",
+       "kind": "art",
+       "text": "# Article 30\nLe Mali est une République indépendante, souveraine, unitaire, indivisible, démocratique, laïque et sociale.\nSon principe est le gouvernement du Peuple, par le Peuple et pour le Peuple.\nLa capitale de la République du Mali est Bamako. Elle peut être transférée en tout autre lieu du territoire national par une loi.\nL’emblème national est le drapeau tricolore composé de trois (03) bandes verticales et égales de couleurs vert, or et rouge.\nLa devise de la République est : »Un Peuple - Un But - Une Foi ».\nL’hymne national est : « Le Mali « .\nLa loi détermine le sceau et les armoiries de la République et fixe les conditions et les modalités de leur utilisation.\nTout usage illégal et toute profanation des attributs de la République sont punis par la loi.\n"
+      },
+      "art-031": {
+       "label": "Article 31",
+       "kind": "art",
+       "text": "# Article 31\nLes langues nationales sont les langues officielles du Mali.\nUne loi organique détermine les conditions et les modalités de leur emploi.\nLe français est la langue de travail.\nL’Etat peut adopter toute autre langue comme langue de travail.\n"
+      },
+      "art-032": {
+       "label": "Article 32",
+       "kind": "art",
+       "text": "# Article 32\nLa laïcité ne s’oppose pas à la religion et aux croyances. Elle a pour objectif de promouvoir et de conforter le vivre-ensemble fondé sur la tolérance, le dialogue et la compréhension mutuelle.\nL’Etat garantit le respect de toutes les religions, des croyances, la liberté de conscience et le libre exercice des cultes dans le respect de la loi.\n"
+      },
+      "art-033": {
+       "label": "Article 33",
+       "kind": "art",
+       "text": "# Article 33\nLa République sociale repose sur les principes de solidarité, d’égalité, de justice, de protection et d’intégration. L’Etat prend les mesures nécessaires à l’effet d’assurer leur mise en œuvre.\n"
+      },
+      "art-034": {
+       "label": "Article 34",
+       "kind": "art",
+       "text": "# Article 34\nL’action publique est guidée par les principes fondés sur le respect de la souveraineté de l’Etat, les choix souverains du Peuple et la défense de ses intérêts.\n"
+      },
+      "art-035": {
+       "label": "Article 35",
+       "kind": "art",
+       "text": "# Article 35\nAucune autorité publique ne peut, sous peine de sanctions, user des pouvoirs qu’elle tient de la Constitution ou de la loi pour commettre un détournement de ressources ou de biens publics à son profit ou à celui des détenteurs du pouvoir, des membres de leurs familles, d’organismes, ou de toutes autres personnes par favoritisme, corruption, concussion, trafic d’influence ou autres moyens.\n"
+      },
+      "art-036": {
+       "label": "Article 36",
+       "kind": "art",
+       "text": "# Article 36\nLes institutions de la République sont :\n- le Président de la République ;\n- le Gouvernement ;\n- le Parlement ;\n- la Cour suprême ;\n- la Cour constitutionnelle ;\n- la Cour des Comptes ;\n- le Conseil économique, social, environnemental et culturel.\nCHAPITRE II : DE LA SOUVERAINETE\n"
+      },
+      "art-037": {
+       "label": "Article 37",
+       "kind": "art",
+       "text": "# Article 37\nLa souveraineté nationale appartient au Peuple qui l’exerce par ses représentants élus au suffrage universel direct ou indirect ou par voie de référendum.\nAucune fraction du Peuple ni aucun individu ne peut s’en attribuer l’exercice.\n"
+      },
+      "art-038": {
+       "label": "Article 38",
+       "kind": "art",
+       "text": "# Article 38\nLe suffrage est universel, égal et secret. Il peut être direct ou indirect.\nSont électeurs, dans les conditions déterminées par la loi, les citoyens maliens des deux sexes en âge de voter et jouissant de leurs droits civils et politiques.\n"
+      },
+      "art-039": {
+       "label": "Article 39",
+       "kind": "art",
+       "text": "# Article 39\nLes partis politiques concourent à l’expression du suffrage. Ils se forment et exercent librement leurs activités dans les conditions déterminées par la loi.\nIls doivent respecter les principes de la souveraineté nationale, de la démocratie, de l’intégrité du territoire national, de l’unité nationale et de la laïcité de l’Etat.\n"
+      },
+      "art-040": {
+       "label": "Article 40",
+       "kind": "art",
+       "text": "# Article 40\nLes organisations de la société civile exercent, dans le cadre de la démocratie participative, une mission de veille citoyenne dans les conditions déterminées par la loi.\n"
+      },
+      "art-041": {
+       "label": "Article 41",
+       "kind": "art",
+       "text": "# Article 41\nL’Etat exerce sa souveraineté sur l’ensemble du territoire national.\nL’Etat ne peut céder aucune parcelle du territoire national ni renoncer à aucun des droits souverains qu’il exerce sur celui-ci.\nToute atteinte à l’intégrité du territoire national est un crime contre la sûreté de l’Etat.\n"
+      },
+      "art-042": {
+       "label": "Article 42",
+       "kind": "art",
+       "text": "# Article 42\nL’Etat dispose du droit souverain sur les richesses et les ressources naturelles situées sur son territoire.\nL’exploitation de ces richesses et ressources naturelles doit être assurée dans le respect des règles de protection de l’environnement et dans l’intérêt des générations présentes et futures.\nTITRE III : DU POUVOIR EXECUTIF\nCHAPITRE I : DU PRESIDENT DE LA REPUBLIQUE Article 43 : Le Président de la République est le Chef de l’Etat. Il est le gardien de la Constitution. Il incarne l’unité nationale. Il est le garant de l’indépendance nationale, de l’intégrité du territoire, du respect des traités et accords internationaux. Il veille au fonctionnement régulier des pouvoirs publics et assure la continuité de l’Etat.\n"
+      },
+      "art-044": {
+       "label": "Article 44",
+       "kind": "art",
+       "text": "# Article 44\nLe Président de la République détermine la politique de la Nation.\n"
+      },
+      "art-045": {
+       "label": "Article 45",
+       "kind": "art",
+       "text": "# Article 45\nLe Président de la République est élu pour un mandat de cinq (05) ans, au suffrage universel direct. Il n’est rééligible qu’une seule fois.\nEn aucun cas, nul ne peut exercer plus de deux (02) mandats de Président de la République.\n"
+      },
+      "art-046": {
+       "label": "Article 46",
+       "kind": "art",
+       "text": "# Article 46\nTout candidat aux fonctions de Président de la République, doit être de nationalité malienne d’origine et ne posséder aucune autre nationalité, à la date de dépôt de la candidature.\nIl doit jouir de tous ses droits civils et politiques, être de bonne moralité et de grande probité.\nIl doit être âgé de trente-cinq (35) ans, au moins et de soixante-quinze (75) ans, au plus à la date de dépôt de la candidature et être apte à exercer la fonction.\n"
+      },
+      "art-047": {
+       "label": "Article 47",
+       "kind": "art",
+       "text": "# Article 47\nL’élection du nouveau Président de la République a lieu quarante-cinq (45) jours, au moins et soixante (60) jours, au plus avant l’expiration du mandat du Président en exercice.\n"
+      },
+      "art-048": {
+       "label": "Article 48",
+       "kind": "art",
+       "text": "# Article 48\nLe Président de la République est élu à la majorité absolue des suffrages exprimés.\nSi celle-ci n’est pas obtenue au premier tour, il est procédé à l’organisation d’un second tour le troisième dimanche qui suit la proclamation des résultats du premier tour par la Cour constitutionnelle.\nSi, dans les sept (07) jours qui précèdent la date du scrutin du premier tour, un des candidats décède ou se trouve empêché, la Cour constitutionnelle peut prononcer le report de l’élection sans que ce report puisse excéder quinze (15) jours.\nLe second tour est ouvert aux deux (02) candidats ayant réuni le plus grand nombre de suffrages au premier tour de scrutin.\nEst déclaré élu, le candidat qui a recueilli le plus grand nombre de voix.\nEn cas de décès, de désistement ou d’empêchement de l’un des deux (02) candidats qualifiés pour le second tour, le scrutin reste ouvert au candidat suivant dans l’ordre des suffrages exprimés.\nSi, entre les deux (02) tours, un des candidats décède ou est empêché, la Cour constitutionnelle peut prononcer le report de l’élection sans que ce report puisse excéder quinze (15) jours.\n"
+      },
+      "art-049": {
+       "label": "Article 49",
+       "kind": "art",
+       "text": "# Article 49\nLe contrôle de la régularité de l’élection du Président de la République est assuré par la Cour constitutionnelle qui statue sur les réclamations et proclame les résultats définitifs du scrutin.\n"
+      },
+      "art-050": {
+       "label": "Article 50",
+       "kind": "art",
+       "text": "# Article 50\nLa loi complète les dispositions relatives à l’élection du Président de la République.\n"
+      },
+      "art-051": {
+       "label": "Article 51",
+       "kind": "art",
+       "text": "# Article 51\nLes fonctions de Président de la République sont incompatibles avec l’exercice de toute autre fonction politique, de tout autre mandat électif, de tout emploi public et de toute autre activité professionnelle et lucrative.\n"
+      },
+      "art-052": {
+       "label": "Article 52",
+       "kind": "art",
+       "text": "# Article 52\nDurant son mandat, le Président de la République ne peut ni par lui-même, ni par autrui, rien acquérir ou prendre en bail qui appartienne au domaine de l’Etat. Il ne peut prendre part, ni par lui-même ni par autrui, aux marchés publics et privés pour les administrations ou institutions relevant de l’Etat ou soumises à leur contrôle.\n"
+      },
+      "art-053": {
+       "label": "Article 53",
+       "kind": "art",
+       "text": "# Article 53\nLorsque le Président de la République est empêché, de façon temporaire, de remplir ses fonctions, ses pouvoirs sont provisoirement exercés par le Premier ministre.\nEn cas de vacance de la Présidence de la République pour quelque cause que ce soit ou d’empêchement absolu ou définitif constaté par la Cour constitutionnelle saisie par le Président de l’Assemblée nationale, le Président du Sénat et le Premier ministre, les fonctions du Président de la République sont exercées par le Président de l’Assemblée nationale. En cas d’empêchement, de désistement ou de décès de celui-ci, elles sont exercées par le Président du Sénat.\nL’élection du nouveau Président de la République a lieu quatre-vingt-dix (90) jours, au moins et cent vingt (120) jours au plus après constatation de la vacance ou du caractère absolu et définitif de l’empêchement.\nLa personnalité assurant l’intérim du Président de la République ne peut être candidat à ladite élection.\nDans tous les cas de vacance, le remplaçant ne peut faire application des articles 57, 60, 69, 70 et 184 de la présente Constitution.\n"
+      },
+      "art-054": {
+       "label": "Article 54",
+       "kind": "art",
+       "text": "# Article 54\nLe Président élu entre en fonction à l’expiration du mandat du Président en exercice.\n"
+      },
+      "art-055": {
+       "label": "Article 55",
+       "kind": "art",
+       "text": "# Article 55\nAvant d’entrer en fonction, le Président de la République prête, devant la Cour constitutionnelle, en audience solennelle, le serment suivant :\n« Je jure, devant Dieu et le Peuple souverain du Mali, de respecter et de faire respecter la Constitution et les lois, de préserver le régime républicain, de remplir mes fonctions dans l’intérêt supérieur de la Nation, de préserver les droits et les libertés de la personne, les acquis démocratiques et les biens publics, de garantir l’unité nationale, l’indépendance de la Patrie et l’intégrité du territoire national, de me conduire partout en fidèle et loyal serviteur de la Nation et de mettre tout en œuvre pour la réalisation de l’unité africaine.\nEn cas de violation de ce serment, que le Peuple me retire sa confiance et que je subisse la rigueur de la loi ».\n"
+      },
+      "art-056": {
+       "label": "Article 56",
+       "kind": "art",
+       "text": "# Article 56\nAprès la cérémonie d’investiture et dans un délai de sept (07) jours, le Président de la République remet la déclaration écrite de ses biens au Président de la Cour des Comptes. Cette déclaration fait l’objet d’une mise à jour annuelle et à la cessation des fonctions.\nLe Président de la Cour des Comptes informe l’opinion nationale de l’accomplissement de la formalité de la déclaration et des mises à jour.\n"
+      },
+      "art-057": {
+       "label": "Article 57",
+       "kind": "art",
+       "text": "# Article 57\nLe Président de la République nomme le Premier ministre et met fin à ses fonctions.\nIl nomme les autres membres du Gouvernement, après consultation du Premier ministre et met fin à leurs fonctions.\n"
+      },
+      "art-058": {
+       "label": "Article 58",
+       "kind": "art",
+       "text": "# Article 58\nLe Président de la République préside le Conseil des Ministres. Le Premier ministre le supplée, sur son autorisation et sur un ordre du jour déterminé.\n"
+      },
+      "art-059": {
+       "label": "Article 59",
+       "kind": "art",
+       "text": "# Article 59\nLe Président de la République promulgue les lois dans les quinze (15) jours qui suivent la transmission, au Gouvernement, du texte définitivement adopté.\nEn cas d’urgence, le délai de promulgation peut être ramené à huit (08) jours.\nIl peut, avant l’expiration de ce délai, demander au Parlement une nouvelle délibération de la loi ou de certains de ses articles.\nCette nouvelle délibération ne peut être refusée et suspend le délai de promulgation.\n"
+      },
+      "art-060": {
+       "label": "Article 60",
+       "kind": "art",
+       "text": "# Article 60\nLe Président de la République, sur son initiative ou sur proposition conjointe des deux (02) chambres du Parlement, après avis de la Cour constitutionnelle publié au Journal officiel, peut soumettre, au référendum, toute question d’intérêt national, tout projet de loi portant sur l’organisation des pouvoirs publics, l’approbation d’un accord d’union ou l’autorisation de ratification d’un traité qui, sans être contraire à la Constitution, aurait des incidences sur le fonctionnement des institutions.\nLorsque le référendum a conclu à l’adoption du projet, le Président de la République le promulgue dans les délais prévus à l’article 59.\n"
+      },
+      "art-061": {
+       "label": "Article 61",
+       "kind": "art",
+       "text": "# Article 61\nUne fois par an, dans le courant du premier trimestre, le Président de la République prononce, devant le Parlement réuni en Congrès, un discours sur l’état de la Nation.\n"
+      },
+      "art-062": {
+       "label": "Article 62",
+       "kind": "art",
+       "text": "# Article 62\nLe Président de la République communique avec l’Assemblée nationale et le Sénat par des messages qu’il fait lire par le Président de l’Assemblée nationale et par le Président du Sénat. Hors session, l’Assemblée nationale et le Sénat se réunissent spécialement à cet effet.\n"
+      },
+      "art-063": {
+       "label": "Article 63",
+       "kind": "art",
+       "text": "# Article 63\nLe Président de la République est le Chef suprême des Forces Armées et de Sécurité. Il préside le Conseil de Sécurité nationale et le Comité de Défense nationale.\nLe Président de la République ordonne la mobilisation générale et détermine les modalités de participation des citoyens à la défense de la Patrie lorsque la situation sécuritaire l’exige.\n"
+      },
+      "art-064": {
+       "label": "Article 64",
+       "kind": "art",
+       "text": "# Article 64\nLe Président de la République est le Président du Conseil supérieur de la Magistrature.\n"
+      },
+      "art-065": {
+       "label": "Article 65",
+       "kind": "art",
+       "text": "# Article 65\nLe Président de la République exerce le droit de grâce. Il propose les lois d’amnistie.\n"
+      },
+      "art-066": {
+       "label": "Article 66",
+       "kind": "art",
+       "text": "# Article 66\nLe Président de la République signe les ordonnances et les décrets pris en Conseil des Ministres.\n"
+      },
+      "art-067": {
+       "label": "Article 67",
+       "kind": "art",
+       "text": "# Article 67\nLe Président de la République nomme aux emplois civils et militaires supérieurs déterminés par la loi.\nLe Grand Chancelier des Ordres nationaux, les Officiers généraux, les Ambassadeurs et Envoyés spéciaux, les Gouverneurs de Région, les Directeurs des Administrations centrales sont nommés par décret pris en Conseil des Ministres.\nLes nominations doivent reposer principalement sur des critères de compétence, d’expérience et de probité.\n"
+      },
+      "art-068": {
+       "label": "Article 68",
+       "kind": "art",
+       "text": "# Article 68\nLe Président de la République accrédite les Ambassadeurs et les Envoyés spéciaux auprès des Etats étrangers et des Organisations internationales.\nLes Ambassadeurs et les Envoyés spéciaux étrangers sont accrédités auprès de lui.\n"
+      },
+      "art-069": {
+       "label": "Article 69",
+       "kind": "art",
+       "text": "# Article 69\nLe Président de la République peut, après consultation des Présidents des deux (02) chambres et du Président de la Cour constitutionnelle, prononcer la dissolution de l’Assemblée nationale.\nAucune dissolution ne peut être prononcée dans les douze (12) premiers mois de la législature ou lorsqu’une motion de destitution est déclarée recevable.\nLes élections générales ont lieu soixante (60) jours, au moins et cent-vingt(120) jours, au plus après la dissolution.\nIl ne peut être procédé à une nouvelle dissolution dans l’année qui suit ces élections.\nÀ l’expiration du délai fixé au troisième alinéa du présent article, si les élections législatives ne sont pas organisées, l’Assemblée nationale dissoute est rétablie dans ses fonctions.\n"
+      },
+      "art-070": {
+       "label": "Article 70",
+       "kind": "art",
+       "text": "# Article 70\nLorsque les institutions de la République, l’indépendance de la Nation, l’intégrité du territoire national, l’exécution des engagements internationaux sont menacées d’une manière grave et immédiate et que le fonctionnement régulier des pouvoirs publics constitutionnels est interrompu, le Président de la République prend les mesures exceptionnelles exigées par ces circonstances après consultation du Premier ministre, des Présidents de l’Assemblée nationale, du Sénat et de la Cour constitutionnelle.\nIl en informe la Nation par un message.\nLe Parlement se réunit de plein droit.\nL’application de ces pouvoirs exceptionnels par le Président de la République ne doit, en aucun cas, compromettre ni la souveraineté nationale ni l’intégrité territoriale.\nLes pouvoirs exceptionnels doivent viser à assurer la continuité de l’Etat et le rétablissement, dans les plus brefs délais, du fonctionnement régulier des institutions, conformément à la Constitution.\nDurant l’exercice des pouvoirs exceptionnels, aucune institution de la République ne peut être dissoute ou suspendue.\nLes mesures de nature législative prises pendant l’exercice des pouvoirs exceptionnels deviennent caduques si elles ne sont pas ratifiées par le Parlement dans un délai de quatre-vingt-dix (90) jours, après leur entrée en vigueur.\n"
+      },
+      "art-071": {
+       "label": "Article 71",
+       "kind": "art",
+       "text": "# Article 71\nLe Président de la République peut déléguer certains de ses pouvoirs au Premier ministre.\nLes actes du Président de la République, autres que ceux prévus aux articles 57, 60, 65, 69 et 70 ainsi qu’à l’alinéa premier du présent article, sont contresignés par le Premier ministre et, le cas échéant, par les ministres concernés.\n"
+      },
+      "art-072": {
+       "label": "Article 72",
+       "kind": "art",
+       "text": "# Article 72\nLa loi fixe les avantages accordés au Président de la République et aux anciens Présidents de la République jouissant de leurs droits civiques.\n"
+      },
+      "art-073": {
+       "label": "Article 73",
+       "kind": "art",
+       "text": "# Article 73\nLa responsabilité du Président de la République peut être engagée pour des faits qualifiés de haute trahison.\nIl peut être destitué par le Parlement pour haute trahison.\nIl y a haute trahison lorsque le Président de la République viole son serment.\nLa motion de destitution est initiée par les membres de l’une ou l’autre chambre du Parlement. Elle n’est recevable que si elle est signée par, au moins, les deux tiers (2/3) des membres.\nLa Chambre concernée saisit la commission compétente qui procède à toutes investigations et auditions nécessaires à l’issue desquelles celle-ci apprécie, s’il y a lieu ou non, à poursuivre la procédure.\nSi la commission décide qu’il n’y a pas lieu de poursuivre, il est mis fin à la procédure de destitution.\nSi la commission décide qu’il y a lieu à poursuivre, elle dresse l’acte d’accusation motivé qui est soumis au vote de la Chambre à la majorité simple des membres.\nEn cas d’adoption de l’acte d’accusation, l’autre Chambre est saisie dans un délai de huit (08) jours et doit se prononcer en termes identiques dans un délai de quinze (15) jours. Si l’acte d’accusation n’est pas adopté, il est mis fin à la procédure de destitution.\nLa mise en accusation par les deux (02) Chambres entraîne, de plein droit, la levée de toute immunité du Président de la République.\nLes deux (02) Chambres du Parlement se réunissent en Congrès ad hoc pour statuer sur la destitution du Président de la République. La destitution est prononcée à la majorité des trois quarts (3/4) des membres.\nSeuls sont recensés les votes favorables à la destitution.\nLes sessions du Congrès ad hoc sont présidées par le Président de la Cour suprême.\nLe Président de la République dispose des droits de la défense. Il peut se faire assister par le conseil de son choix, à toutes les étapes de la procédure.\nUne loi organique détermine les modalités d’application du présent article.\n"
+      },
+      "art-074": {
+       "label": "Article 74",
+       "kind": "art",
+       "text": "# Article 74\nLe Président de la République est pénalement responsable, devant les juridictions de droit commun, des crimes et délits commis en dehors de l’exercice de ses fonctions.\nToutefois, il ne peut être requis de témoigner, ni faire l’objet d’une action, d’un acte d’information, d’instruction ou de poursuite jusqu’à la fin de son mandat. Tout délai de prescription ou de forclusion est suspendu.\nLes instances et procédures auxquelles il est fait obstacle peuvent être reprises ou engagées contre lui un (01) mois, après la cessation des fonctions.\nCHAPITRE II : DU GOUVERNEMENT\n"
+      },
+      "art-075": {
+       "label": "Article 75",
+       "kind": "art",
+       "text": "# Article 75\nLe Gouvernement comprend le Premier ministre, Chef du Gouvernement, et les ministres.\nUne loi organique fixe le nombre des membres du Gouvernement.\n"
+      },
+      "art-076": {
+       "label": "Article 76",
+       "kind": "art",
+       "text": "# Article 76\nLe Gouvernement conduit la politique de la Nation déterminée par le Président de la République. Il dispose de l’Administration.\n"
+      },
+      "art-077": {
+       "label": "Article 77",
+       "kind": "art",
+       "text": "# Article 77\nLe Premier ministre est le Chef du Gouvernement. A ce titre, il dirige l’action du Gouvernement.\nIl assure l’exécution des lois. Sous réserve des dispositions des articles 66 et 67, il exerce le pouvoir réglementaire.\nIl peut déléguer certains de ses pouvoirs aux ministres.\nIl supplée le Président de la République à la présidence du Conseil des Ministres sur délégation et pour un ordre du jour déterminé.\nIl le supplée à la présidence du Conseil de Sécurité nationale et du Comité de Défense nationale.\nLes actes du Premier ministre sont contresignés, le cas échéant, par les ministres chargés de leur exécution.\n"
+      },
+      "art-078": {
+       "label": "Article 78",
+       "kind": "art",
+       "text": "# Article 78\nLe Gouvernement est responsable devant le Président de la République.\n"
+      },
+      "art-079": {
+       "label": "Article 79",
+       "kind": "art",
+       "text": "# Article 79\nLes membres du Gouvernement remettent au Président de la Cour des comptes la déclaration écrite de leurs biens dans un délai maximum de trente (30) jours, après leur nomination.\nLe Président de la Cour des Comptes informe l’opinion nationale de l’accomplissement de la formalité de la déclaration et des mises à jour.\nLes dispositions de l’article 52 sont applicables aux membres du Gouvernement.\n"
+      },
+      "art-080": {
+       "label": "Article 80",
+       "kind": "art",
+       "text": "# Article 80\nLe Premier ministre présente, devant le Parlement, le plan d’action du Gouvernement. La présentation a lieu devant chacune des deux (02) Chambres trente (30) jours, au plus, après le discours sur l’état de la Nation du Président de la République. Elle est suivie, le cas échéant, de débats assortis de recommandations sans vote.\n"
+      },
+      "art-081": {
+       "label": "Article 81",
+       "kind": "art",
+       "text": "# Article 81\nLes fonctions de membre du Gouvernement sont incompatibles avec l’exercice de tout mandat parlementaire, de toute fonction de représentation professionnelle à l’échelle nationale ou locale, de tout emploi public ou de toute activité professionnelle et lucrative.\n"
+      },
+      "art-082": {
+       "label": "Article 82",
+       "kind": "art",
+       "text": "# Article 82\nLes membres du Gouvernement sont pénalement responsables des crimes ou délits commis dans l’exercice de leurs fonctions.\nLa poursuite et l’instruction sont de la compétence de la Cour suprême. Le jugement relève des juridictions pénales de droit commun.\nPour la poursuite, l’instruction et le jugement, les dispositions du Code de Procédure pénale sont applicables.\nCHAPITRE III : DE L’ADMINISTRATION\n"
+      },
+      "art-083": {
+       "label": "Article 83",
+       "kind": "art",
+       "text": "# Article 83\nL’Administration accomplit, sous différentes formes, les missions d’intérêt général en vue desquelles les services ont été institués.\n"
+      },
+      "art-084": {
+       "label": "Article 84",
+       "kind": "art",
+       "text": "# Article 84\nL’Administration participe à la promotion du développement économique, social et culturel en répondant, de façon adaptée, aux besoins de la collectivité nationale et des usagers, dans la transparence, le respect des Droits de l’Homme et de la démocratie.\n"
+      },
+      "art-085": {
+       "label": "Article 85",
+       "kind": "art",
+       "text": "# Article 85\nLes agents de l’Administration sont tenus, dans l’exercice de leurs missions, de respecter les principes fondamentaux du service public comprenant la légalité, l’égalité, l’impartialité, la neutralité et la continuité.\nIls doivent adopter un comportement respectueux des règles d’éthique et de déontologie, en particulier, d’intégrité et de probité morale.\n"
+      },
+      "art-086": {
+       "label": "Article 86",
+       "kind": "art",
+       "text": "# Article 86\nL’Etat veille à inscrire le recrutement des agents de l’Administration dans le cadre de procédures transparentes qui assurent l’égalité des chances pour tous et à faire reposer le déroulement de leur carrière sur des critères de compétence et de professionnalisme.\n"
+      },
+      "art-087": {
+       "label": "Article 87",
+       "kind": "art",
+       "text": "# Article 87\nL’Etat veille à offrir aux agents de l’administration les conditions de travail, de rémunération et de sécurité nécessaires au bon accomplissement de leurs missions.\nCHAPITRE IV : DES AUTORITES ADMINISTRATIVES INDEPENDANTES\n"
+      },
+      "art-088": {
+       "label": "Article 88",
+       "kind": "art",
+       "text": "# Article 88\nLes Autorités administratives indépendantes exercent leurs missions, notamment dans les domaines de la médiation, de la régulation, de la vérification et du contrôle, de la protection des libertés et droits individuels, de l’organisation et la gestion des élections.\nLes Autorités administratives indépendantes sont créées par la loi.\nCHAPITRE V : DES FORCES ARMEES ET DE SECURITE\n"
+      },
+      "art-089": {
+       "label": "Article 89",
+       "kind": "art",
+       "text": "# Article 89\nLes Forces Armées et de Sécurité sont chargées de la défense de l’intégrité du territoire national, de la protection des personnes et de leurs biens, du maintien de l’ordre public et de l’exécution des lois.\nElles participent aux actions de développement économique, social, culturel et de protection de l’environnement du pays.\n"
+      },
+      "art-090": {
+       "label": "Article 90",
+       "kind": "art",
+       "text": "# Article 90\nLes Forces Armées et de Sécurité sont au service de la Nation. Elles sont républicaines, apolitiques et soumises à l’autorité politique.\n"
+      },
+      "art-091": {
+       "label": "Article 91",
+       "kind": "art",
+       "text": "# Article 91\nLes Forces Armées ne peuvent être employées au maintien de l’ordre public que dans les conditions déterminées par la loi.\n"
+      },
+      "art-092": {
+       "label": "Article 92",
+       "kind": "art",
+       "text": "# Article 92\nLes Forces Armées et de Sécurité peuvent participer à des missions extérieures de paix, de stabilisation ou de sécurité dans le cadre du respect des engagements internationaux du Mali.\n"
+      },
+      "art-093": {
+       "label": "Article 93",
+       "kind": "art",
+       "text": "# Article 93\nL’Etat veille à ce que les Forces Armées et de Sécurité disposent, en permanence, de capacités en ressources humaines et en moyens matériels nécessaires pour accomplir leurs missions. La planification de ces ressources et moyens s’opère à travers des lois de programmation.\nTITRE IV : DU POUVOIR LEGISLATIF\nCHAPITRE I : DISPOSITIONS GENERALES\n"
+      },
+      "art-094": {
+       "label": "Article 94",
+       "kind": "art",
+       "text": "# Article 94\nLe Pouvoir législatif est exercé par le Parlement.\nLe Parlement vote la loi et concourt à l’évaluation des politiques publiques.\n"
+      },
+      "art-095": {
+       "label": "Article 95",
+       "kind": "art",
+       "text": "# Article 95\nLe Parlement comprend deux (02) Chambres : l’Assemblée nationale et le Sénat.\nLe Congrès est la réunion des deux (02) Chambres du Parlement. La présidence du Congrès est assurée par le Président de l’Assemblée nationale et la vice-présidence est assurée par le Président du Sénat.\n"
+      },
+      "art-096": {
+       "label": "Article 96",
+       "kind": "art",
+       "text": "# Article 96\nLes membres de l’Assemblée nationale portent le titre de Député.\nLes Députés sont élus pour cinq (05) ans au suffrage universel direct. Le mode de scrutin peut être majoritaire, proportionnel ou mixte.\nLes Maliens établis à l’Extérieur sont représentés, à l’Assemblée nationale, selon les modalités définies par la loi.\n"
+      },
+      "art-097": {
+       "label": "Article 97",
+       "kind": "art",
+       "text": "# Article 97\nLes membres du Sénat portent le titre de Sénateurs.\nLe Sénat est constitué, pour trois quarts (3/4), de membres élus au suffrage universel indirect représentant les collectivités territoriales et, pour un quart (1/4), de membres désignés représentant les autorités et les légitimités traditionnelles, les Maliens Etablis à l’Extérieur et de personnalités ayant honoré le service de la Nation.\nLe mandat des membres du Sénat est de cinq (05) ans.\n"
+      },
+      "art-098": {
+       "label": "Article 98",
+       "kind": "art",
+       "text": "# Article 98\nNul ne peut être à la fois membre de l’Assemblée nationale et du Sénat.\n"
+      },
+      "art-099": {
+       "label": "Article 99",
+       "kind": "art",
+       "text": "# Article 99\nLa loi détermine les modalités de l’élection des Députés à l’Assemblée nationale. Elle détermine également les modalités de l’élection ou de désignation des Sénateurs.\n"
+      },
+      "art-100": {
+       "label": "Article 100",
+       "kind": "art",
+       "text": "# Article 100\nUne loi organique fixe, pour chacune des deux (02) Chambres, le nombre des membres, les conditions d’éligibilité, le régime des inéligibilités et des incompatibilités. Elle détermine également les conditions dans lesquelles il est procédé à leur remplacement, en cas de vacance de siège.\n"
+      },
+      "art-101": {
+       "label": "Article 101",
+       "kind": "art",
+       "text": "# Article 101\nUne loi organique fixe les indemnités et les autres avantages alloués aux Députés et aux Sénateurs.\n"
+      },
+      "art-102": {
+       "label": "Article 102",
+       "kind": "art",
+       "text": "# Article 102\nAprès leur installation officielle et dans un délai de trente (30) jours, le Président de la Cour des Comptes reçoit les déclarations écrites des biens des Députés et des Sénateurs.\nCes déclarations font l’objet de mises à jour annuelles et à la cessation des fonctions.\nLe Président de la Cour des Comptes informe l’opinion nationale de l’accomplissement de la formalité de la déclaration et des mises à jour.\n"
+      },
+      "art-103": {
+       "label": "Article 103",
+       "kind": "art",
+       "text": "# Article 103\nLes Députés et les Sénateurs ne bénéficient de l’immunité parlementaire que dans le cadre de l’exercice de leurs fonctions. Ils ne peuvent être poursuivis, recherchés, arrêtés, détenus ou jugés en raison des opinions ou votes émis lors des sessions parlementaires.\n"
+      },
+      "art-104": {
+       "label": "Article 104",
+       "kind": "art",
+       "text": "# Article 104\nTout Député ou tout Sénateur, qui fait l’objet d’une condamnation criminelle définitive, est déchu de son mandat, à la demande du ministre chargé de la Justice. Il en est de même lorsque le Député ou le Sénateur est condamné à une peine correctionnelle définitive égale ou supérieure à un (01) an d’emprisonnement non assortie de sursis.\n"
+      },
+      "art-105": {
+       "label": "Article 105",
+       "kind": "art",
+       "text": "# Article 105\nTout mandat impératif est nul.\nLe droit de vote des membres du Parlement est personnel. La loi organique peut autoriser exceptionnellement la délégation de vote. Dans ce cas, nul ne peut recevoir délégation de plus d’un mandat.\n"
+      },
+      "art-106": {
+       "label": "Article 106",
+       "kind": "art",
+       "text": "# Article 106\nTout Député ou tout Sénateur qui démissionne de son parti politique ou de l’organisation qu’il représente, est déchu de son mandat.\nLa démission est dûment constatée par écrit. L’adhésion à un autre parti ou à une autre organisation est considérée comme une démission.\nLe Député ou le Sénateur démissionnaire est remplacé dans les conditions déterminées par une loi organique.\nCHAPITRE II : DU FONCTIONNEMENT DU PARLEMENT\n"
+      },
+      "art-107": {
+       "label": "Article 107",
+       "kind": "art",
+       "text": "# Article 107\nL’Assemblée nationale et le Sénat se réunissent, de plein droit, en deux (02) sessions ordinaires par an.\nLa première session commence le premier lundi ouvrable du mois d’octobre. Elle ne peut excéder soixante-quinze (75) jours.\nLa deuxième session commence le premier lundi ouvrable du mois d’avril et ne peut excéder quatre-vingt-dix (90) jours.\n"
+      },
+      "art-108": {
+       "label": "Article 108",
+       "kind": "art",
+       "text": "# Article 108\nLe Parlement est réuni en session extraordinaire, soit à la demande du Président de la République, soit à la demande de la majorité des membres de l’Assemblée nationale ou du Sénat, sur un ordre du jour déterminé.\nEn cas de session extraordinaire, le décret de clôture intervient dès que le Parlement a épuisé l’ordre du jour pour lequel il a été convoqué et au plus tard quinze (15) jours, à compter de sa date de convocation.\n"
+      },
+      "art-109": {
+       "label": "Article 109",
+       "kind": "art",
+       "text": "# Article 109\nHors les cas dans lesquels le Parlement se réunit de plein droit, les sessions extraordinaires sont ouvertes et closes par décret du Président de la République.\n"
+      },
+      "art-110": {
+       "label": "Article 110",
+       "kind": "art",
+       "text": "# Article 110\nLe Député ou le Sénateur a l’obligation de participer aux travaux des commissions et des séances plénières, sous peine de sanctions prévues par les règlements intérieurs de l’Assemblée nationale et du Sénat.\n"
+      },
+      "art-111": {
+       "label": "Article 111",
+       "kind": "art",
+       "text": "# Article 111\nChacune des chambres du Parlement établit son règlement intérieur. Le règlement intérieur du Congrès est établi par les deux (02) Chambres.\n"
+      },
+      "art-112": {
+       "label": "Article 112",
+       "kind": "art",
+       "text": "# Article 112\nLe Président de l’Assemblée nationale et le Président du Sénat sont élus pour la durée de la législature.\n"
+      },
+      "art-113": {
+       "label": "Article 113",
+       "kind": "art",
+       "text": "# Article 113\nLe Président de l’Assemblée nationale et le Président du Sénat peuvent faire l’objet d’une procédure de destitution pour manquement aux devoirs de leur charge.\nPour être recevable, l’initiative de la destitution doit être signée par, au moins, les deux tiers (2/3) des membres de la chambre concernée.\nAucune procédure de destitution ne peut être initiée dans les deux (02) premières années qui suivent l’entrée en fonction du Président de l’Assemblée nationale ou du Président du Sénat.\nLa destitution est prononcée à la majorité des trois quarts (3/4) des membres de la chambre concernée, dans les conditions déterminées par son règlement intérieur.\nEn cas de destitution, l’Assemblée nationale ou le Sénat procède à l’élection d’un nouveau Président dans les conditions fixées par le règlement intérieur. Le nouveau Président achève le mandat du Président destitué.\n"
+      },
+      "art-114": {
+       "label": "Article 114",
+       "kind": "art",
+       "text": "# Article 114\nLes séances des Chambres du Parlement sont publiques. Toutefois, chaque chambre peut siéger, à huis clos, de sa propre initiative ou à la demande du Gouvernement. Le règlement intérieur en fixe les modalités.\nLe compte rendu intégral des débats est publié au Journal officiel.\nCHAPITRE III : DU DOMAINE DE LA LOI ET DU REGLEMENT\n"
+      },
+      "art-115": {
+       "label": "Article 115",
+       "kind": "art",
+       "text": "# Article 115\nLa loi est votée par le Parlement à la majorité simple.\nSont du domaine de la loi, outre les matières qui lui sont expressément dévolues par d’autres articles de la Constitution :\n- les droits civiques et les garanties fondamentales accordés aux citoyens pour l’exercice des libertés publiques ;\n- les sujétions imposées par la Défense nationale aux citoyens en leur personne et en leurs biens ;\n- la nationalité, les droits civils, l’état et la capacité des personnes, les régimes matrimoniaux, les successions et libéralités, le régime de la propriété, des droits réels et des obligations civiles et commerciales, le régime des sociétés, l’expropriation ;\n- les crimes et délits ainsi que les peines qui leur sont applicables, la procédure pénale, la police judiciaire, l’extradition, l’amnistie, la création des juridictions, le statut des officiers ministériels, le statut des professions juridiques et judiciaires ;\n- le statut général des fonctionnaires ;\n- le statut général du personnel des Forces Armées et de Sécurité ;\n- le statut de la magistrature ;\n- le statut des Enseignants-Chercheurs de l’Enseignement supérieur et de la Recherche scientifique ;\n- le statut des ordres professionnels ;\n- le régime d’émission de la monnaie, l’assiette, le taux et les modalités de recouvrement des impôts ;\n- l’organisation générale de la défense et de la sécurité ; - le droit du travail, de la sécurité sociale, le droit syndical; - l’enseignement et la recherche ;\n- la protection du patrimoine culturel et archéologique ; - la comptabilité publique ;\n- la protection de l’environnement ;\n- les principes de la création, de l’organisation et du contrôle des services et organismes publics ;\n- les nationalisations d’entreprises, les dénationalisations et le transfert de propriété d’entreprises du secteur public au secteur privé ;\n- le régime électoral ;\n- la libre administration des Collectivités territoriales ;\n- l’organisation administrative du territoire ;\n- la gestion et l’aliénation du domaine de l’Etat ;\n- l’organisation de la production ;\n- l’organisation de la justice ;\n- le régime pénitentiaire.\nLa loi de finances détermine les ressources et les charges de l’Etat dans les conditions fixées par une loi organique.\nLes lois de programmation déterminent les objectifs de l’action économique, sociale, culturelle et de sécurité nationale de l’Etat.\n"
+      },
+      "art-116": {
+       "label": "Article 116",
+       "kind": "art",
+       "text": "# Article 116\nLes matières, autres que celles qui sont du domaine de la loi, ont un caractère réglementaire.\nLes textes de forme législative intervenus en ces matières, antérieurement à l’entrée en vigueur de la présente Constitution, peuvent être modifiés par décret après avis de la Cour suprême.\nCeux de ces textes qui interviendront après l’entrée en vigueur de la présente Constitution ne peuvent être modifiés par décret que si la Cour constitutionnelle a déclaré qu’ils ont un caractère réglementaire.\nLes lois et les règlements sont publiés au Journal officiel.\n"
+      },
+      "art-117": {
+       "label": "Article 117",
+       "kind": "art",
+       "text": "# Article 117\nLa déclaration de guerre est autorisée par le Parlement réuni spécialement en Congrès à cet effet, à la majorité absolue de ses membres.\nLe Président de la République en informe la Nation par un message.\n"
+      },
+      "art-118": {
+       "label": "Article 118",
+       "kind": "art",
+       "text": "# Article 118\nL’état d’urgence et l’état de siège sont décrétés en Conseil des Ministres.\nLeur prorogation, au-delà de quinze (15) jours, doit être autorisée par le Parlement à la majorité absolue de ses membres. Une loi en détermine les conditions.\nCHAPITRE IV : DES RAPPORTS ENTRE LE POUVOIR EXECUTIF ET LE POUVOIR LEGISLATIF\n"
+      },
+      "art-119": {
+       "label": "Article 119",
+       "kind": "art",
+       "text": "# Article 119\nL’initiative des lois appartient concurremment au Président de la République et aux membres du Parlement.\nLes projets de loi sont délibérés en Conseil des Ministres, après avis de la Cour suprême et déposés sur le bureau de l’une des deux Chambres.\nLes projets de loi de finances sont soumis, en premier lieu, à l’Assemblée nationale.\nLes projets de loi ayant pour principal objet l’organisation du territoire, le statut des collectivités territoriales, le statut des autorités et des légitimités traditionnelles ainsi que les projets de loi relatifs à l’environnement et aux Maliens établis à l’Extérieur sont soumis, en premier lieu, au Sénat.\nL’ordre du jour des Chambres comporte, par priorité et dans l’ordre fixé par le Gouvernement, la discussion des projets de loi déposés par le Gouvernement et des propositions de loi.\n"
+      },
+      "art-120": {
+       "label": "Article 120",
+       "kind": "art",
+       "text": "# Article 120\nLes membres du Parlement et le Gouvernement ont le droit d’amendement qui s’exerce en séance ou en commission selon les conditions fixées par les règlements intérieurs des chambres.\nAprès l’ouverture du débat, le Gouvernement peut s’opposer à l’examen de tout amendement qui ne lui aurait pas été antérieurement soumis.\n"
+      },
+      "art-121": {
+       "label": "Article 121",
+       "kind": "art",
+       "text": "# Article 121\nLe Gouvernement peut, pour l’exécution de son plan d’action, demander au Parlement l’autorisation de prendre par ordonnance, pendant un délai limité, des mesures qui sont normalement du domaine de la loi.\nLes ordonnances sont prises en Conseil des Ministres, après avis de la Cour suprême. Elles entrent en vigueur dès leur adoption, mais deviennent caduques si le projet de loi de ratification n’est pas déposé devant le Parlement avant la date fixée par la loi d’habilitation. A l’expiration du délai mentionné au premier alinéa du présent article, les ordonnances ne peuvent plus être modifiées que par la loi dans les matières qui sont du domaine législatif.\n"
+      },
+      "art-122": {
+       "label": "Article 122",
+       "kind": "art",
+       "text": "# Article 122\nSi le Gouvernement le demande, la Chambre saisie se prononce par un seul vote sur tout ou partie du texte en discussion en ne retenant que les amendements proposés ou acceptés par le Gouvernement.\nLes propositions et amendements formulés par les membres du Parlement ne sont pas recevables lorsque leur adoption aurait pour conséquence, soit une diminution des ressources publiques, soit la création ou l’aggravation d’une charge publique, à moins que ces propositions ou amendements ne soient assortis d’une proposition de recettes ou d’économies équivalentes.\nS’il apparaît, au cours de la procédure législative, qu’une proposition ou un amendement n’est pas du domaine de la loi, le Gouvernement peut opposer l’irrecevabilité. En cas de désaccord entre le Gouvernement et la Chambre saisie, la Cour constitutionnelle, à la demande du Gouvernement ou du Président de la Chambre concernée, statue dans un délai de huit (08) jours.\n"
+      },
+      "art-123": {
+       "label": "Article 123",
+       "kind": "art",
+       "text": "# Article 123\nTout projet ou toute proposition de loi est examiné successivement par les deux (02) Chambres du Parlement en vue de l’adoption d’un texte identique.\nLa discussion des projets de loi porte, devant la première Chambre saisie, sur le texte présenté par le Gouvernement.\nUne Chambre saisie d’un texte voté par l’autre chambre délibère sur le texte qui lui est transmis.\nLorsque, par suite d’un désaccord entre les deux (02) chambres, un projet ou une proposition de loi n’a pu être adopté après deux (02) lectures par les deux (02) Chambres, ou si le Gouvernement a déclaré l’urgence, après une seule lecture par chacune d’entre elles, le Premier ministre a la faculté de provoquer la réunion d’une commission mixte paritaire chargée de proposer un texte identique sur les dispositions restantes.\nLe texte élaboré par la commission mixte peut être soumis par le Gouvernement pour approbation aux deux (02) chambres. Aucun amendement, sur ce texte, n’est recevable, sauf accord du Gouvernement.\nSi la commission mixte ne parvient pas à l’adoption d’un texte commun ou si ce texte n’est pas adopté dans les conditions prévues à l’alinéa précédent, le Gouvernement peut, après une nouvelle lecture par l’Assemblée nationale et le Sénat, demander à l’Assemblée nationale de statuer définitivement.\nEn ce cas, l’Assemblée nationale peut prendre, soit le texte élaboré par la commission mixte, soit le texte voté par elle, modifié, le cas échéant, par un ou plusieurs des amendements adoptés par le Sénat.\n"
+      },
+      "art-124": {
+       "label": "Article 124",
+       "kind": "art",
+       "text": "# Article 124\nLes lois auxquelles la présente Constitution confère le caractère de loi organique sont votées dans les conditions suivantes :\n- le projet ou la proposition ne peut, en première lecture, être soumis à la délibération et au vote des Chambres du Parlement qu’à l’expiration d’un délai de quinze (15) jours, après son dépôt ;\n- la procédure de l’article 123 est applicable ;\n- il est adopté à la majorité absolue des membres de chaque Chambre.\nToutefois, faute d’accord entre les deux (02) Chambres, le texte est adopté en dernière lecture par l’Assemblée nationale à la majorité absolue de ses membres.\nLes lois organiques ne peuvent être promulguées qu’après la déclaration, par la Cour constitutionnelle, de leur conformité à la Constitution.\n"
+      },
+      "art-125": {
+       "label": "Article 125",
+       "kind": "art",
+       "text": "# Article 125\nLe Parlement est saisi du projet de loi de finances dès l’ouverture de la session ordinaire précédant la période budgétaire.\nSi l’Assemblée nationale ne s’est pas prononcée en première lecture, dans le délai de quarante (40) jours, après le dépôt du projet de loi de finances, le Gouvernement saisit le Sénat qui doit statuer dans un délai de quinze (15) jours. Il est fait application de la procédure prévue à l’article 123.\nSi le Parlement ne s’est pas prononcé dans un délai de soixante-dix (70) jours, le budget est alors établi d’office par le Gouvernement sur la base des recettes de l’exercice précédent et après avis de la Cour des comptes.\n"
+      },
+      "art-126": {
+       "label": "Article 126",
+       "kind": "art",
+       "text": "# Article 126\nDevant l’une ou l’autre des Chambres du Parlement, le Premier ministre peut, de sa propre initiative ou à la demande du Président de l’une des Chambres, faire, sur un sujet déterminé, une déclaration qui donne lieu à un débat sans vote.\n"
+      },
+      "art-127": {
+       "label": "Article 127",
+       "kind": "art",
+       "text": "# Article 127\nLe Parlement contrôle l’action du Gouvernement.\nLes membres du Parlement peuvent poser des questions écrites aux ministres qui sont tenus d’y répondre dans les quinze (15) jours suivant la date de leur réception. Les questions et les réponses sont publiées au Journal officiel.\nLes membres du Parlement peuvent poser aux ministres des questions orales et des questions d’actualité selon les modalités déterminées par le règlement intérieur de chaque Chambre.\n"
+      },
+      "art-128": {
+       "label": "Article 128",
+       "kind": "art",
+       "text": "# Article 128\nChaque Chambre du Parlement peut désigner, en son sein, des commissions d’enquête dont les pouvoirs et les modalités d’organisation et de fonctionnement sont fixés par son règlement intérieur.\nToutefois, il ne peut être créé de commission d’enquête lorsque les faits ont donné lieu à des poursuites judiciaires et aussi longtemps que ces poursuites sont en cours. Si une commission a déjà été créée, sa mission prend fin dès l’ouverture d’une information judiciaire relative aux faits qui ont motivé sa création.\nTITRE V : DU POUVOIR JUDICIAIRE\nCHAPITRE I : DISPOSITIONS GENERALES\n"
+      },
+      "art-129": {
+       "label": "Article 129",
+       "kind": "art",
+       "text": "# Article 129\nLe pouvoir judiciaire est indépendant des pouvoirs exécutif et législatif. Il s’exerce par la Cour suprême, la Cour constitutionnelle, la Cour des Comptes et les autres Cours et Tribunaux.\nLes modes alternatifs et traditionnels de règlement des différends sont autorisés dans les conditions déterminées par la loi.\n"
+      },
+      "art-130": {
+       "label": "Article 130",
+       "kind": "art",
+       "text": "# Article 130\nLe pouvoir judiciaire est gardien des libertés définies par la présente Constitution. Il veille au respect des droits et des libertés. Il est chargé d’appliquer, dans le domaine qui lui est propre, les lois et les règlements de la République.\n"
+      },
+      "art-131": {
+       "label": "Article 131",
+       "kind": "art",
+       "text": "# Article 131\nLa justice est rendue au nom du Peuple malien.\nLes décisions de justice sont rendues sur le seul fondement de l’application impartiale de la loi.\nLes jugements sont rédigés dans les délais prévus par les lois et règlements en vigueur, sous peine de sanction administrative.\n"
+      },
+      "art-132": {
+       "label": "Article 132",
+       "kind": "art",
+       "text": "# Article 132\nLes Juges ne sont soumis, dans l’exercice de leurs fonctions, qu’à l’autorité de la loi.\nLes Magistrats du siège sont inamovibles.\n"
+      },
+      "art-133": {
+       "label": "Article 133",
+       "kind": "art",
+       "text": "# Article 133\nTout manquement, de la part du Juge à ses devoirs d’indépendance, d’impartialité et de probité, constitue une faute professionnelle grave passible de sanctions disciplinaires, sans préjudice, le cas échéant, de poursuites judiciaires.\n"
+      },
+      "art-134": {
+       "label": "Article 134",
+       "kind": "art",
+       "text": "# Article 134\nLe Président de la République est garant de l’indépendance du pouvoir judiciaire.\nIl est assisté par le Conseil supérieur de la Magistrature.\n"
+      },
+      "art-135": {
+       "label": "Article 135",
+       "kind": "art",
+       "text": "# Article 135\nLe Conseil supérieur de la Magistrature veille sur la gestion de la carrière des magistrats et donne son avis sur toute question concernant l’indépendance de la magistrature.\nIl statue comme Conseil de Discipline pour les Magistrats.\n"
+      },
+      "art-136": {
+       "label": "Article 136",
+       "kind": "art",
+       "text": "# Article 136\nLe Conseil supérieur de la Magistrature peut être saisi par un justiciable dans les conditions fixées par une loi organique.\n"
+      },
+      "art-137": {
+       "label": "Article 137",
+       "kind": "art",
+       "text": "# Article 137\nLe Conseil supérieur de la Magistrature est constitué pour moitié de personnalités choisies en dehors du corps des Magistrats.\n"
+      },
+      "art-138": {
+       "label": "Article 138",
+       "kind": "art",
+       "text": "# Article 138\nUne loi organique fixe les attributions, la composition, l’organisation et les règles de fonctionnement du Conseil supérieur de la Magistrature.\nCHAPITRE II : DE LA COUR SUPREME\n"
+      },
+      "art-139": {
+       "label": "Article 139",
+       "kind": "art",
+       "text": "# Article 139\nLa Cour suprême est la plus haute juridiction en matière judiciaire et administrative.\nElle a des compétences contentieuses et consultatives.\n"
+      },
+      "art-140": {
+       "label": "Article 140",
+       "kind": "art",
+       "text": "# Article 140\nLa Cour suprême statue souverainement sur les pourvois en cassation dirigés contre les arrêts et jugements rendus en dernier ressort dans les matières relevant de sa compétence.\n"
+      },
+      "art-141": {
+       "label": "Article 141",
+       "kind": "art",
+       "text": "# Article 141\nLa Cour suprême émet des avis sur toute question de droit entrant dans le champ de ses compétences.\n"
+      },
+      "art-142": {
+       "label": "Article 142",
+       "kind": "art",
+       "text": "# Article 142\nLa Cour suprême est présidée par un Magistrat nommé par décret du Président de la République, sur proposition conforme du Conseil supérieur de la Magistrature.\nLe Vice-président et les autres membres de la Cour suprême sont nommés dans les mêmes conditions.\n"
+      },
+      "art-143": {
+       "label": "Article 143",
+       "kind": "art",
+       "text": "# Article 143\nUne loi organique fixe les attributions, l’organisation, les règles de fonctionnement ainsi que la procédure suivie devant la Cour suprême.\nCHAPITRE III : DE LA COUR CONSTITUTIONNELLE Article 144 : La Cour constitutionnelle est juge de la constitutionnalité des lois et elle garantit les droits fondamentaux de la personne humaine et les libertés publiques.\nElle est l’organe régulateur du fonctionnement des institutions et de l’activité des pouvoirs publics.\n"
+      },
+      "art-145": {
+       "label": "Article 145",
+       "kind": "art",
+       "text": "# Article 145\nLa Cour constitutionnelle comprend neuf (09) membres qui portent le titre de conseillers.\nLe mandat des conseillers est de sept (07) ans, non renouvelable.\nLes neuf (09) membres de la Cour constitutionnelle sont désignés comme suit :\n- deux (02) par le Président de la République ;\n- un (01) par le Président de l’Assemblée nationale ;\n- un (01) par le Président du Sénat ;\n- deux (02) par le Conseil supérieur de la Magistrature ; - deux (02) Enseignants-Chercheurs de droit public désignés par un Collège constitué par les recteurs des universités publiques de droit ;\n- un (01) par l’Ordre des Avocats.\nLes Conseillers sont choisis, à titre principal, parmi les Enseignants-Chercheurs de droit public, les Avocats et les Magistrats ayant au moins quinze (15) ans d’expérience, ainsi que les personnalités qualifiées qui ont honoré le service de la Nation.\nLes Conseillers, ainsi désignés, sont nommés par décret du Président de la République.\n"
+      },
+      "art-146": {
+       "label": "Article 146",
+       "kind": "art",
+       "text": "# Article 146\nLe Président de la Cour constitutionnelle est élu par ses pairs.\nEn cas d’empêchement temporaire, ses fonctions sont assurées par le Conseiller le plus âgé.\nEn cas de décès ou de démission d’un Conseiller, le nouveau membre est choisi par l’autorité de désignation concernée et achève le mandat commencé.\n"
+      },
+      "art-147": {
+       "label": "Article 147",
+       "kind": "art",
+       "text": "# Article 147\nLa Cour constitutionnelle connaît obligatoirement de la constitutionnalité des lois organiques avant leur promulgation et des règlements intérieurs de l’Assemblée nationale, du Sénat et du Congrès avant leur mise en application.\nLes lois organiques sont soumises par le Président de la République à la Cour constitutionnelle avant leur promulgation.\nLes autres catégories de lois, avant leur promulgation, peuvent être déférées à la Cour constitutionnelle par le Président de la République, le Président de l’Assemblée nationale ou un dixième (1/10) des Députés, le Président du Sénat ou un dixième (1/10) des Sénateurs.\nLes règlements intérieurs de l’Assemblée nationale et du Sénat sont soumis à la Cour constitutionnelle par les Présidents desdites institutions avant leur mise en application. Il en est de même du règlement intérieur du Congrès.\nLa saisine de la Cour constitutionnelle suspend le délai de promulgation de la loi.\nDans les cas prévus aux alinéas 1 et 3 du présent article, la Cour constitutionnelle statue dans le délai de trente (30) jours. Toutefois, à la demande du Gouvernement, s’il y a urgence, ce délai est ramené à huit (08) jours.\nUne disposition déclarée inconstitutionnelle ne peut être promulguée ou appliquée.\n"
+      },
+      "art-148": {
+       "label": "Article 148",
+       "kind": "art",
+       "text": "# Article 148\nLa Cour constitutionnelle statue sur les conflits d’attributions entre les institutions de la République. Elle est saisie par les Présidents des institutions concernées.\n"
+      },
+      "art-149": {
+       "label": "Article 149",
+       "kind": "art",
+       "text": "# Article 149\nLa Cour constitutionnelle contrôle la régularité de l’élection du Président de la République et des opérations de référendum. Elle examine les réclamations et proclame les résultats définitifs.\n"
+      },
+      "art-150": {
+       "label": "Article 150",
+       "kind": "art",
+       "text": "# Article 150\nLa Cour constitutionnelle statue, en cas de contestation, sur la régularité de l’élection des Députés et de l’élection ou la désignation des Sénateurs.\n"
+      },
+      "art-151": {
+       "label": "Article 151",
+       "kind": "art",
+       "text": "# Article 151\nLa Cour constitutionnelle est saisie, en cas de contestation de la validité d’une élection, par tout candidat, tout parti politique ou par l’autorité chargée de l’organisation des élections.\nLorsqu’elle fait droit à une requête, la Cour peut, selon le cas, annuler l’élection contestée ou réformer les résultats.\n"
+      },
+      "art-152": {
+       "label": "Article 152",
+       "kind": "art",
+       "text": "# Article 152\nLes engagements internationaux prévus à l’article 182 peuvent être déférés, avant leur ratification, à la Cour constitutionnelle par le Président de la République, le Président de l’Assemblée nationale ou un dixième (1/ 10) des Députés, le Président du Sénat ou un dixième (1/ 10) des Sénateurs.\nLa Cour constitutionnelle vérifie, dans un délai de trente (30) jours, si ces engagements comportent une clause contraire à la Constitution.\nToutefois, à la demande du Président de la République, s’il y a urgence, ce délai est ramené à huit (08) jours.\nUn engagement déclaré contraire à la Constitution ne peut être ratifié.\n"
+      },
+      "art-153": {
+       "label": "Article 153",
+       "kind": "art",
+       "text": "# Article 153\nLorsque, à l’occasion d’une instance en cours devant une juridiction, il est soutenu par un justiciable qu’une disposition législative porte atteinte aux droits et libertés garantis par la Constitution, la Cour constitutionnelle peut être saisie de cette question sur renvoi de la Cour suprême.\nLorsque l’exception d’inconstitutionnalité est transmise, la juridiction sursoit à statuer jusqu’à réception de la décision de la Cour constitutionnelle.\nUne disposition déclarée inconstitutionnelle sur le fondement de l’alinéa précédent est abrogée. La Cour constitutionnelle détermine les effets de cette abrogation. Une loi organique détermine les modalités d’application du présent article.\n"
+      },
+      "art-154": {
+       "label": "Article 154",
+       "kind": "art",
+       "text": "# Article 154\nLes décisions de la Cour constitutionnelle ne sont susceptibles d’aucun recours. Elles s’imposent aux pouvoirs publics, à toutes les autorités administratives et juridictionnelles et à toutes les personnes physiques et morales.\n"
+      },
+      "art-155": {
+       "label": "Article 155",
+       "kind": "art",
+       "text": "# Article 155\nUne loi organique fixe les règles d’organisation et de fonctionnement de la Cour constitutionnelle, ainsi que la procédure suivie devant elle.\nCHAPITRE IV : DE LA COUR DES COMPTES\n"
+      },
+      "art-156": {
+       "label": "Article 156",
+       "kind": "art",
+       "text": "# Article 156\nLa Cour des Comptes est la juridiction supérieure des finances publiques et l’institution supérieure de contrôle des finances publiques. Elle a des attributions juridictionnelles, de contrôle et de consultation.\n"
+      },
+      "art-157": {
+       "label": "Article 157",
+       "kind": "art",
+       "text": "# Article 157\nLa Cour des Comptes assiste le Gouvernement et le Parlement dans le contrôle de l’exécution des lois de finances et l’évaluation des politiques publiques.\n"
+      },
+      "art-158": {
+       "label": "Article 158",
+       "kind": "art",
+       "text": "# Article 158\nLa Cour des Comptes juge les comptes des comptables publics de deniers et de matières.\nElle contrôle la régularité des opérations financières, sanctionne les fautes de gestion, déclare et apure les gestions de fait.\n"
+      },
+      "art-159": {
+       "label": "Article 159",
+       "kind": "art",
+       "text": "# Article 159\nLa Cour des Comptes peut, à tout moment, exercer tout contrôle, soit de sa propre initiative, soit à la demande du Président de la République, du Premier ministre, du Président de l’Assemblée nationale ou du Sénat.\n"
+      },
+      "art-160": {
+       "label": "Article 160",
+       "kind": "art",
+       "text": "# Article 160\nLa Cour des Comptes vérifie les comptes des partis politiques.\n"
+      },
+      "art-161": {
+       "label": "Article 161",
+       "kind": "art",
+       "text": "# Article 161\nLa Cour des Comptes reçoit les déclarations de biens des assujettis visés aux articles 56, 79 et 102.\n"
+      },
+      "art-162": {
+       "label": "Article 162",
+       "kind": "art",
+       "text": "# Article 162\nLe Président et les autres membres de la Cour des Comptes sont nommés par décret du Président de la République après avis conforme du Conseil supérieur de la Magistrature.\n"
+      },
+      "art-163": {
+       "label": "Article 163",
+       "kind": "art",
+       "text": "# Article 163\nUne loi organique fixe les attributions, l’organisation, les règles de fonctionnement de la Cour des Comptes ainsi que la procédure suivie devant elle.\nTITRE VI : DU CONSEIL ECONOMIQUE, SOCIAL, ENVIRONNEMENTAL ET CULTUREL\n"
+      },
+      "art-164": {
+       "label": "Article 164",
+       "kind": "art",
+       "text": "# Article 164\nLe Conseil économique, social, environnemental et culturel a compétence sur toutes les questions de développement économique, social, environnemental et culturel.\nIl participe à toute commission d’intérêt national à caractère économique, social, environnemental et culturel.\n"
+      },
+      "art-165": {
+       "label": "Article 165",
+       "kind": "art",
+       "text": "# Article 165\nLe Conseil économique, social, environnemental et culturel collecte annuellement les besoins, les attentes et les problèmes de la société et rédige un rapport avec des orientations et des propositions. Ce rapport est adressé au Président de la République, au Premier ministre et aux Présidents des deux (02) Chambres du Parlement.\nIl procède, avec le Gouvernement une (01) fois par an, à l’évaluation des suites réservées aux recommandations du rapport.\n"
+      },
+      "art-166": {
+       "label": "Article 166",
+       "kind": "art",
+       "text": "# Article 166\nLe Conseil économique, social, environnemental et culturel peut, de sa propre initiative, entreprendre des études assorties de propositions sur toute question à caractère économique, social, environnemental et culturel intéressant la vie de la Nation.\nLes rapports des études sont communiqués au Président de la République, au Premier ministre et aux Présidents des deux (02) Chambres du Parlement.\n"
+      },
+      "art-167": {
+       "label": "Article 167",
+       "kind": "art",
+       "text": "# Article 167\nLe Conseil économique, social, environnemental et culturel est consulté par le Président de la République sur tout projet de loi de finances, tout projet de plan ou de loi de programmation.\nA la demande du Président de la République, il donne son avis sur les projets de lois, d’ordonnances ou de décrets relatifs aux questions entrant dans les domaines de sa compétence.\n"
+      },
+      "art-168": {
+       "label": "Article 168",
+       "kind": "art",
+       "text": "# Article 168\nLe Conseil économique, social, environnemental et culturel est composé :\n- de représentants des syndicats, des associations et des groupements socioprofessionnels ;\n- de représentants des organisations de femmes et de jeunes; - de représentants des Maliens établis à l’extérieur.\nIl comprend, en outre, des membres associés choisis en raison de leurs compétences reconnues dans les domaines économique, social, environnemental ou culturel.\nLes membres du Conseil économique, social, environnemental et culturel portent le titre de Conseiller de la République.\n"
+      },
+      "art-169": {
+       "label": "Article 169",
+       "kind": "art",
+       "text": "# Article 169\nLe Conseil économique, social, environnemental et culturel se réunit chaque année de plein droit en deux (02) sessions ordinaires de trente (30) jours, chacune, sur convocation de son Président.\nIl peut se réunir en session extraordinaire, à la demande de son Président ou de la majorité de ses membres, pour une durée qui ne peut excéder dix (10) jours. Le décret de convocation et de clôture est pris par le Président de la République.\nLes séances du Conseil économique, social, environnemental et culturel sont publiques.\nToutefois, il peut siéger, à huis clos, de sa propre initiative ou à la demande du Président de la République.\n"
+      },
+      "art-170": {
+       "label": "Article 170",
+       "kind": "art",
+       "text": "# Article 170\nLe Président du Conseil économique, social, environnemental et culturel est élu par ses pairs lors de la séance d’ouverture de la première session pour un mandat de cinq (05) ans.\n"
+      },
+      "art-171": {
+       "label": "Article 171",
+       "kind": "art",
+       "text": "# Article 171\nAucun membre du Conseil économique, social, environnemental et culturel ne peut être poursuivi, recherché ou jugé pour des opinions émises par lui lors des séances du Conseil.\n"
+      },
+      "art-172": {
+       "label": "Article 172",
+       "kind": "art",
+       "text": "# Article 172\nLe Président du Conseil économique, social, environnemental et culturel peut faire l’objet d’une procédure de destitution pour manquement aux devoirs de sa charge.\nPour être recevable, l’initiative de la destitution doit être signée par au moins les deux (2/3) tiers des membres du Conseil.\nAucune procédure de destitution ne peut être initiée dans les deux (02) premières années qui suivent l’entrée en fonction du Président.\nLa destitution est prononcée à la majorité des trois quarts (3/4) des membres du Conseil, dans les conditions déterminées par une loi organique.\nEn cas de destitution, le Conseil procède à l’élection d’un nouveau Président dans les conditions fixées par la loi organique. Le nouveau Président achève le mandat du Président destitué.\n"
+      },
+      "art-173": {
+       "label": "Article 173",
+       "kind": "art",
+       "text": "# Article 173\nL’organisation, les règles de fonctionnement et de désignation des membres du Conseil économique, social, environnemental et culturel sont fixées par une loi organique.\nTITRE VII : DE L’ORGANISATION DU TERRITOIRE\n"
+      },
+      "art-174": {
+       "label": "Article 174",
+       "kind": "art",
+       "text": "# Article 174\nL’organisation du territoire de la République repose sur les principes de déconcentration et de décentralisation.\nLe territoire est subdivisé en circonscriptions administratives et en Collectivités territoriales.\n"
+      },
+      "art-175": {
+       "label": "Article 175",
+       "kind": "art",
+       "text": "# Article 175\nLes Circonscriptions administratives constituent le cadre territorial de représentation et d’intervention de l’Etat.\n"
+      },
+      "art-176": {
+       "label": "Article 176",
+       "kind": "art",
+       "text": "# Article 176\nLes Collectivités territoriales constituent le cadre territorial de participation des populations à la gestion de leurs propres affaires.\nElles s’administrent librement par des Conseils élus, dans les conditions déterminées par la loi.\n"
+      },
+      "art-177": {
+       "label": "Article 177",
+       "kind": "art",
+       "text": "# Article 177\nLes Circonscriptions administratives et les Collectivités territoriales sont créées et supprimées par la loi.\n"
+      },
+      "art-178": {
+       "label": "Article 178",
+       "kind": "art",
+       "text": "# Article 178\nL’Etat veille au développement harmonieux des Collectivités territoriales, sur la base de la solidarité nationale.\nÀ cet effet, il peut attribuer, par la loi, pour une durée limitée, des compétences et des ressources exceptionnelles à un ou plusieurs niveaux de Collectivités territoriales, dans le respect de l’unité nationale et de l’intégrité du territoire.\nTITRE VIII : DES AUTORITES ET LEGITIMITES TRADITIONNELLES\n"
+      },
+      "art-179": {
+       "label": "Article 179",
+       "kind": "art",
+       "text": "# Article 179\nLes Autorités et Légitimités traditionnelles, gardiennes des valeurs de la société, contribuent au renforcement du vivre-ensemble et de la cohésion sociale, à la prévention et à la gestion des conflits.\nLes différentes catégories d’Autorités et de Légitimités traditionnelles, leurs rôles et les modalités de leur intervention sont déterminés par la loi.\nTITRE IX : DE L’UNITE AFRICAINE\n"
+      },
+      "art-180": {
+       "label": "Article 180",
+       "kind": "art",
+       "text": "# Article 180\nLa République du Mali peut conclure, avec tout Etat africain, des accords d’association ou d’intégration comprenant abandon partiel ou total de souveraineté en vue de réaliser l’unité africaine.\nTITRE X : DES TRAITES ET DES ACCORDS INTERNATIONAUX\n"
+      },
+      "art-181": {
+       "label": "Article 181",
+       "kind": "art",
+       "text": "# Article 181\nLe Président de la République négocie et ratifie les traités. Il est informé de toute négociation tendant à la conclusion d’un accord international non soumis à ratification.\n"
+      },
+      "art-182": {
+       "label": "Article 182",
+       "kind": "art",
+       "text": "# Article 182\nLes traités de paix, de commerce, les traités ou accords relatifs aux organisations internationales, ceux qui engagent les finances de l’Etat, ceux qui sont relatifs à l’état des personnes, ne peuvent être approuvés ou ratifiés qu’en vertu de la loi. Ils ne prennent effet qu’après avoir été approuvés ou ratifiés.\n"
+      },
+      "art-183": {
+       "label": "Article 183",
+       "kind": "art",
+       "text": "# Article 183\nLes traités ou accords régulièrement ratifiés ou approuvés ont, dès leur publication, une autorité supérieure à celle des lois, sous réserve, pour chaque traité ou accord, de son application par l’autre partie.\nTITRE XI : DE LA REVISION\n"
+      },
+      "art-184": {
+       "label": "Article 184",
+       "kind": "art",
+       "text": "# Article 184\nL’initiative de la révision de la Constitution appartient concurremment au Président de la République et aux membres du Parlement.\nLe projet ou la proposition de révision doit être adopté, en termes identiques, par les deux (02) Chambres du Parlement à la majorité des deux (2/3) tiers de leurs membres.\nLa révision n’est définitive qu’après avoir été approuvée par référendum.\n"
+      },
+      "art-185": {
+       "label": "Article 185",
+       "kind": "art",
+       "text": "# Article 185\nAucune procédure de révision ne peut être engagée ou poursuivie lorsqu’il est porté atteinte à l’intégrité du territoire.\nLa forme républicaine de l’Etat, la laïcité, le nombre de mandats du Président de la République et le multipartisme ne peuvent faire l’objet de révision.\nTITRE XII : DISPOSITIONS PARTICULIERES\n"
+      },
+      "art-186": {
+       "label": "Article 186",
+       "kind": "art",
+       "text": "# Article 186\nLe fondement de tout pouvoir, en République du Mali, réside dans la Constitution.\nLe Peuple a le droit à la désobéissance civile pour la préservation de la forme républicaine de l’Etat.\n"
+      },
+      "art-187": {
+       "label": "Article 187",
+       "kind": "art",
+       "text": "# Article 187\nTout coup d’Etat ou putsch est un crime imprescriptible contre le Peuple malien.\n"
+      },
+      "art-188": {
+       "label": "Article 188",
+       "kind": "art",
+       "text": "# Article 188\nLes faits antérieurs à la promulgation de la présente Constitution, couverts par des lois d’amnistie, ne peuvent, en aucun cas, faire l’objet de poursuite, d’instruction ou de jugement.\nTITRE XIII : DISPOSITIONS TRANSITOIRES\n"
+      },
+      "art-189": {
+       "label": "Article 189",
+       "kind": "art",
+       "text": "# Article 189\nLa législation en vigueur demeure valable dans la mesure où elle n’est pas contraire à la présente Constitution et où elle n’est pas l’objet d’une abrogation expresse.\n"
+      },
+      "art-190": {
+       "label": "Article 190",
+       "kind": "art",
+       "text": "# Article 190\nJusqu’à la mise en place des nouvelles institutions, les institutions établies continuent d’exercer leurs fonctions et attributions.\nToutefois, les activités de la Haute Cour de Justice prennent fin dès la promulgation de la présente Constitution.\nTITRE XIV : DISPOSITIONS FINALES\n"
+      },
+      "art-191": {
+       "label": "Article 191",
+       "kind": "art",
+       "text": "# Article 191\nLa présente Constitution sera soumise au référendum. Au cas où elle recueille la majorité des suffrages exprimés, le Président de la Transition, Chef de l’Etat, procède à sa promulgation dans les huit (08) jours suivant la proclamation des résultats définitifs du référendum par la Cour constitutionnelle.\n"
+      }
+     },
+     "credits": {},
+     "note": "Journal officiel, spécial n°13 du 22 juillet 2023."
+    }
+   ]
+  },
+  {
+   "slug": "donnees-personnelles",
+   "short": "Loi 2013-015",
+   "title": "Loi n°2013-015 du 21 mai 2013 portant protection des données à caractère personnel en République du Mali",
+   "url": "https://sgg-mali.ml/JO/2013/mali-jo-2013-26.pdf",
+   "first_law": "loi-2013-015",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "source_url": "https://sgg-mali.ml/JO/2013/mali-jo-2013-26.pdf",
+     "sha256": "b0c43fe4855f087c404b207b6bcdbbe25c2b69cc8a99c62994d88db603e6d7f4",
+     "units": {
+      "plan": {
+       "label": "Plan",
+       "kind": "other",
+       "text": "# Plan\nCHAPITRE I : DE L’OBJET (Article 1er)\n"
+      },
+      "art-001": {
+       "label": "Article 1er",
+       "kind": "art",
+       "text": "# Article 1er\nPar la présente loi, l’Etat du Mali assure à toute personne, physique ou morale, publique ou privée, la protection de ses données à caractère personnel, sans distinction de race, d’origine, de couleur, de sexe, d’âge, de langue, de religion, de fortune, de naissance, d’opinion, de nationalité ou autre.\nLa loi garantit que tout traitement, sous quelle que forme que ce soit, respecte les libertés et droits fondamentaux des personnes physiques. Elle prend également en compte les prérogatives de l’Etat, les droits des collectivités territoriales, les intérêts des entreprises et de la société civile.\n"
+      },
+      "art-002": {
+       "label": "Article 2",
+       "kind": "art",
+       "text": "# Article 2\nL’informatique doit être au service de chaque personne. Elle doit respecter l’identité humaine, les droits de l’homme, la vie privée, les libertés publiques et individuelles.\nToute personne a droit à la protection des données personnelles la concernant.\nAucune décision induisant des effets juridiques à l’égard d’une personne ne peut être prise sur le seul fondement d’un traitement informatique destiné à définir le profil de l’intéressé ou à évaluer certains aspects de sa personnalité.\nCHAPITRE II : DES DEFINITIONS\n"
+      },
+      "art-003": {
+       "label": "Article 3",
+       "kind": "art",
+       "text": "# Article 3\nAu sens de la présente loi, on entend par :\n1) Communication électronique : Emission, transmission ou réception de signes, de signaux, d’écrits, d’images ou de sons, par voie électronique ou magnétique.\n2) Copie temporaire : Donnée copiée temporairement dans un espace dédié, pour une durée limitée dans le temps, pour les besoins de fonctionnement du logiciel de traitement.\n3) Consentement de la personne concernée : toute manifestation de volonté expresse, non équivoque, libre, spécifique et informée par laquelle la personne concernée ou son représentant légal, judiciaire ou conventionnel, accepte que ses données à caractère personnel fassent l’objet d’un traitement.\n4) Destinataire d’un traitement de donnée à caractère personnel :\n- toute personne habilitée à recevoir communication de ces données autre que la personne concernée, le responsable du traitement, le sous-traitant et les personnes qui, en raison de leurs fonctions, sont chargés de traiter les données ;\n- les autorités légalement habilitées à demander au responsable du traitement de leur communiquer des données à caractère personnel, dans le cadre d’une mission particulière ou de l’exercice d’un droit de communication.\n5) Donnée à caractère personnel : Les données à caractère personnel ou données personnelles sont des informations existant sous diverses formes et permettant d’identifier directement ou indirectement une personne, par référence à un numéro d’immatriculation ou à un ou plusieurs éléments propres à son identité physique, physiologique, biométrique, génétique, psychique, culturelle, sociale ou économique.\nElles peuvent être des identifiants universels permettant de raccorder entre eux, plusieurs fichiers constituant des bases de données, ou de procéder à leur interconnexion.\n6) Donnée de l’état civil : elle sert, en plus de l’identification d’une personne physique, à faire la preuve de son appartenance à une famille.\n7) Donnée génétique : toute donnée concernant les caractères héréditaires d’un individu ou d’un groupe d’individus apparentés.\n8) Donnée nominative : elle correspond aux noms, prénoms, adresse physique ou électronique d’une personne, ses références de sécurité sociale, son numéro de carte de paiement ou de compte bancaire, de plaque d’immatriculation de véhicule, sa photo d’identité, son empreinte digitale ou son ADN.\n9) Donnée patrimoniale : elle est constituée d’un ensemble de données inter-reliées sous la forme de notices normalisées permettant de présenter de façon homogène et contrôlée l’essentiel des informations sur les œuvres collectées, à l’occasion des opérations d’inventaire, de recensement, d’étude ou de protection.\n10) Données professionnelles : elles concernent, entre autres, les prénoms et nom, adresses, numéro de téléphone, de fax, les localités et lieux de service, ainsi que des réponses aux formulaires de renseignements individuels ou collectifs.\n11) Donnée sensible : toute donnée à caractère personnel relative aux opinions ou activités religieuse, philosophique, politique, syndicale, à la vie sexuelle ou raciale, à la santé, aux mesures d’ordre social, aux poursuites, aux sanctions pénales ou administratives.\n12) Donnée sanitaire : toute information concernant l’état physique et mental d’une personne concernée, y compris ses données génétiques ou biologiques.\n13) Fichier de données à caractère personnel : tout ensemble structuré de données accessibles selon des critères déterminés, que cet ensemble soit centralisé, décentralisé ou réparti de manière fonctionnelle ou géographique.\n14) Interconnexion des données à caractère personnel : tout mécanisme de connexion consistant en la mise en relation de données traitées pour une finalité déterminée avec d’autres données traitées pour des finalités identiques ou non, ou liées par un ou plusieurs responsables de traitement.\n15) Pays tiers: tout Etat autre que le Mali.\n16) Personne concernée : toute personne qui fait l’objet d’un traitement de donnée à caractère personnel.\n17) Prospection directe : toute sollicitation effectuée au moyen de l’envoi de message, quel qu’en soit le support ou la nature notamment commerciale, politique ou caritative, destinée à promouvoir, directement ou indirectement, des biens, des services ou l’image d’une personne vendant des biens ou fournissant des services.\n18) Responsable de traitement : toute personne qui, seule ou conjointement avec d’autres, prend la décision de collecter et de traiter des données à caractère personnel et en détermine les finalités.\n19) Sous-traitant : toute personne physique ou morale, publique ou privée, tout autre organisme ou association qui traite des données pour le compte du responsable du traitement.\nLe ou les sous-traitants peuvent être considérés comme des délégués du ou des responsables de traitements constitués ou non en réseaux.\n20) Service à distance : toute prestation de service à valeur ajoutée, s’appuyant sur les télécommunications et/ou sur l’informatique, visant à permettre, de manière interactive et à distance, à une personne physique ou morale, publique ou privée, la possibilité d’effectuer des activités, démarches ou formalités.\n21) Tiers : toute personne physique ou morale, publique ou privée, tout autre organisme ou association autre que la personne concernée, le responsable du traitement, le sous-traitant et les personnes qui, placés sous l’autorité directe du responsable du traitement ou du sous-traitant, sont habilités à traiter les données.\n22) Traitement de donnée à caractère personnel : toute opération ou ensemble d’opérations effectuées à l’aide de procédés automatisés ou non et appliquées à des données, telles que la collecte, l’exploitation, l’enregistrement, l’organisation, la conservation, l’adaptation, la modification, l’extraction, la sauvegarde, la copie, la consultation, l’utilisation, la communication par transmission, la diffusion ou toute autre forme de mise à disposition, le rapprochement ou l’interconnexion, ainsi que le verrouillage, le cryptage, l’effacement ou la destruction des données à caractère personnel.\nCHAPITRE III : DU CHAMP D’APPLICATION\n"
+      },
+      "art-004": {
+       "label": "Article 4",
+       "kind": "art",
+       "text": "# Article 4\nLa loi s’applique à tout traitement de données à caractère personnel opéré en tout ou en partie sur le territoire national.\n"
+      },
+      "art-005": {
+       "label": "Article 5",
+       "kind": "art",
+       "text": "# Article 5\nSont soumis à la présente loi :\n1) tout traitement de données à caractère personnel par l’Etat, les collectivités territoriales, les organismes personnalisés, les personnes physiques et les personnes morales de droit privé;\n2) tout traitement mis en œuvre par un responsable, établi ou non sur le territoire national, à l’exclusion des moyens qui ne sont utilisés qu’à des fins de transit sur le territoire;\n3) tout traitement de données concernant la sécurité publique, la défense nationale, la recherche et la poursuite d’infractions pénales ou la sûreté de l’Etat, même liées à un intérêt économique ou financier’ important de l’Etat, sous réserve des dérogations prévues par la présente loi ou, le cas échéant, des dispositions spécifiques prévues par d’autres textes.\n"
+      },
+      "art-006": {
+       "label": "Article 6",
+       "kind": "art",
+       "text": "# Article 6\nSont exclus du champ d’application de la présente loi :\n1) les traitements de données mis en œuvre par une personne physique dans le cadre exclusif de ses activités personnelles ou domestiques, à condition toutefois que les données ne soient pas destinées à une communication systématique à des tiers ou à la diffusion ;\n2) les copies temporaires faites dans le cadre des activités techniques de transmission et de fourniture d’accès à un réseau numérique, en vue du stockage automatique, intermédiaire et transitoire des données et à la seule fin de permettre à d’autres destinataires du service le meilleur accès possible aux informations transmises.\nCHAPITRE IV : DES PRINCIPES\n"
+      },
+      "art-007": {
+       "label": "Article 7",
+       "kind": "art",
+       "text": "# Article 7\nLes données à caractère personnel doivent :\n- être collectées et traitées, de manière loyale, licite et non frauduleuse pour des finalités déterminées, explicites et légitimes ;\n- ne pas être utilisées pour d’autres finalités ;\n- être adéquates, proportionnées et pertinentes au regard des finalités pour lesquelles elles sont collectées ou utilisées ;\n- être exactes, complètes et si nécessaire mises à jour ;\n- être conservées sous une forme permettant l’identification des personnes concernées pendant une durée qui n’excède pas celle nécessaire aux finalités pour lesquelles elles sont collectées ou utilisées.\nCes dispositions ne s’opposent pas à la conservation et à l’utilisation des données traitées à des fins de gestion des archives ou à des fins historiques, statistiques ou scientifiques selon les modalités définies par la loi.\nSECTION 1 : DE L’OBLIGATION DE SECURITE ARTICLE 8 : Le responsable du traitement prend toutes les précautions utiles pour préserver la sécurité des données.\nIl doit empêcher notamment qu’elles soient déformées, endommagées ou que des tiers non autorisés y accèdent.\nLes autorités légalement habilitées dans le cadre d’une mission particulière d’enquête, telles que l’autorité judiciaire, la police judiciaire ou de contrôle peuvent demander au responsable du traitement de leur communiquer des données personnelles.\nLe sous-traitant doit présenter des garanties suffisantes pour assurer la mise en œuvre des mesures de sécurité et de confidentialité. Cette exigence n’exonère pas le responsable du traitement de son obligation de veiller au respect de ces mesures.\nSECTION 2 : DES DONNEES SENSIBLES\n"
+      },
+      "art-009": {
+       "label": "Article 9",
+       "kind": "art",
+       "text": "# Article 9\nTout traitement portant sur les données sensibles est interdit en raison des risques de discrimination et d’atteinte aux droits et libertés des personnes.\nPar dérogation à l’alinéa précédent, les données sensibles peuvent faire l’objet d’un traitement présentant des garanties appropriées définies par l’Autorité en charge de la protection des données à caractère personnel, si le traitement :\n- est nécessaire ou est mis en œuvre pour la sauvegarde de la Vie de la personne concernée ou d’un tiers, lorsque la personne concernée ne peut donner son consentement, du fait d’une incapacité juridique ou d’une impossibilité matérielle ;\n- est mis en œuvre par une association ou tout autre organisme à but non lucratif et à caractère religieux, philosophique, politique ou syndical qui ont pour seule finalité la gestion de leurs membres ;\n- est nécessaire à la constatation, à l’exercice ou à la défense d’un droit en justice.\nSECTION 3 : DES TRAITEMENTS D’INFRACTION OU DE CONDAMNATION\n"
+      },
+      "art-010": {
+       "label": "Article 10",
+       "kind": "art",
+       "text": "# Article 10\nLes traitements de données à caractère personnel relatives aux infractions et condamnations peuvent exclusivement être mis en œuvre par :\n- les juridictions et autorités publiques gérant un service public agissant dans le cadre de leurs attributions légales ;\n- les auxiliaires de justice, pour le strict besoin de l’exercice des missions qui leur sont confiées par la loi ;\n- les autres personnes morales, pour le strict besoin de la gestion des contentieux relatifs aux infractions dont elles ont été victimes.\nSECTION 4 : DU TRANSFERT DE DONNEES PERSONNELLES A L’ETRANGER\n"
+      },
+      "art-011": {
+       "label": "Article 11",
+       "kind": "art",
+       "text": "# Article 11\nLe responsable d’un traitement peut transférer des données personnelles vers un Etat étranger :\n- lorsque l’Etat destinataire assure un niveau suffisant de protection des personnes, constaté par l’Autorité en charge de la protection des données à caractère personnel, en raison de sa législation interne ou des engagements pris au niveau international et que ces mesures sont effectivement appliquées ;\n- par décision de l’Autorité en charge de la protection des données à caractère personnel, lorsque le transfert et le traitement par le destinataire de données personnelles garantissent un niveau de protection suffisant de la vie privée ainsi que des libertés et droits fondamentaux des personnes, notamment en raison des clauses contractuelles ou règles internes dont il fait l’objet.\nCHAPITRE V : DES DROITS DES PERSONNES EN MATIERE DE TRAITEMENT DE DONNEES\nSECTION 1 : DU DROIT D’ACCES ET DE RECTIFICATION DIRECTS\n"
+      },
+      "art-012": {
+       "label": "Article 12",
+       "kind": "art",
+       "text": "# Article 12\nToute personne a le droit d’obtenir du responsable d’un traitement:\n- la communication, sous une forme compréhensible, de l’ensemble des données qui la concernent ainsi que de toute information disponible quant à leur origine ;\n- les informations et les raisonnements utilisés dans les traitements informatisés dont les résultats lui sont opposés.\nLe demandeur exerce gratuitement son droit d’accès sur place ou à distance. Il est fait droit à sa demande sans délai.\nUne copie des données le concernant, conforme au contenu du traitement, est délivrée à l’intéressé à sa demande.\nEn cas de risque de dissimulation ou de disparition des données, l’Autorité en charge de la protection des données à caractère personnel peut ordonner toute mesure appropriée à cet effet.\n"
+      },
+      "art-013": {
+       "label": "Article 13",
+       "kind": "art",
+       "text": "# Article 13\nToute personne justifiant de son identité peut exiger du responsable d’un traitement que soient, selon les cas, rectifiées, complétées, mises à jour, verrouillées ou supprimées les données à caractère personnel la concernant, qui sont inexactes, incomplètes, équivoques, périmées, ou dont la collecte, l’utilisation, la communication ou la conservation est interdite.\nLorsque l’intéressé en fait la demande par écrit, quel que soit le support, le responsable du traitement doit justifier, sans frais pour le demandeur, qu’il a procédé aux opérations exigées en vertu de l’alinéa précédent dans un délai de trente (30) jours, après l’enregistrement de la demande.\nEn cas de contestation, la charge de la preuve incombe au responsable du traitement auprès duquel est exercé le droit d’accès.\nLorsqu’une donnée a été transmise à un tiers, le responsable du traitement doit accomplir les diligences utiles afin de lui notifier les opérations qu’il a effectuées conformément à l’alinéa 1er du présent article.\nSECTION 2 : DU DROIT D’ACCES ET DE RECTIFICATION INDIRECTS\n"
+      },
+      "art-014": {
+       "label": "Article 14",
+       "kind": "art",
+       "text": "# Article 14\nLorsqu’un traitement intéresse la sûreté de l’État, la défense ou la sécurité publique, les droits d’accès et de rectification aux données s’exercent de façon indirecte.\nDans ce cas, la demande est adressée à l’Autorité en charge de la protection des données à caractère personnel qui désigne un de ses membres pour mener les investigations utiles, en vue de faire procéder aux modifications nécessaires.\nLorsque l’Autorité en charge de la protection des données à caractère personnel constate, en accord avec le responsable du traitement, que la communication des données qui y sont contenues ne met pas en cause la sûreté de l’État, la défense ou la sécurité publique, ces données sont communiquées au requérant. Il est notifié, le cas échéant au requérant, qu’il a été procédé aux vérifications.\nSECTIQN 3 : DU DROIT DE S’INFORMER\n"
+      },
+      "art-015": {
+       "label": "Article 15",
+       "kind": "art",
+       "text": "# Article 15\nLorsque des données à caractère personnel sont collectées directement auprès d’une personne concernée, le responsable du traitement doit fournir à celle-ci, lors de la collecte et quels que soient les moyens et supports employés, les informations suivantes :\n1) l’identité du responsable du traitement et, le cas échéant, de son représentant ;\n2) la ou les finalités déterminées du traitement auquel les données sont destinées ;\n3) les catégories de données concernées ;\n4) le ou les destinataires ou les catégories de destinataires auxquels les données sont susceptibles d’être communiquées ;\n5) le fait de savoir si la réponse aux questions est obligatoire ou facultative ainsi que les conséquences éventuelles d’un défaut de réponse ;\n6) le fait de pouvoir demander à ne plus figurer sur le fichier ;\n7) l’existence d’un droit d’accès aux données la concernant et de rectification de ces données ;\n8) la durée de conservation des données ;\n9) le cas échéant, des transferts de données à caractère personnel envisagés à destination de l’étranger.\n"
+      },
+      "art-016": {
+       "label": "Article 16",
+       "kind": "art",
+       "text": "# Article 16\nLorsque les données à caractère personnel ne sont pas collectées auprès de la personne concernée, les informations sont transmises à l’intéressée conformément à l’article 15 de la présente loi.\n"
+      },
+      "art-017": {
+       "label": "Article 17",
+       "kind": "art",
+       "text": "# Article 17\nLes dispositions de l’article 15 de la présente loi ne s’appliquent pas :\n1) aux données recueillies et utilisées lors d’un traitement effectué par l’Etat ou pour son compte et intéressant la sûreté de l’Etat, la défense nationale, la sécurité publique ou ayant pour objet l’exécution de condamnations pénales ou de mesures de sûreté, dans la mesure où une telle limitation est nécessaire au respect des fins poursuivies par le traitement ;\n2) lorsque le traitement est nécessaire à la prévention, la recherche, la constatation et la poursuite de toute infraction ;\n3) lorsque le traitement est nécessaire à la prise en compte d’un intérêt économique ou financier important de l’Etat, y compris dans les domaines monétaire, budgétaire, douanier et fiscal, de façon générale toute mission d’intérêt public.\n"
+      },
+      "art-018": {
+       "label": "Article 18",
+       "kind": "art",
+       "text": "# Article 18\nToute personne utilisatrice des réseaux de communication électronique doit être informée de manière claire et complète par le responsable du traitement ou son représentant :\n- de la finalité de toute action tendant à accéder, par voie de transmission électronique, à des informations stockées dans son équipement terminal de connexion, ou à inscrire, par la même voie, des informations dans son équipement terminal de connexion ;\n- des moyens dont elle dispose pour s’y opposer.\nCes dispositions ne sont pas applicables dans les cas suivants :\n- si l’accès aux informations stockées dans l’équipement terminal de l’utilisateur ou l’inscription d’informations dans l’équipement de l’utilisateur a pour finalité exclusive de permettre ou faciliter la communication par voie électronique ;\n- ou si l’accès est strictement nécessaire à la fourniture d’un service de communication en ligne, à la demande expresse de l’utilisateur.\nSECTION 4 : DU DROIT DE S’OPPOSER A FIGURER DANS UN TRAITEMENT\n"
+      },
+      "art-019": {
+       "label": "Article 19",
+       "kind": "art",
+       "text": "# Article 19\nToute personne physique ou morale a le droit de s’opposer, pour des motifs légitimes, à ce que des données à caractère personnel la concernant fassent l’objet d’un traitement. Elle a le droit, d’une part, d’être informée avant que ces données ne soient pour la première fois communiquées à des tiers ou utilisées pour le compte de tiers à des fins de prospection et, d’autre part, d’être expressément informée sans frais, de son droit de s’opposer à ladite communication ou utilisation.\nCHAPITRE VI : DE L’AUTORITE DE PROTECTION DES DONNEES A CARACTERE PERSONNEL\nSECTION 1 : DE L’INSTITUTION, DE LA COMPOSITION ET DE L’ORGANISATION\n"
+      },
+      "art-020": {
+       "label": "Article 20",
+       "kind": "art",
+       "text": "# Article 20\nIl est institué une autorité administrative indépendante dénommée Autorité de Protection des Données à Caractère Personnel, en abrégé (APDP).\n"
+      },
+      "art-021": {
+       "label": "Article 21",
+       "kind": "art",
+       "text": "# Article 21\nL’Autorité comprend un organe délibérant collégial composée de quinze (15) membres désignés pour un mandat de sept (7) ans non renouvelable, ainsi qu’il suit :\n- Deux (2) personnalités qualifiées désignées par le Président de la République ;\n- Deux (2) députés désignés par l’Assemblée Nationale à raison d’un Député pour la majorité et un Député pour l’opposition ;\n- Deux (2) Conseillers Nationaux désignés par le Haut Conseil des Collectivités Territoriales ;\n- Une (1) personnalité qualifiée désignée par le Ministre chargé de l’Etat Civil ;\n- Une (1) personnalité qualifiée désignée par le Ministre chargé de la Sécurité Intérieure ;\n- Une (1) personnalité qualifiée désignée par le Ministre chargé de l’Informatique ;\n- Deux (2) Magistrats dont un (1) de l’Ordre Judiciaire et un (1) de l’Ordre Administratif, désignés par la Cour Suprême ;\n- Deux (2) représentants qualifiés désignés par la Commission Nationale des Droits de l’Homme ;\n- Une (1) représentante qualifiée désignée par la Coordination des Associations et ONG Féminines ;\n- Un (1) représentant qualifié désigné par le Conseil National de la Société Civile.\n"
+      },
+      "art-022": {
+       "label": "Article 22",
+       "kind": "art",
+       "text": "# Article 22\nLa qualité de membre de l’Autorité de Protection des Données à Caractère Personnel est incompatible avec celle de membre du Gouvernement ou de toute fonction de direction au sein d’une structure publique ou privée.\nSi un membre de l’Autorité de Protection des Données à Caractère Personnel se trouve dans l’une des incompatibilités prévues à l’alinéa précédent, l’intéressé dispose d’un délai de trente (30) jours pour opter entre son ancienne fonction et celle de membre de l’Autorité. A défaut de cette option, le Président de l’Autorité prend les mesures nécessaires en vue du respect des présentes dispositions.\n"
+      },
+      "art-023": {
+       "label": "Article 23",
+       "kind": "art",
+       "text": "# Article 23\nLes modalités de désignation des membres de l’Autorité de Protection des Données à caractère Personnel sont celles fixées par le statut de la structure de provenance de chaque membre.\n"
+      },
+      "art-024": {
+       "label": "Article 24",
+       "kind": "art",
+       "text": "# Article 24\nLa liste nominative des membres de l’Autorité de Protection des Données à caractère Personnel est fixée par décret pris en Conseil des Ministres sur proposition du Premier ministre.\n"
+      },
+      "art-025": {
+       "label": "Article 25",
+       "kind": "art",
+       "text": "# Article 25\nLes membres de l’Autorité de Protection des Données à Caractère Personnel sont tenus au secret professionnel conformément aux textes en vigueur.\n"
+      },
+      "art-026": {
+       "label": "Article 26",
+       "kind": "art",
+       "text": "# Article 26\nL’Autorité établit son règlement intérieur et peut déléguer certaines de ses attributions à son président.\nLes matières soumises à cette délégation doivent se limiter aux strictes fonctions d’administration et de gestion nécessitées par les circonstances et ne jamais porter atteinte aux prérogatives essentielles de l’Autorité.\n"
+      },
+      "art-027": {
+       "label": "Article 27",
+       "kind": "art",
+       "text": "# Article 27\nDans le cadre de ses missions, l’Autorité ne reçoit ni d’injonction, ni d’instruction, directement ou par l’intermédiaire de ses membres, d’aucune autre autorité.\n"
+      },
+      "art-028": {
+       "label": "Article 28",
+       "kind": "art",
+       "text": "# Article 28\nIl est alloué annuellement à l’Autorité des ressources nécessaires à son fonctionnement. Ces ressources sont inscrites au budget de l’Etat.\nL’Autorité peut recevoir des subventions de la part d’organisations internationales dont l’Etat est membre.\nLe Président de l’Autorité est ordonnateur du budget.\nUn décret pris en Conseil des Ministres fixe le mode de rémunération des membres de l’Autorité, sur proposition du Premier ministre.\n"
+      },
+      "art-029": {
+       "label": "Article 29",
+       "kind": "art",
+       "text": "# Article 29\nLes comptes de l’Autorité de Protection des Données à Caractère Personnel sont soumis aux contrôles administratifs et juridictionnels prévus par la réglementation en vigueur.\nL’Autorité de Protection des Données à Caractère Personnel dépose au plus tard le 31 mars de chaque année ses comptes annuels de l’exercice précédent au niveau de la section des comptes de la Cour Suprême et le cas échéant, la juridiction qui la remplace.\n"
+      },
+      "art-030": {
+       "label": "Article 30",
+       "kind": "art",
+       "text": "# Article 30\nL’Autorité de Protection des Données à Caractère Personnel est dirigée par un bureau de cinq (5) membres, élus en son sein, dont un Président.\nLe président est assisté de deux (2) Vice-présidents et de deux (2) rapporteurs. Le Président, les vice-présidents et les rapporteurs sont élus dans les mêmes conditions, au scrutin majoritaire à deux tours des membres de l’Autorité. Si la majorité absolue n’est pas acquise au premier tour, la majorité simple suffit au second tour du scrutin.\nLe vote est personnel et secret. Toutefois, en toutes matières, un membre de l’autorité absent ou empêché peut donner à un collègue une procuration dûment légalisée.\nLes procurations données par les membres de l’Autorité de Protection des Données à caractère Personnel sont soumises au régime général des procurations. Nul membre de l’autorité ne peut être porteur de plus d’une procuration.\nSECTION 2 : DES MISSIONS\n"
+      },
+      "art-031": {
+       "label": "Article 31",
+       "kind": "art",
+       "text": "# Article 31\nL’Autorité de Protection des Données à Caractère Personnel a pour mission d’assurer la protection des données à caractère personnel et de participer à la règlementation du Secteur.\nA ce titre, elle est chargée de :\n- fixer les normes et finalités de la collecte, du traitement ou de la conservation des données personnelles ;\n- donner l’autorisation préalable sous forme d’agrément à toute interconnexion de données ;\n- autoriser le transfert de données ;\n- informer et conseiller les personnes concernées et les responsables du traitement de leurs droits et obligations ;\n- s’assurer que les traitements ne puissent comporter de menaces à l’égard des données relatives à la vie privée ;\n- recevoir les réclamations relatives à la mise en œuvre des traitements des données à caractère personnel ;\n- procéder aux contrôles nécessaires du traitement régulier des données à caractère personnel ;\n- infliger des sanctions administratives à l’égard de tout responsable de traitement en cas de manquement à ses obligations ;\n- saisir sans délai le Procureur de la République compétent des infractions dont elle a connaissance sur la manipulation frauduleuse de données à caractère personnel ;\n- tenir le répertoire des traitements des données à caractère personnel à la disposition du public ;\n- donner son avis sur tout projet de loi ou de décret relatif à la protection des données à caractère personnel ;\n- demander au Gouvernement de procéder à toute modification nécessaire des textes, ou de prendre, le cas échéant, tout nouveau texte nécessaire à la saine protection des données à caractère personnel.\n"
+      },
+      "art-032": {
+       "label": "Article 32",
+       "kind": "art",
+       "text": "# Article 32\nL’Autorité de Protection des Données à Caractère Personnel est associée à la préparation et à la définition de la position malienne dans toute négociation internationale intéressant le domaine de la protection des données à caractère personnel. Elle participe à la représentation malienne dans les Organisations Internationales et Communautaires compétentes en ce domaine.\n"
+      },
+      "art-033": {
+       "label": "Article 33",
+       "kind": "art",
+       "text": "# Article 33\nL’Autorité reçoit les déclarations de création des traitements informatiques, les autorise ou donne son avis dans les cas prévus par la présente loi et tient à la disposition du public la liste des traitements qui ont fait l’objet d’une déclaration ou d’une autorisation.\n"
+      },
+      "art-034": {
+       "label": "Article 34",
+       "kind": "art",
+       "text": "# Article 34\nL’Autorité reçoit et instruit les plaintes en rapport avec sa mission.\nElle informe, par tout moyen qu’elle juge approprié les autorités publiques. Les organismes privés et les représentants de la société civile des décisions et avis qu’elle rend au regard de la protection des libertés.\nElle peut décider de missions d’information ou de contrôle sur place.\n"
+      },
+      "art-035": {
+       "label": "Article 35",
+       "kind": "art",
+       "text": "# Article 35\nL’Autorité décide des mesures de publicité les plus appropriées s’agissant des décisions d’autorisation, des recommandations, des normes d’exonération, des sanctions et des dénonciations qu’elle adopte.\n"
+      },
+      "art-036": {
+       "label": "Article 36",
+       "kind": "art",
+       "text": "# Article 36\nL’Autorité établit chaque année un rapport d’activité qu’elle remet au Premier Ministre au plus tard à la fin du premier trimestre de chaque année. Ce rapport est publié au Journal officiel.\n"
+      },
+      "art-037": {
+       "label": "Article 37",
+       "kind": "art",
+       "text": "# Article 37\nLes Ministres, autorités publiques, dirigeants d’établissements ou d’entreprises publics ou privés, responsables de groupements divers et plus généralement les détenteurs ou utilisateurs de traitements ou de fichiers de données personnelles ne peuvent s’opposer à l’action de l’Autorité et doivent prendre toutes mesures utiles afin de faciliter sa tâche.\n"
+      },
+      "art-038": {
+       "label": "Article 38",
+       "kind": "art",
+       "text": "# Article 38\nAucun membre de l’Autorité de Protection des Données Personnelles ne peut être poursuivi, recherché ou jugé pour des opinions émises par lui lors des séances de l’Autorité.\nLes membres de l’Autorité de Protection des Données Personnelles ont droit, conformément aux règles fixées par le Code Pénal et les Lois Spéciales, à une protection contre les menaces, outrages, injures, ou diffamations dont ils peuvent être l’objet dans l’exercice de leur fonction.\nIls ont droit à la réparation, le cas échéant, des préjudices qu’ils subissent à cet effet.\nSECTION 3 : DES MODALITES DE FONCTIONNEMENT DE L’AUTORITE DE PROTECTION DES DONNEES A CARACTERE PERSONNEL\n"
+      },
+      "art-039": {
+       "label": "Article 39",
+       "kind": "art",
+       "text": "# Article 39\nL’Autorité de Protection des Données à Caractère Personnel se réunit de plein droit, en session ordinaire, deux (2) fois par an.\nToutefois, elle peut se réunir en session extraordinaire à la demande de son Président ou de la moitié de ses membres.\nLes séances ne sont pas publiques.\n"
+      },
+      "art-040": {
+       "label": "Article 40",
+       "kind": "art",
+       "text": "# Article 40\nLes sessions sont convoquées par le Président de l’Autorité qui assure la police des séances.\nToutefois, la séance inaugurale est convoquée par le Premier Ministre et présidée par le doyen d’âge, jusqu’à l’élection du président de l’Autorité.\n"
+      },
+      "art-041": {
+       "label": "Article 41",
+       "kind": "art",
+       "text": "# Article 41\nLa durée des sessions ordinaires ne peut excéder dix (l 0) jours.\n"
+      },
+      "art-042": {
+       "label": "Article 42",
+       "kind": "art",
+       "text": "# Article 42\nLa durée des sessions extraordinaires ne peut excéder cinq (5) jours.\n"
+      },
+      "art-043": {
+       "label": "Article 43",
+       "kind": "art",
+       "text": "# Article 43\nLes sessions sont convoquées pour un ordre du jour précis et limité. Elles sont préparées par le Président de l’Autorité qui dispose d’un Secrétariat à cet effet. Ce Secrétariat est celui de l’Autorité de Protection des Données à Caractère Personnel.\n"
+      },
+      "art-044": {
+       "label": "Article 44",
+       "kind": "art",
+       "text": "# Article 44\nLes décisions de l’Autorité de Protection des Données à Caractère Personnel sont constatées par des délibérations ou des procès-verbaux.\nToutefois, les décisions à caractère règlementaire du collège sont constatées uniquement par délibération de l’Autorité qui dispose de toutes les prérogatives de puissance publique reconnues à l’administration.\n"
+      },
+      "art-045": {
+       "label": "Article 45",
+       "kind": "art",
+       "text": "# Article 45\nLe Président de l’Autorité représente celle-ci dans la vie civile et en justice. Il dispose du pouvoir règlementaire. A ce titre, il prend des décisions et d’autres catégories d’actes règlementaires.\n"
+      },
+      "art-046": {
+       "label": "Article 46",
+       "kind": "art",
+       "text": "# Article 46\nLe Président de l’Autorité délivre aux usagers un récépissé constatant toute demande ou réclamation formulée dont est saisie l’Autorité.\nCe récépissé mentionne l’objet de la demande ou de la réclamation et les engagements de l’usager.\n"
+      },
+      "art-047": {
+       "label": "Article 47",
+       "kind": "art",
+       "text": "# Article 47\nL’Autorité de Protection des Données à Caractère Personnel prend ses décisions à la majorité des 2/3 de ses membres.\n"
+      },
+      "art-048": {
+       "label": "Article 48",
+       "kind": "art",
+       "text": "# Article 48\nLes actes de l’Autorité sont des actes administratifs susceptibles de recours administratif et juridictionnel.\nLe recours gracieux est exercé au niveau du Président de l’Autorité.\n"
+      },
+      "art-049": {
+       "label": "Article 49",
+       "kind": "art",
+       "text": "# Article 49\nL’Autorité de Protection des Données à Caractère Personnel adopte son règlement intérieur dès sa session inaugurale.\n"
+      },
+      "art-050": {
+       "label": "Article 50",
+       "kind": "art",
+       "text": "# Article 50\nLes membres de l’Autorité de Protection des Données à Caractère Personnel perçoivent des indemnités de session et des indemnités de déplacement, dans l’accomplissement de leur mission.\n"
+      },
+      "art-051": {
+       "label": "Article 51",
+       "kind": "art",
+       "text": "# Article 51\nUne délibération de l’Autorité de Protection des Données à Caractère Personnel fixe, dans les limites des moyens financiers mis à sa disposition, le montant journalier des indemnités prévues à l’article 50 précédent. Ce montant tient compte des barèmes habituellement pratiqués au niveau des Institutions similaires.\n"
+      },
+      "art-052": {
+       "label": "Article 52",
+       "kind": "art",
+       "text": "# Article 52\nL’Etat met à la disposition de l’Autorité de Protection des Données à Caractère Personnel les moyens matériels et humains nécessaires à l’accomplissement de sa mission.\nCHAPITRE VII : DES RAPPORTS DE L’AUTORITE DE PROTECTION DES DONNEES A CARACTERE PERSONNEL AVEC LES RESPONSABLES DE TRAITEMENT DES DONNEES ET LES USAGERS ORDINAIRES\n"
+      },
+      "art-053": {
+       "label": "Article 53",
+       "kind": "art",
+       "text": "# Article 53\nL’Autorité de Protection des Données à Caractère Personnel assure la coordination et le contrôle du traitement des données personnelles sur toute l’étendue du territoire national.\n"
+      },
+      "art-054": {
+       "label": "Article 54",
+       "kind": "art",
+       "text": "# Article 54\nLes confessions religieuses, les partis politiques ou les syndicats peuvent tenir registre de leurs membres ou de leurs correspondants sous forme de données informatisées qui échappent au contrôle de l’Autorité de Protection des Données à caractère Personnel.\n"
+      },
+      "art-055": {
+       "label": "Article 55",
+       "kind": "art",
+       "text": "# Article 55\nLe traitement des données des juridictions, des autorités publiques agissant dans le cadre de leurs attributions légales, des organismes publics personnalisés, des collectivités territoriales ne sont pas soumis d’office à l’obligation de déclaration de leurs opérations de traitement de données en vertu de leur statut.\nLes responsables de traitement des données agissant pour le compte des organismes publics personnalisés et des collectivités territoriales ne sont soumis à l’obligation de déclaration de leurs opérations de traitement qu’à la condition d’une signature de convention entre l’Autorité de Protection des Données à caractère Personnel et les Autorités responsables desdits organismes.\nToutefois, l’Autorité dispose à l’égard des organismes personnalisés et des collectivités territoriales de tous les moyens de contrôle sur des données détenues à leur niveau.\nCHAPITRE VIII : DES SANCTIONS\n"
+      },
+      "art-056": {
+       "label": "Article 56",
+       "kind": "art",
+       "text": "# Article 56\nSans préjudice des pouvoirs des autres autorités de poursuite en matière d’infraction, le Président de l’Autorité de Protection des Données à Caractère Personnel dénonce devant le Procureur de la République tout usager en infraction vis à vis de la loi dans le domaine des données à caractère personnel, ou porte plainte contre l’intéressé devant les juridictions compétentes, pour l’application des sanctions pénales prévues par la législation en Vigueur.\n"
+      },
+      "art-057": {
+       "label": "Article 57",
+       "kind": "art",
+       "text": "# Article 57\nLes responsables de traitement de données déclarent à l’Autorité de Protection les opérations qu’ils comptent effectuer pour une finalité donnée.\nSi cette formalité a été omise de mauvaise foi, l’Autorité de Protection inflige au Responsable de traitement des données en cause, la sanction administrative appropriée qu’elle apprécie, en fonction de la gravité de la faute.\n"
+      },
+      "art-058": {
+       "label": "Article 58",
+       "kind": "art",
+       "text": "# Article 58\nSauf disposition particulière prévue par la présente loi en matière d’informatique, la qualification des infractions et les peines qui leur sont applicables sont celles définies par le Code pénal, le Code des personnes et de la famille, la loi électorale et les autres lois qui instituent des infractions dans le domaine de la protection des données à caractère personnel.\nLa procédure suivie pour la répression des infractions est celle fixée par le Code de Procédure Pénale.\n"
+      },
+      "art-059": {
+       "label": "Article 59",
+       "kind": "art",
+       "text": "# Article 59\nSans préjudice des sanctions pénales, l’Autorité de Protection des Données à Caractère Personnel inflige les sanctions administratives et pécuniaires découlant de l’application de la présente loi et peut instituer, par des règlements légalement faits, des contraventions de simple police.\n"
+      },
+      "art-060": {
+       "label": "Article 60",
+       "kind": "art",
+       "text": "# Article 60\nL’action civile est soumise aux conditions fixées par le Code de Procédure Civile, Commerciale et Sociale et le Régime Général des Obligations en République du Mali.\n"
+      },
+      "art-061": {
+       "label": "Article 61",
+       "kind": "art",
+       "text": "# Article 61\nLes sanctions administratives instituées par la présente loi sont :\n- l’avertissement à l’encontre de tout responsable de traitement de donnée de bonne foi qui n’a pas observé les formalités administratives de collecte, de traitement et de gestion des données prévues par la présente loi ou par les actes règlementaires de l’ Autorité de Protection des Données à caractère Personnel ;\n- la mise en demeure du responsable de traitement de donnée fautif, à l’effet de l’amener à se conformer aux textes ;\n- l’injonction de cesser les activités de traitement des données à caractère personnel à l’encontre de tout responsable de traitement de donnée, en cas de faute ;\n- le retrait d’agrément à tout responsable de traitement de données en cas de nécessité constatée par l’Autorité de Protection.\n"
+      },
+      "art-062": {
+       "label": "Article 62",
+       "kind": "art",
+       "text": "# Article 62\nDans les cas prévus à l’article 61 précédent, l’Autorité de Protection des Données à Caractère Personnel peut user de tous les moyens techniques en sa possession pour assurer l’exécution d’office de sa décision.\n"
+      },
+      "art-063": {
+       "label": "Article 63",
+       "kind": "art",
+       "text": "# Article 63\nLes décisions de sanctions administratives sont motivées, à peine de nullité et notifiées aux intéressés.\n"
+      },
+      "art-064": {
+       "label": "Article 64",
+       "kind": "art",
+       "text": "# Article 64\nOutre les sanctions pénales privatives de liberté, des sanctions pécuniaires pourront être infligées à tout contrevenant, conformément aux dispositions des articles 65, 66 et 67 ci-dessous de la présente loi.\n"
+      },
+      "art-065": {
+       "label": "Article 65",
+       "kind": "art",
+       "text": "# Article 65\nSont punis d’une amende de cinq millions (5.000.000) à vingt millions (20.000.000) de francs :\n1) le fait de communiquer à des tiers non autorisés ou d’accéder sans autorisation ou de façon illicite aux données personnelles mettant en cause les droits fondamentaux et les libertés individuelles ou la vie privée ;\n2) le détournement de finalité ou toute modification de finalité d’une collecte ou d’un traitement de donnée personnelle, sans autorisation expresse et motivée de l’Autorité de Protection des Données à Caractère Personnel ;\n3) le fait de collecter des données par un moyen frauduleux, déloyal ou illicite ou de procéder à un traitement d’informations nominatives concernant une personne physique malgré son opposition, lorsque cette opposition est fondée sur des raisons légitimes liées à ses droits fondamentaux ou à sa vie privée ;\n4) le traitement automatisé de données à caractère personnel nominatives ayant pour fin la recherche dans le domaine de la santé, en violation des lois et règlements ;\n5) le fait, hors les cas prévus par la loi, de mettre ou de conserver en mémoire informatisée des données nominatives concernant des infractions, des condamnations ou des mesures de sureté nationale.\nLa présente infraction est applicable aux fichiers non automatisés ou mécanographiques dont l’usage ne relève pas exclusivement de l’exercice du droit à la vie privée ;\n1) le fait, par toute personne, de recueillir, à l’occasion de l’enregistrement, du classement, de la transmission ou d’une autre forme de traitement, des informations nominatives dont la divulgation a pour effet de porter atteinte à l’honneur et à la considération de l’intéressé ou à l’intimité de sa vie privée, de porter sans autorisation de l’intéressé lesdites informations à la connaissance d’un tiers qui n’a pas de qualité pour les recevoir ;\n2) le fait d’entraver l’action de l’Autorité de Protection des Données à Caractère Personnel ;\n* soit en s’opposant aux vérifications sur place ;\n* soit en refusant de communiquer à ses membres ou à ses agents les renseignements et documents utiles à la mission qui leur est confiée, en dissimulant ou en faisant disparaitre lesdits documents.\n"
+      },
+      "art-066": {
+       "label": "Article 66",
+       "kind": "art",
+       "text": "# Article 66\nSont punis d’une amende de deux millions cinq cent mille (2.500.000) à dix millions (10.000.000) de francs :\n1) le fait de procéder ou de faire procéder à un traitement automatisé d’informations nominatives sans prendre toutes les précautions pour préserver la sécurité desdites informations, notamment en évitant qu’elles ne soient déformées ou endommagées ;\n2) le fait de mettre ou de conserver en mémoire informatisée, sans l’accord préalable de l’intéressé, des données nominatives qui, directement ou indirectement, font apparaitre les origines raciales, ethniques, les opinions politique, philosophique, religieuse ou l’appartenance syndicale.\n"
+      },
+      "art-067": {
+       "label": "Article 67",
+       "kind": "art",
+       "text": "# Article 67\nDans tous les cas de sanction pécuniaire, l’Autorité de Protection des Données à Caractère Personnel pourra engager une transaction avec le contrevenant, à la demande de celui-ci, à condition de respecter les barèmes fixés par la loi.\nCHAPITRE IX : DES DISPOSITIONS TRANSITOIRES ARTICLE 68 : Les services publics et les personnes physiques ou morales dont l’activité consistait, avant la date de promulgation de la présente loi à effectuer, à titre principal ou accessoire, des traitements de données à caractère personnel disposent d’un délai maximum de six (6) mois, pour se conformer aux dispositions de la présente loi.\nA défaut de cette régularisation dans le délai précité, leurs activités sont réputées contraires aux dispositions de la présente loi et ils devront cesser lesdites activités sans délai, faute de quoi, les contrevenants s’exposeront aux sanctions prévues par la loi.\nCHAPITRE X : DES DISPOSITIONS FINALES\n"
+      },
+      "art-069": {
+       "label": "Article 69",
+       "kind": "art",
+       "text": "# Article 69\nLes dispositions pratiques de mise en œuvre des données à caractère personnel non prévues .par la présente loi seront suppléées par délibération de l’Autorité de Protection des Données à Caractère Personnel, en conformité avec l’esprit de la loi.\n"
+      }
+     },
+     "credits": {},
+     "note": "Journal officiel n°26 du 28 juin 2013, p. 1002."
+    },
+    {
+     "from": "2017-12-29",
+     "source_url": "https://sgg-mali.ml/JO/2017/mali-jo-2017-53.pdf",
+     "sha256": "7b6ea682f7c50a942d67de939c9c2d96a1605d192f4b4755a48a0fe198e86735",
+     "changes": {
+      "art-021": {
+       "label": "Article 21",
+       "kind": "art",
+       "text": "# Article 21\nL’Autorité comprend un organe délibérant collégial composé de quinze (15) membres désignés pour un mandat de sept (07) ans non renouvelable ainsi qu’il suit :\n- Deux (2) personnalités qualifiées désignées par le Président de la République ;\n- Deux (2) députés désignés par l’Assemblée Nationale à raison d’un député pour la majorité et un député pour l’opposition ;\n- Deux (2) Conseillers nationaux désignés par le Haut Conseil des Collectivités territoriales ;\n- Une (1) personnalité qualifiée désignée par le ministre chargé de l’état civil ;\n- Une (1) personnalité qualifiée désignée par le ministre chargé de la Sécurité intérieure ;\n- Une (1) personnalité qualifiée désignée par le ministre chargé de l’Informatique ;\n- Deux (2) magistrats dont un (1) de l’Ordre judiciaire et un (1) de l’Ordre administratif désignés par la Cour Suprême ;\n- Deux (2) représentants qualifiés désignés par la Commission nationale des Droits de l’Homme ;\n- Une (1) représentante désignée par la Coordination des Associations et ONG féminines ;\n- Un (1) représentant qualifié désigné par le Conseil national de la Société civile.\nLes membres de l’Autorité portent le titre de Commissaire.\nLa qualité de membre se perd en cas de décès, de démission ou d’empêchement constaté par l’Autorité.\nSi en cours de mandat, un membre de l’Autorité démissionne, décède ou est révoqué, il est procédé à son remplacement dans un délai de quarante-cinq (45) jours par l’autorité compétente qui l’a désigné pour le reste du mandat.\n"
+      },
+      "art-025": {
+       "label": "Article 25",
+       "kind": "art",
+       "text": "# Article 25\nLes membres de l’Autorité de Protection des Données à Caractère Personnel, avant leur entrée en fonction, prêtent devant la Cour Suprême, le serment dont la teneur suit : « Je jure solennellement de bien et fidèlement remplir ma fonction au sein de l’Autorité de Protection des Données à Caractère personnel, en toute indépendance et impartialité, de façon digne et loyale et de garder le secret des délibérations ».\nLe personnel ayant accès aux données personnelles prête serment devant le Tribunal de Grande instance du ressort du siège de l’Autorité en ces termes : « Je jure de bien et loyalement remplir mes fonctions d’agent de l’Autorité en toute indépendance et impartialité et de garder le secret des investigations ».\n"
+      },
+      "art-036": {
+       "label": "Article 36",
+       "kind": "art",
+       "text": "# Article 36\nL’Autorité établit chaque année un rapport d’activités qu’elle remet au Président de la République, au Premier ministre et au Président de l’Assemblée nationale.\n"
+      },
+      "art-042": {
+       "label": "Article 42",
+       "kind": "art",
+       "text": "# Article 42\nLa durée des sessions extraordinaires ne peut excéder cinq (05) jours.\n"
+      },
+      "art-049": {
+       "label": "Article 49",
+       "kind": "art",
+       "text": "# Article 49\nL’Autorité de Protection des Données à Caractère Personnel adopte son règlement intérieur dès sa séance inaugurale.\nLe règlement intérieur définit les attributions des membres du bureau ainsi que l’organisation et les modalités de fonctionnement de l’Autorité.\n"
+      }
+     },
+     "credits": {
+      "art-021": [
+       "loi-2017-070"
+      ],
+      "art-025": [
+       "loi-2017-070"
+      ],
+      "art-036": [
+       "loi-2017-070"
+      ],
+      "art-042": [
+       "loi-2017-070"
+      ],
+      "art-049": [
+       "loi-2017-070"
+      ]
+     },
+     "note": "Journal officiel n°53 du 29 décembre 2017, p. 2115: Loi n°2017-070, art. 1er, replaces articles 21, 25, 36, 42 and 49 in full."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Source: the Journal officiel de la République du Mali as published by the Secrétariat général du Gouvernement (sgg-mali.ml), one PDF per issue with a text layer. No OCR was used; every text came from the text layer.",
+  "Dates: no Malian text we read sets a general delay between publication and entry into force; the 2023 Constitution (art. 116) requires laws to be published in the Journal officiel. Each version is dated by the date printed on the Journal officiel issue that published it, unless the law fixes its own date. None of the three acts does.",
+  "Constitution: dated 22 July 2023, the day the Décret n°2023-0401/PT-RM promulgated it and the day of the Journal officiel spécial n°13 that printed it (art. 191 ties promulgation to the referendum of 18 June 2023; Arrêt n°2023-08/CC-Réf of 21 July 2023 proclaimed the result). It was printed again in Journal officiel n°20 of 4 August 2023 (p. 790); parse.py --check compares the two.",
+  "Constitution and Code pénal: every Journal officiel issue from 22 July 2023 to 20 October 2026 listed on sgg-mali.ml (165 issues) was searched for a revision of the Constitution or an amendment of Loi n°2024-027; none was found. Two issues listed for September 2024 (mali-jo-2024-32-php-2.pdf, mali-jo-2024-32-php00-2.pdf) are not valid PDFs on the site, so they could not be searched; both predate the Code pénal.",
+  "Code pénal: the SGG \"Codes en vigueur\" page (retrieved 2026-10-28) links codes/codepenal.pdf, which carries the same Journal officiel spécial n°21 of 13 December 2024; parse.py --check confirms the two give identical text, so today's text is the text as enacted.",
+  "Code pénal: art. 702-1 repeals \"toutes dispositions antérieures contraires\" and Loi n°01-079 du 20 août 2001 (the former Code pénal). Implied repeals of other laws are not applied to any text in this repository.",
+  "Loi n°2013-015: every Journal officiel issue listed on sgg-mali.ml from 28 June 2013 to 20 October 2026 was searched for laws modifying it. The only one is Loi n°2017-070 of 18 December 2017 (Journal officiel n°53, 29 December 2017), which replaces articles 21, 25, 36, 42 and 49 in full; it is applied as printed. Two issues in the listing return 404 (mali-jo-2020-23.pdf, mali-jo-2021-04-3.pdf) and could not be searched.",
+  "Loi n°2017-070 art. 2 also repeals \"toutes dispositions antérieures contraires\" of Loi n°2013-015 without naming any; no further change is made for it.",
+  "Paragraphs are rebuilt from the PDF layout: a line that stops short of the column edge and ends with . ; : ! ? or » closes a paragraph; a block that starts after a full-width line without final punctuation continues it (page and column breaks). A hyphen at a line end is dropped only when the unhyphenated word occurs elsewhere in the same issue and the hyphenated form does not.",
+  "Typesetting is normalised once: no-break spaces become spaces, straight and curly apostrophes become ’, guillemets get one inner space, em dashes become en dashes.",
+  "Structural headings (Livre, Titre, Chapitre, Section, Paragraphe) are kept in one \"plan\" file per act, each followed by the first article under it; articles are one file each. Signatures and the promulgation formula are left out.",
+  "Unit keys: art-NNN for single numbers; the Code pénal's two-part numbers (Livre-Titre-Chapitre, then article) become art-NNNN-NNN, zero-padded so files sort in code order."
+ ],
+ "ai_use": [
+  "Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote fetch.py, jo_index.py, scan.py and parse.py and chose the sources. No model wrote, translated or summarised legal text; all text is extracted by code from the official PDFs."
+ ]
+}

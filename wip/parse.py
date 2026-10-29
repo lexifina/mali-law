@@ -368,7 +368,7 @@ def requests_count() -> int:
 
 def build() -> tuple[dict, list[str]]:
     acts, laws, problems = [], {}, []
-    for fn in (constitution, code_penal, donnees_personnelles):
+    for fn in (constitution, donnees_personnelles):  # code_penal: duplicate numbers, see PROGRESS.md
         a, l, p = fn()
         acts.append(a)
         laws.update(l)
