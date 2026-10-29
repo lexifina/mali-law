@@ -1,0 +1,24 @@
+The legal texts come from the Journal officiel de la République du Mali, published by the Secrétariat général du
+Gouvernement:
+
+  Journal officiel de la République du Mali, https://sgg-mali.ml/fr/journal-officiel/le-journal-officiel.html
+  (issues retrieved 2026-10-28): spécial n°13 of 22 July 2023, n°20 of 4 August 2023, spécial n°21 of
+  13 December 2024, n°26 of 28 June 2013 and n°53 of 29 December 2017; and the "Codes en vigueur" copy
+  https://sgg-mali.ml/codes/codepenal.pdf.
+
+Attribution: "Texte officiel : Journal officiel de la République du Mali, Secrétariat général du Gouvernement
+(sgg-mali.ml)."
+
+sgg-mali.ml states no licence, and whether Malian copyright law excludes official legislative texts from protection
+has not been verified. This repository is therefore private; whether and how it may be published is the owner's
+decision.
+
+Changes made by Lexifina: the text layer of each issue was converted to one Markdown file per article, one paragraph
+per line; spacing, quotes and dashes were normalised; structural headings and the Code pénal's bracketed source notes
+were gathered into one plan file per act; signatures, promulgation formulas and the Code pénal's annexed table of
+contents were left out; and the versions were arranged as git commits credited to the laws that made each change.
+The wording of the law was not changed. The Government of Mali does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
