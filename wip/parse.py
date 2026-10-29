@@ -4,8 +4,9 @@
 
 Sources are Journal officiel issues published as PDFs with a text layer by the Secrétariat général du Gouvernement
 (sgg-mali.ml). Text is read with PyMuPDF line by line; paragraphs are rebuilt from the justified layout (a line that
-stops short of the column edge and ends a sentence closes a paragraph). --check also prints the comparisons this
-corpus was verified with (second publications and the SGG "Codes en vigueur" copy).
+stops short of the column edge and ends a sentence closes a paragraph). --check prints the comparisons this corpus
+was verified with: second publications, the SGG "Codes en vigueur" copy, and a coverage check that every character
+of each act's text layer, from the promulgation formula to the signature, is in exactly one unit, in order.
 """
 from __future__ import annotations
 
@@ -42,10 +43,14 @@ def norm(s: str) -> str:
     return s.strip()
 
 
-TERMINAL = tuple('.;:!?»')
-ART_LINE = re.compile(r'^(?:Article|ARTICLE)\s*\d+(?:\s*-\s*\d+)?\s*(?:er|ER|ème)?\s*(?:bis|ter|quater)?\s*:')
+TERMINAL = tuple('.;:!?»]')
+# "Article 12 :", and the variants the Code pénal prints: "Articles 313-1 :", "Article : 551-7 :", "Article702-1 :".
+ART_LINE = re.compile(r'^(?:Articles?|ARTICLES?)\s*(?::\s*)?\d+(?:\s*-\s*\d+)?\s*(?:er|ER|ème)?\s*'
+                      r'(?:bis|ter|quater)?\s*:')
 HEAD_LINE = re.compile(r'^(?:LIVRE|TITRE|CHAPITRE|Chapitre|SECTION|Section|SOUS-SECTION|Sous-section|Paragraphe|'
-                       r'PARAGRAPHE|Sous[- ]paragraphe)\s*(?:[IVXLC]+|\d+|unique|UNIQUE|premier|PREMIER|1er)')
+                       r'PARAGRAPHE|Sous[- ]paragraphe)\s*(?:[IVXLC]+|\d+|unique|UNIQUE|premier|PREMIER|1er)\b')
+# An enumerated item: "1°)", "a)", "ii)", or a dash or bullet.
+ITEM_LINE = re.compile(r'^(?:\d+°\)?|[a-z]\)|[ivx]+\)|[-–•])\s')
 HEADER_RX = re.compile(r'^(\d+\s*)?(\d{1,2}\s+\w+\s+\d{4}\s+)?JOURNAL\s+OFFICIEL DE LA REPUBLIQUE DU MALI(\s*\d+)?$')
 
 
@@ -115,14 +120,20 @@ def paragraphs(data: bytes) -> list[str]:
         if prev is not None:
             prev_full = prev['x1'] >= prev['edge'] - 12
             prev_t = paras[-1][-1]
-            # An article ("Article N :"), a structural heading or a bracketed line always opens a paragraph, in the
-            # same block or across blocks (a full-width heading line is otherwise read as running on).
-            starts = bool(ART_LINE.match(t)) or bool(HEAD_LINE.match(t)) or t.startswith('[')
+            # An article ("Article N :"), a structural heading or a bracketed note always opens a paragraph, in the
+            # same block or across blocks (a full-width heading line is otherwise read as running on); so does an
+            # enumerated item after a line ending ; : or .
+            starts = bool(ART_LINE.match(t)) or bool(HEAD_LINE.match(t)) or t.startswith('[') or (
+                bool(ITEM_LINE.match(t)) and prev_t.endswith((';', ':', '.')))
             if ln['block'] == prev['block']:
                 new = (not prev_full and prev_t.endswith(TERMINAL)) or starts or bool(
                     HEAD_LINE.match(' '.join(paras[-1])) and not prev_full)
             else:
-                new = starts or (not (prev_full and not prev_t.endswith(TERMINAL)) and not (
+                # A new block further down the same column (more than 1.5 line spacings) is a new paragraph, such
+                # as a table row; otherwise a block continues a full-width line without final punctuation (page
+                # and column breaks).
+                gap = ln['page'] == prev['page'] and ln['col'] == prev['col'] and ln['y0'] - prev['y0'] > 18
+                new = starts or gap or (not (prev_full and not prev_t.endswith(TERMINAL)) and not (
                     t[:1].islower() and not prev_t.endswith(('.', ':', '!', '?', '»'))))
             if paras[-1] == ['-'] or paras[-1] == ['•'] or paras[-1] == ['–']:
                 new = False
@@ -161,8 +172,14 @@ def between(paras: list[str], start: str, end: str, after: str | None = None) ->
 # ---------------------------------------------------------------------------------------------------------------
 # paragraphs to units
 
-ART_RX = re.compile(r'^(?:Article|ARTICLE)\s*(\d+)(?:\s*-\s*(\d+))?\s*(er|ER|ème)?\s*(bis|ter|quater)?\s*:\s*(.*)$')
+ART_RX = re.compile(r'^(?:Articles?|ARTICLES?)\s*(?::\s*)?(\d+)(?:\s*-\s*(\d+))?\s*(er|ER|ème)?\s*(bis|ter|quater)?'
+                    r'\s*:\s*(.*)$')
 HEAD_RX = HEAD_LINE
+# A heading word misprinted in the text layer ("SECTIQN 3 : …"), in an all-capitals line.
+HEAD_TYPO_RX = re.compile(r'^[A-Z]{5,}\s+(?:[IVXLC]+|\d+)\s*:')
+# A numbered sub-heading between articles ("1°) Des résultats du test de dépistage", "II. Des peines …").
+SUBHEAD_RX = re.compile(r'^(?:[IVX]+\.|\d+°\))\s+\S')
+TITRE_RX = re.compile(r'^TITRE\s+([IVXLC]+)\b')
 
 
 def is_caps(p: str) -> bool:
@@ -183,67 +200,137 @@ def art_key(m: re.Match, pad1: int) -> tuple[str, str]:
     return key, label
 
 
-def units_from(paras: list[str], *, pad1: int = 3, preamble: str | None = None) -> tuple[dict, list[str]]:
+def units_from(paras: list[str], *, pad1: int = 3, preamble: str | None = None,
+               trace: list | None = None) -> tuple[dict, list[str]]:
     """Articles become units; structural headings are collected into one 'plan' unit (heading, then the first
-    article under it), so a change in the act's structure shows as a change there. Text before the first heading or
-    article becomes `preamble` if given."""
-    units: dict[str, dict] = {}
+    article under it), so a change in the act's structure shows as a change there. Bracketed source notes standing
+    alone ("[Loi n°… ]") and unnumbered text between a heading and the next article go into the plan too, in place.
+    Text before the first heading or article becomes `preamble` if given. An article number printed twice in one act
+    (in different Titres) gives two units, each keyed and labelled with its Titre. If `trace` is a list, it receives
+    (paragraph, unit key) for every paragraph, in order."""
+    arts: list[dict] = []
     plan: list[str] = []
     problems: list[str] = []
     cur = None
     pending_heads: list[str] = []
     pre: list[str] = []
     last_was_head = False
-    for p in paras:
+    in_note = False
+    titre = None
+    where: list[tuple[str, object]] = []  # paragraph, then the article dict, 'plan' or 'pre'
+
+    def head(p: str, join: bool) -> None:
+        if join and pending_heads:
+            prevh = pending_heads[-1]
+            if re.fullmatch(HEAD_RX.pattern + r'\s*:?', prevh) or re.fullmatch(r'LIVRE\s+[IVXLC]+\s*:?', prevh):
+                pending_heads[-1] = prevh.rstrip(' :') + ' : ' + p  # "TITRE I" + "DISPOSITIONS GENERALES"
+            else:
+                pending_heads[-1] = prevh + ' ' + p  # a heading wrapped onto a second line
+        else:
+            pending_heads.append(p.rstrip(' :') if not p.startswith('[') else p)
+        where.append((p, 'plan'))
+
+    for i, p in enumerate(paras):
+        nxt = paras[i + 1] if i + 1 < len(paras) else ''
         m = ART_RX.match(p)
         if m:
+            in_note = False
             key, label = art_key(m, pad1)
-            if key in units:
-                problems.append(f'duplicate {key}')
-                key += '-dup'
-            cur = {'label': label, 'kind': 'art', 'lines': [f'# {label}'] + ([m.group(5)] if m.group(5) else [])}
-            units[key] = cur
+            cur = {'key': key, 'label': label, 'titre': titre,
+                   'lines': [m.group(5)] if m.group(5) else []}
+            arts.append(cur)
             for h in pending_heads:
-                plan.append(f'{h} ({label})')
+                plan.append((h, cur))
             pending_heads = []
             last_was_head = False
+            where.append((p, cur))
             continue
-        if HEAD_RX.match(p) or p.upper().startswith('PREAMBULE') or (last_was_head and is_caps(p)) or (
-                cur is None and is_caps(p)):
-            if last_was_head and pending_heads and (is_caps(p) or not HEAD_RX.match(p)) and not p.upper().startswith(
-                    'PREAMBULE'):
-                pending_heads[-1] += ' : ' + p if not pending_heads[-1].rstrip().endswith(':') else ' ' + p
+        if in_note or (p.startswith('[') and (cur is None or last_was_head or ART_RX.match(nxt)
+                                              or HEAD_RX.match(nxt) or nxt.startswith('['))):
+            # A source note: its own plan line, continued until its closing bracket.
+            if in_note:
+                pending_heads[-1] += '\n' + p
+                where.append((p, 'plan'))
             else:
-                pending_heads.append(p.rstrip(' :'))
+                head(p, False)
+            in_note = ']' not in p
+            last_was_head = True
+            continue
+        caps_head = bool(HEAD_TYPO_RX.match(p)) and is_caps(p)
+        subhead = bool(SUBHEAD_RX.match(p)) and not p.endswith(TERMINAL) and bool(
+            ART_RX.match(nxt) or (SUBHEAD_RX.match(nxt) and not nxt.endswith(TERMINAL)))
+        if HEAD_RX.match(p) or caps_head or subhead or p.upper().startswith('PREAMBULE') or (
+                last_was_head and is_caps(p)) or (cur is None and is_caps(p)):
+            t = TITRE_RX.match(p)
+            if t:
+                titre = t.group(1)
+            elif p.startswith('LIVRE'):
+                titre = None
+            join = last_was_head and bool(pending_heads) and is_caps(p) and not HEAD_RX.match(p) and not (
+                caps_head or p.upper().startswith('PREAMBULE')) and not pending_heads[-1].startswith('[')
+            head(p, join)
             last_was_head = True
             cur = None if not p.upper().startswith('PREAMBULE') else cur
             if p.upper().startswith('PREAMBULE'):
                 cur = 'pre'
             continue
         last_was_head = False
-        if cur == 'pre' or cur is None:
+        if cur == 'pre' or (cur is None and not arts):
             pre.append(p)
-            if cur is None and units:
-                problems.append(f'orphan paragraph after a heading: {p[:80]}')
+            where.append((p, 'pre'))
+            continue
+        if cur is None:
+            # Unnumbered text between a heading and the next article: kept in the plan, in place.
+            pending_heads.append(p)
+            where.append((p, 'plan'))
+            problems.append(f'note: unnumbered text kept in the plan: {p[:80]}')
             continue
         cur['lines'].append(p)
+        where.append((p, cur))
+    if pending_heads:
+        plan += [(h, None) for h in pending_heads]
+    # keys: an article number printed more than once is keyed (and labelled) with its Titre each time
+    count: dict[str, int] = {}
+    for a in arts:
+        count[a['key']] = count.get(a['key'], 0) + 1
+    for a in arts:
+        if count[a['key']] > 1:
+            if not a['titre']:
+                problems.append(f'duplicate {a["key"]} outside any Titre')
+            a['key'] += f'-titre-{(a["titre"] or "none").lower()}'
+            a['label'] += f' (Titre {a["titre"]})'
     out = {}
     if preamble and pre:
         out['preambule'] = {'label': preamble, 'kind': 'other', 'text': f'# {preamble}\n' + '\n'.join(pre) + '\n'}
     if plan:
-        out['plan'] = {'label': 'Plan', 'kind': 'other', 'text': '# Plan\n' + '\n'.join(plan) + '\n'}
-    for k, u in units.items():
-        out[k] = {'label': u['label'], 'kind': u['kind'], 'text': '\n'.join(u['lines']) + '\n'}
+        lines = [h if a is None else f'{h} ({a["label"]})' for h, a in plan]
+        out['plan'] = {'label': 'Plan', 'kind': 'other', 'text': '# Plan\n' + '\n'.join(lines) + '\n'}
+    for a in arts:
+        if a['key'] in out:
+            problems.append(f'duplicate {a["key"]} in one Titre')
+            continue
+        out[a['key']] = {'label': a['label'], 'kind': 'art', 'text': '\n'.join([f'# {a["label"]}'] + a['lines']) + '\n'}
+    if trace is not None:
+        trace.extend((p, w if isinstance(w, str) else w['key']) for p, w in where)
     return out, problems
 
 
 # ---------------------------------------------------------------------------------------------------------------
 # the acts
 
+CONSTITUTION = (f'{SGG}/JO/2023/mali-jo-2023-13-sp-3.pdf', r'promulgue la\s*Constitution dont la teneur suit',
+                r'^Bamako, le 22 juillet 2023')
+CODE_PENAL = (f'{SGG}/JO/2024/mali-jo-2024-21-sp.pdf', r'promulgue la\s*loi dont la teneur suit',
+              r'^Bamako, le 13 décembre 2024')
+DONNEES = (f'{SGG}/JO/2013/mali-jo-2013-26.pdf', r'promulgue la\s*loi dont la\s*teneur suit', r'^Bamako, le 21 mai 2013',
+           r'^LOI N°\s*2013-015')
+DONNEES_2017 = (f'{SGG}/JO/2017/mali-jo-2017-53.pdf', r'sont modifiés ainsi qu’il suit',
+                r'^Article 2 : La présente loi abroge', r'^LOI N°\s*2017-070')
+
+
 def constitution() -> tuple[dict, dict, list[str]]:
-    url = f'{SGG}/JO/2023/mali-jo-2023-13-sp-3.pdf'
-    paras = text_of(url)
-    body = between(paras, r'promulgue la\s*Constitution dont la teneur suit', r'^Bamako, le 22 juillet 2023')
+    url = CONSTITUTION[0]
+    body = between(text_of(url), *CONSTITUTION[1:])
     units, problems = units_from(body, preamble='Préambule')
     laws = {'constitution-2023': {
         'label': 'Constitution du 22 juillet 2023',
@@ -259,9 +346,8 @@ def constitution() -> tuple[dict, dict, list[str]]:
 
 
 def code_penal() -> tuple[dict, dict, list[str]]:
-    url = f'{SGG}/JO/2024/mali-jo-2024-21-sp.pdf'
-    paras = text_of(url)
-    body = between(paras, r'promulgue la\s*loi dont la teneur suit', r'^Bamako, le 13 décembre 2024')
+    url = CODE_PENAL[0]
+    body = between(text_of(url), *CODE_PENAL[1:])
     units, problems = units_from(body, pad1=4)
     laws = {'loi-2024-027': {
         'label': 'Loi n°2024-027', 'title': 'Loi n°2024-027 du 13 décembre 2024 portant Code pénal',
@@ -275,15 +361,11 @@ def code_penal() -> tuple[dict, dict, list[str]]:
 
 
 def donnees_personnelles() -> tuple[dict, dict, list[str]]:
-    u1 = f'{SGG}/JO/2013/mali-jo-2013-26.pdf'
-    paras = text_of(u1)
-    body = between(paras, r'promulgue la\s*loi dont la\s*teneur suit', r'^Bamako, le 21 mai 2013',
-                   after=r'^LOI N°\s*2013-015')
+    u1 = DONNEES[0]
+    body = between(text_of(u1), *DONNEES[1:3], after=DONNEES[3])
     units, problems = units_from(body)
-    u2 = f'{SGG}/JO/2017/mali-jo-2017-53.pdf'
-    p2 = text_of(u2)
-    amend = between(p2, r'sont modifiés ainsi qu’il suit', r'^Article 2 : La présente loi abroge',
-                    after=r'^LOI N°\s*2017-070')
+    u2 = DONNEES_2017[0]
+    amend = between(text_of(u2), *DONNEES_2017[1:3], after=DONNEES_2017[3])
     new, prob2 = units_from(amend)
     problems += prob2
     changed = {}
@@ -340,6 +422,18 @@ DECISIONS = [
     'today\'s text is the text as enacted.',
     'Code pénal: art. 702-1 repeals "toutes dispositions antérieures contraires" and Loi n°01-079 du 20 août 2001 '
     '(the former Code pénal). Implied repeals of other laws are not applied to any text in this repository.',
+    'Code pénal: the official text numbers articles Livre-Titre-Chapitre, then article, so Livre V Titre XI '
+    '(activités pastorales) and Titre XII (mines) print 511-1, 511-2 and 512-1 to 512-9, numbers that Livre V Titre I '
+    '(cybercriminalité), Chapitres 1 and 2, also uses. Both are kept: each such article is keyed and labelled with its '
+    'Titre (art-0511-001-titre-i, "Article 511-1 (Titre I)"; art-0511-001-titre-xi, "Article 511-1 (Titre XI)").',
+    'Code pénal: four article headings are misprinted in the official text and read as articles: "Articles 313-1", '
+    '"Articles 314-1", "Articles 314-2" and "Articles 315-1/315-2" (plural), "Article : 551-7", "Article702-1" '
+    '(no space) and "Article 512- 9". Their labels are normalised to "Article N-M"; the text is unchanged.',
+    'Code pénal: the code reproduces earlier laws and cites each one in a bracketed note ("[Loi n°… ]") under the '
+    'heading it concerns. Notes standing alone are kept in the plan file, in place; a note printed inside an '
+    'article (arts. 131-5, 242-11, 242-28, 242-29, 242-31 to 242-33) stays in that article. One unnumbered '
+    'paragraph (the opening sentence of Titre XII, Chapitre unique) is kept in the plan file too. The annexed table '
+    'of contents ("ANNEXE, TABLE DES MATIERES", after the signature) is left out.',
     'Loi n°2013-015: every Journal officiel issue listed on sgg-mali.ml from 28 June 2013 to 20 October 2026 was '
     'searched for laws modifying it. The only one is Loi n°2017-070 of 18 December 2017 (Journal officiel n°53, '
     '29 December 2017), which replaces articles 21, 25, 36, 42 and 49 in full; it is applied as printed. Two issues '
@@ -347,16 +441,23 @@ DECISIONS = [
     'Loi n°2017-070 art. 2 also repeals "toutes dispositions antérieures contraires" of Loi n°2013-015 without naming '
     'any; no further change is made for it.',
     'Paragraphs are rebuilt from the PDF layout: a line that stops short of the column edge and ends with . ; : ! ? '
-    'or » closes a paragraph; a block that starts after a full-width line without final punctuation continues it '
-    '(page and column breaks). A hyphen at a line end is dropped only when the unhyphenated word occurs elsewhere in '
-    'the same issue and the hyphenated form does not.',
+    '» or ] closes a paragraph; a line beginning "Article N :", a structural heading or "[" always opens one, and so '
+    'does an enumerated item ("1°)", "a)", "-") after a line ending ; : or .; a block more than 1.5 line spacings '
+    'below the previous line in the same column opens one (table rows); otherwise a block that starts after a '
+    'full-width line without final punctuation continues it (page and column breaks). A hyphen at a line end is '
+    'dropped only when the unhyphenated word occurs elsewhere in the same issue and the hyphenated form does not.',
     'Typesetting is normalised once: no-break spaces become spaces, straight and curly apostrophes become ’, '
     'guillemets get one inner space, em dashes become en dashes.',
-    'Structural headings (Livre, Titre, Chapitre, Section, Paragraphe) are kept in one "plan" file per act, each '
-    'followed by the first article under it; articles are one file each. Signatures and the promulgation formula are '
-    'left out.',
+    'Structural headings (Livre, Titre, Chapitre, Section, Paragraphe, and the Code pénal\'s numbered sub-headings '
+    'such as "1°) Des résultats du test de dépistage") are kept in one "plan" file per act, each followed by the first '
+    'article under it; articles are one file each. Signatures and the promulgation formula are left out. A heading '
+    'misprinted in the text layer (Loi n°2013-015: "SECTIQN 3") is kept as printed.',
     'Unit keys: art-NNN for single numbers; the Code pénal\'s two-part numbers (Livre-Titre-Chapitre, then article) '
-    'become art-NNNN-NNN, zero-padded so files sort in code order.',
+    'become art-NNNN-NNN, zero-padded.',
+    'Verification (parse.py --check): for each act, every character of the text layer from the promulgation formula '
+    'to the signature (spaces and line-end hyphens aside) is found in exactly one unit, in the order printed; the two '
+    'printings of the Constitution give identical units; the Code pénal from the Journal officiel and from the Codes '
+    'en vigueur copy give identical text.',
 ]
 
 AI_USE = ['Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote fetch.py, jo_index.py, scan.py and parse.py and chose '
@@ -371,7 +472,7 @@ def requests_count() -> int:
 
 def build() -> tuple[dict, list[str]]:
     acts, laws, problems = [], {}, []
-    for fn in (constitution, donnees_personnelles):  # code_penal: duplicate numbers, see PROGRESS.md
+    for fn in (constitution, donnees_personnelles, code_penal):
         a, l, p = fn()
         acts.append(a)
         laws.update(l)
@@ -407,20 +508,87 @@ def build() -> tuple[dict, list[str]]:
     return corpus, problems
 
 
+# ---------------------------------------------------------------------------------------------------------------
+# verification
+
+
+def squash(s: str) -> str:
+    """Text with spaces, line-end hyphen choices and our '# Article' headings out of the way, for coverage."""
+    return re.sub(r'[\s\-–]', '', norm(s))
+
+
+def coverage(name: str, url: str, start: str, end: str, after: str | None = None, **kw) -> bool:
+    """Every paragraph of the act's body lands in exactly one unit, in order, and the paragraphs hold every
+    character of the PDF text layer between the start and end markers."""
+    data = fetch.fetch(url, offline=True)
+    paras = paragraphs(data)
+    body = between(paras, start, end, after)
+    trace: list = []
+    units, problems = units_from(body, trace=trace, **kw)
+    ok = [p for p, _ in trace] == body
+    # every unit's text (headings aside) is the concatenation of its paragraphs, in order
+    got: dict[str, list[str]] = {}
+    for p, k in trace:
+        got.setdefault(k, []).append(p)
+    for k, u in units.items():
+        if k in ('plan', 'preambule'):
+            continue
+        if squash(u['text'].split('\n', 1)[1]) != squash(' '.join(got.get(k, [])[0:1] and [
+                ART_RX.match(got[k][0]).group(5)] + got[k][1:])):
+            ok = False
+            print('   unit text differs from its paragraphs:', k)
+    # raw text layer between the markers, against the paragraphs
+    raw = ''.join(norm(ln['text']) for ln in pdf_lines(data))
+    sq = squash(raw)
+    a = sq.find(squash(body[0]), sq.find(squash(next(p for p in paras if re.search(start, p)))))
+    b = sq.find(squash(body[-1]), a) + len(squash(body[-1]))
+    raw_ok = sq[a:b] == squash(''.join(body))
+    arts = sorted(k for k in units if k.startswith('art-'))
+    print(f'{name}: {len(body)} paragraphs, {len(arts)} articles; order and placement',
+          'ok' if ok else 'FAILED', '; text layer', 'identical' if raw_ok else 'DIFFERENT',
+          '; problems:', [p for p in problems if not p.startswith('note:')])
+    if not raw_ok:
+        x, y = sq[a:b], squash(''.join(body))
+        i = next((i for i in range(min(len(x), len(y))) if x[i] != y[i]), min(len(x), len(y)))
+        print('   first difference:', x[max(0, i - 60):i + 60], '|', y[max(0, i - 60):i + 60])
+    return ok and raw_ok
+
+
+def numbering(units: dict) -> list[str]:
+    """Gaps in each article series (art-NNN, or art-NNNN-MMM within one NNNN)."""
+    series: dict[str, list[int]] = {}
+    for k in units:
+        m = re.match(r'art-(?:(\d{4})-)?(\d{3})', k)
+        if m:
+            series.setdefault(m.group(1) or '', []).append(int(m.group(2)))
+    gaps = []
+    for s, ns in sorted(series.items()):
+        missing = sorted(set(range(1, max(ns) + 1)) - set(ns))
+        if missing:
+            gaps.append(f'{s or "art"}: missing {missing}')
+    return gaps
+
+
 def check() -> None:
-    a = text_of(f'{SGG}/JO/2024/mali-jo-2024-21-sp.pdf')
-    b = text_of(f'{SGG}/codes/codepenal.pdf')
-    print('Code pénal, JO spécial 21 vs Codes en vigueur copy:', 'identical' if a == b else 'DIFFERENT')
-    c1 = between(text_of(f'{SGG}/JO/2023/mali-jo-2023-13-sp-3.pdf'),
-                 r'promulgue la\s*Constitution dont la teneur suit', r'^Bamako, le 22 juillet 2023')
-    c2 = between(text_of(f'{SGG}/JO/2023/mali-jo-2023-20-3.pdf'),
-                 r'promulgue la\s*Constitution dont la teneur suit', r'^Bamako, le 22 juillet 2023')
+    a = between(text_of(CODE_PENAL[0]), *CODE_PENAL[1:])
+    b = between(text_of(f'{SGG}/codes/codepenal.pdf'), *CODE_PENAL[1:])
+    print('Code pénal, JO spécial 21 vs Codes en vigueur copy (promulgation formula to signature):',
+          'identical' if a == b else 'DIFFERENT')
+    c1 = between(text_of(CONSTITUTION[0]), *CONSTITUTION[1:])
+    c2 = between(text_of(f'{SGG}/JO/2023/mali-jo-2023-20-3.pdf'), *CONSTITUTION[1:])
     u1, _ = units_from(c1, preamble='Préambule')
     u2, _ = units_from(c2, preamble='Préambule')
     diff = [k for k in sorted(set(u1) | set(u2)) if u1.get(k) != u2.get(k)]
     print('Constitution, JO spécial 13 vs JO 20 (4 Aug 2023):', len(u1), 'units;', len(diff), 'differ', diff[:20])
     for k in diff[:5]:
         print('  ', k, '\n   A:', (u1.get(k) or {}).get('text', '')[:400], '\n   B:', (u2.get(k) or {}).get('text', '')[:400])
+    coverage('Constitution', *CONSTITUTION, preamble='Préambule')
+    coverage('Loi n°2013-015', *DONNEES)
+    coverage('Loi n°2017-070 art. 1er', *DONNEES_2017)
+    coverage('Code pénal', *CODE_PENAL, pad1=4)
+    for fn in (constitution, donnees_personnelles, code_penal):
+        act, _, _ = fn()
+        print(act['slug'], 'numbering gaps:', numbering(act['versions'][0]['units']) or 'none')
 
 
 def main() -> None:
