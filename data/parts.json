@@ -1,0 +1,11 @@
+{
+ "parts": {
+  "50-code-procedure-penale.json": {
+   "acts": [
+    "code-procedure-penale"
+   ],
+   "sha256": "8fd18bc3838cbc8ded0d616e5db23c2cf5f814bc16fe11dc5943e6f72e2a87cb"
+  }
+ },
+ "schema": 1
+}
