@@ -43,6 +43,9 @@ def norm(s: str) -> str:
 
 
 TERMINAL = tuple('.;:!?»')
+ART_LINE = re.compile(r'^(?:Article|ARTICLE)\s*\d+(?:\s*-\s*\d+)?\s*(?:er|ER|ème)?\s*(?:bis|ter|quater)?\s*:')
+HEAD_LINE = re.compile(r'^(?:LIVRE|TITRE|CHAPITRE|Chapitre|SECTION|Section|SOUS-SECTION|Sous-section|Paragraphe|'
+                       r'PARAGRAPHE|Sous[- ]paragraphe)\s*(?:[IVXLC]+|\d+|unique|UNIQUE|premier|PREMIER|1er)')
 HEADER_RX = re.compile(r'^(\d+\s*)?(\d{1,2}\s+\w+\s+\d{4}\s+)?JOURNAL\s+OFFICIEL DE LA REPUBLIQUE DU MALI(\s*\d+)?$')
 
 
@@ -113,7 +116,8 @@ def paragraphs(data: bytes) -> list[str]:
             prev_full = prev['x1'] >= prev['edge'] - 12
             prev_t = paras[-1][-1]
             if ln['block'] == prev['block']:
-                new = not prev_full and prev_t.endswith(TERMINAL)
+                new = (not prev_full and prev_t.endswith(TERMINAL)) or bool(ART_LINE.match(t)) or bool(
+                    HEAD_LINE.match(t)) or bool(HEAD_LINE.match(' '.join(paras[-1])) and not prev_full)
             else:
                 new = not (prev_full and not prev_t.endswith(TERMINAL)) and not (
                     t[:1].islower() and not prev_t.endswith(('.', ':', '!', '?', '»')))
