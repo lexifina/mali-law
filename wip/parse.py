@@ -415,8 +415,10 @@ DECISIONS = [
     '4 August 2023 (p. 790); parse.py --check compares the two.',
     'Constitution and Code pénal: every Journal officiel issue from 22 July 2023 to 20 October 2026 listed on '
     'sgg-mali.ml (165 issues) was searched for a revision of the Constitution or an amendment of Loi n°2024-027; none '
-    'was found. Two issues listed for September 2024 (mali-jo-2024-32-php-2.pdf, mali-jo-2024-32-php00-2.pdf) are '
-    'not valid PDFs on the site, so they could not be searched; both predate the Code pénal.',
+    'was found. Two files listed as JO n°2024-32 (8 September 2024, mali-jo-2024-32-php-2.pdf, 517 bytes; 19 September '
+    '2024, mali-jo-2024-32-php00-2.pdf, empty) are not valid PDFs on the site, so they could not be searched; both '
+    'predate the Code pénal, but a change to the Constitution or to Loi n°2013-015 printed only there would be '
+    'missed.',
     'Code pénal: the SGG "Codes en vigueur" page (retrieved 2026-10-28) links codes/codepenal.pdf, which carries the '
     'same Journal officiel spécial n°21 of 13 December 2024; parse.py --check confirms the two give identical text, so '
     'today\'s text is the text as enacted.',
@@ -426,9 +428,10 @@ DECISIONS = [
     '(activités pastorales) and Titre XII (mines) print 511-1, 511-2 and 512-1 to 512-9, numbers that Livre V Titre I '
     '(cybercriminalité), Chapitres 1 and 2, also uses. Both are kept: each such article is keyed and labelled with its '
     'Titre (art-0511-001-titre-i, "Article 511-1 (Titre I)"; art-0511-001-titre-xi, "Article 511-1 (Titre XI)").',
-    'Code pénal: four article headings are misprinted in the official text and read as articles: "Articles 313-1", '
-    '"Articles 314-1", "Articles 314-2" and "Articles 315-1/315-2" (plural), "Article : 551-7", "Article702-1" '
-    '(no space) and "Article 512- 9". Their labels are normalised to "Article N-M"; the text is unchanged.',
+    'Code pénal: some article headings are printed irregularly and are read as articles: "Articles" (plural) for '
+    'arts. 313-1, 314-1, 314-2, 314-5, 314-6, 315-1 and 315-2, "Article : 551-7", "Article702-1", and a space after '
+    'the hyphen in arts. 321-54, 423-16, 512-9, 552-17 and 561-1. Their labels are normalised to "Article N-M"; the '
+    'text is unchanged.',
     'Code pénal: the code reproduces earlier laws and cites each one in a bracketed note ("[Loi n°… ]") under the '
     'heading it concerns. Notes standing alone are kept in the plan file, in place; a note printed inside an '
     'article (arts. 131-5, 242-11, 242-28, 242-29, 242-31 to 242-33) stays in that article. One unnumbered '
@@ -437,7 +440,8 @@ DECISIONS = [
     'Loi n°2013-015: every Journal officiel issue listed on sgg-mali.ml from 28 June 2013 to 20 October 2026 was '
     'searched for laws modifying it. The only one is Loi n°2017-070 of 18 December 2017 (Journal officiel n°53, '
     '29 December 2017), which replaces articles 21, 25, 36, 42 and 49 in full; it is applied as printed. Two issues '
-    'in the listing return 404 (mali-jo-2020-23.pdf, mali-jo-2021-04-3.pdf) and could not be searched.',
+    'in the listing return 404 (JO n°2020-23 of 25 September 2020, mali-jo-2020-23.pdf; JO n°2021-04 of 29 January '
+    '2021, mali-jo-2021-04-3.pdf) and could not be searched, nor could the two invalid September 2024 files.',
     'Loi n°2017-070 art. 2 also repeals "toutes dispositions antérieures contraires" of Loi n°2013-015 without naming '
     'any; no further change is made for it.',
     'Paragraphs are rebuilt from the PDF layout: a line that stops short of the column edge and ends with . ; : ! ? '
