@@ -1,5 +1,7 @@
 # Mali: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Mali's national law, which global-law reads at `mali/national/acts/`.
+
 The law of Mali as a git history: one file per article, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; `tools/on.py` gives the text in force on any day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ml/`. Every text is read from the *Journal officiel de la République du Mali* as the Secrétariat général du Gouvernement publishes it on [sgg-mali.ml](https://sgg-mali.ml): one PDF per issue, with a text layer. Mali publishes no consolidated texts with dated versions, so the history is rebuilt from the issues that printed each act and each amendment.
