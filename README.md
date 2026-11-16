@@ -1,35 +1,41 @@
-# Mali: law history in git
+# Mali : l’histoire du droit dans git
 
+**Français** · [English](README.en.md)
 
-The law of Mali as a git history: one file per article, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/fr/effort-dark.svg">
+<img alt="Le droit malien dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
+</picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Mali's national law, which global-law reads at `mali/national/acts/`.
+Le droit du Mali sous la forme d’un historique git : un fichier par article, un commit par loi à la date de son entrée en vigueur, et la loi auteur de chaque modification comme auteur du commit. `git blame` indique la loi à l’origine de chaque alinéa ; `git log` liste toutes les modifications d’un article ; le choix d’une date donne le texte en vigueur ce jour-là.
 
-**What is in it now:** four acts, with 5 versions in all, each read from the Journal officiel: the Constitution of 22 July 2023 (the preamble and 191 articles, one version); Loi n°2013-015 of 21 May 2013 on personal data (69 articles, two versions: as enacted, and as amended by Loi n°2017-070); and the Code pénal and the Code de procédure pénale of 13 December 2024 (Lois n°2024-027 and n°2024-028; 1,125 and 1,399 articles, one version each). No later change to any of them appears in the issues searched, up to 20 October 2026, so each is today's text.
+Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national du Mali, que global-law lit sous `mali/national/acts/`.
 
-Each act is a folder, `constitution/`, `donnees-personnelles/`, `code-penal/` and `code-procedure-penale/`, with one file per article (`donnees-personnelles/art-021.md` is Article 21 of the personal data law, on the members of the data protection authority); its `README.md` lists every article and when it changed, and its `plan.md` gives the headings. The Code pénal numbers articles Livre-Titre-Chapitre, then article (`art-0111-001.md` is Article 111-1); Livre V prints 511-1, 511-2 and 512-1 to 512-9 twice, so those files carry their Titre (`art-0511-001-titre-i.md`, `art-0511-001-titre-xi.md`).
+**Contenu actuel :** quatre textes, en 5 versions au total, chacun lu dans le Journal officiel : la Constitution du 22 juillet 2023 (le préambule et 191 articles, une version) ; la Loi n°2013-015 du 21 mai 2013 relative aux données à caractère personnel (69 articles, deux versions : telle qu’adoptée, et telle que modifiée par la Loi n°2017-070 du 18 décembre 2017) ; et le Code pénal et le Code de procédure pénale du 13 décembre 2024 (Lois n°2024-027 et n°2024-028 ; 1 125 et 1 399 articles, une version chacun). Aucune modification ultérieure de l’un de ces textes n’apparaît dans les numéros consultés, jusqu’au 20 octobre 2026 ; chacun est donc le texte en vigueur aujourd’hui.
 
-The text is in French, as the Journal officiel prints it. An English translation is not part of this record.
+Chaque texte est un dossier, `constitution/`, `donnees-personnelles/`, `code-penal/` et `code-procedure-penale/`, avec un fichier par article (`donnees-personnelles/art-021.md` est l’article 21 de la loi relative aux données à caractère personnel, sur les membres de l’autorité de protection des données) ; son `README.md` liste chaque article et la date de ses modifications, et son `plan.md` donne les intitulés. Le Code pénal numérote les articles par Livre, Titre et Chapitre, puis par article (`art-0111-001.md` est l’article 111-1) ; le Livre V imprime deux fois les articles 511-1, 511-2 et 512-1 à 512-9, de sorte que ces fichiers portent leur Titre (`art-0511-001-titre-i.md`, `art-0511-001-titre-xi.md`).
 
-## Questions as git commands
+Le texte est en français, tel que l’imprime le Journal officiel. Une traduction anglaise ne fait pas partie de ce corpus.
 
-| Question | Command |
+## Questions sous forme de commandes git
+
+| Question | Commande |
 | --- | --- |
-| Every change to Article 21 of the personal data law | `git log -p --word-diff -- donnees-personnelles/art-021.md` |
-| Which law wrote each line of Article 21? | `git blame donnees-personnelles/art-021.md` |
-| Every version of Article 21, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- donnees-personnelles/art-021.md` |
-| Article 21 as in force on 1 January 2015 | `python tools/on.py 2015-01-01 donnees-personnelles art-021` |
+| Toutes les modifications de l’article 21 de la loi relative aux données à caractère personnel | `git log -p --word-diff -- donnees-personnelles/art-021.md` |
+| Quelle loi a rédigé chaque ligne de l’article 21 ? | `git blame donnees-personnelles/art-021.md` |
+| Toutes les versions de l’article 21, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- donnees-personnelles/art-021.md` |
+| L’article 21 tel qu’en vigueur au 1er janvier 2015 | `python tools/on.py 2015-01-01 donnees-personnelles art-021` |
 
-**Outside git**, we also host this record publicly, for free:
+**En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :
 
-- **[Ask Claude about Malian law](https://global-law.lexifina.com/v1/try_claude?country=mali)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=mali)**: the same question in ChatGPT.
-- **[Search Malian law on our site](https://lexifina.com/law?country=mali&q=donn%C3%A9es+%C3%A0+caract%C3%A8re+personnel)**: a search for "données à caractère personnel" (personal data), with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=donn%C3%A9es+%C3%A0+caract%C3%A8re+personnel&jurisdiction=mali)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Interroger Claude sur le droit malien](https://global-law.lexifina.com/v1/try_claude?country=mali)** : ouvre Claude avec une première question prête.
+- **[Interroger ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=mali)** : la même question dans ChatGPT.
+- **[Rechercher dans le droit malien sur notre site](https://lexifina.com/law?country=mali&q=donn%C3%A9es+%C3%A0+caract%C3%A8re+personnel)** : une recherche de « données à caractère personnel », avec le texte de chaque disposition et ses versions, sans compte.
+- **[API REST pour développeurs](https://global-law.lexifina.com/v1/search_law?query=donn%C3%A9es+%C3%A0+caract%C3%A8re+personnel&jurisdiction=mali)** : la même recherche au format JSON, sans clé. Voir la [documentation ici](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
+Les deux assistants lisent le corpus au moyen du connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**L’héberger vous-même, simplement.** Il suffit de git et de Python, et les outils s’exécutent sur votre machine :
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -37,57 +43,55 @@ python3 tools/countries.py add mali/national/acts
 python3 tools/law.py show 2026-01-01 mali/national/acts/donnees-personnelles/art-021.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-Each commit is dated at noon, Africa/Bamako (UTC), on the day the version took effect, and carries it in its `In-force:` trailer:
+Chaque commit est daté à midi, heure Africa/Bamako (UTC), du jour où la version est entrée en vigueur, et porte cette date dans son trailer `In-force:` :
 
-- no Malian text read for this build sets a general delay between publication and entry into force, and the Constitution (art. 116) requires laws to be published in the Journal officiel, so each version is dated by the Journal officiel issue that printed it, unless the law fixes its own date (none of these does);
-- the Constitution is dated 22 July 2023, the day of its promulgation decree (Décret n°2023-0401/PT-RM) and of Journal officiel spécial n°13, which printed it; it was adopted by the referendum of 18 June 2023;
-- Loi n°2013-015 is dated 28 June 2013 (Journal officiel n°26) and Loi n°2017-070 29 December 2017 (n°53); the two codes are dated 13 December 2024, the day of their promulgation and of Journaux officiels spéciaux n°21 and n°22.
+- aucun texte malien lu pour cette construction ne fixe de délai général entre la publication et l’entrée en vigueur, et la Constitution (art. 116) exige que les lois soient publiées au Journal officiel ; chaque version est donc datée du numéro du Journal officiel qui l’a publiée, sauf si la loi fixe elle-même sa date (aucune de celles-ci ne le fait) ;
+- la Constitution est datée du 22 juillet 2023, jour de son décret de promulgation (Décret n°2023-0401/PT-RM) et du Journal officiel spécial n°13, qui l’a publiée ; elle a été adoptée par le référendum du 18 juin 2023 ;
+- la Loi n°2013-015 est datée du 28 juin 2013 (Journal officiel n°26) et la Loi n°2017-070 du 29 décembre 2017 (n°53) ; les deux codes sont datés du 13 décembre 2024, jour de leur promulgation et des Journaux officiels spéciaux n°21 et n°22.
 
-Each change is credited to the law that made it (`Loi n°2017-070`), with an address that cannot exist, so `git blame` and `git log --author` name laws; the first commit of each act is the act as enacted, credited to the act itself. Loi n°2017-070, art. 1er, names the five articles it replaces in full (21, 25, 36, 42 and 49), so nothing is credited to the publisher. Tags `law/<key>` mark each law's commit (`git show law/loi-2017-070`); the committer is always Lexifina.
+Chaque modification est attribuée à la loi qui l’a opérée (`Loi n°2017-070`), sous une adresse qui ne peut pas exister, de sorte que `git blame` et `git log --author` désignent des lois ; le premier commit de chaque texte est le texte tel qu’adopté, attribué au texte lui-même. La Loi n°2017-070, en son article 1er, désigne les cinq articles qu’elle remplace intégralement (21, 25, 36, 42 et 49) ; rien n’est donc attribué à l’éditeur. Les étiquettes `law/<key>` signalent le commit de chaque loi (`git show law/loi-2017-070`) ; le committer est toujours Lexifina.
 
-## How it is checked
+## Méthode de vérification
 
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse, that there are no merge commits and that no commit is dated in the future. The results are in [`REPRODUCE.md`](REPRODUCE.md); a second build has not yet been compared.
-- For each act, every character of the issue's text layer from the promulgation formula to the signature (spaces and line-end hyphens aside) is in exactly one file, in the order printed.
-- The Constitution's second printing (Journal officiel n°20 of 4 August 2023) gives identical files, and the SGG's "Codes en vigueur" copies of the Code pénal and the Code de procédure pénale give text identical to the Journal officiel (`tools/parse_cpp.py --check` for the latter).
-- Every Journal officiel issue listed on sgg-mali.ml up to 20 October 2026 was searched for amendments to the four acts; the only one found is Loi n°2017-070.
+- `tools/check_repo.py` relit chaque version dans git le jour de son entrée en vigueur et la veille, et les deux doivent correspondre au corpus à partir duquel l’historique a été construit ; il vérifie aussi que les trailers de chaque commit sont analysables, l’absence de commits de fusion et qu’aucun commit n’est daté dans le futur. Les résultats figurent dans [`REPRODUCE.md`](REPRODUCE.md) ; une seconde construction n’a pas encore été comparée.
+- Pour chaque texte, chaque caractère de la couche texte du numéro, de la formule de promulgation à la signature (espaces et traits d’union de fin de ligne mis à part), se trouve dans un seul fichier, dans l’ordre imprimé.
+- La seconde publication de la Constitution (Journal officiel n°20 du 4 août 2023) donne des fichiers identiques, et les copies du Code pénal et du Code de procédure pénale figurant dans les « Codes en vigueur » du SGG donnent un texte identique à celui du Journal officiel (`tools/parse_cpp.py --check` pour ce dernier).
+- Tous les numéros du Journal officiel répertoriés sur sgg-mali.ml jusqu’au 20 octobre 2026 ont été consultés pour y rechercher des modifications des quatre textes ; la seule trouvée est la Loi n°2017-070.
 
-## What it does not show
+## Ce qu’il ne montre pas
 
-- **The rest of Malian law.** Only these four acts are here: no other law, ordinance or decree, and no case law.
-- **Earlier texts.** The Constitution of 25 February 1992 and the Code pénal of 2001 (Loi n°01-079) are not in the history; each act starts with its text as enacted.
-- **Four files that could not be read.** Journal officiel n°2020-23 (25 September 2020) and n°2021-04 (29 January 2021) answer 404 on sgg-mali.ml, and the two files listed as n°2024-32 (8 and 19 September 2024) are not valid PDFs. An amendment to Loi n°2013-015 printed only in one of them, or to the Constitution printed only in the 2024 files, would be missed.
-- **Implied repeals.** Loi n°2017-070 (art. 2) and the Code pénal (art. 702-1) repeal "toutes dispositions antérieures contraires" without naming any text; such repeals are not applied.
-- **Scans, signatures and tables of contents.** Only text layers are read, with no OCR (every issue used has one); signatures, promulgation formulas and the tables of contents annexed to the two codes are left out.
+- **Le reste du droit malien.** Seuls ces quatre textes figurent ici : aucune autre loi, ordonnance ou décret, et aucune jurisprudence.
+- **Les textes antérieurs.** La Constitution du 25 février 1992 et le Code pénal de 2001 (Loi n°01-079) ne figurent pas dans l’historique ; chaque texte commence par sa version telle qu’adoptée.
+- **Quatre fichiers qui n’ont pas pu être lus.** Les Journaux officiels n°2020-23 (25 septembre 2020) et n°2021-04 (29 janvier 2021) renvoient une erreur 404 sur sgg-mali.ml, et les deux fichiers répertoriés sous le n°2024-32 (8 et 19 septembre 2024) ne sont pas des PDF valides. Une modification de la Loi n°2013-015 publiée uniquement dans l’un d’eux, ou de la Constitution publiée uniquement dans les fichiers de 2024, échapperait au corpus.
+- **Les abrogations implicites.** La Loi n°2017-070 (art. 2) et le Code pénal (art. 702-1) abrogent « toutes dispositions antérieures contraires » sans désigner de texte ; ces abrogations ne sont pas appliquées.
+- **Les numérisations, signatures et tables des matières.** Seules les couches texte sont lues, sans OCR (chaque numéro utilisé en comporte une) ; les signatures, les formules de promulgation et les tables des matières annexées aux deux codes sont omises.
 
 ## Sources
 
-| Source | Kind | Past versions | Notes |
+| Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
-| [Journal officiel de la République du Mali](https://sgg-mali.ml/fr/journal-officiel/le-journal-officiel.html) (Secrétariat général du Gouvernement) | Official gazette, one PDF per issue with a text layer (1997 to 2026) | as printed; Mali publishes no dated consolidated versions | Every text; the issues from May 2013 to October 2026 were searched for amendments |
-| ["Codes en vigueur"](https://sgg-mali.ml/fr/journal-officiel/les-codes-consolides.html) (the same site) | Current codes as PDFs | no, current text only | Cross-check of the Code pénal and the Code de procédure pénale |
+| [Journal officiel de la République du Mali](https://sgg-mali.ml/fr/journal-officiel/le-journal-officiel.html) (Secrétariat général du Gouvernement) | Journal officiel, un PDF par numéro doté d’une couche texte (1997 à 2026) | tel qu’imprimé ; le Mali ne publie pas de versions consolidées datées | Tous les textes ; les numéros de mai 2013 à octobre 2026 ont été consultés pour y rechercher des modifications |
+| [« Codes en vigueur »](https://sgg-mali.ml/fr/journal-officiel/les-codes-consolides.html) (le même site) | Codes actuels en PDF | non, texte actuel uniquement | Contrôle croisé du Code pénal et du Code de procédure pénale |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The text is the Journal officiel's, reproduced with the attribution LICENSE gives; sgg-mali.ml states no licence, and whether Malian copyright law excludes official legislative texts from protection has not been verified. The history, commit messages, tables and tools are CC0 1.0.
+Voir [`LICENSE`](LICENSE). Le texte est celui du Journal officiel, reproduit avec la mention de la source indiquée dans LICENSE ; sgg-mali.ml n’indique aucune licence, et il n’a pas été vérifié si le droit d’auteur malien exclut de la protection les textes législatifs officiels. L’historique, les messages de commit, les tableaux et les outils sont sous licence CC0 1.0.
 
-No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique, et aucun ne s’exécute lors de la construction de l’historique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
-## En français
+Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 
-L'histoire du droit malien dans git : un fichier par article, un commit par loi au jour de son entrée en vigueur, avec pour auteur la loi qui a modifié le texte. Le dépôt contient, d'après le Journal officiel publié sur sgg-mali.ml, la Constitution du 22 juillet 2023, la Loi n°2013-015 du 21 mai 2013 relative aux données à caractère personnel (modifiée par la Loi n°2017-070 du 18 décembre 2017), le Code pénal et le Code de procédure pénale du 13 décembre 2024 ; aucune autre modification n'a été trouvée dans les numéros parus jusqu'au 20 octobre 2026. Chaque version est datée du numéro du Journal officiel qui l'a publiée. Texte en vigueur à une date : `python tools/on.py 2015-01-01 donnees-personnelles art-021`.
+## En savoir plus
 
-## More
+Dans le dépôt [lexifina/global-law](https://github.com/lexifina/global-law) (pages en anglais) :
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
-
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): toutes les fonctionnalités et ce que chaque corpus doit prendre en charge (`git blame`, `law.py`, outils MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions et réponses · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposer une modification · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serveur MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): comment il a été construit · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): à quel point chaque corpus est à jour · [Surveillance](https://github.com/lexifina/global-law/tree/main/monitoring): si les mises à jour fonctionnent · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): comment chaque source officielle est surveillée pour repérer les modifications
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidité des outils, mesurée
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): graphiques et liens à travers le droit du monde entier
+- [Vulnérabilités](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erreurs dans les textes tels qu’ils ont été publiés
