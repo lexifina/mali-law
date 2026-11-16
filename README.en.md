@@ -61,6 +61,7 @@ Each change is credited to the law that made it (`Loi n°2017-070`), with an add
 - For each act, every character of the issue's text layer from the promulgation formula to the signature (spaces and line-end hyphens aside) is in exactly one file, in the order printed.
 - The Constitution's second printing (Journal officiel n°20 of 4 August 2023) gives identical files, and the SGG's "Codes en vigueur" copies of the Code pénal and the Code de procédure pénale give text identical to the Journal officiel (`tools/parse_cpp.py --check` for the latter).
 - Every Journal officiel issue listed on sgg-mali.ml up to 20 October 2026 was searched for amendments to the four acts; the only one found is Loi n°2017-070.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ Each change is credited to the law that made it (`Loi n°2017-070`), with an add
 See [`LICENSE`](LICENSE). The text is the Journal officiel's, reproduced with the attribution LICENSE gives; sgg-mali.ml states no licence, and whether Malian copyright law excludes official legislative texts from protection has not been verified. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

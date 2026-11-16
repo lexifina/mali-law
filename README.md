@@ -61,6 +61,7 @@ Chaque modification est attribuée à la loi qui l’a opérée (`Loi n°2017-07
 - Pour chaque texte, chaque caractère de la couche texte du numéro, de la formule de promulgation à la signature (espaces et traits d’union de fin de ligne mis à part), se trouve dans un seul fichier, dans l’ordre imprimé.
 - La seconde publication de la Constitution (Journal officiel n°20 du 4 août 2023) donne des fichiers identiques, et les copies du Code pénal et du Code de procédure pénale figurant dans les « Codes en vigueur » du SGG donnent un texte identique à celui du Journal officiel (`tools/parse_cpp.py --check` pour ce dernier).
 - Tous les numéros du Journal officiel répertoriés sur sgg-mali.ml jusqu’au 20 octobre 2026 ont été consultés pour y rechercher des modifications des quatre textes ; la seule trouvée est la Loi n°2017-070.
+- [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
@@ -84,6 +85,10 @@ Voir [`LICENSE`](LICENSE). Le texte est celui du Journal officiel, reproduit ave
 Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique, et aucun ne s’exécute lors de la construction de l’historique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
 
 ## En savoir plus
 
