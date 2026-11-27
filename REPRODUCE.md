@@ -88,3 +88,23 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - Claude Code (Claude Opus 5.5, claude-opus-5-5) wrote Lexifina's code and chose the sources. No model wrote, translated or summarised legal text; all text is extracted by code from the official PDFs.
 - Claude Code (Claude Opus 5.5) wrote Lexifina's code. No model wrote, translated or summarised legal text; all text is extracted by code from the official PDF.
+
+
+## 2026-11-27: the Journal officiel, text by text
+
+Built by `scripts/mali-law/runner/ml_build.py` (Lexifina's build scripts; not in this repository):
+
+- every issue listed on sgg-mali.ml (1,537, 1997 to 2026) is downloaded once; an issue with scanned pages and no text
+  layer is held whole (168 issues, no OCR); the rest are read with the paragraph reader of the first build
+  (`tools/build.py`'s parse step) and split on the printed headers (`LOI N°… DU …`, `ORDONNANCE`, `DECRET`, `ARRETE`);
+  titles come from the issue's SOMMAIRE;
+- individual acts (appointments, authorisations, licences, approvals of contracts, disciplinary decisions) are not
+  taken; 7 354 texts were taken, about 350 held (corrigenda, unreadable dates, entry-into-force rules of their own);
+- each commit is dated at noon (Africa/Bamako) on the Journal officiel day, or on the day the text fixes (signature or
+  a stated date); trailers `Law`, `Kind`, `Enacted`, `Published`, `In-force`, `In-force-basis`, `Source`,
+  `Text-layer`, `Version`;
+- the Code des personnes et de la famille comes from Journal officiel spécial n°02 of 31 January 2012; the Code du
+  travail (to Loi n°2019-025, JO n°2019-21) and the Code de procédure civile, commerciale et sociale (to Décret
+  n°09-220, JO n°2009-23) from the SGG's consolidated copies (`ml_codes.py`);
+- commit 7bde635 removed 4,177 individual acts taken by the first split (`Kind: correction`);
+- the tables in `data/` and the counts above them describe the first build only.

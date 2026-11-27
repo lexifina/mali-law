@@ -1,23 +1,24 @@
-The legal texts come from the Journal officiel de la République du Mali, published by the Secrétariat général du
-Gouvernement:
+The legal texts come from the Journal officiel de la République du Mali and the "Codes en vigueur" page, both
+published by the Secrétariat général du Gouvernement (SGG):
 
   Journal officiel de la République du Mali, https://sgg-mali.ml/fr/journal-officiel/le-journal-officiel.html
-  (issues retrieved 2026-10-28): spécial n°13 of 22 July 2023, n°20 of 4 August 2023, spécial n°21 of
-  13 December 2024, n°26 of 28 June 2013 and n°53 of 29 December 2017; and the "Codes en vigueur" copy
-  https://sgg-mali.ml/codes/codepenal.pdf.
+  (issues 1997 to 2026, retrieved 2026-10-28 and 2026-11-27), one PDF per issue;
+  "Codes en vigueur", https://sgg-mali.ml/fr/journal-officiel/les-codes-consolides.html (retrieved 2026-11-27).
+  The Code du travail copy there is a consolidation by droit-afrique.com, published by the SGG; only the text of the
+  law is reproduced.
 
 Attribution: "Texte officiel : Journal officiel de la République du Mali, Secrétariat général du Gouvernement
 (sgg-mali.ml)."
 
-sgg-mali.ml states no licence, and whether Malian copyright law excludes official legislative texts from protection
-has not been verified. This repository is therefore private; whether and how it may be published is the owner's
-decision.
+sgg-mali.ml states no licence. Mali is a member of the African Intellectual Property Organization (OAPI); the Bangui
+Agreement (Annex VII, article 6) excludes official texts of a legislative, administrative or judicial nature from
+copyright protection.
 
-Changes made by Lexifina: the text layer of each issue was converted to one Markdown file per article, one paragraph
-per line; spacing, quotes and dashes were normalised; structural headings and the Code pénal's bracketed source notes
-were gathered into one plan file per act; signatures, promulgation formulas and the Code pénal's annexed table of
-contents were left out; and the versions were arranged as git commits credited to the laws that made each change.
-The wording of the law was not changed. The Government of Mali does not endorse this repository.
+Changes made by Lexifina: each issue's text layer was split into its acts and converted to one Markdown file per
+article, one paragraph per line; spacing, quotes and dashes were normalised; headings were gathered into one plan file
+per act; visas, signatures and annexes were kept in their own files; individual acts (appointments, authorisations,
+approvals) were not taken; and the texts were arranged as git commits dated on their in-force day. The wording of the
+law was not changed. The Government of Mali does not endorse this repository.
 
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
 dedicated to the public domain under CC0 1.0 Universal:

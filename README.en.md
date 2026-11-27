@@ -11,9 +11,9 @@ The law of Mali as a git history: one file per article, one commit per law on th
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Mali's national law, which global-law reads at `mali/national/acts/`.
 
-**What is in it now:** four acts, with 5 versions in all, each read from the Journal officiel: the Constitution of 22 July 2023 (the preamble and 191 articles, one version); Loi n°2013-015 of 21 May 2013 on personal data (69 articles, two versions: as enacted, and as amended by Loi n°2017-070 of 18 December 2017); and the Code pénal and the Code de procédure pénale of 13 December 2024 (Lois n°2024-027 and n°2024-028; 1,125 and 1,399 articles, one version each). No later change to any of them appears in the issues searched, up to 20 October 2026, so each is today's text.
+**What is in it now:** the Journal officiel from 1997 to November 2026, text by text: 1,281 laws, 656 ordinances, 3,929 decrees and 1,488 regulatory orders (arrêtés; individual acts such as appointments, authorisations and approvals are not taken), each as published; the Constitution of 22 July 2023; and the codes, among them the 2024 Code pénal and Code de procédure pénale, the 2011 Code des personnes et de la famille, the Code du travail and the Code de procédure civile, commerciale et sociale (SGG consolidations), the Code général des impôts, the Code des douanes, the Code minier and the Code des collectivités territoriales. No case law. Folder layout: [STRUCTURE.md](STRUCTURE.md).
 
-Each act is a folder, `constitution/`, `donnees-personnelles/`, `code-penal/` and `code-procedure-penale/`, with one file per article (`donnees-personnelles/art-021.md` is Article 21 of the personal data law, on the members of the data protection authority); its `README.md` lists every article and when it changed, and its `plan.md` gives the headings. The Code pénal numbers articles Livre-Titre-Chapitre, then article (`art-0111-001.md` is Article 111-1); Livre V prints 511-1, 511-2 and 512-1 to 512-9 twice, so those files carry their Titre (`art-0511-001-titre-i.md`, `art-0511-001-titre-xi.md`).
+Each text is a folder by kind and year (`lois/2017/2017-061-…/`, `decrets/2005/…`, `codes/<code>/`), with one file per article (`lois/2013/2013-015-portant-protection-des-donnees-a-caractere-personnel/art-021.md` is Article 21 of the personal data law); its `README.md` gives the source and the date used. Codes over 990 articles are split by Livre (`codes/code-penal/livre-1/art-0111-001.md` is Article 111-1 of the Code pénal).
 
 The text is in French, as the Journal officiel prints it. An English translation is not part of this record.
 
@@ -21,10 +21,10 @@ The text is in French, as the Journal officiel prints it. An English translation
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 21 of the personal data law | `git log -p --word-diff -- donnees-personnelles/art-021.md` |
-| Which law wrote each line of Article 21? | `git blame donnees-personnelles/art-021.md` |
-| Every version of Article 21, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- donnees-personnelles/art-021.md` |
-| Article 21 as in force on 1 January 2015 | `python tools/on.py 2015-01-01 donnees-personnelles art-021` |
+| Every change to Article 21 of the personal data law | `git log -p --word-diff -- lois/2013/2013-015-portant-protection-des-donnees-a-caractere-personnel/art-021.md` |
+| Which law wrote each line of Article 21? | `git blame lois/2013/2013-015-portant-protection-des-donnees-a-caractere-personnel/art-021.md` |
+| Every version of Article 21, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- lois/2013/2013-015-portant-protection-des-donnees-a-caractere-personnel/art-021.md` |
+| Article 21 as in force on 1 January 2015 | `git log -1 --before=2015-01-02 -p -- lois/2013/2013-015-portant-protection-des-donnees-a-caractere-personnel/art-021.md` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -40,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add mali/national/acts
-python3 tools/law.py show 2026-01-01 mali/national/acts/donnees-personnelles/art-021.md
+python3 tools/law.py show 2026-01-01 mali/national/acts/lois/2013/2013-015-portant-protection-des-donnees-a-caractere-personnel/art-021.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -49,7 +49,7 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 
 Each commit is dated at noon, Africa/Bamako (UTC), on the day the version took effect, and carries it in its `In-force:` trailer:
 
-- no Malian text read for this build sets a general delay between publication and entry into force, and the Constitution (art. 116) requires laws to be published in the Journal officiel, so each version is dated by the Journal officiel issue that printed it, unless the law fixes its own date (none of these does);
+- no Malian text read for this build sets a general delay between publication and entry into force, and the Constitution (art. 116) requires laws to be published in the Journal officiel, so each text is dated by the Journal officiel issue that printed it, unless it fixes its own date (on signature, or a stated day); a text with any other rule of its own is held; the consolidated Code du travail and Code de procédure civile, commerciale et sociale are dated by the Journal officiel of the last amending text they include;
 - the Constitution is dated 22 July 2023, the day of its promulgation decree (Décret n°2023-0401/PT-RM) and of Journal officiel spécial n°13, which printed it; it was adopted by the referendum of 18 June 2023;
 - Loi n°2013-015 is dated 28 June 2013 (Journal officiel n°26) and Loi n°2017-070 29 December 2017 (n°53); the two codes are dated 13 December 2024, the day of their promulgation and of Journaux officiels spéciaux n°21 and n°22.
 
@@ -60,13 +60,13 @@ Each change is credited to the law that made it (`Loi n°2017-070`), with an add
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse, that there are no merge commits and that no commit is dated in the future. The results are in [`REPRODUCE.md`](REPRODUCE.md); a second build has not yet been compared.
 - For each act, every character of the issue's text layer from the promulgation formula to the signature (spaces and line-end hyphens aside) is in exactly one file, in the order printed.
 - The Constitution's second printing (Journal officiel n°20 of 4 August 2023) gives identical files, and the SGG's "Codes en vigueur" copies of the Code pénal and the Code de procédure pénale give text identical to the Journal officiel (`tools/parse_cpp.py --check` for the latter).
-- Every Journal officiel issue listed on sgg-mali.ml up to 20 October 2026 was searched for amendments to the four acts; the only one found is Loi n°2017-070.
+- Every Journal officiel issue listed on sgg-mali.ml up to 20 October 2026 was searched for amendments to the four acts of the first build; the only one found is Loi n°2017-070.
 - [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
-- **The rest of Malian law.** Only these four acts are here: no other law, ordinance or decree, and no case law.
-- **Earlier texts.** The Constitution of 25 February 1992 and the Code pénal of 2001 (Loi n°01-079) are not in the history; each act starts with its text as enacted.
+- **Scanned issues and case law.** 168 Journal officiel issues, mostly 1997 to 2004, are images without a text layer and are not read (no OCR); about 350 texts are held (corrigenda, unreadable dates, entry-into-force rules of their own). No case law.
+- **Earlier texts and amendments.** The Constitution of 25 February 1992 and the Code pénal of 2001 (Loi n°01-079) are not in the history; each text is as published, and amending laws are separate texts, not applied to the text they amend (except Loi n°2017-070).
 - **Four files that could not be read.** Journal officiel n°2020-23 (25 September 2020) and n°2021-04 (29 January 2021) answer 404 on sgg-mali.ml, and the two files listed as n°2024-32 (8 and 19 September 2024) are not valid PDFs. An amendment to Loi n°2013-015 printed only in one of them, or to the Constitution printed only in the 2024 files, would be missed.
 - **Implied repeals.** Loi n°2017-070 (art. 2) and the Code pénal (art. 702-1) repeal "toutes dispositions antérieures contraires" without naming any text; such repeals are not applied.
 - **Scans, signatures and tables of contents.** Only text layers are read, with no OCR (every issue used has one); signatures, promulgation formulas and the tables of contents annexed to the two codes are left out.
@@ -75,8 +75,8 @@ Each change is credited to the law that made it (`Loi n°2017-070`), with an add
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [Journal officiel de la République du Mali](https://sgg-mali.ml/fr/journal-officiel/le-journal-officiel.html) (Secrétariat général du Gouvernement) | Official gazette, one PDF per issue with a text layer (1997 to 2026) | as printed; Mali publishes no dated consolidated versions | Every text; the issues from May 2013 to October 2026 were searched for amendments |
-| ["Codes en vigueur"](https://sgg-mali.ml/fr/journal-officiel/les-codes-consolides.html) (the same site) | Current codes as PDFs | no, current text only | Cross-check of the Code pénal and the Code de procédure pénale |
+| [Journal officiel de la République du Mali](https://sgg-mali.ml/fr/journal-officiel/le-journal-officiel.html) (Secrétariat général du Gouvernement) | Official gazette, one PDF per issue with a text layer (1997 to 2026) | as printed; Mali publishes no dated consolidated versions | Every text; each issue from 1997 to November 2026 with a text layer is split text by text |
+| ["Codes en vigueur"](https://sgg-mali.ml/fr/journal-officiel/les-codes-consolides.html) (the same site) | Current codes as PDFs | no, current text only | Cross-check of the Code pénal and the Code de procédure pénale; text of the Code du travail (droit-afrique.com consolidation published by the SGG) and the Code de procédure civile, commerciale et sociale |
 
 ## Licence
 

@@ -4,7 +4,7 @@
   "name": "Mali",
   "level": "country",
   "repo": "https://github.com/lexifina/mali-law",
-  "build": "built from the Journal officiel: Constitution 2023 (1 version, 2023-07-22); Loi n°2013-015 on personal data (2 versions, 2013-06-28 and 2017-12-29); Code pénal 2024 (1 version, 2024-12-13); all today's text",
+  "build": "built from the Journal officiel 1997-2026, text by text (7,354 laws, ordinances, decrees and regulatory orders), the Constitution 2023 and the codes (Code pénal and Code de procédure pénale 2024, Code des personnes et de la famille 2011, Code du travail and Code de procédure civile consolidated)",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28",
   "sources": 1
