@@ -1,0 +1,52 @@
+{
+ "corpus": "ml/national/acts",
+ "jurisdiction": "Mali",
+ "generated_from": "runner state",
+ "note": "acts added by the 2026-11-27 runner; the first build (constitution/, codes/code-penal/, codes/code-de-procedure-penale/, lois/2013/2013-015-...) is described in data/",
+ "acts": [
+  {
+   "id": "decrets/1997/1997-102-portant-cloture-d-une-session-extraordinaire-de-l",
+   "kind": "decret",
+   "number": "97-102/P-RM",
+   "date": "1997-03-03",
+   "enacted": "1997-03-03",
+   "published": "1997-03-03",
+   "title": "Décret n°97-102/P-RM du 3 mars 1997 portant cloture d’une session extraordinaire de l’assemblee nationale",
+   "source": "https://sgg-mali.ml/JO/1997/mali-jo-1997-06-sp.pdf",
+   "articles": 2
+  },
+  {
+   "id": "decrets/1997/1997-103-portant-dissolution-de-l-assemblee-nationale",
+   "kind": "decret",
+   "number": "97-103/P-RM",
+   "date": "1997-03-03",
+   "enacted": "1997-03-03",
+   "published": "1997-03-03",
+   "title": "Décret n°97-103/P-RM du 3 mars 1997 portant dissolution de l’assemblee nationale",
+   "source": "https://sgg-mali.ml/JO/1997/mali-jo-1997-06-sp.pdf",
+   "articles": 0
+  },
+  {
+   "id": "decrets/1997/1997-104-portant-convocation-du-college-electoral-pour-l",
+   "kind": "decret",
+   "number": "97-104/P-RM",
+   "date": "1997-03-03",
+   "enacted": "1997-03-03",
+   "published": "1997-03-03",
+   "title": "Décret n°97-104/P-RM du 3 mars 1997 portant convocation du college electoral pour l’election des deputes a l’assemblee nationale",
+   "source": "https://sgg-mali.ml/JO/1997/mali-jo-1997-06-sp.pdf",
+   "articles": 2
+  },
+  {
+   "id": "decrets/1997/1997-105-portant-ouverture-et-cloture-des-campagnes",
+   "kind": "decret",
+   "number": "97-105/P-RM",
+   "date": "1997-03-03",
+   "enacted": "1997-03-03",
+   "published": "1997-03-03",
+   "title": "Décret n°97-105/P-RM du 3 mars 1997 portant ouverture et cloture des campagnes electorales a l’occasion des elections legislatives",
+   "source": "https://sgg-mali.ml/JO/1997/mali-jo-1997-06-sp.pdf",
+   "articles": 4
+  }
+ ]
+}
