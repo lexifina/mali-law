@@ -1,3 +1,0 @@
-# Visas
-LE PREMIER MINISTRE,
-ARRETE :

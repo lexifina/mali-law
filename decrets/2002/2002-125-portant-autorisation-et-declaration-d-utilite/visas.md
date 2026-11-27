@@ -1,9 +1,0 @@
-# Visas
-LE PRESIDENT DE LA REPUBLIQUE,
-Vu la Constitution ;
-Vu la Loi N°02-008 du 12 février 2002 portant modification et ratification de l’Ordonnance N°00-027/P-RM du 22 mars 2000 portant code domanial et foncier ;
-Vu le Décret N°95-181/P-RM du 26 avril 1985 portant approbation du Schéma Directeur d’Aménagement et d’Urbanisme de Bamako et Environs (2ème révision) ;
-Vu le Décret N°00-055/P-RM du 15 février 2000 portant nomination du Premier ministre ;
-Vu le Décret N°01-276/P-RM du 23 juin 2001 portant nomination des membres du Gouvernement, modifié par le Décret N°02-004/P-RM du 07 janvier 2002 ;
-STATUANT EN CONSEIL DES MINISTRES,
-DECRETE :

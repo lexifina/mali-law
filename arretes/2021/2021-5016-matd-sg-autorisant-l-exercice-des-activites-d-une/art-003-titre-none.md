@@ -1,7 +1,0 @@
-# Article 3 (Titre None)
-Le présent arrêté sera enregistré et publié au journal officiel.
-Bamako, le 01 décembre 2021
-Le ministre, Colonel Abdoulaye MAIGA
-ARRETE N°2021-5093MATD-SG DU 06 DECEMBRE 2021 AUTORISANT L’EXERCICE DES ACTIVITES D’UNE ASSOCIATION ETRANGERE
-LE MINISTRE DE L’ADMINISTRATION TERRITORIALE ET DE LA DECENTRALISATION,
-ARRETE :

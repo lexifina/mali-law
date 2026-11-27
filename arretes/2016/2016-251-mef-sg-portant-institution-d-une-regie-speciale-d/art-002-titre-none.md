@@ -1,3 +1,0 @@
-# Article 2 (Titre None)
-La régie spéciale d’avances est destinée à la prise en charge tant des patrouilles de grandes envergures, des opérations spéciales de sécurisation, des dépenses relatives à la collecte de l’information et à la recherche du renseignement que nécessite la couverture sécuritaire des personnes et des biens sur toute l’étendu du territoire que des autres charges imprévues relatives au maintien de l’ordre public et à la sécurisation des Missions Diplomatiques et Consulaires accréditées au Mali.
-Elle couvre la période allant du 1er janvier au 31 décembre 2016, fin de l’exercice budgétaire.

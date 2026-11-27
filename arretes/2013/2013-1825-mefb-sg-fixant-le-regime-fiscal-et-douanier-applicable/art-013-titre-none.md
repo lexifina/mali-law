@@ -1,2 +1,0 @@
-# Article 13 (Titre None)
-Les dispositions du présent arrêté sont valables jusqu’au 30 novembre 2014, date d’achèvement du projet.

@@ -1,7 +1,0 @@
-# Signatures
-
-Bamako, le 20 décembre 2019
-Le ministre, Professeur Mahamoudou FAMANTA
-MINISTERE DE L’ADMINISTRATION
-TERRITORIALE ET DE LA
-DECENTRALISATION

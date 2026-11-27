@@ -1,3 +1,0 @@
-# Article 11 (Titre None)
-Le régisseur doit tenir une comptabilité faisant ressortir à tout moment la situation des avances reçus, des dépenses effectuées et des fonds disponibles. Les opérations de la régie sont arrêtées en cas de changement de régisseur, de fin d’activités de la régie et au plus tard le 31 décembre de l’exercice budgétaire.
-A l’Arrêt des opérations de la régie, avance doit être entièrement justifiée, les pièces justificatives y compris le reçu du reversement accepté par le comptable de rattachement.

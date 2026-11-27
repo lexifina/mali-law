@@ -1,6 +1,0 @@
-# Arrêté n°2013-2680/MLUAF-SG du 28 juin 2013 portant autorisation d’occupation temporaire de la parcelle de terrain n°bl 15, a deduire du tf n°1528 de la commune vi du district de bamako, d’une superficie de 05 hectares 00 ares 00 centiares, sise dans la zone aeroportuaire de bamako senou
-
-- Source : Journal officiel n°2014-26 du 27 juin 2014, <https://sgg-mali.ml/JO/2014/mali-jo-2014-26.pdf>
-- Signé / promulgué : 2013-06-28
-- En vigueur : 2014-06-27 (publication au Journal officiel n°2014-26 du 27 juin 2014 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
-- Unités : 5 articles

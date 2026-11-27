@@ -1,2 +1,0 @@
-# Article 1er (Titre None)
-Dans le cadre de l’exécution des marchés relatifs à la construction du Centre Médical Inter-Entreprise « CMIE » (R+3) de la Zone Industrielle de Bamako pour le compte de l’Institut National de Prévoyance Sociale, il est autorisé le paiement par annuités au titre des exercices budgétaires 2013 , 2014 et 2015,conformément aux dispositions de l’article 99.5 du Décret n°08-485/P-RM du 11 août 2008, modifié, portant procédures de passation, d’exécution et de règlement des marchés publics et des délégations de service public.

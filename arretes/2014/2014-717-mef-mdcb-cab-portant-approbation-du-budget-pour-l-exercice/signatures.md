@@ -1,4 +1,0 @@
-# Signatures
-
-Bamako, le 12 mars 2014
-Le ministre délégué chargé du Budget, Madani TOURE

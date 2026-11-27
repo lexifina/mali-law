@@ -1,9 +1,0 @@
-# Article 4 (Titre None)
-Le présent arrêté sera enregistré, publié et communiqué partout où besoin sera.
-Bamako, le 31 décembre 2013
-Le ministre de l’Economie et des Finances, Madame BOUARE Fily SISSOKO
-Le ministre de la Défense et des Anciens Combattants, Soumeylou Boubèye MAIGA
-ARRETE INTERMINISTERIEL N°2013-4822/MEF-MEH-SG 31 DECEMBRE 2013 PORTANT NOMINATION D’UN REGISSEUR D’AVANCES AUPRES DE L’AGENCE MALIENNE POUR LE DEVELOPPEMENT DE L’ENERGIE DOMESTIQUE ET DE L’ELECTRIFICATION RURALE (AMADER).
-LE MINISTRE DE L’ECONOMIE ET DES FINANCES,
-LE MINISTRE DE L’ENERGIE ET DE L’HYDRAULIQUE,
-ARRETENT :

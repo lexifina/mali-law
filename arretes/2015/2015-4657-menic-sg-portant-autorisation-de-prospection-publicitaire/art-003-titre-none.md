@@ -1,8 +1,0 @@
-# Article 3 (Titre None)
-Le présent arrêté, qui prend effet à compter de sa date de signature, sera enregistré, publié et communiqué partout où besoin sera.
-Bamako, le 28 décembre 2015
-Le ministre, Choguel Kokalla MAÏGA
-MINISTERE DE LA DECENTRALISATIONET DE LA REFORME DE L’ETAT
-ARRETE N°2015 -4918/MDRE– SG DU 31 DECEMBRE 2015 PORTANT MISE EN CONGE DE FORMATION DE FONCTIONNAIRESDES COLLECTIVITES TERRITORIALES DU CADRE DE L’EDUCATION
-LE MINISTRE DE LADECENTRALISATIONET DE LA REFORME DE L’ETAT,
-ARRETE :

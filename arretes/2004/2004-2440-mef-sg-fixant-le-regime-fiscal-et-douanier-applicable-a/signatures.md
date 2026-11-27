@@ -1,4 +1,0 @@
-# Signatures
-
-Bamako, le 1er décembre 2004
-Le Ministre de l’Economie et des Finances, Abou-Bakar TRAORE

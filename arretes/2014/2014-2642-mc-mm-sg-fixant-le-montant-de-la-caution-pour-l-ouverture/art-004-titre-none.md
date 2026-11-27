@@ -1,2 +1,0 @@
-# Article 4 (Titre None)
-Une année au plus tard après la délivrance de son agrément, le comptoir d’achat et d’exportation des diamants bruts doit disposer des installations et équipements nécessaires, énumérés à l’article 5 ci-dessous et faisant l’objet d’un certificat d’habilitation technique, délivré par le Bureau d’Expertise, d’Evaluation et de Certification des Diamants bruts ; à défaut l’agrément sera suspendu.

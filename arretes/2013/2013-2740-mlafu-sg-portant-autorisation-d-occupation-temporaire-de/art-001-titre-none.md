@@ -1,2 +1,0 @@
-# Article 1er (Titre None)
-La Société BATICO représentée par Monsieur Baba MAIGA domicilié à Bacodjicoroni ACI Rue 565, Bamako Tél : (223) 20 77 20 49 est autorisée à occuper temporairement la parcelle de terrain n° F 5 à déduire du TF n°7616 de la commune VI du District de Bamako d’une superficie de quatorze hectares soixante six ares vingt deux centiares (14,6622 ha), sise dans le secteur industriel du domaine aéroportuaire de Bamako-Senou.

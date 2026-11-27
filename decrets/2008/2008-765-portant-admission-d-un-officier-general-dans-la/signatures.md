@@ -1,8 +1,0 @@
-# Signatures
-
-Bamako, le 26 décembre 2008
-Le Président de la République, Amadou Toumani TOURE
-ARRETES
-MINISTERE DE LA PROMOTION DES
-INVESTISSEMENTS ET DES PETITES
-MOYENNES ENTREPRISES

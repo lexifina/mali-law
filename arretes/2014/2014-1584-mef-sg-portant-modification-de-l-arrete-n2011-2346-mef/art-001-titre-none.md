@@ -1,4 +1,0 @@
-# Article 1er (Titre None)
-Les dispositions des articles 11 et 14 de l’Arrêté n°2011-2346/MEF-SG du 15 juin 2011 susvisé sont modifiées ainsi qu’il suit :
-Article 11 (nouveau) : Les entreprises adjudicataires des marchés et contrats et leurs sous-traitants sont soumis au prélèvement du Précompte au titre de l’impôt assis sur les bénéfices industriels et commerciaux et de l’impôt sur les sociétés institué par la Loi n°2012-63 du 26 décembre 2012 portant loi de Finances pour l’exercice 2013
-Article 14 (nouveau) : Les dispositions du présent arrêté sont valables jusqu’au 31 décembre 2014, date d’achèvement du projet.

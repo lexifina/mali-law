@@ -1,4 +1,0 @@
-# Signatures
-
-Bamako, le 24 avril 2014
-Le ministre de l’Economie et des Finances, Madame BOUARE Fily SISSOKO

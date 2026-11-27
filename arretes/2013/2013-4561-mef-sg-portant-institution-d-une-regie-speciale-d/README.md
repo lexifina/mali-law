@@ -1,6 +1,0 @@
-# Arrêté n°2013-4561/MEF-SG du 6 décembre 2013 portant institution d’une régie spéciale d’avances auprès de la Direction des finances et du matériel du ministère de la Santé et de l’Hygiène publique
-
-- Source : Journal officiel n°2014-21 du 23 mai 2014, <https://sgg-mali.ml/JO/2014/mali-jo-2014-21.pdf>
-- Signé / promulgué : 2013-12-06
-- En vigueur : 2014-05-23 (publication au Journal officiel n°2014-21 du 23 mai 2014 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
-- Unités : 12 articles

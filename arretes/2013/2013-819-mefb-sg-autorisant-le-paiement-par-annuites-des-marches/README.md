@@ -1,6 +1,0 @@
-# Arrêté n°2013-0819/MEFB-SG du 7 mars 2013 autorisant le paiement par annuités des marchés relatifs aux travaux de construction de la Brigade Territoriale de Gendarmerie de Djenné, du Centre de Secours de Kabala, du Peloton de Djenné et de la Brigade Territoriale de Gendarmerie de Kabala
-
-- Source : Journal officiel n°2013-28 du 12 juillet 2013, <https://sgg-mali.ml/JO/2013/mali-jo-2013-28.pdf>
-- Signé / promulgué : 2013-03-07
-- En vigueur : 2013-07-12 (publication au Journal officiel n°2013-28 du 12 juillet 2013 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
-- Unités : 2 articles

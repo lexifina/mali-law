@@ -1,2 +1,0 @@
-# Article 1er (Titre None)
-Dans le cadre de l’exécution du Marché relatif à l’aménagement de parking, à la réorganisation de voirie et réseau divers à l’Institut National de Prévoyance Sociale (INPS) , il est autorisé le paiement par annuités au titre des exercices budgétaires 2013 et 2014, conformément aux dispositions de l’article 99.5 du Décret n°08-485/P-RM du 11 août 2008, modifié, portant procédures de passation, d’exécution et de règlement des marchés publics et des délégations de service public.

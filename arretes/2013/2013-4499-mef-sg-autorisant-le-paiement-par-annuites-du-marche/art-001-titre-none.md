@@ -1,2 +1,0 @@
-# Article 1er (Titre None)
-Dans le cadre de l’exécution du marché relatif aux travaux d’aménagement des berges le long du fleuve Niger dans localité de Tamani, il autorisé le payement par annuités dudit marché sur les exercices 2013, 2014 et 2015, conformément aux dispositions de l’article 99.5 du Décret n°08-485/P-RM du 11 août 2008 portant procédures de passation d’exécution et de règlement de marchés publics et des délégations de service public.

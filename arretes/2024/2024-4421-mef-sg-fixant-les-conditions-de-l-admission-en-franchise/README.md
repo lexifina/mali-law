@@ -1,6 +1,0 @@
-# Arrêté n°2024-4421/MEF-SG du 31 décembre 2024 fixant les conditions de l’admission en franchise de certains biens importés
-
-- Source : Journal officiel n°2025-09 du 21 mars 2025, <https://sgg-mali.ml/JO/2025/mali-jo-2025-09.pdf>
-- Signé / promulgué : 2024-12-31
-- En vigueur : 2025-03-21 (publication au Journal officiel n°2025-09 du 21 mars 2025 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
-- Unités : 55 articles

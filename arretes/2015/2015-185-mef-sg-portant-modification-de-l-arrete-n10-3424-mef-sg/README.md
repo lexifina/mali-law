@@ -1,6 +1,0 @@
-# Arrêté n°2015-0185/MEF-SG du 27 février 2015 portant modification de l’Arrêté N°10-3424/MEF-SG du 15 octobre 2010 fixant le régime fiscal et douanier applicable aux marchés et/ou contrats relatifs au Projet « Création de Richesse et Souveraineté Alimentaire dans la Région de Sikasso à travers le Développement des Marchés Locaux et de la Capacité de Transformation de l’Anacarde »
-
-- Source : Journal officiel n°2016-11 du 11 mars 2016, <https://sgg-mali.ml/JO/2016/mali-jo-2016-11.pdf>
-- Signé / promulgué : 2015-02-27
-- En vigueur : 2016-03-11 (publication au Journal officiel n°2016-11 du 11 mars 2016 : aucun texte malien lu pour ce dépôt ne fixe de délai général entre publication et entrée en vigueur, et le texte n’en fixe pas)
-- Unités : 2 articles

@@ -1,3 +1,0 @@
-# Visas
-LE MINISTRE DE LA SANTE,
-ARRETE :

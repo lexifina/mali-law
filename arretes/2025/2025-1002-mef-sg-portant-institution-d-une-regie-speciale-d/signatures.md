@@ -1,4 +1,0 @@
-# Signatures
-
-Bamako, le 09 avril 2025
-Le ministre, Alousséni SANOU

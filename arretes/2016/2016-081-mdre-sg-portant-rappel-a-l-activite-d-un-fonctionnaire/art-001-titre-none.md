@@ -1,2 +1,0 @@
-# Article 1er (Titre None)
-Monsieur Abdoulaye DIARRA, N°Mle 15 0116 CT10, Technicien de Santé de 3ème classe 1er échelon (indice : 220) en service au Centre de Santé de Référence de la Commune III du District de Bamako, ayant terminé sa formation à l’Institut Universitaire de Gestion (IUG) de Bamako, Option Informatique de Gestion, est rappelé à l’activité et remis à la disposition de son ancien service employeur.

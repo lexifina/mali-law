@@ -1,3 +1,0 @@
-# Visas
-LE MINISTRE DES MINES,
-ARRETE:

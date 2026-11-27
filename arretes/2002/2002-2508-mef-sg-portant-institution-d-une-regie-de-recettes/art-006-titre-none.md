@@ -1,2 +1,0 @@
-# Article 6 (Titre None)
-Le Régisseur est soumis aux contrôles du Contrôleur Général des Services Publics, de l’Inspection des Finances, de l’Inspection itinérante du Trésor, du Payeur Général du Trésor.

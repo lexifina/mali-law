@@ -1,6 +1,0 @@
-# Plan
-SECTION 2 : INVESTISSEMENT (Article 2)
-SECTION 1 : FONCTIONNEMENT (Article 2)
-Catégorie d’opération Montant (FCFA) RECETTES Ressources propres 13 522 496 523 (Article 2)
-TOTAL DES RECETTES 13 522 496 523 DEPENSES (Article 2)
-Investissement 13 522 496 523 TOTAL DES DEPENSES 13 522 496 523 (Article 2)

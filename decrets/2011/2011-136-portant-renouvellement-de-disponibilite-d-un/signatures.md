@@ -1,7 +1,0 @@
-# Signatures
-
-Bamako, le 22 mars 2011
-Le Président de la République, Amadou Toumani TOURE
-ARRETES
-MINISTERE DE L’EDUCATION, DE L’ALPHABETISATION ET DES LANGUES
-NATIONALES

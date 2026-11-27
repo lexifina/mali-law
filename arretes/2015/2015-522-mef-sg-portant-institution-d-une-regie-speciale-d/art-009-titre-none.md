@@ -1,2 +1,0 @@
-# Article 9 (Titre None)
-Le régisseur est soumis aux contrôles du Contrôleur Général des Services Publics, de l’Inspecteur des Finances, de la Division Contrôle de la Direction Nationale du Trésor et de la Comptabilité Publique, du Payeur Général du Trésor, du Directeur des Finances et du Matériel du Ministère de l’Emploi et de la Formation Professionnelle.

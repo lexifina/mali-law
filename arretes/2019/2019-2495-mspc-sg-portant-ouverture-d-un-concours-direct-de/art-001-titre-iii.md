@@ -1,4 +1,0 @@
-# Article 1er (Titre III)
-Les fonctionnaires de Police dont les noms suivent, précédemment en service à la Direction Générale de la Police nationale, sont rayés des effectifs de leur cadre à compter de leur date de décès conformément au tableau ci-dessous.
-N° Prénoms Noms Grade Mle Echelon Indice Date de décès 01 Mamadou SANGARE Elève- sergent =//= =//= 184 04-11-2018 02 Djissouma Michel TRAORE Major 2484 2ème 643 16-04-2019 03 Dramane KONE Sergent- Chef 8260 1er 330 30-04-2019 04 Mahamadou KEITA Sergent- Chef 7663 1er 330 05-05-2019 05 Lamine Baba SIBY Adjudant 4505 1er 402 07-05-2019 06 Amadou DIALLO Adjudant- Chef 3635 3ème 510 09-06-2019 07 Boubacar TRAVELE Sergent- Chef 5893 2ème 347 30-06-2019 08 Djakaridja DIALLO C.G 0495-A 2ème 924 14-07-2019 09 Mahamadou M.
-MAIGA Major 2691 2ème 643 18-07-2019 10 Mohamed DIARRA Sergent 10393 1er 257 24-07-2019

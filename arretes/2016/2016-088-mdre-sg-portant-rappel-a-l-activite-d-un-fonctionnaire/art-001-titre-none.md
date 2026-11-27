@@ -1,3 +1,0 @@
-# Article 1er (Titre None)
-Monsieur Dramane Daba SANOGO, N°Mle 13 0045 CT10, Médecin Généraliste de 3ème classe 5ème échelon (indice : 480) en service au Centre de Santé Communautaire (CSCOM) d’Hamdallaye (Région de Sikasso), ayant terminé sa formation au Centre Africain d’Etudes Supérieures en Gestion (CESAG) de Bamako, Filière Gestion des Programmes de Santé, est rappelé à l’activité et remis à la disposition de son ancien service employeur.
-CentreAfricain d’Etudes Supérieures en Gestion (CESAG) de Bamako, Filière Gestion des Programmes de Santé, est rappelé à l’activité et remis à la disposition de son ancien service employeur.

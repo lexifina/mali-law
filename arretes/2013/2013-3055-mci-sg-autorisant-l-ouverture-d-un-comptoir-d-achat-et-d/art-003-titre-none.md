@@ -1,2 +1,0 @@
-# Article 3 (Titre None)
-La Société « BALAJI NATURAL RESOURSES » doit, un an au plus tard après la délivrance de son agrément, disposer des installations et équipements nécessaires, énumérés à l’article 11 de l’Arrêté N° 03-0239 et ayant fait l’objet d’un certificat d’habilitation technique, délivré par la Direction nationale de la Géologie et des Mines.

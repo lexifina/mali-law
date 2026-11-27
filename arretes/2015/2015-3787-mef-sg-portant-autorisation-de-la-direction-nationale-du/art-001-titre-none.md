@@ -1,2 +1,0 @@
-# Article 1er (Titre None)
-La Direction Nationale du Trésor et de la Comptabilité Publique est autorisée à émettre, sur le marché monétaire de l’Union Economique et Monétaire Ouest Africaine (UEMOA), des obligations du Trésor par voie d’adjudication, pour un montant indicatif de 35milliards de F CFA et une maturité de 3 ans.

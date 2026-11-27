@@ -1,4 +1,0 @@
-# Plan
-TITRE II : DE L’ADMISSION (Article 4)
-TITRE III : DE LA FORMATION (Article 6)
-TITRE IV : L’EVALUATION (Article 14)

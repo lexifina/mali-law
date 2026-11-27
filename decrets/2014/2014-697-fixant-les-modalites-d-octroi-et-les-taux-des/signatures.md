@@ -1,7 +1,0 @@
-# Signatures
-
-Bamako, le 17 septembre 2014
-Le Président de la République, Ibrahim Boubacar KEÏTA
-Le Premier ministre, Moussa MARA
-Le ministre de l’Enseignement Supérieur et de la Recherche Scientifique, Maître Mountaga TALL
-Le ministre de l’Economie et des Finances, Madame BOUARE Fily SISSOKO

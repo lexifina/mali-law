@@ -1,2 +1,0 @@
-# Article 2 (Titre None)
-Monsieur Seydou KONE, en sa qualité de promoteur d’établissement privé, doit se conformer strictement à la réglementation en vigueur.

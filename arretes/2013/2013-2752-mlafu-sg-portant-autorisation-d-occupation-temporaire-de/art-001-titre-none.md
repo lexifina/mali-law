@@ -1,2 +1,0 @@
-# Article 1er (Titre None)
-La Société ZED-SA représentée par Monsieur Ibrahima MAIGA domicilié à Baco-Djikoroni-AC Rue 636 P : 332 Tél 20 28 66 12 Bamako, est autorisée à occuper temporairement la parcelle de terrain n° BY5 à déduire du TF n°1528 de la commune VI du District de Bamako d’une superficie de cinq hectares vingt sept ares (5,2700 ha), sises dans le secteur de commerce et bureaux du domaine aéroportuaire de Bamako-Senou.
