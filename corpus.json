@@ -5,6 +5,28 @@
  "note": "acts added by the 2026-11-27 runner; the first build (constitution/, codes/code-penal/, codes/code-de-procedure-penale/, lois/2013/2013-015-...) is described in data/",
  "acts": [
   {
+   "id": "arretes/2000/2009-1656-mdac-sg-portant-non-reengagement-d-un-sous-officier-des",
+   "kind": "arrete",
+   "number": "09-1656/MDAC-SG",
+   "date": "2010-03-26",
+   "enacted": "2000-07-09",
+   "published": "2010-03-26",
+   "title": "Arrêté n°09-1656/MDAC-SG du 9 juillet 2000 portant non réengagement d’un Sous-officier des Forces Armées",
+   "source": "https://sgg-mali.ml/JO/2010/mali-jo-2010-13.pdf",
+   "articles": 1
+  },
+  {
+   "id": "arretes/2000/2009-1926-mdac-sg-fixant-les-details-de-l-organisation-et-des",
+   "kind": "arrete",
+   "number": "09-1926/MDAC-SG",
+   "date": "2010-03-26",
+   "enacted": "2000-07-31",
+   "published": "2010-03-26",
+   "title": "Arrêté n°09-1926/MDAC-SG du 31 juillet 2000 fixant les détails de l’organisation et des modalités de fonctionnement de la Direction des Transmissions et des Télécommunications des Armées",
+   "source": "https://sgg-mali.ml/JO/2010/mali-jo-2010-13.pdf",
+   "articles": 29
+  },
+  {
    "id": "arretes/2002/2002-2207-mjs-mef-fixant-les-taux-des-primes-allouees-aux-sportifs",
    "kind": "arrete",
    "number": "02-2207/MJS-MEF",
@@ -3195,6 +3217,17 @@
    "articles": 5
   },
   {
+   "id": "arretes/2008/2008-2002-msipc-sg-portant-creation-d-un-poste-de-police-des",
+   "kind": "arrete",
+   "number": "08-2002/MSIPC-SG",
+   "date": "2009-09-18",
+   "enacted": "2008-07-11",
+   "published": "2009-09-18",
+   "title": "Arrêté n°08-2002/MSIPC-SG du 11 juillet 2008 Portant création d’un poste de police des frontières",
+   "source": "https://sgg-mali.ml/JO/2009/mali-jo-2009-38.pdf",
+   "articles": 9
+  },
+  {
    "id": "arretes/2008/2008-2060-mebaln-sg-fixant-les-attributions-des-sections-de-la",
    "kind": "arrete",
    "number": "08-2060/MEBALN-SG",
@@ -3404,6 +3437,17 @@
    "articles": 3
   },
   {
+   "id": "arretes/2008/2008-2431-mlafu-sg-fixant-le-detail-des-attributions-des-sections-de",
+   "kind": "arrete",
+   "number": "08-2431/MLAFU-SG",
+   "date": "2009-10-16",
+   "enacted": "2008-09-03",
+   "published": "2009-10-16",
+   "title": "Arrêté n°08-2431/MLAFU-SG du 3 septembre 2008 fixant le détail des attributions des sections de la Direction Administrative et Financière du Ministère du Logement, des Affaires Foncières et de l’Urbanisme",
+   "source": "https://sgg-mali.ml/JO/2009/mali-jo-2009-42.pdf",
+   "articles": 12
+  },
+  {
    "id": "arretes/2008/2008-2472-mj-sg-determinant-le-cadre-organique-des-directions",
    "kind": "arrete",
    "number": "08-2472/MJ-SG",
@@ -3481,6 +3525,17 @@
    "articles": 12
   },
   {
+   "id": "arretes/2008/2008-3314-met-msipc-mf-mea-mep-ma-meic-fixant-les-modalites-de-controle-sur-les-axes",
+   "kind": "arrete",
+   "number": "08-3314/MET-MSIPC-MF-MEA-MEP-MA-MEIC-MATCL-SG",
+   "date": "2009-11-06",
+   "enacted": "2008-11-26",
+   "published": "2009-11-06",
+   "title": "Arrêté interministériel n°08-3314/MET-MSIPC-MF-MEA-MEP-MA-MEIC-MATCL-SG du 26 novembre 2008 fixant les modalités de contrôle sur les axes routière Inter-Etats de l’Union Economique et Monétaire Ouest Africaine (UEMOA)",
+   "source": "https://sgg-mali.ml/JO/2009/mali-jo-2009-45.pdf",
+   "articles": 12
+  },
+  {
    "id": "arretes/2008/2008-3330-mdac-sg-fixant-le-detail-de-l-organisation-et-du",
    "kind": "arrete",
    "number": "08-3330/MDAC-SG",
@@ -3501,6 +3556,28 @@
    "title": "Arrêté interministériel n°08-0345/MS-MF-MEIC-MEP-MA-SG du 13 février 2008 fixant les modalites pratiques et tarifications des operations de controle de qualite des medicaments, aliments, eaux et boissons",
    "source": "https://sgg-mali.ml/JO/2009/mali-jo-2009-22.pdf",
    "articles": 17
+  },
+  {
+   "id": "arretes/2008/2008-3522-messrs-sg-portant-additif-de-l-arrete-n08-2702-messrs-sg-du",
+   "kind": "arrete",
+   "number": "08-3522/MESSRS-SG",
+   "date": "2009-11-06",
+   "enacted": "2008-12-19",
+   "published": "2009-11-06",
+   "title": "Arrêté n°08-3522/MESSRS-SG du 19 décembre 2008 portant additif de l’arrêté N°08-2702/MESSRS-SG du 01 octobre 2008 fixant le liste des filières de formations habilitées de certaines établissements privés d’Enseignement Supérieur",
+   "source": "https://sgg-mali.ml/JO/2009/mali-jo-2009-45.pdf",
+   "articles": 3
+  },
+  {
+   "id": "arretes/2008/2008-3718-met-mf-meic-sg-fixant-les-modalites-pratiques-d-emission-et-de",
+   "kind": "arrete",
+   "number": "08-3718/MET-MF-MEIC-SG",
+   "date": "2009-12-11",
+   "enacted": "2008-12-31",
+   "published": "2009-12-11",
+   "title": "Arrêté interministériel n°08-3718/MET-MF-MEIC-SG du 31 décembre 2008 fixant les modalités pratiques d’émission et de gestion du bordereau de suivi des cargaisons (BSC)",
+   "source": "https://sgg-mali.ml/JO/2009/mali-jo-2009-50.pdf",
+   "articles": 9
   },
   {
    "id": "arretes/2008/2008-3733-met-maeci-mdac-msipc-sg-portant-reglementation-de-la-circulation-des",
@@ -3732,6 +3809,28 @@
    "title": "Arrêté n°09-1599/MEFP-SG du 3 juillet 2009 fixant l’organisation et les modalités de fonctionnement de la Cellule d’Appui à la Décentralisation/Déconcentration de l’Emploi et de la Formation Professionnelle",
    "source": "https://sgg-mali.ml/JO/2010/mali-jo-2010-13.pdf",
    "articles": 14
+  },
+  {
+   "id": "arretes/2009/2009-1602-met-ms-maeci-msipc-mef-sg-portant-modalites-d-organisation-des-operations-d",
+   "kind": "arrete",
+   "number": "09-1602/MET-MS-MAECI-MSIPC-MEF-SG",
+   "date": "2010-03-26",
+   "enacted": "2009-07-06",
+   "published": "2010-03-26",
+   "title": "Arrêté interministériel n°09-1602/MET-MS-MAECI-MSIPC-MEF-SG du 6 juillet 2009 portant modalites d’organisation des operations d’urgence a l’aeroport international de bamako – senou",
+   "source": "https://sgg-mali.ml/JO/2010/mali-jo-2010-13.pdf",
+   "articles": 8
+  },
+  {
+   "id": "arretes/2009/2009-1853-mef-sg-portant-creation-et-fixant-les-modalites-d",
+   "kind": "arrete",
+   "number": "09-1853/MEF-SG",
+   "date": "2010-03-26",
+   "enacted": "2009-07-24",
+   "published": "2010-03-26",
+   "title": "Arrêté n°09-1853/MEF-SG du 24 juillet 2009 portant création et fixant les modalités d’organisation et de fonctionnement du Comité de Suivi du Contrat-Plan Etat/ Compagnie Malienne de Navigation (COMANAV) 2009-2011",
+   "source": "https://sgg-mali.ml/JO/2010/mali-jo-2010-13.pdf",
+   "articles": 11
   },
   {
    "id": "arretes/2009/2009-1857-mefp-sg-portant-modification-de-l-arrete-n1599-mefp-sg-du",
@@ -16538,6 +16637,94 @@
    "articles": 85
   },
   {
+   "id": "decrets/2001/2001-455-portant-approbation-du-schema-directeur-d",
+   "kind": "decret",
+   "number": "01-455/P-RM",
+   "date": "2002-01-10",
+   "enacted": "2001-09-24",
+   "published": "2002-01-10",
+   "title": "Décret n°01-455/P-RM du 24 septembre 2001 portant approbation du schéma Directeur d’Aménagement et d’Urbanisme de Kidal et environs",
+   "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-01.pdf",
+   "articles": 6
+  },
+  {
+   "id": "decrets/2001/2001-457-fixant-l-organisation-et-les-modalites-de",
+   "kind": "decret",
+   "number": "01-457/P-RM",
+   "date": "2002-01-10",
+   "enacted": "2001-09-24",
+   "published": "2002-01-10",
+   "title": "Décret n°01-457/P-RM du 24 septembre 2001 fixant l’organisation et les modalités de fonctionnement de la Direction Nationale du Patrimoine Culturel",
+   "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-01.pdf",
+   "articles": 22
+  },
+  {
+   "id": "decrets/2001/2001-502-portant-convocation-du-college-electoral-en-vue",
+   "kind": "decret",
+   "number": "01-502/P-RM",
+   "date": "2002-01-10",
+   "enacted": "2001-10-18",
+   "published": "2002-01-10",
+   "title": "Décret n°01-502/P-RM du 18 octobre 2001 portant convocation du collège électoral en vue du référendum sur le projet de révision de la constitution du 25 février 1992",
+   "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-01.pdf",
+   "articles": 5
+  },
+  {
+   "id": "decrets/2001/2001-503-portant-ouverture-et-cloture-de-la-campagne",
+   "kind": "decret",
+   "number": "01-503/P-RM",
+   "date": "2002-01-10",
+   "enacted": "2001-10-18",
+   "published": "2002-01-10",
+   "title": "Décret n°01-503/P-RM du 18 octobre 2001 portant ouverture et clôture de la campagne électorale à l’occasion du référendum sur le projet de révision de la Constitution du 25 février 1992",
+   "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-01.pdf",
+   "articles": 2
+  },
+  {
+   "id": "decrets/2001/2001-505-portant-classement-de-servitude-dans-le-domaine",
+   "kind": "decret",
+   "number": "01-505/P-RM",
+   "date": "2002-01-10",
+   "enacted": "2001-10-18",
+   "published": "2002-01-10",
+   "title": "Décret n°01-505/P-RM du 18 octobre 2001 portant classement de servitude dans le domaine public immobilier de l’Etat",
+   "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-01.pdf",
+   "articles": 3
+  },
+  {
+   "id": "decrets/2001/2001-506-determinant-le-cadre-organique-de-la-direction",
+   "kind": "decret",
+   "number": "01-506/P-RM",
+   "date": "2002-01-10",
+   "enacted": "2001-10-18",
+   "published": "2002-01-10",
+   "title": "Décret n°01-506/P-RM du 18 octobre 2001 déterminant le cadre organique de la Direction Nationale de l’Action Culturelle",
+   "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-01.pdf",
+   "articles": 2
+  },
+  {
+   "id": "decrets/2001/2001-507-determinant-le-cadre-organique-de-la-direction",
+   "kind": "decret",
+   "number": "01-507/P-RM",
+   "date": "2002-01-10",
+   "enacted": "2001-10-18",
+   "published": "2002-01-10",
+   "title": "Décret n°01-507/P-RM du 18 octobre 2001 déterminant le cadre organique de la Direction Nationale du Patrimoine culturel",
+   "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-01.pdf",
+   "articles": 2
+  },
+  {
+   "id": "decrets/2001/2001-508-determinant-le-cadre-organique-de-la-direction",
+   "kind": "decret",
+   "number": "01-508/P-RM",
+   "date": "2002-01-10",
+   "enacted": "2001-10-18",
+   "published": "2002-01-10",
+   "title": "Décret n°01-508/P-RM du 18 octobre 2001 déterminant le cadre organique de la Direction Nationale des bibliothèques et de la documentation",
+   "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-01.pdf",
+   "articles": 35
+  },
+  {
    "id": "decrets/2001/2001-509-determinant-le-cadre-organique-du-centre-national",
    "kind": "decret",
    "number": "01-509/P-RM",
@@ -16545,6 +16732,17 @@
    "enacted": "2001-10-18",
    "published": "2002-01-31",
    "title": "Décret n°01-509/P-RM du 18 octobre 2001 Déterminant le cadre organique du Centre National de la lecture publique",
+   "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-03.pdf",
+   "articles": 2
+  },
+  {
+   "id": "decrets/2001/2001-510-determinant-le-cadre-organique-des-missions",
+   "kind": "decret",
+   "number": "01-510/P-RM",
+   "date": "2002-01-31",
+   "enacted": "2001-10-18",
+   "published": "2002-01-31",
+   "title": "Décret n°01-510/P-RM du 18 octobre 2001 Déterminant le cadre organique des Missions culturelles de Bandiagara, de Djenne et de Tombouctou",
    "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-03.pdf",
    "articles": 2
   },
@@ -16701,6 +16899,17 @@
    "title": "Décret n°01-600/PM-RM du 27 décembre 2001 portant repartition des credits du budget d’etat 2002",
    "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-02.pdf",
    "articles": 4
+  },
+  {
+   "id": "decrets/2001/2001-620-pm-portant-creation-du-comite-interministeriel-de",
+   "kind": "decret",
+   "number": "01-620/PM-RM",
+   "date": "2002-01-20",
+   "enacted": "2001-12-31",
+   "published": "2002-01-20",
+   "title": "Décret n°01-620/PM-RM du 31 décembre 2001 portant creation du comite interministeriel de pilotage de l’etude du projet de developpement agricole de la zone de douentza",
+   "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-02.pdf",
+   "articles": 9
   },
   {
    "id": "decrets/2001/2004-100-determinant-les-cadres-organiques-des-stades",
@@ -29925,6 +30134,17 @@
    "articles": 3
   },
   {
+   "id": "decrets/2009/2009-389-determinant-le-cadre-organique-des-directions",
+   "kind": "decret",
+   "number": "09-389/P-RM",
+   "date": "2009-08-21",
+   "enacted": "2009-07-27",
+   "published": "2009-08-21",
+   "title": "Décret n°09-389/P-RM du 27 juillet 2009 déterminant le cadre organique des Directions régionales et Services subrégionaux de l’Administration pénitentiaire et de l’éducation surveillée",
+   "source": "https://sgg-mali.ml/JO/2009/mali-jo-2009-34.pdf",
+   "articles": 2
+  },
+  {
    "id": "decrets/2009/2009-390-fixant-l-organisation-et-les-modalites-de",
    "kind": "decret",
    "number": "09-390/P-RM",
@@ -36919,6 +37139,17 @@
    "title": "Décret n°2013-696/P-RM du 2 septembre 2013 portant ratification du Traité sur le commerce des armes, adopté a New York, le 02 avril 2013, par l’Assemblée Générale des Nations Unies",
    "source": "https://sgg-mali.ml/JO/2013/mali-jo-2013-40.pdf",
    "articles": 2
+  },
+  {
+   "id": "decrets/2013/2013-710-fixant-l-organisation-et-les-modalites-de",
+   "kind": "decret",
+   "number": "2013-710/P-RM",
+   "date": "2013-10-11",
+   "enacted": "2013-09-02",
+   "published": "2013-10-11",
+   "title": "Décret n°2013-710/P-RM du 2 septembre 2013 fixant l’organisation et les modalités de fonctionnement du Centre National d’Appui à la Santé Animale (CNASA)",
+   "source": "https://sgg-mali.ml/JO/2013/mali-jo-2013-41.pdf",
+   "articles": 20
   },
   {
    "id": "decrets/2013/2013-711-portant-modification-du-decret-n05-299-p-rm-du-28",
@@ -59524,6 +59755,28 @@
    "title": "Loi n°02-019 du 3 juin 2000 Portant ratification de l’ordonnance n°02-009/P-RM du 16 janvier 2002 autorisant la ratification de la convention des Nations Unies contre la criminalité transnationale organisée, ouverte à la signature des Etats du 12 au 15 décembre 2000 à Palerme et, par la suite, au siège de l’organisation des Nations Unies à New York, jusqu’au 12 décembre 2002",
    "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-17.pdf",
    "articles": 1
+  },
+  {
+   "id": "lois/2001/2001-084-portant-modification-de-certaines-dispositions-du",
+   "kind": "loi",
+   "number": "01-084",
+   "date": "2004-03-03",
+   "enacted": "2001-09-17",
+   "published": "2004-03-03",
+   "title": "Loi n°01-084 du 17 septembre 2001 portant modification de certaines dispositions du code general des impots",
+   "source": "https://sgg-mali.ml/JO/2004/mali-jo-2004-04-sp.pdf",
+   "articles": 1
+  },
+  {
+   "id": "lois/2002/2002-001-fixant-les-conditions-de-production-de",
+   "kind": "loi",
+   "number": "02-001",
+   "date": "2002-01-31",
+   "enacted": "2002-01-16",
+   "published": "2002-01-31",
+   "title": "Loi n°02-001 du 16 janvier 2002 fixant les conditions de production, de transformation et de commercialisation du lait et des produits laitiers",
+   "source": "https://sgg-mali.ml/JO/2002/mali-jo-2002-03.pdf",
+   "articles": 29
   },
   {
    "id": "lois/2002/2002-002-portant-classement-du-parc-national-du-kouroufing",
